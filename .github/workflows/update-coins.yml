@@ -1,5 +1,8 @@
 name: Update Coins Data
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs every day at 02:00 UTC
@@ -35,3 +38,5 @@ jobs:
           git add public/coins.json public/coins/
           git commit -m "Update coins data [skip ci]" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
