@@ -9,6 +9,18 @@ function delay(ms) {
 
 async function fetchAndSave() {
   try {
+    const baseDir = path.resolve(__dirname, '..');
+    const publicDir = path.join(baseDir, 'public');
+    const coinsDir = path.join(publicDir, 'coins');
+
+    try {
+      if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
+      if (!fs.existsSync(coinsDir)) fs.mkdirSync(coinsDir, { recursive: true });
+    } catch (dirErr) {
+      console.error('Failed to create public/coins directories:', dirErr.message || dirErr);
+      throw dirErr;
+    }
+
     console.log('Fetching coins from CoinGecko (markets)...');
     const res = await axios.get('https://api.coingecko.com/api/v3/coins/markets', {
       params: {
@@ -17,20 +29,15 @@ async function fetchAndSave() {
         per_page: 2,
         page: 1,
         sparkline: false,
-      }
+      },
     });
 
-    const publicDir = path.join(process.cwd(), "public");
-    const coinsDir = path.join(publicDir, "coins");
-
-    if (!fs.existsSync(publicDir)) fs.mkdirSync(publicDir, { recursive: true });
-    fs.writeFileSync(path.join(publicDir, "coins.json"), JSON.stringify(res.data, null, 2), 'utf8');
-    console.log(`Saved ${res.data.length} coins to ${path.join(publicDir, "coins.json")}`);
-
-    // Ensure per-coin directory exists
-    if (!fs.existsSync(coinsDir)) fs.mkdirSync(coinsDir, { recursive: true });
+    fs.writeFileSync(path.join(publicDir, 'coins.json'), JSON.stringify(res.data, null, 2), 'utf8');
+    console.log(`Saved ${res.data.length} coins to ${path.join(publicDir, 'coins.json')}`);
 
     console.log('Fetching per-coin details (this may take a while)...');
+
+    const delayMs = Number(30000)
 
     for (let i = 0; i < res.data.length; i++) {
       const coin = res.data[i];
@@ -39,11 +46,14 @@ async function fetchAndSave() {
       try {
         const [detailResp, chartResp] = await Promise.all([
           axios.get(`https://api.coingecko.com/api/v3/coins/${encodeURIComponent(id)}`, {
-            params: { localization: false }
+            params: { localization: false },
           }),
-          axios.get(`https://api.coingecko.com/api/v3/coins/${encodeURIComponent(id)}/market_chart`, {
-            params: { vs_currency: 'usd', days: 30 }
-          }),
+          axios.get(
+            `https://api.coingecko.com/api/v3/coins/${encodeURIComponent(id)}/market_chart`,
+            {
+              params: { vs_currency: 'usd', days: 30 },
+            }
+          ),
         ]);
 
         const toSave = {
@@ -58,10 +68,16 @@ async function fetchAndSave() {
         console.error(`\nFailed to fetch detail/chart for ${id}:`, err.message || err);
       }
 
-      await delay(30000);
+      await delay(delayMs);
     }
 
     console.log('\nPer-coin fetch finished.');
+    try {
+      const savedFiles = fs.readdirSync(coinsDir).filter((f) => f.endsWith('.json'));
+      console.log(`Saved ${savedFiles.length} per-coin files into ${coinsDir}`);
+    } catch (lsErr) {
+      console.warn('Could not list coins directory contents:', lsErr.message || lsErr);
+    }
   } catch (err) {
     console.error('Failed to fetch or save coins:', err.message || err);
     process.exitCode = 1;
