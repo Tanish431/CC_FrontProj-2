@@ -26,7 +26,7 @@ async function fetchAndSave() {
       params: {
         vs_currency: 'usd',
         order: 'market_cap_desc',
-        per_page: 2,
+        per_page: 200,
         page: 1,
         sparkline: false,
       },
