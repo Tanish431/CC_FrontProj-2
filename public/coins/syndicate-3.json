@@ -1,0 +1,4961 @@
+{
+  "savedAt": "2025-09-24T13:46:50.985Z",
+  "id": "syndicate-3",
+  "detail": {
+    "id": "syndicate-3",
+    "symbol": "synd",
+    "name": "Syndicate",
+    "web_slug": "syndicate",
+    "asset_platform_id": "ethereum",
+    "platforms": {
+      "ethereum": "0x1bab804803159ad84b8854581aa53ac72455614e",
+      "base": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9"
+    },
+    "detail_platforms": {
+      "ethereum": {
+        "decimal_place": 18,
+        "contract_address": "0x1bab804803159ad84b8854581aa53ac72455614e",
+        "geckoterminal_url": "https://www.geckoterminal.com/eth/tokens/0x1bab804803159ad84b8854581aa53ac72455614e"
+      },
+      "base": {
+        "decimal_place": 18,
+        "contract_address": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "geckoterminal_url": "https://www.geckoterminal.com/base/tokens/0x11dc28d01984079b7efe7763b533e6ed9e3722b9"
+      }
+    },
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+      "Infrastructure",
+      "Smart Contract Platform",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Appchains"
+    ],
+    "preview_listing": false,
+    "public_notice": null,
+    "additional_notices": [],
+    "description": {
+      "en": "The Syndicate Network enables developers to build and operate smart rollups—application-specific blockchains (appchains) with programmable, onchain smart sequencers. Anticipated to launch on September 17, 2025, Syndicate moves sequencing logic from centralized, offchain services into transparent smart contracts on Syndicate Network, allowing applications to customize their transaction ordering, fee structures, and governance models. The SYND token, with a fixed supply of 1 billion tokens, serves as both the native gas token for Syndicate Network and Commons Chain (Syndicate's L3 that settles on Base) and the governance token for the entire network. Originally deployed on Ethereum Mainnet with bridging to Base, SYND launches with 92% of supply minted at genesis and 8% distributed through programmatic emissions over four years. SYND functions as essential infrastructure for network operations and governance. As the gas token, appchain operators use SYND to pay for sequencing transactions, deploying sequencer contracts, and writing blocks to Syndicate Network. As the governance token, SYND holders control the network's direction through a Wyoming Decentralized Unincorporated Nonprofit Association (DUNA), which holds the 258.7 million token treasury. Token holders vote on treasury deployments, network upgrades, and strategic partnerships, ensuring the community maintains control over the ecosystem's evolution. Starting with emissions anticipated October 1, 2025, holders also stake SYND on Commons Chain to earn from an 80 million token pool distributed over 48 thirty-day epochs across three pools: the Base Pool (30%) provides returns proportional to stake amount and duration, the Performance Pool (30%) rewards stakers based on the success of appchains they back, and the Appchain Pool (40%) directly funds appchains based on fees generated and stake attracted. Token holders interact with SYND through standard web3 infrastructure for both staking and governance. After bridging tokens from Ethereum or Base to Commons Chain, holders deposit SYND into the staking contract and allocate their stake across appchains for 30-day epochs. Beginning October 31, 2025, stakers must allocate 100% of their stake to specific appchains, creating direct alignment between token holders and ecosystem growth. Staking rewards are calculated based on both the amount staked and the performance of backed appchains—holders who identify successful appchains early earn outsized returns from the Performance Pool. Beyond staking, token holders participate in governance decisions that shape the network's future, from treasury allocations to protocol upgrades, ensuring the community retains sovereignty over the infrastructure they use. The smart sequencer architecture enables appchains to evolve through smart contract upgrades rather than infrastructure changes—modifying everything from transaction ordering to fee distribution through simple module updates. As the network matures, SYND's role expands to securing Syndicate Network itself through proof-of-stake validation, with the economic model shifting from emission-driven to fee-driven as usage grows. The governance structure ensures that major decisions—from emission schedule adjustments to treasury disbursements for ecosystem development—remain under token holder control through the DUNA framework. This design aligns incentives across all participants: developers capture value through customized appchains, token holders earn returns by backing successful projects while governing the network's direction, and the broader ecosystem benefits from purpose-built chains with programmable economics and atomic cross-chain composability."
+    },
+    "links": {
+      "homepage": [
+        "https://syndicate.io/",
+        "https://docs.syndicate.io/"
+      ],
+      "whitepaper": "https://docs.syndicate.io/docs/synd/litepaper",
+      "blockchain_site": [
+        "https://etherscan.io/token/0x1bAB804803159aD84b8854581AA53AC72455614E",
+        "https://ethplorer.io/address/0x1bAB804803159aD84b8854581AA53AC72455614E",
+        "https://basescan.org/token/0x11dC28D01984079b7efE7763b533e6ed9E3722B9"
+      ],
+      "official_forum_url": [
+        "https://farcaster.xyz/syndicate"
+      ],
+      "chat_url": [],
+      "announcement_url": [],
+      "snapshot_url": null,
+      "twitter_screen_name": "syndicateio",
+      "facebook_username": "",
+      "bitcointalk_thread_identifier": null,
+      "telegram_channel_identifier": "syndicateiocommunity",
+      "subreddit_url": null,
+      "repos_url": {
+        "github": [],
+        "bitbucket": []
+      }
+    },
+    "image": {
+      "thumb": "https://coin-images.coingecko.com/coins/images/69122/thumb/synd.png?1757576144",
+      "small": "https://coin-images.coingecko.com/coins/images/69122/small/synd.png?1757576144",
+      "large": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x1bab804803159ad84b8854581aa53ac72455614e",
+    "sentiment_votes_up_percentage": 66.67,
+    "sentiment_votes_down_percentage": 33.33,
+    "watchlist_portfolio_users": 1139,
+    "market_cap_rank": 201,
+    "market_data": {
+      "current_price": {
+        "aed": 3.54,
+        "ars": 1291.24,
+        "aud": 1.46,
+        "bch": 0.00171901,
+        "bdt": 117.31,
+        "bhd": 0.363495,
+        "bmd": 0.96398,
+        "bnb": 0.00094792,
+        "brl": 5.12,
+        "btc": 0.00000852,
+        "cad": 1.34,
+        "chf": 0.766381,
+        "clp": 916.57,
+        "cny": 6.87,
+        "czk": 19.95,
+        "dkk": 6.13,
+        "dot": 0.23674532,
+        "eos": 2.257619,
+        "eth": 0.00023094,
+        "eur": 0.821731,
+        "gbp": 0.717875,
+        "gel": 2.6,
+        "hkd": 7.5,
+        "huf": 321.47,
+        "idr": 16103.76,
+        "ils": 3.24,
+        "inr": 85.57,
+        "jpy": 143.41,
+        "krw": 1351.21,
+        "kwd": 0.294515,
+        "lkr": 291.57,
+        "ltc": 0.00904116,
+        "mmk": 2023.88,
+        "mxn": 17.75,
+        "myr": 4.06,
+        "ngn": 1436.72,
+        "nok": 9.59,
+        "nzd": 1.66,
+        "php": 55.49,
+        "pkr": 273.27,
+        "pln": 3.51,
+        "rub": 80.88,
+        "sar": 3.62,
+        "sek": 9.08,
+        "sgd": 1.24,
+        "sol": 0.00453374,
+        "thb": 30.91,
+        "try": 39.97,
+        "twd": 29.25,
+        "uah": 39.9,
+        "usd": 0.96398,
+        "vef": 0.096523,
+        "vnd": 25469,
+        "xag": 0.0218613,
+        "xau": 0.00025618,
+        "xdr": 0.667679,
+        "xlm": 2.612405,
+        "xrp": 0.33447428,
+        "yfi": 0.00018523,
+        "zar": 16.72,
+        "bits": 8.52,
+        "link": 0.04445434,
+        "sats": 852.06
+      },
+      "total_value_locked": null,
+      "mcap_to_tvl_ratio": null,
+      "fdv_to_tvl_ratio": null,
+      "roi": null,
+      "ath": {
+        "aed": 9.58,
+        "ars": 3846.08,
+        "aud": 3.93,
+        "bch": 0.00409415,
+        "bdt": 318.03,
+        "bhd": 0.983984,
+        "bmd": 2.61,
+        "bnb": 0.00260682,
+        "brl": 13.89,
+        "btc": 0.00002226,
+        "cad": 3.6,
+        "chf": 2.06,
+        "clp": 2485.91,
+        "cny": 18.55,
+        "czk": 53.63,
+        "dkk": 16.46,
+        "dot": 0.57940223,
+        "eos": 5.417604,
+        "eth": 0.00056794,
+        "eur": 2.21,
+        "gbp": 1.91,
+        "gel": 7.05,
+        "hkd": 20.3,
+        "huf": 857.22,
+        "idr": 43147,
+        "ils": 8.73,
+        "inr": 229.94,
+        "jpy": 384.62,
+        "krw": 3617.15,
+        "kwd": 0.795947,
+        "lkr": 788.32,
+        "ltc": 0.02248964,
+        "mmk": 5479.09,
+        "mxn": 47.72,
+        "myr": 10.95,
+        "ngn": 3895.78,
+        "nok": 25.54,
+        "nzd": 4.42,
+        "php": 148.95,
+        "pkr": 741.27,
+        "pln": 9.39,
+        "rub": 216.73,
+        "sar": 9.79,
+        "sek": 24.21,
+        "sgd": 3.34,
+        "sol": 0.01057827,
+        "thb": 83.04,
+        "try": 107.86,
+        "twd": 78.48,
+        "uah": 107.71,
+        "usd": 2.61,
+        "vef": 0.26131,
+        "vnd": 68849,
+        "xag": 0.062436,
+        "xau": 0.00071256,
+        "xdr": 1.8,
+        "xlm": 6.553317,
+        "xrp": 0.84168055,
+        "yfi": 0.00047011,
+        "zar": 45.29,
+        "bits": 22.26,
+        "link": 0.10796014,
+        "sats": 2226.35
+      },
+      "ath_change_percentage": {
+        "aed": -63.16833,
+        "ars": -66.78291,
+        "aud": -62.90478,
+        "bch": -58.16012,
+        "bdt": -63.22033,
+        "bhd": -63.1654,
+        "bmd": -63.16833,
+        "bnb": -63.75036,
+        "brl": -63.2659,
+        "btc": -61.84936,
+        "cad": -62.88853,
+        "chf": -62.89713,
+        "clp": -63.27157,
+        "cny": -63.05327,
+        "czk": -62.92274,
+        "dkk": -62.87402,
+        "dot": -59.18112,
+        "eos": -58.41123,
+        "eth": -59.47923,
+        "eur": -62.87089,
+        "gbp": -62.62266,
+        "gel": -63.16833,
+        "hkd": -63.16643,
+        "huf": -62.6429,
+        "idr": -62.79071,
+        "ils": -63.02514,
+        "inr": -62.89858,
+        "jpy": -62.83887,
+        "krw": -62.75849,
+        "kwd": -63.10118,
+        "lkr": -63.12045,
+        "ltc": -59.89246,
+        "mmk": -63.16833,
+        "mxn": -62.89588,
+        "myr": -63.06302,
+        "ngn": -63.2273,
+        "nok": -62.53956,
+        "nzd": -62.67243,
+        "php": -62.86114,
+        "pkr": -63.24079,
+        "pln": -62.7667,
+        "rub": -62.79041,
+        "sar": -63.16817,
+        "sek": -62.66418,
+        "sgd": -62.9117,
+        "sol": -57.17004,
+        "thb": -62.90963,
+        "try": -63.06791,
+        "twd": -62.83403,
+        "uah": -63.06589,
+        "usd": -63.16833,
+        "vef": -63.16833,
+        "vnd": -63.11352,
+        "xag": -65.23074,
+        "xau": -64.2259,
+        "xdr": -63.02012,
+        "xlm": -60.23946,
+        "xrp": -60.31496,
+        "yfi": -60.71385,
+        "zar": -63.22565,
+        "bits": -61.84936,
+        "link": -59.00155,
+        "sats": -61.84936
+      },
+      "ath_date": {
+        "aed": "2025-09-18T08:46:05.895Z",
+        "ars": "2025-09-18T08:46:05.895Z",
+        "aud": "2025-09-18T08:46:05.895Z",
+        "bch": "2025-09-18T08:46:05.895Z",
+        "bdt": "2025-09-18T08:46:05.895Z",
+        "bhd": "2025-09-18T08:46:05.895Z",
+        "bmd": "2025-09-18T08:46:05.895Z",
+        "bnb": "2025-09-18T08:46:05.895Z",
+        "brl": "2025-09-18T08:46:05.895Z",
+        "btc": "2025-09-18T08:46:05.895Z",
+        "cad": "2025-09-18T08:46:05.895Z",
+        "chf": "2025-09-18T08:46:05.895Z",
+        "clp": "2025-09-18T08:46:05.895Z",
+        "cny": "2025-09-18T08:46:05.895Z",
+        "czk": "2025-09-18T08:46:05.895Z",
+        "dkk": "2025-09-18T08:46:05.895Z",
+        "dot": "2025-09-18T08:46:05.895Z",
+        "eos": "2025-09-18T08:46:05.895Z",
+        "eth": "2025-09-18T08:46:05.895Z",
+        "eur": "2025-09-18T08:46:05.895Z",
+        "gbp": "2025-09-18T08:46:05.895Z",
+        "gel": "2025-09-18T08:46:05.895Z",
+        "hkd": "2025-09-18T08:46:05.895Z",
+        "huf": "2025-09-18T08:46:05.895Z",
+        "idr": "2025-09-18T08:46:05.895Z",
+        "ils": "2025-09-18T08:46:05.895Z",
+        "inr": "2025-09-18T08:46:05.895Z",
+        "jpy": "2025-09-18T08:46:05.895Z",
+        "krw": "2025-09-18T08:46:05.895Z",
+        "kwd": "2025-09-18T08:46:05.895Z",
+        "lkr": "2025-09-18T08:46:05.895Z",
+        "ltc": "2025-09-18T08:46:05.895Z",
+        "mmk": "2025-09-18T08:46:05.895Z",
+        "mxn": "2025-09-18T08:46:05.895Z",
+        "myr": "2025-09-18T08:46:05.895Z",
+        "ngn": "2025-09-18T08:46:05.895Z",
+        "nok": "2025-09-18T08:46:05.895Z",
+        "nzd": "2025-09-18T08:46:05.895Z",
+        "php": "2025-09-18T08:46:05.895Z",
+        "pkr": "2025-09-18T08:46:05.895Z",
+        "pln": "2025-09-18T08:46:05.895Z",
+        "rub": "2025-09-18T08:46:05.895Z",
+        "sar": "2025-09-18T08:46:05.895Z",
+        "sek": "2025-09-18T08:46:05.895Z",
+        "sgd": "2025-09-18T08:46:05.895Z",
+        "sol": "2025-09-18T08:46:05.895Z",
+        "thb": "2025-09-18T08:46:05.895Z",
+        "try": "2025-09-18T08:46:05.895Z",
+        "twd": "2025-09-18T08:46:05.895Z",
+        "uah": "2025-09-18T08:46:05.895Z",
+        "usd": "2025-09-18T08:46:05.895Z",
+        "vef": "2025-09-18T08:46:05.895Z",
+        "vnd": "2025-09-18T08:46:05.895Z",
+        "xag": "2025-09-18T08:46:05.895Z",
+        "xau": "2025-09-18T08:46:05.895Z",
+        "xdr": "2025-09-18T08:46:05.895Z",
+        "xlm": "2025-09-18T08:46:05.895Z",
+        "xrp": "2025-09-18T08:46:05.895Z",
+        "yfi": "2025-09-18T08:46:05.895Z",
+        "zar": "2025-09-18T08:46:05.895Z",
+        "bits": "2025-09-18T08:46:05.895Z",
+        "link": "2025-09-18T08:46:05.895Z",
+        "sats": "2025-09-18T08:46:05.895Z"
+      },
+      "atl": {
+        "aed": 2.24,
+        "ars": 900.51,
+        "aud": 0.919334,
+        "bch": 0.00098942,
+        "bdt": 74.47,
+        "bhd": 0.230335,
+        "bmd": 0.611044,
+        "bnb": 0.00061965,
+        "brl": 3.24,
+        "btc": 0.00000524,
+        "cad": 0.84157,
+        "chf": 0.482158,
+        "clp": 582.06,
+        "cny": 4.34,
+        "czk": 12.58,
+        "dkk": 3.86,
+        "dot": 0.13884602,
+        "eos": 1.276635,
+        "eth": 0.00013269,
+        "eur": 0.51705,
+        "gbp": 0.448623,
+        "gel": 1.65,
+        "hkd": 4.75,
+        "huf": 201.74,
+        "idr": 10062.03,
+        "ils": 2.04,
+        "inr": 53.71,
+        "jpy": 89.86,
+        "krw": 845.35,
+        "kwd": 0.186432,
+        "lkr": 184.58,
+        "ltc": 0.00521379,
+        "mmk": 1282.89,
+        "mxn": 11.19,
+        "myr": 2.56,
+        "ngn": 911.89,
+        "nok": 6.01,
+        "nzd": 1.033,
+        "php": 34.87,
+        "pkr": 173.56,
+        "pln": 2.2,
+        "rub": 51.33,
+        "sar": 2.29,
+        "sek": 5.68,
+        "sgd": 0.781298,
+        "sol": 0.00248857,
+        "thb": 19.46,
+        "try": 25.24,
+        "twd": 18.39,
+        "uah": 25.22,
+        "usd": 0.611044,
+        "vef": 0.061184,
+        "vnd": 16116.16,
+        "xag": 0.01464313,
+        "xau": 0.00016696,
+        "xdr": 0.421529,
+        "xlm": 1.543896,
+        "xrp": 0.19829057,
+        "yfi": 0.00011056,
+        "zar": 10.64,
+        "bits": 5.24,
+        "link": 0.02546644,
+        "sats": 524.15
+      },
+      "atl_change_percentage": {
+        "aed": 57.3046,
+        "ars": 41.87068,
+        "aud": 58.61205,
+        "bch": 73.13108,
+        "bdt": 57.08249,
+        "bhd": 57.35635,
+        "bmd": 57.3046,
+        "bnb": 52.49833,
+        "brl": 57.25128,
+        "btc": 62.04559,
+        "cad": 58.5829,
+        "chf": 58.43434,
+        "clp": 56.86368,
+        "cny": 57.86707,
+        "czk": 58.12675,
+        "dkk": 58.36722,
+        "dot": 70.33655,
+        "eos": 76.4886,
+        "eth": 73.43356,
+        "eur": 58.40179,
+        "gbp": 59.41224,
+        "gel": 57.3046,
+        "hkd": 57.34011,
+        "huf": 58.73681,
+        "idr": 59.5581,
+        "ils": 57.97046,
+        "inr": 58.84466,
+        "jpy": 59.05352,
+        "krw": 59.35108,
+        "kwd": 57.53455,
+        "lkr": 57.50909,
+        "ltc": 73.00368,
+        "mmk": 57.3046,
+        "mxn": 58.19862,
+        "myr": 57.94253,
+        "ngn": 57.10011,
+        "nok": 59.30039,
+        "nzd": 59.80996,
+        "php": 58.64714,
+        "pkr": 56.99512,
+        "pln": 58.7017,
+        "rub": 57.11256,
+        "sar": 57.29269,
+        "sek": 59.0769,
+        "sgd": 58.49168,
+        "sol": 82.05883,
+        "thb": 58.24041,
+        "try": 57.82077,
+        "twd": 58.64534,
+        "uah": 57.74209,
+        "usd": 57.3046,
+        "vef": 57.3046,
+        "vnd": 57.58023,
+        "xag": 48.24965,
+        "xau": 52.67597,
+        "xdr": 57.93761,
+        "xlm": 68.77007,
+        "xrp": 68.45039,
+        "yfi": 67.04544,
+        "zar": 56.60517,
+        "bits": 62.04559,
+        "link": 73.80512,
+        "sats": 62.04559
+      },
+      "atl_date": {
+        "aed": "2025-09-18T01:11:49.848Z",
+        "ars": "2025-09-18T01:11:49.848Z",
+        "aud": "2025-09-18T01:11:49.848Z",
+        "bch": "2025-09-18T01:11:49.848Z",
+        "bdt": "2025-09-18T01:11:49.848Z",
+        "bhd": "2025-09-18T01:11:49.848Z",
+        "bmd": "2025-09-18T01:11:49.848Z",
+        "bnb": "2025-09-18T01:11:49.848Z",
+        "brl": "2025-09-18T01:11:49.848Z",
+        "btc": "2025-09-18T01:11:49.848Z",
+        "cad": "2025-09-18T01:11:49.848Z",
+        "chf": "2025-09-18T01:11:49.848Z",
+        "clp": "2025-09-18T01:11:49.848Z",
+        "cny": "2025-09-18T01:11:49.848Z",
+        "czk": "2025-09-18T01:11:49.848Z",
+        "dkk": "2025-09-18T01:11:49.848Z",
+        "dot": "2025-09-18T01:11:49.848Z",
+        "eos": "2025-09-18T01:11:49.848Z",
+        "eth": "2025-09-18T01:11:49.848Z",
+        "eur": "2025-09-18T01:11:49.848Z",
+        "gbp": "2025-09-18T01:11:49.848Z",
+        "gel": "2025-09-18T01:11:49.848Z",
+        "hkd": "2025-09-18T01:11:49.848Z",
+        "huf": "2025-09-18T01:11:49.848Z",
+        "idr": "2025-09-18T01:11:49.848Z",
+        "ils": "2025-09-18T01:11:49.848Z",
+        "inr": "2025-09-18T01:11:49.848Z",
+        "jpy": "2025-09-18T01:11:49.848Z",
+        "krw": "2025-09-18T01:11:49.848Z",
+        "kwd": "2025-09-18T01:11:49.848Z",
+        "lkr": "2025-09-18T01:11:49.848Z",
+        "ltc": "2025-09-18T01:11:49.848Z",
+        "mmk": "2025-09-18T01:11:49.848Z",
+        "mxn": "2025-09-18T01:11:49.848Z",
+        "myr": "2025-09-18T01:11:49.848Z",
+        "ngn": "2025-09-18T01:11:49.848Z",
+        "nok": "2025-09-18T01:11:49.848Z",
+        "nzd": "2025-09-18T01:11:49.848Z",
+        "php": "2025-09-18T01:11:49.848Z",
+        "pkr": "2025-09-18T01:11:49.848Z",
+        "pln": "2025-09-18T01:11:49.848Z",
+        "rub": "2025-09-18T01:11:49.848Z",
+        "sar": "2025-09-18T01:11:49.848Z",
+        "sek": "2025-09-18T01:11:49.848Z",
+        "sgd": "2025-09-18T01:11:49.848Z",
+        "sol": "2025-09-18T01:11:49.848Z",
+        "thb": "2025-09-18T01:11:49.848Z",
+        "try": "2025-09-18T01:11:49.848Z",
+        "twd": "2025-09-18T01:11:49.848Z",
+        "uah": "2025-09-18T01:11:49.848Z",
+        "usd": "2025-09-18T01:11:49.848Z",
+        "vef": "2025-09-18T01:11:49.848Z",
+        "vnd": "2025-09-18T01:11:49.848Z",
+        "xag": "2025-09-18T01:11:49.848Z",
+        "xau": "2025-09-18T01:11:49.848Z",
+        "xdr": "2025-09-18T01:11:49.848Z",
+        "xlm": "2025-09-18T01:11:49.848Z",
+        "xrp": "2025-09-18T01:11:49.848Z",
+        "yfi": "2025-09-18T01:11:49.848Z",
+        "zar": "2025-09-18T01:11:49.848Z",
+        "bits": "2025-09-18T01:11:49.848Z",
+        "link": "2025-09-18T01:11:49.848Z",
+        "sats": "2025-09-18T01:11:49.848Z"
+      },
+      "market_cap": {
+        "aed": 1694774701,
+        "ars": 615107090817,
+        "aud": 700253679,
+        "bch": 822434,
+        "bdt": 56158649340,
+        "bhd": 174012406,
+        "bmd": 461477114,
+        "bnb": 453822,
+        "brl": 2448828305,
+        "btc": 4077,
+        "cad": 640389022,
+        "chf": 366736785,
+        "clp": 438832432000,
+        "cny": 3290424118,
+        "czk": 9550591908,
+        "dkk": 2934870769,
+        "dot": 113345631,
+        "eos": 1083663267,
+        "eth": 110365,
+        "eur": 393229725,
+        "gbp": 343541100,
+        "gel": 1245988208,
+        "hkd": 3589232857,
+        "huf": 153820649487,
+        "idr": 7708684195459,
+        "ils": 1550320827,
+        "inr": 40964403223,
+        "jpy": 68625039560,
+        "krw": 646838647123,
+        "kwd": 140990488,
+        "lkr": 139579995987,
+        "ltc": 4331245,
+        "mmk": 968871200807,
+        "mxn": 8494411544,
+        "myr": 1942357173,
+        "ngn": 687785490680,
+        "nok": 4590469294,
+        "nzd": 793086723,
+        "php": 26563085081,
+        "pkr": 130821572462,
+        "pln": 1678809439,
+        "rub": 38718758676,
+        "sar": 1730907898,
+        "sek": 4339863224,
+        "sgd": 594625721,
+        "sol": 2171159,
+        "thb": 14791264457,
+        "try": 19132010948,
+        "twd": 14003891744,
+        "uah": 19098614773,
+        "usd": 461477114,
+        "vef": 46207703,
+        "vnd": 12192686828540,
+        "xag": 10451455,
+        "xau": 122568,
+        "xdr": 319631509,
+        "xlm": 1250693956,
+        "xrp": 160169018,
+        "yfi": 88647,
+        "zar": 8003787997,
+        "bits": 4076700745,
+        "link": 21273685,
+        "sats": 407670074489
+      },
+      "market_cap_rank": 201,
+      "fully_diluted_valuation": {
+        "aed": 3540369127,
+        "ars": 1284953187418,
+        "aud": 1462823646,
+        "bch": 1718058,
+        "bdt": 117314914017,
+        "bhd": 363510352,
+        "bmd": 964021546,
+        "bnb": 948029,
+        "brl": 5115580333,
+        "btc": 8516,
+        "cad": 1337766915,
+        "chf": 766109851,
+        "clp": 916717008564,
+        "cny": 6873666426,
+        "czk": 19951100706,
+        "dkk": 6130918674,
+        "dot": 236778004,
+        "eos": 2263762830,
+        "eth": 230552,
+        "eur": 821453363,
+        "gbp": 717654272,
+        "gel": 2602858174,
+        "hkd": 7497875197,
+        "huf": 321329955059,
+        "idr": 16103372039815,
+        "ils": 3238606283,
+        "inr": 85574270363,
+        "jpy": 143357091205,
+        "krw": 1351240123507,
+        "kwd": 294527863,
+        "lkr": 291581357816,
+        "ltc": 9047931,
+        "mmk": 2023963235444,
+        "mxn": 17744749414,
+        "myr": 4057566686,
+        "ngn": 1436777711886,
+        "nok": 9589449120,
+        "nzd": 1656751040,
+        "php": 55490046127,
+        "pkr": 273285089748,
+        "pln": 3507017838,
+        "rub": 80883139077,
+        "sar": 3615851050,
+        "sek": 9065935291,
+        "sgd": 1242167790,
+        "sol": 4535532,
+        "thb": 30898818587,
+        "try": 39966599015,
+        "twd": 29254004061,
+        "uah": 39896834704,
+        "usd": 964021546,
+        "vef": 96527477,
+        "vnd": 25470413262044,
+        "xag": 21832996,
+        "xau": 256044,
+        "xdr": 667707351,
+        "xlm": 2612688440,
+        "xrp": 334591640,
+        "yfi": 185183,
+        "zar": 16719841231,
+        "bits": 8516191236,
+        "link": 44440538,
+        "sats": 851619123645
+      },
+      "market_cap_fdv_ratio": 0.48,
+      "total_volume": {
+        "aed": 57612197,
+        "ars": 21013085860,
+        "aud": 23807368,
+        "bch": 27975,
+        "bdt": 1909057986,
+        "bhd": 5915380,
+        "bmd": 15687460,
+        "bnb": 15426,
+        "brl": 83312963,
+        "btc": 138.662,
+        "cad": 21776281,
+        "chf": 12471797,
+        "clp": 14915950797,
+        "cny": 111856297,
+        "czk": 324738267,
+        "dkk": 99804735,
+        "dot": 3852706,
+        "eos": 36739661,
+        "eth": 3758,
+        "eur": 13372556,
+        "gbp": 11682436,
+        "gel": 42356142,
+        "hkd": 122012248,
+        "huf": 5231432634,
+        "idr": 262066610343,
+        "ils": 52714180,
+        "inr": 1392536582,
+        "jpy": 2333755084,
+        "krw": 21989039445,
+        "kwd": 4792833,
+        "lkr": 4744884522,
+        "ltc": 147133,
+        "mmk": 32935822446,
+        "mxn": 288810737,
+        "myr": 66028519,
+        "ngn": 23380590509,
+        "nok": 156125070,
+        "nzd": 26967026,
+        "php": 903017296,
+        "pkr": 4447150539,
+        "pln": 57085098,
+        "rub": 1316267131,
+        "sar": 58840510,
+        "sek": 147685044,
+        "sgd": 20216493,
+        "sol": 73780,
+        "thb": 502963517,
+        "try": 650485427,
+        "twd": 476048511,
+        "uah": 649238603,
+        "usd": 15687460,
+        "vef": 1570785,
+        "vnd": 414478382879,
+        "xag": 355763,
+        "xau": 4168.94,
+        "xdr": 10865558,
+        "xlm": 42513319,
+        "xrp": 5443112,
+        "yfi": 3014,
+        "zar": 272042128,
+        "bits": 138661884,
+        "link": 723434,
+        "sats": 13866188365
+      },
+      "high_24h": {
+        "aed": 4.48,
+        "ars": 1649.91,
+        "aud": 1.85,
+        "bch": 0.00217446,
+        "bdt": 148.51,
+        "bhd": 0.459928,
+        "bmd": 1.22,
+        "bnb": 0.00120789,
+        "brl": 6.48,
+        "btc": 0.00001079,
+        "cad": 1.69,
+        "chf": 0.966778,
+        "clp": 1163.79,
+        "cny": 8.67,
+        "czk": 25.05,
+        "dkk": 7.72,
+        "dot": 0.30223587,
+        "eos": 2.838068,
+        "eth": 0.00029059,
+        "eur": 1.034,
+        "gbp": 0.902298,
+        "gel": 3.29,
+        "hkd": 9.48,
+        "huf": 402.53,
+        "idr": 20315,
+        "ils": 4.07,
+        "inr": 108.31,
+        "jpy": 180.16,
+        "krw": 1701.12,
+        "kwd": 0.372376,
+        "lkr": 368.94,
+        "ltc": 0.01143397,
+        "mmk": 2561.05,
+        "mxn": 22.38,
+        "myr": 5.12,
+        "ngn": 1817.28,
+        "nok": 12.05,
+        "nzd": 2.08,
+        "php": 69.79,
+        "pkr": 345.92,
+        "pln": 4.4,
+        "rub": 102.12,
+        "sar": 4.58,
+        "sek": 11.38,
+        "sgd": 1.57,
+        "sol": 0.00555937,
+        "thb": 38.87,
+        "try": 50.5,
+        "twd": 36.93,
+        "uah": 50.48,
+        "usd": 1.22,
+        "vef": 0.122143,
+        "vnd": 32224,
+        "xag": 0.02753554,
+        "xau": 0.00032295,
+        "xdr": 0.844894,
+        "xlm": 3.282505,
+        "xrp": 0.4246897,
+        "yfi": 0.00023658,
+        "zar": 21.06,
+        "bits": 10.79,
+        "link": 0.05570621,
+        "sats": 1078.6
+      },
+      "low_24h": {
+        "aed": 3.37,
+        "ars": 1256.04,
+        "aud": 1.39,
+        "bch": 0.00164039,
+        "bdt": 111.82,
+        "bhd": 0.346262,
+        "bmd": 0.91847,
+        "bnb": 0.00088924,
+        "brl": 4.85,
+        "btc": 0.00000814,
+        "cad": 1.27,
+        "chf": 0.729421,
+        "clp": 871.25,
+        "cny": 6.54,
+        "czk": 18.95,
+        "dkk": 5.83,
+        "dot": 0.22695217,
+        "eos": 2.162264,
+        "eth": 0.00021953,
+        "eur": 0.780498,
+        "gbp": 0.681469,
+        "gel": 2.48,
+        "hkd": 7.14,
+        "huf": 304.8,
+        "idr": 15327.17,
+        "ils": 3.08,
+        "inr": 81.46,
+        "jpy": 136.19,
+        "krw": 1284.83,
+        "kwd": 0.280505,
+        "lkr": 277.79,
+        "ltc": 0.00858725,
+        "mmk": 1928.33,
+        "mxn": 16.87,
+        "myr": 3.87,
+        "ngn": 1367.78,
+        "nok": 9.12,
+        "nzd": 1.57,
+        "php": 52.7,
+        "pkr": 258.46,
+        "pln": 3.33,
+        "rub": 76.92,
+        "sar": 3.45,
+        "sek": 8.6,
+        "sgd": 1.18,
+        "sol": 0.0043536,
+        "thb": 29.4,
+        "try": 38.08,
+        "twd": 27.83,
+        "uah": 38.01,
+        "usd": 0.91847,
+        "vef": 0.091966,
+        "vnd": 24267,
+        "xag": 0.02079716,
+        "xau": 0.00024372,
+        "xdr": 0.636157,
+        "xlm": 2.484227,
+        "xrp": 0.31921266,
+        "yfi": 0.00017707,
+        "zar": 15.85,
+        "bits": 8.14,
+        "link": 0.04222629,
+        "sats": 814.3
+      },
+      "price_change_24h": -0.242620490280668,
+      "price_change_percentage_24h": -20.10777,
+      "price_change_percentage_7d": 0,
+      "price_change_percentage_14d": 0,
+      "price_change_percentage_30d": 0,
+      "price_change_percentage_60d": 0,
+      "price_change_percentage_200d": 0,
+      "price_change_percentage_1y": 0,
+      "market_cap_change_24h": -116122637.8279018,
+      "market_cap_change_percentage_24h": -20.10434,
+      "price_change_24h_in_currency": {
+        "aed": -0.8910237505557586,
+        "ars": -352.74557482920295,
+        "aud": -0.3644809126147217,
+        "bch": -0.000434990047695739,
+        "bdt": -29.583466467856113,
+        "bhd": -0.09144196238791746,
+        "bmd": -0.24262049028066845,
+        "bnb": -0.000248822995271579,
+        "brl": -1.3066079101798227,
+        "btc": -0.000002172074104912,
+        "cad": -0.33003495835452523,
+        "chf": -0.1896694102728368,
+        "clp": -236.27497577794873,
+        "cny": -1.7066694884704692,
+        "czk": -4.841073704909263,
+        "dkk": -1.501716633577841,
+        "dot": -0.06310127673674953,
+        "eos": -0.5642262874177315,
+        "eth": -0.000056996656007103,
+        "eur": -0.20114017739093049,
+        "gbp": -0.17437595447051057,
+        "gel": -0.6550753237578077,
+        "hkd": -1.8845517442901878,
+        "huf": -76.72041230459274,
+        "idr": -3991.4461031264527,
+        "ils": -0.7882135474339953,
+        "inr": -21.559149271179237,
+        "jpy": -34.89194819243329,
+        "krw": -331.4710736784725,
+        "kwd": -0.07384548082973941,
+        "lkr": -73.36216804752581,
+        "ltc": -0.002294747839523423,
+        "mmk": -509.3817193442658,
+        "mxn": -4.4150802504088205,
+        "myr": -1.0085203363132669,
+        "ngn": -361.0344763885289,
+        "nok": -2.342854988579269,
+        "nzd": -0.40350197176752145,
+        "php": -13.542445717370946,
+        "pkr": -68.89617068378783,
+        "pln": -0.8470344548950903,
+        "rub": -20.062811698358686,
+        "sar": -0.9097540335710592,
+        "sek": -2.190402181190432,
+        "sgd": -0.30644717633416607,
+        "sol": -0.000968963793720359,
+        "thb": -7.516641884566724,
+        "try": -9.99097288623522,
+        "twd": -7.275075105508865,
+        "uah": -10.041051093133916,
+        "usd": -0.24262049028066845,
+        "vef": -0.02429358969180337,
+        "vnd": -6404.9549599702295,
+        "xag": -0.005324610873852633,
+        "xau": -0.000062630296231569,
+        "xdr": -0.1680455023216293,
+        "xlm": -0.6495882230947401,
+        "xrp": -0.0867112689837598,
+        "yfi": -0.00004956191100948,
+        "zar": -4.114591344341193,
+        "bits": -2.172074104912305,
+        "link": -0.010953912843926723,
+        "sats": -217.20741049123046
+      },
+      "price_change_percentage_1h_in_currency": {
+        "aed": -0.25166,
+        "ars": -2.2957,
+        "aud": -0.06662,
+        "bch": -0.31937,
+        "bdt": -0.25166,
+        "bhd": -0.24107,
+        "bmd": -0.25166,
+        "bnb": -0.06394,
+        "brl": -0.19716,
+        "btc": -0.2733,
+        "cad": -0.21464,
+        "chf": -0.18926,
+        "clp": -0.1603,
+        "cny": -0.21527,
+        "czk": -0.06252,
+        "dkk": -0.14849,
+        "dot": -0.42048,
+        "eos": -0.63143,
+        "eth": 0.04718,
+        "eur": -0.14248,
+        "gbp": -0.08609,
+        "gel": -0.25166,
+        "hkd": -0.24781,
+        "huf": -0.03603,
+        "idr": -0.1947,
+        "ils": 0.04443,
+        "inr": -0.19944,
+        "jpy": -0.15503,
+        "krw": -0.14222,
+        "kwd": -0.23533,
+        "lkr": -0.25166,
+        "ltc": -0.51518,
+        "mmk": -0.25166,
+        "mxn": -0.29448,
+        "myr": -0.25166,
+        "ngn": -0.27842,
+        "nok": -0.1896,
+        "nzd": 0.00758,
+        "php": -0.13889,
+        "pkr": -0.25166,
+        "pln": -0.1531,
+        "rub": -0.0973,
+        "sar": -0.25147,
+        "sek": -0.11694,
+        "sgd": -0.15101,
+        "sol": -0.27722,
+        "thb": -0.18472,
+        "try": -0.23772,
+        "twd": -0.17657,
+        "uah": -0.25166,
+        "usd": -0.25166,
+        "vef": -0.25166,
+        "vnd": -0.25166,
+        "xag": -0.36549,
+        "xau": -0.18781,
+        "xdr": -0.25166,
+        "xlm": 0.1084,
+        "xrp": -0.23355,
+        "yfi": -0.28705,
+        "zar": -0.0802,
+        "bits": -0.2733,
+        "link": 0.23326,
+        "sats": -0.2733
+      },
+      "price_change_percentage_24h_in_currency": {
+        "aed": -20.10777,
+        "ars": -21.4568,
+        "aud": -19.94509,
+        "bch": -20.19454,
+        "bdt": -20.13942,
+        "bhd": -20.09993,
+        "bmd": -20.10777,
+        "bnb": -20.7917,
+        "brl": -20.33278,
+        "btc": -20.31358,
+        "cad": -19.78428,
+        "chf": -19.83886,
+        "clp": -20.49492,
+        "cny": -19.89093,
+        "czk": -19.52365,
+        "dkk": -19.66981,
+        "dot": -21.04452,
+        "eos": -19.99494,
+        "eth": -19.79519,
+        "eur": -19.66426,
+        "gbp": -19.54337,
+        "gel": -20.10777,
+        "hkd": -20.08669,
+        "huf": -19.26742,
+        "idr": -19.86268,
+        "ils": -19.57102,
+        "inr": -20.12443,
+        "jpy": -19.56934,
+        "krw": -19.69902,
+        "kwd": -20.04706,
+        "lkr": -20.10302,
+        "ltc": -20.24317,
+        "mmk": -20.10777,
+        "mxn": -19.92164,
+        "myr": -19.90797,
+        "ngn": -20.08257,
+        "nok": -19.62749,
+        "nzd": -19.58176,
+        "php": -19.61762,
+        "pkr": -20.1351,
+        "pln": -19.45032,
+        "rub": -19.87475,
+        "sar": -20.10306,
+        "sek": -19.44343,
+        "sgd": -19.78697,
+        "sol": -17.60887,
+        "thb": -19.56272,
+        "try": -19.99686,
+        "twd": -19.91653,
+        "uah": -20.10777,
+        "usd": -20.10777,
+        "vef": -20.10777,
+        "vnd": -20.09443,
+        "xag": -19.58592,
+        "xau": -19.64514,
+        "xdr": -20.10777,
+        "xlm": -19.91384,
+        "xrp": -20.58743,
+        "yfi": -21.10901,
+        "zar": -19.75193,
+        "bits": -20.31358,
+        "link": -19.76946,
+        "sats": -20.31358
+      },
+      "price_change_percentage_7d_in_currency": {},
+      "price_change_percentage_14d_in_currency": {},
+      "price_change_percentage_30d_in_currency": {},
+      "price_change_percentage_60d_in_currency": {},
+      "price_change_percentage_200d_in_currency": {},
+      "price_change_percentage_1y_in_currency": {},
+      "market_cap_change_24h_in_currency": {
+        "aed": -426460387.42296934,
+        "ars": -171866448467.58984,
+        "aud": -174533274.36654353,
+        "bch": -208655.17433755298,
+        "bdt": -14159196982.95823,
+        "bhd": -43765804.71341464,
+        "bmd": -116122637.82790172,
+        "bnb": -119035.03985337418,
+        "brl": -627352452.8437076,
+        "btc": -1042.0395986728822,
+        "cad": -158162850.65836012,
+        "chf": -90924377.91085029,
+        "clp": -113035250867.87048,
+        "cny": -816887717.0057387,
+        "czk": -2319227391.794031,
+        "dkk": -719825236.5466952,
+        "dot": -30199490.35197398,
+        "eos": -264639743.42373657,
+        "eth": -27453.059867698947,
+        "eur": -96418912.52948815,
+        "gbp": -83579476.69109088,
+        "gel": -313531122.1353345,
+        "hkd": -901975454.9595237,
+        "huf": -36791565952.88382,
+        "idr": -1910888891153.454,
+        "ils": -377620504.08398247,
+        "inr": -10318373539.774834,
+        "jpy": -16726731365.366615,
+        "krw": -158659127880.67627,
+        "kwd": -35343785.166760474,
+        "lkr": -35112483828.15311,
+        "ltc": -1095690.4347269228,
+        "mmk": -243799478119.6798,
+        "mxn": -2114651896.916092,
+        "myr": -482695385.2236254,
+        "ngn": -172797707535.35376,
+        "nok": -1123580651.1967669,
+        "nzd": -193323115.5688665,
+        "php": -6482552497.275429,
+        "pkr": -32974986503.160797,
+        "pln": -405863007.7689481,
+        "rub": -9604203462.41417,
+        "sar": -435425024.2971058,
+        "sek": -1052938446.1367817,
+        "sgd": -146752440.18771088,
+        "sol": -463345.6273242873,
+        "thb": -3601966439.2212276,
+        "try": -4785139649.821636,
+        "twd": -3481977883.2605896,
+        "uah": -4805832096.665024,
+        "usd": -116122637.82790172,
+        "vef": -11627359.72570771,
+        "vnd": -3065529044775.885,
+        "xag": -2562439.00567632,
+        "xau": -30045.084949591896,
+        "xdr": -80429674.27082604,
+        "xlm": -310926710.189456,
+        "xrp": -41462344.55662975,
+        "yfi": -23744.89801726336,
+        "zar": -1968171365.6986866,
+        "bits": -1042039598.6728826,
+        "link": -5250471.91034006,
+        "sats": -104203959867.28827
+      },
+      "market_cap_change_percentage_24h_in_currency": {
+        "aed": -20.10434,
+        "ars": -21.83891,
+        "aud": -19.95152,
+        "bch": -20.23638,
+        "bdt": -20.13599,
+        "bhd": -20.0965,
+        "bmd": -20.10434,
+        "bnb": -20.7792,
+        "brl": -20.39387,
+        "btc": -20.35734,
+        "cad": -19.80621,
+        "chf": -19.86718,
+        "clp": -20.48231,
+        "cny": -19.88862,
+        "czk": -19.53886,
+        "dkk": -19.6959,
+        "dot": -21.03833,
+        "eos": -19.62762,
+        "eth": -19.91974,
+        "eur": -19.69145,
+        "gbp": -19.56812,
+        "gel": -20.10434,
+        "hkd": -20.08314,
+        "huf": -19.30179,
+        "idr": -19.86459,
+        "ils": -19.58672,
+        "inr": -20.12054,
+        "jpy": -19.5974,
+        "krw": -19.69703,
+        "kwd": -20.04363,
+        "lkr": -20.0996,
+        "ltc": -20.18986,
+        "mmk": -20.10434,
+        "mxn": -19.9325,
+        "myr": -19.90453,
+        "ngn": -20.07914,
+        "nok": -19.66347,
+        "nzd": -19.59866,
+        "php": -19.61697,
+        "pkr": -20.13167,
+        "pln": -19.46891,
+        "rub": -19.87503,
+        "sar": -20.09964,
+        "sek": -19.52489,
+        "sgd": -19.79455,
+        "sol": -17.58758,
+        "thb": -19.58311,
+        "try": -20.00715,
+        "twd": -19.9131,
+        "uah": -20.10434,
+        "usd": -20.10434,
+        "vef": -20.10434,
+        "vnd": -20.09101,
+        "xag": -19.69002,
+        "xau": -19.68705,
+        "xdr": -20.10434,
+        "xlm": -19.91051,
+        "xrp": -20.56344,
+        "yfi": -21.12689,
+        "zar": -19.73706,
+        "bits": -20.35734,
+        "link": -19.79506,
+        "sats": -20.35734
+      },
+      "total_supply": 1000000000,
+      "max_supply": 1000000000,
+      "max_supply_infinite": false,
+      "circulating_supply": 478700000,
+      "last_updated": "2025-09-24T13:46:46.023Z"
+    },
+    "community_data": {
+      "facebook_likes": null,
+      "reddit_average_posts_48h": 0,
+      "reddit_average_comments_48h": 0,
+      "reddit_subscribers": 0,
+      "reddit_accounts_active_48h": 0,
+      "telegram_channel_user_count": 2469
+    },
+    "developer_data": {
+      "forks": 0,
+      "stars": 0,
+      "subscribers": 0,
+      "total_issues": 0,
+      "closed_issues": 0,
+      "pull_requests_merged": 0,
+      "pull_request_contributors": 0,
+      "code_additions_deletions_4_weeks": {
+        "additions": null,
+        "deletions": null
+      },
+      "commit_count_4_weeks": 0,
+      "last_4_weeks_commit_activity_series": []
+    },
+    "status_updates": [],
+    "last_updated": "2025-09-24T13:46:46.023Z",
+    "tickers": [
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "KuCoin",
+          "identifier": "kucoin",
+          "has_trading_incentive": false
+        },
+        "last": 0.9491,
+        "volume": 0,
+        "converted_last": {
+          "btc": 0.00000839,
+          "eth": 0.0002274,
+          "usd": 0.949226
+        },
+        "converted_volume": {
+          "btc": 26.191731,
+          "eth": 709.875,
+          "usd": 2963192
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.010536,
+        "timestamp": "2025-09-24T13:46:43+00:00",
+        "last_traded_at": "2025-09-24T13:46:43+00:00",
+        "last_fetch_at": "2025-09-24T13:46:43+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.kucoin.com/trade/SYND-USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "Gate",
+          "identifier": "gate",
+          "has_trading_incentive": false
+        },
+        "last": 0.9569,
+        "volume": 682997,
+        "converted_last": {
+          "btc": 0.00000845,
+          "eth": 0.00022889,
+          "usd": 0.95702
+        },
+        "converted_volume": {
+          "btc": 6.290881,
+          "eth": 170.349,
+          "usd": 712266
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.02091,
+        "timestamp": "2025-09-24T13:44:03+00:00",
+        "last_traded_at": "2025-09-24T13:44:03+00:00",
+        "last_fetch_at": "2025-09-24T13:44:03+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.gate.com/trade/SYND_USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "MEXC",
+          "identifier": "mxc",
+          "has_trading_incentive": false
+        },
+        "last": 0.9504,
+        "volume": 172837,
+        "converted_last": {
+          "btc": 0.0000084,
+          "eth": 0.00022763,
+          "usd": 0.950527
+        },
+        "converted_volume": {
+          "btc": 1.558266,
+          "eth": 42.22158,
+          "usd": 176309
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.01052,
+        "timestamp": "2025-09-24T13:46:07+00:00",
+        "last_traded_at": "2025-09-24T13:46:07+00:00",
+        "last_fetch_at": "2025-09-24T13:46:07+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.mexc.com/exchange/SYND_USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Aerodrome SlipStream",
+          "identifier": "aerodrome-slipstream",
+          "has_trading_incentive": false
+        },
+        "last": 0.000229039414,
+        "volume": 6646524.23114115,
+        "converted_last": {
+          "btc": 0.00000862,
+          "eth": 0.00023351,
+          "usd": 0.975975
+        },
+        "converted_volume": {
+          "btc": 61.366,
+          "eth": 1662,
+          "usd": 6945895
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.60279,
+        "timestamp": "2025-09-24T13:44:45+00:00",
+        "last_traded_at": "2025-09-24T13:44:45+00:00",
+        "last_fetch_at": "2025-09-24T13:44:45+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0X11DC28D01984079B7EFE7763B533E6ED9E3722B9&to=0X4200000000000000000000000000000000000006",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "HTX",
+          "identifier": "huobi",
+          "has_trading_incentive": false
+        },
+        "last": 0.9525,
+        "volume": 2481159.239936878,
+        "converted_last": {
+          "btc": 0.00000842,
+          "eth": 0.00022813,
+          "usd": 0.952627
+        },
+        "converted_volume": {
+          "btc": 22.725327,
+          "eth": 615.748,
+          "usd": 2571250
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.419024,
+        "timestamp": "2025-09-24T13:46:24+00:00",
+        "last_traded_at": "2025-09-24T13:46:24+00:00",
+        "last_fetch_at": "2025-09-24T13:46:24+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.huobi.com/en-us/exchange/synd_usdt",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9642617771,
+        "volume": 392341.731024685,
+        "converted_last": {
+          "btc": 0.00000847,
+          "eth": 0.00022934,
+          "usd": 0.958535
+        },
+        "converted_volume": {
+          "btc": 3.519757,
+          "eth": 95.321,
+          "usd": 398397
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.616848,
+        "timestamp": "2025-09-24T13:44:59+00:00",
+        "last_traded_at": "2025-09-24T13:44:59+00:00",
+        "last_fetch_at": "2025-09-24T13:44:59+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002314757518,
+        "volume": 297893.343996297,
+        "converted_last": {
+          "btc": 0.00000854,
+          "eth": 0.00023134,
+          "usd": 0.965901
+        },
+        "converted_volume": {
+          "btc": 2.687609,
+          "eth": 72.791,
+          "usd": 303925
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.64155,
+        "timestamp": "2025-09-24T13:33:38+00:00",
+        "last_traded_at": "2025-09-24T13:33:38+00:00",
+        "last_fetch_at": "2025-09-24T13:33:38+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "KCEX",
+          "identifier": "kcex",
+          "has_trading_incentive": false
+        },
+        "last": 0.9515,
+        "volume": 176212.82,
+        "converted_last": {
+          "btc": 0.00000841,
+          "eth": 0.00022785,
+          "usd": 0.951618
+        },
+        "converted_volume": {
+          "btc": 1.60521,
+          "eth": 43.479142,
+          "usd": 181591
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.415412,
+        "timestamp": "2025-09-24T13:41:55+00:00",
+        "last_traded_at": "2025-09-24T13:41:55+00:00",
+        "last_fetch_at": "2025-09-24T13:41:55+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.kcex.com/exchange/SYND_USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "LBank",
+          "identifier": "lbank",
+          "has_trading_incentive": false
+        },
+        "last": 0.9672,
+        "volume": 827651.4,
+        "converted_last": {
+          "btc": 0.00000854,
+          "eth": 0.00023139,
+          "usd": 0.967322
+        },
+        "converted_volume": {
+          "btc": 7.071112,
+          "eth": 191.509,
+          "usd": 800605
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 2.388697,
+        "timestamp": "2025-09-24T13:43:05+00:00",
+        "last_traded_at": "2025-09-24T13:43:05+00:00",
+        "last_fetch_at": "2025-09-24T13:43:05+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.lbank.com/trade/synd_usdt",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9585655157,
+        "volume": 38378.6372496128,
+        "converted_last": {
+          "btc": 0.00000847,
+          "eth": 0.00022957,
+          "usd": 0.958283
+        },
+        "converted_volume": {
+          "btc": 0.36263435,
+          "eth": 9.828483,
+          "usd": 41027
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.61698,
+        "timestamp": "2025-09-24T13:46:34+00:00",
+        "last_traded_at": "2025-09-24T13:46:34+00:00",
+        "last_fetch_at": "2025-09-24T13:46:34+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X74CCBE53F77B08632CE0CB91D3A545BF6B8E0979",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 24.5444233503,
+        "volume": 32498.3542624463,
+        "converted_last": {
+          "btc": 0.0000085,
+          "eth": 0.00023039,
+          "usd": 0.961699
+        },
+        "converted_volume": {
+          "btc": 0.29395798,
+          "eth": 7.967146,
+          "usd": 33257
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.603857,
+        "timestamp": "2025-09-24T13:04:31+00:00",
+        "last_traded_at": "2025-09-24T13:04:31+00:00",
+        "last_fetch_at": "2025-09-24T13:46:47+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "fbomb",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9578592239,
+        "volume": 23367.7614043055,
+        "converted_last": {
+          "btc": 0.00000849,
+          "eth": 0.00022992,
+          "usd": 0.961076
+        },
+        "converted_volume": {
+          "btc": 0.21819787,
+          "eth": 5.90576,
+          "usd": 24687
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.620635,
+        "timestamp": "2025-09-24T13:37:16+00:00",
+        "last_traded_at": "2025-09-24T13:37:16+00:00",
+        "last_fetch_at": "2025-09-24T13:37:16+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "Hotcoin",
+          "identifier": "hotcoin_global",
+          "has_trading_incentive": false
+        },
+        "last": 0.964,
+        "volume": 15512.99,
+        "converted_last": {
+          "btc": 0.00000853,
+          "eth": 0.00023108,
+          "usd": 0.964133
+        },
+        "converted_volume": {
+          "btc": 0.13227355,
+          "eth": 3.584732,
+          "usd": 14956.59
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.620476,
+        "timestamp": "2025-09-24T13:38:48+00:00",
+        "last_traded_at": "2025-09-24T13:38:48+00:00",
+        "last_fetch_at": "2025-09-24T13:38:48+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.hotcoin.com/currencyExchange/synd_usdt",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9619827716,
+        "volume": 5664.21538,
+        "converted_last": {
+          "btc": 0.00000864,
+          "eth": 0.00023417,
+          "usd": 0.977533
+        },
+        "converted_volume": {
+          "btc": 0.05274608,
+          "eth": 1.428771,
+          "usd": 5964.35
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.687999,
+        "timestamp": "2025-09-24T13:35:15+00:00",
+        "last_traded_at": "2025-09-24T13:35:15+00:00",
+        "last_fetch_at": "2025-09-24T13:35:15+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X5AB3D4C385B400F3ABB49E80DE2FAF6A88A7B691",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 2.9831393761,
+        "volume": 4327.9776440681,
+        "converted_last": {
+          "btc": 0.00000871,
+          "eth": 0.00023459,
+          "usd": 0.979521
+        },
+        "converted_volume": {
+          "btc": 0.03759286,
+          "eth": 1.013041,
+          "usd": 4229.84
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.615977,
+        "timestamp": "2025-09-24T08:13:42+00:00",
+        "last_traded_at": "2025-09-24T08:13:42+00:00",
+        "last_fetch_at": "2025-09-24T08:13:42+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "flock-2",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.9648362732,
+        "volume": 1228.7162644763,
+        "converted_last": {
+          "btc": 0.00000852,
+          "eth": 0.00023081,
+          "usd": 0.963667
+        },
+        "converted_volume": {
+          "btc": 0.01182667,
+          "eth": 0.32031879,
+          "usd": 1337.39
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.743926,
+        "timestamp": "2025-09-24T13:33:59+00:00",
+        "last_traded_at": "2025-09-24T13:33:59+00:00",
+        "last_fetch_at": "2025-09-24T13:33:59+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0XA66B448F97CBF58D12F00711C02BAC2D9EAC6F7F",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.0374393608,
+        "volume": 197.1418927243,
+        "converted_last": {
+          "btc": 0.00000849,
+          "eth": 0.00022992,
+          "usd": 0.961076
+        },
+        "converted_volume": {
+          "btc": 0.0017472,
+          "eth": 0.0472899,
+          "usd": 197.68
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.762334,
+        "timestamp": "2025-09-24T13:05:22+00:00",
+        "last_traded_at": "2025-09-24T13:05:22+00:00",
+        "last_fetch_at": "2025-09-24T13:37:16+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0xa66b448f97cbf58d12f00711c02bac2d9eac6f7f",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "openxai",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "BloFin",
+          "identifier": "blofin_spot",
+          "has_trading_incentive": false
+        },
+        "last": 0.9553,
+        "volume": 108192.6,
+        "converted_last": {
+          "btc": 0.00000845,
+          "eth": 0.00022889,
+          "usd": 0.955427
+        },
+        "converted_volume": {
+          "btc": 0.99007206,
+          "eth": 26.833933,
+          "usd": 112011
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 0.240535,
+        "timestamp": "2025-09-24T13:46:45+00:00",
+        "last_traded_at": "2025-09-24T13:46:45+00:00",
+        "last_fetch_at": "2025-09-24T13:46:45+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://blofin.com/spot/SYND-USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "Hibt",
+          "identifier": "hibt",
+          "has_trading_incentive": false
+        },
+        "last": 0.9662,
+        "volume": 19717.665,
+        "converted_last": {
+          "btc": 0.00000855,
+          "eth": 0.00023186,
+          "usd": 0.966334
+        },
+        "converted_volume": {
+          "btc": 0.17906691,
+          "eth": 4.856973,
+          "usd": 20243
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 1.991786,
+        "timestamp": "2025-09-24T13:39:52+00:00",
+        "last_traded_at": "2025-09-24T13:39:52+00:00",
+        "last_fetch_at": "2025-09-24T13:39:52+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://hibt.com/trade/SYND-USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "BitMart",
+          "identifier": "bitmart",
+          "has_trading_incentive": false
+        },
+        "last": 0.9752,
+        "volume": 994.6,
+        "converted_last": {
+          "btc": 0.00000862,
+          "eth": 0.00023357,
+          "usd": 0.97533
+        },
+        "converted_volume": {
+          "btc": 0.00857365,
+          "eth": 0.23230518,
+          "usd": 970.06
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 0.126422,
+        "timestamp": "2025-09-24T13:46:25+00:00",
+        "last_traded_at": "2025-09-24T13:46:25+00:00",
+        "last_fetch_at": "2025-09-24T13:46:25+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.bitmart.com/trade/en?symbol=SYND_USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "Ourbit",
+          "identifier": "ourbit",
+          "has_trading_incentive": false
+        },
+        "last": 0.957,
+        "volume": 12307.52,
+        "converted_last": {
+          "btc": 0.00000846,
+          "eth": 0.00022917,
+          "usd": 0.957118
+        },
+        "converted_volume": {
+          "btc": 0.11508638,
+          "eth": 3.117259,
+          "usd": 13019.28
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 2.216976,
+        "timestamp": "2025-09-24T13:41:58+00:00",
+        "last_traded_at": "2025-09-24T13:41:58+00:00",
+        "last_fetch_at": "2025-09-24T13:41:58+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.ourbit.com/exchange/SYND_USDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "SYND",
+        "target": "USDT",
+        "market": {
+          "name": "BingX",
+          "identifier": "bingx",
+          "has_trading_incentive": false
+        },
+        "last": 0.98,
+        "volume": 1166.32,
+        "converted_last": {
+          "btc": 0.00000866,
+          "eth": 0.00023468,
+          "usd": 0.980131
+        },
+        "converted_volume": {
+          "btc": 0.01057854,
+          "eth": 0.28658695,
+          "usd": 1196.92
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 5.102041,
+        "timestamp": "2025-09-24T13:25:01+00:00",
+        "last_traded_at": "2025-09-24T13:25:01+00:00",
+        "last_fetch_at": "2025-09-24T13:45:47+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://bingx.com/en-us/spot/SYNDUSDT",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.9471855535,
+        "volume": 558.8797086325,
+        "converted_last": {
+          "btc": 0.00000837,
+          "eth": 0.00022667,
+          "usd": 0.946551
+        },
+        "converted_volume": {
+          "btc": 0.00491198,
+          "eth": 0.13305086,
+          "usd": 555.61
+        },
+        "trust_score": "red",
+        "bid_ask_spread_percentage": 2.161995,
+        "timestamp": "2025-09-24T10:05:02+00:00",
+        "last_traded_at": "2025-09-24T10:05:02+00:00",
+        "last_fetch_at": "2025-09-24T13:31:07+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002290262047,
+        "volume": 515507.111403923,
+        "converted_last": {
+          "btc": 0.00000847,
+          "eth": 0.00022934,
+          "usd": 0.958535
+        },
+        "converted_volume": {
+          "btc": 4.780605,
+          "eth": 129.468,
+          "usd": 541111
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.603573,
+        "timestamp": "2025-09-24T13:44:59+00:00",
+        "last_traded_at": "2025-09-24T13:44:59+00:00",
+        "last_fetch_at": "2025-09-24T13:44:59+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9061211116,
+        "volume": 726.0381098786,
+        "converted_last": {
+          "btc": 0.00000846,
+          "eth": 0.00022911,
+          "usd": 0.957577
+        },
+        "converted_volume": {
+          "btc": 0.00690536,
+          "eth": 0.18700983,
+          "usd": 781.61
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.639643,
+        "timestamp": "2025-09-24T13:14:23+00:00",
+        "last_traded_at": "2025-09-24T13:14:23+00:00",
+        "last_fetch_at": "2025-09-24T13:44:33+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.000216786875,
+        "volume": 845.2544460476,
+        "converted_last": {
+          "btc": 0.00000799,
+          "eth": 0.00021646,
+          "usd": 0.904696
+        },
+        "converted_volume": {
+          "btc": 0.00745229,
+          "eth": 0.20182158,
+          "usd": 843.52
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 0.646623,
+        "timestamp": "2025-09-24T12:09:23+00:00",
+        "last_traded_at": "2025-09-24T12:09:23+00:00",
+        "last_fetch_at": "2025-09-24T13:44:33+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X696F9436B67233384889472CD7CD58A6FB5DF4F1",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.4493952364,
+        "volume": 71.4021020632,
+        "converted_last": {
+          "btc": 0.00000846,
+          "eth": 0.00022911,
+          "usd": 0.957577
+        },
+        "converted_volume": {
+          "btc": 0.00067852,
+          "eth": 0.01837548,
+          "usd": 76.8
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.727818,
+        "timestamp": "2025-09-24T13:44:33+00:00",
+        "last_traded_at": "2025-09-24T13:44:33+00:00",
+        "last_fetch_at": "2025-09-24T13:44:33+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x696f9436b67233384889472cd7cd58a6fb5df4f1",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "avantis",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9065108811,
+        "volume": 45.7226288912,
+        "converted_last": {
+          "btc": 0.000008,
+          "eth": 0.00021678,
+          "usd": 0.906016
+        },
+        "converted_volume": {
+          "btc": 0.00040847,
+          "eth": 0.01106218,
+          "usd": 46.23
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.690683,
+        "timestamp": "2025-09-24T13:14:22+00:00",
+        "last_traded_at": "2025-09-24T13:14:22+00:00",
+        "last_fetch_at": "2025-09-24T13:44:33+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Aerodrome SlipStream",
+          "identifier": "aerodrome-slipstream",
+          "has_trading_incentive": false
+        },
+        "last": 1.1141876553,
+        "volume": 161624.824656153,
+        "converted_last": {
+          "btc": 0.00000986,
+          "eth": 0.00026635,
+          "usd": 1.11
+        },
+        "converted_volume": {
+          "btc": 1.709495,
+          "eth": 46.176689,
+          "usd": 193185
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.751583,
+        "timestamp": "2025-09-23T15:24:23+00:00",
+        "last_traded_at": "2025-09-23T15:24:23+00:00",
+        "last_fetch_at": "2025-09-23T15:24:23+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Solidly V3 (Base)",
+          "identifier": "solidly-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002479747642,
+        "volume": 69760.0965657347,
+        "converted_last": {
+          "btc": 0.00000915,
+          "eth": 0.0002445,
+          "usd": 1.048
+        },
+        "converted_volume": {
+          "btc": 0.62113444,
+          "eth": 16.591578,
+          "usd": 71095
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.66144,
+        "timestamp": "2025-09-22T05:43:14+00:00",
+        "last_traded_at": "2025-09-22T05:43:14+00:00",
+        "last_fetch_at": "2025-09-22T05:43:14+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://solidly.com/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x4200000000000000000000000000000000000006",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0004168597981,
+        "volume": 6247.1745299293,
+        "converted_last": {
+          "btc": 0.00001637,
+          "eth": 0.00041834,
+          "usd": 1.92
+        },
+        "converted_volume": {
+          "btc": 0.08311398,
+          "eth": 2.124571,
+          "usd": 9747.42
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.936757,
+        "timestamp": "2025-09-18T05:41:27+00:00",
+        "last_traded_at": "2025-09-18T05:41:27+00:00",
+        "last_fetch_at": "2025-09-18T05:41:27+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002621782708,
+        "volume": 2965.9545362385,
+        "converted_last": {
+          "btc": 0.00000977,
+          "eth": 0.00024943,
+          "usd": 1.15
+        },
+        "converted_volume": {
+          "btc": 0.04745732,
+          "eth": 1.211856,
+          "usd": 5584.19
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.787059,
+        "timestamp": "2025-09-18T17:32:24+00:00",
+        "last_traded_at": "2025-09-18T17:32:24+00:00",
+        "last_fetch_at": "2025-09-18T17:32:24+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0004385226104,
+        "volume": 5273.6635969507,
+        "converted_last": {
+          "btc": 0.00001724,
+          "eth": 0.00043932,
+          "usd": 2.02
+        },
+        "converted_volume": {
+          "btc": 0.0334045,
+          "eth": 0.85118083,
+          "usd": 3922.74
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 1.578159,
+        "timestamp": "2025-09-18T04:29:56+00:00",
+        "last_traded_at": "2025-09-18T04:29:56+00:00",
+        "last_fetch_at": "2025-09-18T04:29:56+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0XDAC17F958D2EE523A2206206994597C13D831EC7",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.970544726,
+        "volume": 391.4288040833,
+        "converted_last": {
+          "btc": 0.00000839,
+          "eth": 0.00021675,
+          "usd": 0.970908
+        },
+        "converted_volume": {
+          "btc": 0.00304581,
+          "eth": 0.07867416,
+          "usd": 352.41
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 0.802931,
+        "timestamp": "2025-09-20T23:10:05+00:00",
+        "last_traded_at": "2025-09-20T23:10:05+00:00",
+        "last_fetch_at": "2025-09-21T04:06:23+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9483146808,
+        "volume": 67.3651058995,
+        "converted_last": {
+          "btc": 0.00000839,
+          "eth": 0.00022654,
+          "usd": 0.946398
+        },
+        "converted_volume": {
+          "btc": 0.00066045,
+          "eth": 0.01783116,
+          "usd": 74.49
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 1.037244,
+        "timestamp": "2025-09-22T10:47:33+00:00",
+        "last_traded_at": "2025-09-22T10:47:33+00:00",
+        "last_fetch_at": "2025-09-22T12:06:24+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0XA66B448F97CBF58D12F00711C02BAC2D9EAC6F7F",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.950861363,
+        "volume": 112002.404878471,
+        "converted_last": {
+          "btc": 0.00000868,
+          "eth": 0.00023292,
+          "usd": 0.979156
+        },
+        "converted_volume": {
+          "btc": 0.99215104,
+          "eth": 26.611979,
+          "usd": 111874
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": -200.333327,
+        "timestamp": "2025-09-22T06:47:16+00:00",
+        "last_traded_at": "2025-09-22T06:47:16+00:00",
+        "last_fetch_at": "2025-09-22T08:44:12+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "openxai",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003761430505,
+        "volume": 889.4536010258,
+        "converted_last": {
+          "btc": 0.00001464,
+          "eth": 0.00037578,
+          "usd": 1.7
+        },
+        "converted_volume": {
+          "btc": 0.01307442,
+          "eth": 0.33568502,
+          "usd": 1519.18
+        },
+        "trust_score": "red",
+        "bid_ask_spread_percentage": 4.01978,
+        "timestamp": "2025-09-18T14:09:36+00:00",
+        "last_traded_at": "2025-09-18T14:09:36+00:00",
+        "last_fetch_at": "2025-09-19T13:09:17+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.8433147783,
+        "volume": 747.9870793512,
+        "converted_last": {
+          "btc": 0.00001572,
+          "eth": 0.00040103,
+          "usd": 1.84
+        },
+        "converted_volume": {
+          "btc": 0.01136121,
+          "eth": 0.28976806,
+          "usd": 1332.97
+        },
+        "trust_score": "red",
+        "bid_ask_spread_percentage": 9.126117,
+        "timestamp": "2025-09-18T07:57:19+00:00",
+        "last_traded_at": "2025-09-18T07:57:19+00:00",
+        "last_fetch_at": "2025-09-18T10:04:04+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.874695025,
+        "volume": 717.7110309509,
+        "converted_last": {
+          "btc": 0.0000117,
+          "eth": 0.00030152,
+          "usd": 1.36
+        },
+        "converted_volume": {
+          "btc": 0.01020578,
+          "eth": 0.26302642,
+          "usd": 1188.58
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.435761,
+        "timestamp": "2025-09-19T11:34:16+00:00",
+        "last_traded_at": "2025-09-19T11:34:16+00:00",
+        "last_fetch_at": "2025-09-19T12:05:01+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.002982928058,
+        "volume": 14.9538470724,
+        "converted_last": {
+          "btc": 0.0000102,
+          "eth": 0.00026274,
+          "usd": 1.18
+        },
+        "converted_volume": {
+          "btc": 0.00015255,
+          "eth": 0.003929,
+          "usd": 17.6
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -200.401606,
+        "timestamp": "2025-09-20T20:10:05+00:00",
+        "last_traded_at": "2025-09-20T20:10:05+00:00",
+        "last_fetch_at": "2025-09-21T19:19:36+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.000181210741,
+        "volume": 31854.7132962844,
+        "converted_last": {
+          "btc": 0.00000726,
+          "eth": 0.0001849,
+          "usd": 0.852096
+        },
+        "converted_volume": {
+          "btc": 0.21243361,
+          "eth": 5.41364,
+          "usd": 24948
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.788469,
+        "timestamp": "2025-09-19T00:45:10+00:00",
+        "last_traded_at": "2025-09-19T00:45:10+00:00",
+        "last_fetch_at": "2025-09-19T01:00:04+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X22AF33FE49FD1FA80C7149773DDE5890D3C76F3B",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 2026.7139156633,
+        "volume": 9767.7598516196,
+        "converted_last": {
+          "btc": 0.00001067,
+          "eth": 0.00027555,
+          "usd": 1.23
+        },
+        "converted_volume": {
+          "btc": 0.0850621,
+          "eth": 2.197363,
+          "usd": 9841.82
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.626534,
+        "timestamp": "2025-09-21T14:18:55+00:00",
+        "last_traded_at": "2025-09-21T14:18:55+00:00",
+        "last_fetch_at": "2025-09-21T14:18:55+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x22af33fe49fd1fa80c7149773dde5890d3c76f3b",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "bankercoin-2",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X9D5C1C400DC828A3409F9C209B83FF51A65D2A0E",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 8.2623459478,
+        "volume": 10863.813302068,
+        "converted_last": {
+          "btc": 0.0000079,
+          "eth": 0.00020337,
+          "usd": 0.916975
+        },
+        "converted_volume": {
+          "btc": 0.08575608,
+          "eth": 2.208422,
+          "usd": 9957.52
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.638101,
+        "timestamp": "2025-09-20T16:43:48+00:00",
+        "last_traded_at": "2025-09-20T16:43:48+00:00",
+        "last_fetch_at": "2025-09-20T16:43:48+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x9d5c1c400dc828a3409f9c209b83ff51a65d2a0e",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "tairon",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X696F9436B67233384889472CD7CD58A6FB5DF4F1",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.6540888888,
+        "volume": 1701.6863846725,
+        "converted_last": {
+          "btc": 0.0000164,
+          "eth": 0.00041809,
+          "usd": 1.92
+        },
+        "converted_volume": {
+          "btc": 0.02957418,
+          "eth": 0.75387884,
+          "usd": 3469.57
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.660199,
+        "timestamp": "2025-09-18T04:40:52+00:00",
+        "last_traded_at": "2025-09-18T04:40:52+00:00",
+        "last_fetch_at": "2025-09-18T04:40:52+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "avantis",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 2.0173921328,
+        "volume": 2492.6049172209,
+        "converted_last": {
+          "btc": 0.00000728,
+          "eth": 0.00018727,
+          "usd": 0.852095
+        },
+        "converted_volume": {
+          "btc": 0.01840851,
+          "eth": 0.47336357,
+          "usd": 2153.87
+        },
+        "trust_score": "green",
+        "bid_ask_spread_percentage": 0.674937,
+        "timestamp": "2025-09-19T03:45:18+00:00",
+        "last_traded_at": "2025-09-19T03:45:18+00:00",
+        "last_fetch_at": "2025-09-19T03:59:52+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X940181A94A35A4569E4529A3CDFB74E38FD98631",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.7500538715,
+        "volume": 2467.0854683571,
+        "converted_last": {
+          "btc": 0.00000752,
+          "eth": 0.0001951,
+          "usd": 0.869014
+        },
+        "converted_volume": {
+          "btc": 0.01783447,
+          "eth": 0.46239073,
+          "usd": 2059.61
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 6.644333,
+        "timestamp": "2025-09-21T09:43:13+00:00",
+        "last_traded_at": "2025-09-21T09:43:13+00:00",
+        "last_fetch_at": "2025-09-21T09:43:13+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://aerodrome.finance/swap?from=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&to=0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "aerodrome-finance",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X696F9436B67233384889472CD7CD58A6FB5DF4F1",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.4740646021,
+        "volume": 196.3147962368,
+        "converted_last": {
+          "btc": 0.00000919,
+          "eth": 0.00024717,
+          "usd": 1.029
+        },
+        "converted_volume": {
+          "btc": 0.00203713,
+          "eth": 0.05477203,
+          "usd": 227.93
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 1.003001,
+        "timestamp": "2025-09-23T18:40:08+00:00",
+        "last_traded_at": "2025-09-23T18:40:08+00:00",
+        "last_fetch_at": "2025-09-23T18:40:08+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x696f9436b67233384889472cd7cd58a6fb5df4f1",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "avantis",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Omni Exchange V2 (Base)",
+          "identifier": "omni-exchange-v2-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0001993665441,
+        "volume": 6446.4479317447,
+        "converted_last": {
+          "btc": 0.0000076,
+          "eth": 0.00019727,
+          "usd": 0.881453
+        },
+        "converted_volume": {
+          "btc": 0.05795073,
+          "eth": 1.503935,
+          "usd": 6719.94
+        },
+        "trust_score": "yellow",
+        "bid_ask_spread_percentage": 35.178752,
+        "timestamp": "2025-09-20T14:31:46+00:00",
+        "last_traded_at": "2025-09-20T14:31:46+00:00",
+        "last_fetch_at": "2025-09-20T14:31:46+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://omni.exchange/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x4200000000000000000000000000000000000006",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0XA66B448F97CBF58D12F00711C02BAC2D9EAC6F7F",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8428249883,
+        "volume": 70290.0800991823,
+        "converted_last": {
+          "btc": 0.00000942,
+          "eth": 0.0002537,
+          "usd": 1.061
+        },
+        "converted_volume": {
+          "btc": 0.72988785,
+          "eth": 19.654128,
+          "usd": 82193
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.01,
+        "timestamp": "2025-09-22T12:27:20+00:00",
+        "last_traded_at": "2025-09-22T12:27:20+00:00",
+        "last_fetch_at": "2025-09-22T12:43:17+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "openxai",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.000287425292,
+        "volume": 6665.3439896895,
+        "converted_last": {
+          "btc": 0.00001026,
+          "eth": 0.00027582,
+          "usd": 1.15
+        },
+        "converted_volume": {
+          "btc": 0.06342611,
+          "eth": 1.705205,
+          "usd": 7120.26
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.472437,
+        "timestamp": "2025-09-24T00:42:12+00:00",
+        "last_traded_at": "2025-09-24T00:42:12+00:00",
+        "last_fetch_at": "2025-09-24T00:58:37+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.00005553216405,
+        "volume": 439.4631763575,
+        "converted_last": {
+          "btc": 0.00000215,
+          "eth": 0.00005553,
+          "usd": 0.250003
+        },
+        "converted_volume": {
+          "btc": 0.00094653,
+          "eth": 0.02440381,
+          "usd": 109.87
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.615338,
+        "timestamp": "2025-09-20T09:34:26+00:00",
+        "last_traded_at": "2025-09-20T09:34:26+00:00",
+        "last_fetch_at": "2025-09-20T16:52:19+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.2789812992,
+        "volume": 585.7067962851,
+        "converted_last": {
+          "btc": 0.00000241,
+          "eth": 0.00006243,
+          "usd": 0.279312
+        },
+        "converted_volume": {
+          "btc": 0.00141276,
+          "eth": 0.03656802,
+          "usd": 163.6
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.621921,
+        "timestamp": "2025-09-19T17:10:15+00:00",
+        "last_traded_at": "2025-09-19T17:10:15+00:00",
+        "last_fetch_at": "2025-09-19T17:26:15+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.00005622994425,
+        "volume": 439.4631763575,
+        "converted_last": {
+          "btc": 0.00000217,
+          "eth": 0.00005616,
+          "usd": 0.250876
+        },
+        "converted_volume": {
+          "btc": 0.0009528,
+          "eth": 0.02467978,
+          "usd": 110.25
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.628294,
+        "timestamp": "2025-09-19T17:10:14+00:00",
+        "last_traded_at": "2025-09-19T17:10:14+00:00",
+        "last_fetch_at": "2025-09-19T17:42:33+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X11DC28D01984079B7EFE7763B533E6ED9E3722B9",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.852347694,
+        "volume": 185.8864424468,
+        "converted_last": {
+          "btc": 0.00000737,
+          "eth": 0.00019067,
+          "usd": 0.852348
+        },
+        "converted_volume": {
+          "btc": 0.00140951,
+          "eth": 0.03646862,
+          "usd": 163.03
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.261581,
+        "timestamp": "2025-09-19T20:16:40+00:00",
+        "last_traded_at": "2025-09-19T20:16:40+00:00",
+        "last_fetch_at": "2025-09-19T23:01:35+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x11dc28d01984079b7efe7763b533e6ed9e3722b9&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "usd-coin",
+        "coin_mcap_usd": 461477113.98282516
+      },
+      {
+        "base": "0X1BAB804803159AD84B8854581AA53AC72455614E",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
+          "has_trading_incentive": false
+        },
+        "last": 0.05422199647,
+        "volume": 0.3759652194,
+        "converted_last": {
+          "btc": 0.00209931,
+          "eth": 0.05430423,
+          "usd": 242.81
+        },
+        "converted_volume": {
+          "btc": 0.00078476,
+          "eth": 0.02029979,
+          "usd": 90.77
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -200.401606,
+        "timestamp": "2025-09-19T22:42:36+00:00",
+        "last_traded_at": "2025-09-19T22:42:36+00:00",
+        "last_fetch_at": "2025-09-19T22:58:21+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x1bab804803159ad84b8854581aa53ac72455614e&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "syndicate-3",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 461477113.98282516
+      }
+    ]
+  },
+  "chart": {
+    "prices": [
+      [
+        1758157339008,
+        0.8329315082682734
+      ],
+      [
+        1758160968659,
+        0.7474234346065161
+      ],
+      [
+        1758164782435,
+        1.5514765720200017
+      ],
+      [
+        1758168157342,
+        2.0547530434430947
+      ],
+      [
+        1758172044438,
+        1.6645491361329543
+      ],
+      [
+        1758175380624,
+        2.0131685291233175
+      ],
+      [
+        1758178934235,
+        1.9293365897292056
+      ],
+      [
+        1758182568770,
+        2.2183832815042392
+      ],
+      [
+        1758186058339,
+        2.312787481787342
+      ],
+      [
+        1758189801292,
+        2.0248329829179017
+      ],
+      [
+        1758193302824,
+        2.064156328028412
+      ],
+      [
+        1758196958147,
+        2.1805199196788254
+      ],
+      [
+        1758200531323,
+        2.0494826347900683
+      ],
+      [
+        1758204174098,
+        1.5185010386441884
+      ],
+      [
+        1758207794466,
+        1.4520644201992328
+      ],
+      [
+        1758211390691,
+        1.4482132491140787
+      ],
+      [
+        1758215001445,
+        1.4795446949032836
+      ],
+      [
+        1758218565220,
+        1.1436538830976146
+      ],
+      [
+        1758222141417,
+        1.1153090295762913
+      ],
+      [
+        1758225614927,
+        0.9572099050593981
+      ],
+      [
+        1758229303042,
+        1.078626812278331
+      ],
+      [
+        1758232982964,
+        1.0409910984025943
+      ],
+      [
+        1758236575884,
+        0.939460562657603
+      ],
+      [
+        1758240224151,
+        0.9435068050709959
+      ],
+      [
+        1758243796986,
+        1.0886416249841548
+      ],
+      [
+        1758247355421,
+        1.074216372358481
+      ],
+      [
+        1758250847676,
+        1.1094539671066272
+      ],
+      [
+        1758254406052,
+        1.1553797916844184
+      ],
+      [
+        1758258173439,
+        1.1194489832366663
+      ],
+      [
+        1758261746501,
+        1.0753001623227347
+      ],
+      [
+        1758265308402,
+        1.1353091109568392
+      ],
+      [
+        1758268997044,
+        1.192378292148176
+      ],
+      [
+        1758272467660,
+        1.2775776554334555
+      ],
+      [
+        1758276172156,
+        1.2308978576684293
+      ],
+      [
+        1758279724080,
+        1.2753306871371688
+      ],
+      [
+        1758283318913,
+        1.3547095771722244
+      ],
+      [
+        1758286928415,
+        1.3819333628910662
+      ],
+      [
+        1758290556218,
+        1.5572927948519368
+      ],
+      [
+        1758294029588,
+        1.277587457707657
+      ],
+      [
+        1758297772486,
+        1.3106093051594947
+      ],
+      [
+        1758301300760,
+        1.24721044665278
+      ],
+      [
+        1758304946962,
+        1.1939024257519173
+      ],
+      [
+        1758308680538,
+        1.2175827460258832
+      ],
+      [
+        1758312175385,
+        1.1452957592517392
+      ],
+      [
+        1758315716659,
+        1.1152006772991556
+      ],
+      [
+        1758319354416,
+        1.049794816751203
+      ],
+      [
+        1758322950591,
+        1.0772905074130803
+      ],
+      [
+        1758326514082,
+        1.1148418367959867
+      ],
+      [
+        1758330157961,
+        1.107616076073454
+      ],
+      [
+        1758333704198,
+        1.046299673615684
+      ],
+      [
+        1758337335759,
+        1.0197365444381252
+      ],
+      [
+        1758340925348,
+        1.0147414385264937
+      ],
+      [
+        1758344579339,
+        1.0521071707185852
+      ],
+      [
+        1758348149960,
+        1.0861638745562918
+      ],
+      [
+        1758351684146,
+        1.0374159635141145
+      ],
+      [
+        1758355286722,
+        0.9981177419859486
+      ],
+      [
+        1758358915545,
+        0.9532272391309093
+      ],
+      [
+        1758362504018,
+        0.8995845744875317
+      ],
+      [
+        1758366149936,
+        0.8881755888977264
+      ],
+      [
+        1758369659385,
+        0.9156667052422218
+      ],
+      [
+        1758373363008,
+        0.9302586150897268
+      ],
+      [
+        1758376934114,
+        0.8079973339775376
+      ],
+      [
+        1758380477256,
+        0.8926247372154337
+      ],
+      [
+        1758384152674,
+        0.8981463615870193
+      ],
+      [
+        1758387764176,
+        0.9068212885619823
+      ],
+      [
+        1758391400728,
+        0.8625960763124363
+      ],
+      [
+        1758394911703,
+        0.7997618311075899
+      ],
+      [
+        1758398554683,
+        0.7551326786967516
+      ],
+      [
+        1758402104447,
+        0.7652492771384085
+      ],
+      [
+        1758405704693,
+        0.8290876535632996
+      ],
+      [
+        1758409345512,
+        0.9174758944781187
+      ],
+      [
+        1758412976062,
+        0.9641678998731079
+      ],
+      [
+        1758416498751,
+        0.9768310421388783
+      ],
+      [
+        1758420140210,
+        1.0269453390319847
+      ],
+      [
+        1758423774385,
+        1.039355228542873
+      ],
+      [
+        1758427378426,
+        1.033025700387245
+      ],
+      [
+        1758430971759,
+        1.0285997437360692
+      ],
+      [
+        1758434558997,
+        0.9793309391660937
+      ],
+      [
+        1758438034597,
+        0.9316651110278366
+      ],
+      [
+        1758441629429,
+        0.9212775207029191
+      ],
+      [
+        1758445332052,
+        0.8901853643526222
+      ],
+      [
+        1758448974192,
+        0.8802589312412675
+      ],
+      [
+        1758452544783,
+        0.9047699795186542
+      ],
+      [
+        1758456103274,
+        0.9077484290451365
+      ],
+      [
+        1758459736562,
+        0.9601153732174951
+      ],
+      [
+        1758463340161,
+        1.2194587962766494
+      ],
+      [
+        1758466929859,
+        1.1425859447451003
+      ],
+      [
+        1758470566053,
+        1.2309425240042666
+      ],
+      [
+        1758474139188,
+        1.181967700170788
+      ],
+      [
+        1758477795337,
+        1.1348982346281038
+      ],
+      [
+        1758481361618,
+        1.235418656545278
+      ],
+      [
+        1758484806766,
+        1.2349411170944984
+      ],
+      [
+        1758488433151,
+        1.2076010157419463
+      ],
+      [
+        1758492163923,
+        1.1793930535216233
+      ],
+      [
+        1758495686383,
+        1.1908051891939613
+      ],
+      [
+        1758499352428,
+        1.1504305538377353
+      ],
+      [
+        1758502873243,
+        1.052376883170958
+      ],
+      [
+        1758506542886,
+        1.0482467159412328
+      ],
+      [
+        1758510086602,
+        1.0387802905204093
+      ],
+      [
+        1758513707300,
+        1.0610540089107894
+      ],
+      [
+        1758517274307,
+        1.0583060403681863
+      ],
+      [
+        1758520921443,
+        1.0380125142741319
+      ],
+      [
+        1758524589315,
+        0.9936851613005813
+      ],
+      [
+        1758528171736,
+        0.978677095743353
+      ],
+      [
+        1758531992296,
+        1.0151571696549164
+      ],
+      [
+        1758535322811,
+        0.9685566409889231
+      ],
+      [
+        1758539079692,
+        0.9634394982790461
+      ],
+      [
+        1758542513891,
+        0.9428637447033077
+      ],
+      [
+        1758546157911,
+        0.9547301102697768
+      ],
+      [
+        1758549764943,
+        0.9632243588885485
+      ],
+      [
+        1758553313230,
+        0.9895278198270303
+      ],
+      [
+        1758556983277,
+        0.9610674261933747
+      ],
+      [
+        1758560587093,
+        0.9867894558702959
+      ],
+      [
+        1758564111103,
+        0.9543394870095986
+      ],
+      [
+        1758567672929,
+        0.9319952150509695
+      ],
+      [
+        1758571316099,
+        0.916302969790135
+      ],
+      [
+        1758574916332,
+        0.9264258347832005
+      ],
+      [
+        1758578518138,
+        0.9649298803433666
+      ],
+      [
+        1758582112662,
+        0.9621674718443997
+      ],
+      [
+        1758585738554,
+        0.9623321101085296
+      ],
+      [
+        1758589371410,
+        0.9535508849950413
+      ],
+      [
+        1758592983029,
+        0.9326363016736383
+      ],
+      [
+        1758596562772,
+        0.9151808379899145
+      ],
+      [
+        1758600153511,
+        0.9285736382219
+      ],
+      [
+        1758603712695,
+        0.9198685867803514
+      ],
+      [
+        1758607359358,
+        0.9351008029650881
+      ],
+      [
+        1758610967918,
+        0.9746825244525325
+      ],
+      [
+        1758614567072,
+        1.0645492762621356
+      ],
+      [
+        1758618125212,
+        1.150070797541182
+      ],
+      [
+        1758621744507,
+        1.2776359913274182
+      ],
+      [
+        1758625297665,
+        1.2132214290599717
+      ],
+      [
+        1758628946969,
+        1.1374329845747013
+      ],
+      [
+        1758632570687,
+        1.2022807993281242
+      ],
+      [
+        1758636199909,
+        1.2088513390242852
+      ],
+      [
+        1758639770942,
+        1.203907755804172
+      ],
+      [
+        1758643388947,
+        1.1179613431181727
+      ],
+      [
+        1758647004452,
+        1.0784426179774527
+      ],
+      [
+        1758650640086,
+        1.0806089675933654
+      ],
+      [
+        1758654147566,
+        1.013311575654371
+      ],
+      [
+        1758657745909,
+        1.0136931544452943
+      ],
+      [
+        1758661369927,
+        1.018241529912666
+      ],
+      [
+        1758664966314,
+        1.0212727343898422
+      ],
+      [
+        1758668418667,
+        1.0967340298751476
+      ],
+      [
+        1758672133172,
+        1.0614162803901541
+      ],
+      [
+        1758675771816,
+        1.0540699285487756
+      ],
+      [
+        1758679313699,
+        1.059703194488805
+      ],
+      [
+        1758683165723,
+        1.04086722777538
+      ],
+      [
+        1758686470758,
+        1.038505268496106
+      ],
+      [
+        1758690173022,
+        1.0226117556253718
+      ],
+      [
+        1758693783361,
+        1.0287766982059097
+      ],
+      [
+        1758697246800,
+        1.0275944456342085
+      ],
+      [
+        1758700972143,
+        0.9995757356732373
+      ],
+      [
+        1758704577477,
+        0.9481625577242334
+      ],
+      [
+        1758708292145,
+        0.9184702739333195
+      ],
+      [
+        1758711840605,
+        0.9494186177348377
+      ],
+      [
+        1758715392368,
+        0.9829220025894817
+      ],
+      [
+        1758718985750,
+        0.9637445034995226
+      ],
+      [
+        1758721606000,
+        0.96398020286896
+      ]
+    ],
+    "market_caps": [
+      [
+        1758157339008,
+        398463749.24824566
+      ],
+      [
+        1758160968659,
+        340863108.5713201
+      ],
+      [
+        1758164782435,
+        742691835.0259745
+      ],
+      [
+        1758168157342,
+        1041759590.1007427
+      ],
+      [
+        1758172044438,
+        755066574.5325583
+      ],
+      [
+        1758175380624,
+        949733923.0051265
+      ],
+      [
+        1758178934235,
+        889081573.5581588
+      ],
+      [
+        1758182568770,
+        1061940076.8560792
+      ],
+      [
+        1758186058339,
+        1138443858.922096
+      ],
+      [
+        1758189801292,
+        974547097.127944
+      ],
+      [
+        1758193302824,
+        1021284870.6705769
+      ],
+      [
+        1758196958147,
+        1101059895.1876154
+      ],
+      [
+        1758200531323,
+        983506720.9851298
+      ],
+      [
+        1758204174098,
+        752729674.9233707
+      ],
+      [
+        1758207794466,
+        668149690.8321375
+      ],
+      [
+        1758211390691,
+        716367210.917937
+      ],
+      [
+        1758215001445,
+        686725509.8472265
+      ],
+      [
+        1758218565220,
+        509344841.25327134
+      ],
+      [
+        1758222141417,
+        533043050.5007107
+      ],
+      [
+        1758225614927,
+        483170126.43062663
+      ],
+      [
+        1758229303042,
+        516207463.4605406
+      ],
+      [
+        1758232982964,
+        509147964.0715198
+      ],
+      [
+        1758236575884,
+        445898897.5819961
+      ],
+      [
+        1758240224151,
+        451787046.6353527
+      ],
+      [
+        1758243796986,
+        521098978.06021374
+      ],
+      [
+        1758247355421,
+        510570514.15142626
+      ],
+      [
+        1758250847676,
+        529927493.3248313
+      ],
+      [
+        1758254406052,
+        531507428.3451072
+      ],
+      [
+        1758258173439,
+        534931503.389624
+      ],
+      [
+        1758261746501,
+        505123069.9130845
+      ],
+      [
+        1758265308402,
+        542594852.3223959
+      ],
+      [
+        1758268997044,
+        552410442.705884
+      ],
+      [
+        1758272467660,
+        607786450.5402988
+      ],
+      [
+        1758276172156,
+        589075606.2458904
+      ],
+      [
+        1758279724080,
+        610500799.9325624
+      ],
+      [
+        1758283318913,
+        648306529.6204123
+      ],
+      [
+        1758286928415,
+        642591737.5652378
+      ],
+      [
+        1758290556218,
+        739680915.7736096
+      ],
+      [
+        1758294029588,
+        620485858.4390876
+      ],
+      [
+        1758297772486,
+        646522328.8623773
+      ],
+      [
+        1758301300760,
+        599432331.531248
+      ],
+      [
+        1758304946962,
+        569337661.1074287
+      ],
+      [
+        1758308680538,
+        585497472.0542734
+      ],
+      [
+        1758312175385,
+        548169698.3629886
+      ],
+      [
+        1758315716659,
+        535360270.0457277
+      ],
+      [
+        1758319354416,
+        499727745.9037415
+      ],
+      [
+        1758322950591,
+        516458184.8838985
+      ],
+      [
+        1758326514082,
+        515888034.59220725
+      ],
+      [
+        1758330157961,
+        529834799.62886524
+      ],
+      [
+        1758333704198,
+        502688991.9451208
+      ],
+      [
+        1758337335759,
+        488179587.181637
+      ],
+      [
+        1758340925348,
+        473015435.98195606
+      ],
+      [
+        1758344579339,
+        501170490.9685119
+      ],
+      [
+        1758348149960,
+        519945621.63592833
+      ],
+      [
+        1758351684146,
+        500203210.1389383
+      ],
+      [
+        1758355286722,
+        483288114.1603843
+      ],
+      [
+        1758358915545,
+        461476649.13944167
+      ],
+      [
+        1758362504018,
+        434288223.483105
+      ],
+      [
+        1758366149936,
+        423549995.98564637
+      ],
+      [
+        1758369659385,
+        434599654.83967155
+      ],
+      [
+        1758373363008,
+        445089061.8588603
+      ],
+      [
+        1758376934114,
+        391767205.12702274
+      ],
+      [
+        1758380477256,
+        427433312.35775405
+      ],
+      [
+        1758384152674,
+        429883800.80642813
+      ],
+      [
+        1758387764176,
+        434404053.3694774
+      ],
+      [
+        1758391400728,
+        404292699.9277042
+      ],
+      [
+        1758394911703,
+        401642562.1067974
+      ],
+      [
+        1758398554683,
+        362051230.4755709
+      ],
+      [
+        1758402104447,
+        372399795.73103684
+      ],
+      [
+        1758405704693,
+        395272184.7507962
+      ],
+      [
+        1758409345512,
+        430567252.6156324
+      ],
+      [
+        1758412976062,
+        461547173.66925675
+      ],
+      [
+        1758416498751,
+        466057648.44168496
+      ],
+      [
+        1758420140210,
+        492739909.72509515
+      ],
+      [
+        1758423774385,
+        501022841.8922612
+      ],
+      [
+        1758427378426,
+        483951220.04284227
+      ],
+      [
+        1758430971759,
+        492481027.16147745
+      ],
+      [
+        1758434558997,
+        468805720.5788091
+      ],
+      [
+        1758438034597,
+        446344143.15813905
+      ],
+      [
+        1758441629429,
+        443793762.52446914
+      ],
+      [
+        1758445332052,
+        426500876.5161195
+      ],
+      [
+        1758448974192,
+        422119698.2550513
+      ],
+      [
+        1758452544783,
+        432632213.3357459
+      ],
+      [
+        1758456103274,
+        439390012.7584896
+      ],
+      [
+        1758459736562,
+        459470430.1047674
+      ],
+      [
+        1758463340161,
+        585973331.628557
+      ],
+      [
+        1758466929859,
+        543483413.2667793
+      ],
+      [
+        1758470566053,
+        577067553.0094073
+      ],
+      [
+        1758474139188,
+        576335935.7019246
+      ],
+      [
+        1758477795337,
+        544233518.5245216
+      ],
+      [
+        1758481361618,
+        588357056.8541158
+      ],
+      [
+        1758484806766,
+        590894321.5590928
+      ],
+      [
+        1758488433151,
+        584927473.786141
+      ],
+      [
+        1758492163923,
+        558423613.8158634
+      ],
+      [
+        1758495686383,
+        570214144.2529027
+      ],
+      [
+        1758499352428,
+        543669362.3064501
+      ],
+      [
+        1758502873243,
+        502216043.9600636
+      ],
+      [
+        1758506542886,
+        501990866.0763121
+      ],
+      [
+        1758510086602,
+        496578937.48712313
+      ],
+      [
+        1758513707300,
+        500156648.2565876
+      ],
+      [
+        1758517274307,
+        506536509.92173165
+      ],
+      [
+        1758520921443,
+        497516454.4410098
+      ],
+      [
+        1758524589315,
+        475133395.1030914
+      ],
+      [
+        1758528171736,
+        468424164.1059136
+      ],
+      [
+        1758531992296,
+        487377709.6137602
+      ],
+      [
+        1758535322811,
+        470084818.1671658
+      ],
+      [
+        1758539079692,
+        459763231.5563136
+      ],
+      [
+        1758542513891,
+        451578746.36867166
+      ],
+      [
+        1758546157911,
+        457612258.0344684
+      ],
+      [
+        1758549764943,
+        455362157.58825296
+      ],
+      [
+        1758553313230,
+        473682602.55284727
+      ],
+      [
+        1758556983277,
+        459733953.99367255
+      ],
+      [
+        1758560587093,
+        475557549.6713574
+      ],
+      [
+        1758564111103,
+        457007304.1136104
+      ],
+      [
+        1758567672929,
+        447541678.5159146
+      ],
+      [
+        1758571316099,
+        437947370.0486177
+      ],
+      [
+        1758574916332,
+        447449564.5229863
+      ],
+      [
+        1758578518138,
+        457018053.5706265
+      ],
+      [
+        1758582112662,
+        459940178.83320874
+      ],
+      [
+        1758585738554,
+        455874803.4390851
+      ],
+      [
+        1758589371410,
+        461568806.240197
+      ],
+      [
+        1758592983029,
+        453227283.9393637
+      ],
+      [
+        1758596562772,
+        438225458.4571747
+      ],
+      [
+        1758600153511,
+        449728906.5097997
+      ],
+      [
+        1758603712695,
+        439726317.52221245
+      ],
+      [
+        1758607359358,
+        448717885.9999851
+      ],
+      [
+        1758610967918,
+        465587361.31707025
+      ],
+      [
+        1758614567072,
+        519221015.5733406
+      ],
+      [
+        1758618125212,
+        540082333.6849588
+      ],
+      [
+        1758621744507,
+        613841894.7432107
+      ],
+      [
+        1758625297665,
+        581842484.455835
+      ],
+      [
+        1758628946969,
+        537083748.8366944
+      ],
+      [
+        1758632570687,
+        577597938.3936043
+      ],
+      [
+        1758636199909,
+        578170426.211938
+      ],
+      [
+        1758639770942,
+        574196774.7635989
+      ],
+      [
+        1758643388947,
+        535168375.6207566
+      ],
+      [
+        1758647004452,
+        516664811.0438395
+      ],
+      [
+        1758650640086,
+        518924507.4355592
+      ],
+      [
+        1758654147566,
+        512831597.22259265
+      ],
+      [
+        1758657745909,
+        485242257.8605864
+      ],
+      [
+        1758661369927,
+        487110457.3888127
+      ],
+      [
+        1758664966314,
+        488848570.83758557
+      ],
+      [
+        1758668418667,
+        524264049.6931222
+      ],
+      [
+        1758672133172,
+        508361712.8430949
+      ],
+      [
+        1758675771816,
+        499507818.79590243
+      ],
+      [
+        1758679313699,
+        507915229.70739895
+      ],
+      [
+        1758683165723,
+        497562013.90375096
+      ],
+      [
+        1758686470758,
+        497692342.9086477
+      ],
+      [
+        1758690173022,
+        489585532.9359906
+      ],
+      [
+        1758693783361,
+        492525865.0928704
+      ],
+      [
+        1758697246800,
+        486551387.9881114
+      ],
+      [
+        1758700972143,
+        481092205.8906106
+      ],
+      [
+        1758704577477,
+        456569213.3961945
+      ],
+      [
+        1758708292145,
+        439690693.4003192
+      ],
+      [
+        1758711840605,
+        454454236.31348467
+      ],
+      [
+        1758715392368,
+        471828298.038032
+      ],
+      [
+        1758718985750,
+        461769947.2506411
+      ],
+      [
+        1758721606000,
+        461477113.98282516
+      ]
+    ],
+    "total_volumes": [
+      [
+        1758157339008,
+        7001330.661608152
+      ],
+      [
+        1758160968659,
+        9289587.065415362
+      ],
+      [
+        1758164782435,
+        14202130.077795956
+      ],
+      [
+        1758168157342,
+        23790506.934489198
+      ],
+      [
+        1758172044438,
+        26992044.096376345
+      ],
+      [
+        1758175380624,
+        31320696.312219832
+      ],
+      [
+        1758178934235,
+        31376963.644728612
+      ],
+      [
+        1758182568770,
+        34502600.726882875
+      ],
+      [
+        1758186058339,
+        37595112.260689825
+      ],
+      [
+        1758189801292,
+        37977501.51623519
+      ],
+      [
+        1758193302824,
+        39723387.62039695
+      ],
+      [
+        1758196958147,
+        42219361.05459774
+      ],
+      [
+        1758200531323,
+        44665522.05230995
+      ],
+      [
+        1758204174098,
+        45497755.16376356
+      ],
+      [
+        1758207794466,
+        52407609.004592024
+      ],
+      [
+        1758211390691,
+        52424622.06157594
+      ],
+      [
+        1758215001445,
+        52806167.645880215
+      ],
+      [
+        1758218565220,
+        55149415.488997884
+      ],
+      [
+        1758222141417,
+        56671118.302591495
+      ],
+      [
+        1758225614927,
+        55954675.50288886
+      ],
+      [
+        1758229303042,
+        58631821.73964007
+      ],
+      [
+        1758232982964,
+        60336605.72763174
+      ],
+      [
+        1758236575884,
+        64257710.35848075
+      ],
+      [
+        1758240224151,
+        64960951.41771859
+      ],
+      [
+        1758243796986,
+        55413998.96634558
+      ],
+      [
+        1758247355421,
+        53449434.18430006
+      ],
+      [
+        1758250847676,
+        48258053.65654032
+      ],
+      [
+        1758254406052,
+        40354164.005062886
+      ],
+      [
+        1758258173439,
+        38426235.46112936
+      ],
+      [
+        1758261746501,
+        34073961.83688248
+      ],
+      [
+        1758265308402,
+        35664948.290312365
+      ],
+      [
+        1758268997044,
+        34773414.289640576
+      ],
+      [
+        1758272467660,
+        31917907.95341369
+      ],
+      [
+        1758276172156,
+        30433003.942014985
+      ],
+      [
+        1758279724080,
+        29129804.14018641
+      ],
+      [
+        1758283318913,
+        29309350.70646602
+      ],
+      [
+        1758286928415,
+        28309373.721596424
+      ],
+      [
+        1758290556218,
+        27030031.253813867
+      ],
+      [
+        1758294029588,
+        23808831.41725434
+      ],
+      [
+        1758297772486,
+        24469395.356218293
+      ],
+      [
+        1758301300760,
+        23700932.310485464
+      ],
+      [
+        1758304946962,
+        21654791.31118198
+      ],
+      [
+        1758308680538,
+        20053803.150234155
+      ],
+      [
+        1758312175385,
+        18965286.338730372
+      ],
+      [
+        1758315716659,
+        18843334.314355824
+      ],
+      [
+        1758319354416,
+        18082732.70916674
+      ],
+      [
+        1758322950591,
+        17968345.227118246
+      ],
+      [
+        1758326514082,
+        17415826.847712442
+      ],
+      [
+        1758330157961,
+        16295764.973082894
+      ],
+      [
+        1758333704198,
+        16088752.378384074
+      ],
+      [
+        1758337335759,
+        15968295.446886303
+      ],
+      [
+        1758340925348,
+        16096518.524573639
+      ],
+      [
+        1758344579339,
+        15456986.751742672
+      ],
+      [
+        1758348149960,
+        16155562.293547012
+      ],
+      [
+        1758351684146,
+        15561043.45069136
+      ],
+      [
+        1758355286722,
+        6107937.141811536
+      ],
+      [
+        1758358915545,
+        15107148.096928265
+      ],
+      [
+        1758362504018,
+        16149354.253904486
+      ],
+      [
+        1758366149936,
+        16076924.28550335
+      ],
+      [
+        1758369659385,
+        15859247.528080706
+      ],
+      [
+        1758373363008,
+        14576531.689623876
+      ],
+      [
+        1758376934114,
+        15812863.24693398
+      ],
+      [
+        1758380477256,
+        13032887.83947286
+      ],
+      [
+        1758384152674,
+        11619616.886945672
+      ],
+      [
+        1758387764176,
+        11416078.280377733
+      ],
+      [
+        1758391400728,
+        11392099.5162052
+      ],
+      [
+        1758394911703,
+        12925519.207834063
+      ],
+      [
+        1758398554683,
+        13050309.541476108
+      ],
+      [
+        1758402104447,
+        12394499.576534702
+      ],
+      [
+        1758405704693,
+        12134949.2578719
+      ],
+      [
+        1758409345512,
+        12192576.39884204
+      ],
+      [
+        1758412976062,
+        12701038.706928348
+      ],
+      [
+        1758416498751,
+        12267729.702190666
+      ],
+      [
+        1758420140210,
+        12929125.785785567
+      ],
+      [
+        1758423774385,
+        14020265.23951927
+      ],
+      [
+        1758427378426,
+        14264889.542034963
+      ],
+      [
+        1758430971759,
+        13841469.449376004
+      ],
+      [
+        1758434558997,
+        13740951.185521763
+      ],
+      [
+        1758438034597,
+        13442394.072303478
+      ],
+      [
+        1758441629429,
+        18456589.195021577
+      ],
+      [
+        1758445332052,
+        18196431.613277547
+      ],
+      [
+        1758448974192,
+        18067730.04067371
+      ],
+      [
+        1758452544783,
+        17815412.78202371
+      ],
+      [
+        1758456103274,
+        17457926.236939434
+      ],
+      [
+        1758459736562,
+        17460552.776089102
+      ],
+      [
+        1758463340161,
+        18697900.609996744
+      ],
+      [
+        1758466929859,
+        19272366.919770617
+      ],
+      [
+        1758470566053,
+        20251112.508866098
+      ],
+      [
+        1758474139188,
+        20462990.38669253
+      ],
+      [
+        1758477795337,
+        20284607.232576482
+      ],
+      [
+        1758481361618,
+        20330287.263012085
+      ],
+      [
+        1758484806766,
+        19396392.133020375
+      ],
+      [
+        1758488433151,
+        18861170.185122304
+      ],
+      [
+        1758492163923,
+        18649765.232763898
+      ],
+      [
+        1758495686383,
+        17977321.720406193
+      ],
+      [
+        1758499352428,
+        17148976.084410854
+      ],
+      [
+        1758502873243,
+        17063178.334529933
+      ],
+      [
+        1758506542886,
+        16794833.82869916
+      ],
+      [
+        1758510086602,
+        15614254.716114782
+      ],
+      [
+        1758513707300,
+        15780985.60486061
+      ],
+      [
+        1758517274307,
+        15508398.306509318
+      ],
+      [
+        1758520921443,
+        15286790.899649344
+      ],
+      [
+        1758524589315,
+        15897832.153985368
+      ],
+      [
+        1758528171736,
+        16116505.752434187
+      ],
+      [
+        1758531992296,
+        16546472.358172387
+      ],
+      [
+        1758535322811,
+        16352256.563631186
+      ],
+      [
+        1758539079692,
+        16707495.715102855
+      ],
+      [
+        1758542513891,
+        16802209.59105798
+      ],
+      [
+        1758546157911,
+        17122206.770148266
+      ],
+      [
+        1758549764943,
+        15415865.697907299
+      ],
+      [
+        1758553313230,
+        14824988.743712207
+      ],
+      [
+        1758556983277,
+        14421494.808096716
+      ],
+      [
+        1758560587093,
+        13727845.534363832
+      ],
+      [
+        1758564111103,
+        13694425.35881877
+      ],
+      [
+        1758567672929,
+        13784413.085655175
+      ],
+      [
+        1758571316099,
+        14405650.14271124
+      ],
+      [
+        1758574916332,
+        14661790.787316637
+      ],
+      [
+        1758578518138,
+        14614951.464581849
+      ],
+      [
+        1758582112662,
+        14653852.05234906
+      ],
+      [
+        1758585738554,
+        14587084.59419652
+      ],
+      [
+        1758589371410,
+        14278302.757341528
+      ],
+      [
+        1758592983029,
+        13870812.287379045
+      ],
+      [
+        1758596562772,
+        13957042.12701165
+      ],
+      [
+        1758600153511,
+        13861850.128089065
+      ],
+      [
+        1758603712695,
+        10565034.742750164
+      ],
+      [
+        1758607359358,
+        13980933.690068835
+      ],
+      [
+        1758610967918,
+        13327046.259064863
+      ],
+      [
+        1758614567072,
+        14655397.45673416
+      ],
+      [
+        1758618125212,
+        14724081.241894118
+      ],
+      [
+        1758621744507,
+        16779770.08419098
+      ],
+      [
+        1758625297665,
+        18092530.696412373
+      ],
+      [
+        1758628946969,
+        18006184.60364513
+      ],
+      [
+        1758632570687,
+        19072818.170541797
+      ],
+      [
+        1758636199909,
+        18732697.021196824
+      ],
+      [
+        1758639770942,
+        18214213.79969339
+      ],
+      [
+        1758643388947,
+        18952648.220833763
+      ],
+      [
+        1758647004452,
+        19923608.42568527
+      ],
+      [
+        1758650640086,
+        20353870.07972907
+      ],
+      [
+        1758654147566,
+        8876574.601105524
+      ],
+      [
+        1758657745909,
+        8510810.679436056
+      ],
+      [
+        1758661369927,
+        8408682.138773842
+      ],
+      [
+        1758664966314,
+        8249757.301825018
+      ],
+      [
+        1758668418667,
+        18997853.145664565
+      ],
+      [
+        1758672133172,
+        6694210.345665457
+      ],
+      [
+        1758675771816,
+        19120884.515191995
+      ],
+      [
+        1758679313699,
+        18183781.8827714
+      ],
+      [
+        1758683165723,
+        18832831.846254207
+      ],
+      [
+        1758686470758,
+        19193926.2755947
+      ],
+      [
+        1758690173022,
+        19332260.233624496
+      ],
+      [
+        1758693783361,
+        19295813.758793756
+      ],
+      [
+        1758697246800,
+        19443042.948261175
+      ],
+      [
+        1758700972143,
+        18484152.407668293
+      ],
+      [
+        1758704577477,
+        18010972.37913661
+      ],
+      [
+        1758708292145,
+        16682704.165846417
+      ],
+      [
+        1758711840605,
+        16339424.665988421
+      ],
+      [
+        1758715392368,
+        16417222.45704278
+      ],
+      [
+        1758718985750,
+        15639671.95361212
+      ],
+      [
+        1758721606000,
+        15687460.083999423
+      ]
+    ]
+  }
+}
