@@ -335,6 +335,12 @@ nav h2 {
   }
 }
 
+@media (max-width: 900px) {
+  .crypto-table thead th{
+    top:0px;
+  }
+}
+
 .crypto-table th,
 .crypto-table td {
   padding: 14px 16px;
