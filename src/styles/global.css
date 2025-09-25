@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +10,7 @@
 html, body, #root {
   height: 100%;
   width: 100%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Lexend', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 :root {
@@ -35,6 +38,16 @@ html[data-theme="light"] {
   --text: #111111;
   --text-inverse: #ffffff;
   --card-shadow: rgba(0,0,0,0.08);
+
+  --bs-body-bg: var(--bg);
+  --bs-body-color: var(--text);
+  --bs-primary: var(--primary);
+  --bs-secondary: var(--secondary);
+  --bs-success: #2ca02c;
+  --bs-danger: #e64a4a;
+  --bs-info: var(--chart-primary);
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
 }
 
 html[data-theme="dark"] {
@@ -45,36 +58,52 @@ html[data-theme="dark"] {
   --chart-market: #5ea1dd;
   --chart-volume: #579ae2;
   --secondary: #1B2A41;
-  --accent: #a7cdbd;
+  --accent: #769b8c;
   --muted: #a7cdbd;
   --text: #eaeaea;
   --text-inverse: #111111;
   --card-shadow: rgba(0,0,0,0.5);
+
+  --bs-body-bg: var(--bg);
+  --bs-body-color: var(--text);
+  --bs-primary: var(--primary);
+  --bs-secondary: var(--secondary);
+  --bs-success: #2ca02c;
+  --bs-danger: #e64a4a;
+  --bs-info: var(--chart-primary);
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
 }
 
 body {
   transition: background 0.4s ease, color 0.4s ease;
   background: var(--bg);
   color: var(--text);
+  padding-top: 70px; /* equal to navbar height */
 }
 
 nav {
-  position: sticky;
+  position: fixed;   /* stays pinned to top */
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 100;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 16px 40px;
   border-bottom: 1px solid rgba(0,0,0,0.1);
-  background: inherit;
-  backdrop-filter: blur(8px);
+  background: var(--bs-body-bg);
+  font-family: 'Lexend', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
 }
 
+
 nav h2 {
-  font-size: 1.6rem;
-  font-weight: bold;
+  font-size: 2rem;
+  font-weight: 700;
   cursor: pointer;
+  font-family: 'Audiowide', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav-links {
@@ -197,21 +226,13 @@ nav h2 {
   font-size: 2rem;
   font-weight: bold;
   margin-bottom: 20px;
+  font-family: 'Lexend', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .filter-bar {
   display: flex;
   gap: 12px;
   margin-bottom: 20px;
-}
-
-.filter-btn {
-  padding: 8px 14px;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
-  transition: background 0.3s ease, color 0.3s ease;
-  font-size: 0.9rem;
 }
 
 .filter-btn {
@@ -224,10 +245,12 @@ nav h2 {
 }
 
 .crypto-table {
+  display: inline-table;
   width: 100%;
   border-collapse: collapse;
   border-radius: 12px;
-  overflow: hidden;
+  overflow-x: auto;
+  white-space: nowrap;
   font-size: 0.95rem;
   table-layout: auto;
 }
@@ -236,12 +259,44 @@ nav h2 {
   background: color-mix(in srgb, var(--surface) 88%, transparent);
 }
 
+.crypto-table thead th {
+  position: sticky;
+  top: 70px;
+  background: var(--surface); 
+  z-index: 20; 
+  transition: top 0.2s ease;
+}
+
+.crypto-table td:first-child,
+.crypto-table th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 11;      
+  width: 250px;     
+  min-width: 250px;  
+  max-width: 2000px;
+}
+
+.crypto-table thead th:first-child {
+  left: 0;
+  z-index: 30;
+}
+
+.crypto-table td:first-child{
+  transition: background 0.45s ease, color 0.45s ease;
+  background: var(--bs-body-bg) ; 
+  min-width: 300px;
+  max-width: 400px;
+  text-wrap: wrap;
+}
+
 .crypto-table th,
 .crypto-table td {
   padding: 14px 16px;
   text-align: left;
   white-space: nowrap;
   vertical-align: middle;
+  font-weight: 350;
 }
 
 .crypto-table th {
@@ -260,10 +315,15 @@ nav h2 {
   background: color-mix(in srgb, var(--primary) 6%, transparent);
 }
 
+.crypto-table tbody tr:hover td:first-child{
+  background: color-mix(in srgb, var(--primary) 6%, transparent);
+}
+
 .coin-cell {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 5px;
+  font-weight: 400;
 }
 
 .coin-cell a{
@@ -536,6 +596,8 @@ nav h2 {
 
 .coin-links {
   margin-top: 30px;
+  font-size: 15px;
+  font-weight: 200;
 } 
 .coin-links ul {
   list-style: none;
@@ -550,4 +612,57 @@ nav h2 {
   color: var(--accent);
   font-weight: bold;
   text-decoration: none;
+}
+
+.dropdown-toggle {
+  height: 36px ;
+  width: auto ;
+  padding: 6px 12px ;
+  background-color: var(--primary) ;
+  color: var(--text) ;
+  border: none ;
+  font-weight: 400;
+  border-radius: 6px;
+}
+
+.dropdown-toggle:hover,
+.dropdown-toggle:focus {
+  background-color: var(--accent) ;
+  color: #fff ;
+}
+
+.dropdown-menu{
+  background-color: var(--bg) ;
+  border: 1px solid var(--secondary) ;
+  border-radius: 6px ;
+  min-width: 180px;
+  font-weight: 350 !important;
+}
+
+.dropdown-item {
+  background-color: var(--accent);
+  display: block;
+  color: var(--text) ;
+  padding: 0.5rem 1rem ;
+  width: 100%;
+  font-weight: 350 !important
+}
+
+.dropdown-item:hover,
+.dropdown-item.active {
+  background-color: var(--accent) !important;
+  color: #fff !important;
+  font-weight: 400 !important
+}
+
+.dropdown button{
+  background-color: var(--secondary);
+  border-color: var(--secondary);
+}
+.dropdown button:hover{
+  background-color: var(--accent);
+  border-color: var(--accent);
+}
+.dropdown button:focus{
+  background-color: var(--accent);
 }

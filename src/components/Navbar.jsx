@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { BsIncognito } from "react-icons/bs";
 
 export default function Navbar({ toggleDarkMode }) {
   return (
@@ -9,8 +10,13 @@ export default function Navbar({ toggleDarkMode }) {
       <div className="nav-links">
         <Link to="/dashboard">Dashboard</Link>
         <Link to="/watchlist">Watch-list</Link>
-        <button className="nav-btn" onClick={toggleDarkMode}>
-          Dark Mode
+        <button
+          className="nav-btn"
+          onClick={toggleDarkMode}
+          aria-label="Toggle dark mode"
+          title="Toggle dark mode"
+        >
+          <BsIncognito size={18} aria-hidden />
         </button>
       </div>
     </nav>

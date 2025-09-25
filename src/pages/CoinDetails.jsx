@@ -110,7 +110,7 @@ export default function CoinDetails() {
     return value.toLocaleString();
   }
 
-  if (!coin) return <p className="loading">Loading...</p>;
+  if (!coin) return <p className="loading" style={{textAlign: 'center'}}>Loading...</p>;
 
   // Chart color responding to theme toggle
   const rootStyles = getComputedStyle(document.documentElement);
