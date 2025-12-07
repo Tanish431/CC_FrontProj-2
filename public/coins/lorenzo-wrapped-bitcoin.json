@@ -1,5 +1,5 @@
 {
-  "savedAt": "2025-12-06T04:33:28.366Z",
+  "savedAt": "2025-12-07T04:51:17.332Z",
   "id": "lorenzo-wrapped-bitcoin",
   "detail": {
     "id": "lorenzo-wrapped-bitcoin",
@@ -78,8 +78,8 @@
     "country_origin": "",
     "genesis_date": null,
     "contract_address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
-    "sentiment_votes_up_percentage": 0,
-    "sentiment_votes_down_percentage": 100,
+    "sentiment_votes_up_percentage": null,
+    "sentiment_votes_down_percentage": null,
     "watchlist_portfolio_users": 104,
     "market_cap_rank": 179,
     "market_data": {
