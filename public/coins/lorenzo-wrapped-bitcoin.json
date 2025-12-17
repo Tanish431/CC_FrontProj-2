@@ -1,5 +1,5 @@
 {
-  "savedAt": "2025-12-16T04:47:01.590Z",
+  "savedAt": "2025-12-17T04:42:33.611Z",
   "id": "lorenzo-wrapped-bitcoin",
   "detail": {
     "id": "lorenzo-wrapped-bitcoin",
@@ -80,8 +80,8 @@
     "contract_address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
     "sentiment_votes_up_percentage": null,
     "sentiment_votes_down_percentage": null,
-    "watchlist_portfolio_users": 112,
-    "market_cap_rank": 176,
+    "watchlist_portfolio_users": 114,
+    "market_cap_rank": 177,
     "market_data": {
       "current_price": {
         "aed": 332192,
@@ -607,7 +607,7 @@
         "link": 28980455,
         "sats": 429790560805
       },
-      "market_cap_rank": 176,
+      "market_cap_rank": 177,
       "fully_diluted_valuation": {
         "aed": 1471869664,
         "ars": 582232682966,
@@ -1016,22 +1016,22 @@
         "aed": -5.75729,
         "ars": -2.7122,
         "aud": -5.64218,
-        "bch": -13.21013,
+        "bch": -12.96993,
         "bdt": -5.50493,
         "bhd": -5.33164,
         "bmd": -5.75729,
-        "bnb": -0.81455,
+        "bnb": -0.58354,
         "brl": -5.13698,
-        "btc": -0.46949,
+        "btc": -0.34411,
         "cad": -5.7323,
         "chf": -4.82153,
         "clp": -5.68601,
         "cny": -6.01149,
         "czk": -5.66239,
         "dkk": -5.61979,
-        "dot": 15.54679,
-        "eos": 14.57084,
-        "eth": -0.56341,
+        "dot": 15.77978,
+        "eos": 14.85476,
+        "eth": -0.40983,
         "eur": -5.6196,
         "gbp": -6.4254,
         "gel": -5.75729,
@@ -1044,7 +1044,7 @@
         "krw": -4.70009,
         "kwd": -5.32267,
         "lkr": -5.00141,
-        "ltc": 11.42127,
+        "ltc": 11.13964,
         "mmk": -5.75729,
         "mxn": -5.66604,
         "myr": -5.88271,
@@ -1058,7 +1058,7 @@
         "sar": -5.73633,
         "sek": -5.45085,
         "sgd": -5.9388,
-        "sol": -6.48201,
+        "sol": -6.22859,
         "thb": -5.90119,
         "try": -5.1416,
         "twd": -3.82875,
@@ -1069,13 +1069,13 @@
         "xag": -9.99814,
         "xau": -7.43793,
         "xdr": -9.45394,
-        "xlm": -4.38073,
-        "xrp": -4.49219,
-        "yfi": 6.32579,
+        "xlm": -4.11668,
+        "xrp": -4.17353,
+        "yfi": 6.39252,
         "zar": -5.49842,
-        "bits": -0.46949,
-        "link": -0.68316,
-        "sats": -0.46949
+        "bits": -0.34411,
+        "link": -0.20856,
+        "sats": -0.34411
       },
       "price_change_percentage_60d_in_currency": {
         "aed": -19.69924,
@@ -1158,7 +1158,7 @@
       "reddit_average_comments_48h": 0,
       "reddit_subscribers": 0,
       "reddit_accounts_active_48h": 0,
-      "telegram_channel_user_count": 2570
+      "telegram_channel_user_count": 2567
     },
     "developer_data": {
       "forks": 0,
@@ -1181,14 +1181,6 @@
   },
   "chart": {
     "prices": [
-      [
-        1763269349982,
-        95979.7224650867
-      ],
-      [
-        1763273024050,
-        95979.7224650867
-      ],
       [
         1764180092424,
         87460.66949296741
@@ -1340,14 +1332,6 @@
     ],
     "market_caps": [
       [
-        1763269349982,
-        251173164.48726553
-      ],
-      [
-        1763273024050,
-        251173164.48726553
-      ],
-      [
         1764180092424,
         373604299.159513
       ],
@@ -1497,14 +1481,6 @@
       ]
     ],
     "total_volumes": [
-      [
-        1763269349982,
-        2.7690149931211083
-      ],
-      [
-        1763273024050,
-        2.7690149931211083
-      ],
       [
         1764180092424,
         2.5900307738005965
