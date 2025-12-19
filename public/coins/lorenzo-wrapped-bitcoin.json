@@ -1,5 +1,5 @@
 {
-  "savedAt": "2025-12-18T04:41:49.602Z",
+  "savedAt": "2025-12-19T04:41:45.294Z",
   "id": "lorenzo-wrapped-bitcoin",
   "detail": {
     "id": "lorenzo-wrapped-bitcoin",
@@ -81,7 +81,7 @@
     "sentiment_votes_up_percentage": null,
     "sentiment_votes_down_percentage": null,
     "watchlist_portfolio_users": 115,
-    "market_cap_rank": 171,
+    "market_cap_rank": 170,
     "market_data": {
       "current_price": {
         "aed": 332192,
@@ -607,7 +607,7 @@
         "link": 28980455,
         "sats": 429790560805
       },
-      "market_cap_rank": 171,
+      "market_cap_rank": 170,
       "fully_diluted_valuation": {
         "aed": 1471870386,
         "ars": 582232968574,
