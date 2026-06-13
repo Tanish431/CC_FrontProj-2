@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-08T08:03:40.303Z",
+  "savedAt": "2026-06-13T07:48:07.380Z",
   "id": "origintrail",
   "detail": {
     "id": "origintrail",
@@ -26,22 +26,23 @@
     "block_time_in_minutes": 0,
     "hashing_algorithm": null,
     "categories": [
-      "Artificial Intelligence (AI)",
-      "Polkadot Ecosystem",
-      "Metaverse",
-      "Ethereum Ecosystem",
-      "Interoperability",
-      "Real World Assets (RWA)",
-      "DePIN",
+      "Base Native",
       "Base Ecosystem",
-      "Decentralized Science (DeSci)",
-      "AI Agents",
+      "Polkadot Ecosystem",
+      "Interoperability",
+      "Metaverse",
       "InfoFi",
-      "Base Native"
+      "Real World Assets (RWA)",
+      "AI Agents",
+      "Ethereum Ecosystem",
+      "Decentralized Science (DeSci)",
+      "Artificial Intelligence (AI)",
+      "DePIN"
     ],
     "preview_listing": false,
     "public_notice": null,
     "additional_notices": [],
+    "has_supply_breakdown": true,
     "description": {
       "en": "What is OriginTrail (TRAC)?\nOriginTrail is an ecosystem building a trusted knowledge infrastructure for artificial intelligence (AI). It addresses the challenge of misinformation in the AI era by ensuring the origin of information and enabling discoverability of the world's most important knowledge and real-world assets (RWAs).\nOriginTrail is creating a verifiable Internet for decentralized AI by empowering world-class brands and builders. It utilizes its unique Decentralized Knowledge Graph and  NeuroWeb blockchain to deliver AI-powered search and solutions for enterprises and individuals worldwide.\nOriginTrail has gained support and partnerships with world-class organizations such as British Standards Institution, SCAN, Polkadot, Parity, Walmart, World Federation of Hemophilia, Oracle, the EU Commission's Next Generation Internet, and Microsoft Entrepreneurship for Positive Impact. These partnerships contribute to advancing OriginTrail's trusted knowledge foundation and its applicability in trillion-dollar industries, while providing a verifiable Internet of knowledge important in particular to drive the economies of RWAs.\nThe best way to see the technology in action is by checking ChatDKG,  an experimental, question-answering bot on X (Twitter) based on trusted Knowledge Assets in OriginTrail Decentralized Knowledge Graph (DKG). The ChatDKG provides answers based on OriginTrail trusted AI.\nThe Metcalfe phase of OriginTrail’s roadmap pursues an ambitious goal of creating the world’s largest verifiable Internet for AI, consisting of 100 billion Knowledge Assets, bringing a 100,000x scalability increase. As the name of the phase suggests, it seeks to produce network effects across the OriginTrail DKG and use novel techniques to pursue autonomous DKG growth based on the Genesis knowledge foundation being created by organizations and individuals alike. The Genesis part of the Metcalfe’s phase also introduces knowledge mining and knowledge signaling capabilities to drive constant growth of the verifiable Internet.\nFollowing the Genesis stage and the transition to an AI-native V8, further capabilities will become available in the Convergence stage. By leveraging the advancements in AI and the DKG, we will unlock autonomous knowledge mining which in turn leads to an autonomous DKG. At that stage, new knowledge gets added to the DKG with very limited human involvement. Services such as AI agents will be performing knowledge inferencing directly on the DKG to find any “blind spots” in the knowledge they can fill as well as search for new knowledge and bring it to the DKG in accordance with knowledge signaling.\n\nWho are the founders of OriginTrail?\nThe founders of OriginTrail, Žiga Drev, Tomaž Levak, and Branimir Rakić, established OriginTrail with a vision to build and implement a Decentralized Knowledge Graph (DKG)—an infrastructure designed to bring trusted knowledge sharing to enterprises and individuals across the globe. Their mission was to address the growing need for verifiable, transparent, and decentralized data in an increasingly complex digital world. This vision has led to adoption by major institutions, including the British Standards Institution (BSI), the Supplier Compliance Audit Network (SCAN), Swiss Federal Railways (SBB), World Federation of Hemophilia (WFH), and numerous EU and UK government-backed projects.\nGuided by principles of neutrality, inclusiveness, and usability, the founders spearheaded partnerships with leading technology companies and initiated a grant program to minimize development risks and foster community growth within the OriginTrail ecosystem.\nAs part of their ongoing mission to tackle AI-era challenges—such as misinformation, deepfakes, and data manipulation—Trace Labs, the core developers behind OriginTrail, became a founding shareholder in Umanitek. Umanitek builds on the symbolic-AI foundation of the DKG to ensure information trust, defend data ownership, and uphold censorship-resistant digital infrastructure"
     },
@@ -81,8 +82,8 @@
     "country_origin": "SI",
     "genesis_date": "2018-01-24",
     "contract_address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
-    "sentiment_votes_up_percentage": 100,
-    "sentiment_votes_down_percentage": 0,
+    "sentiment_votes_up_percentage": null,
+    "sentiment_votes_down_percentage": null,
     "ico_data": {
       "ico_start_date": "2018-01-15T00:00:00.000Z",
       "ico_end_date": "2018-02-12T00:00:00.000Z",
@@ -125,82 +126,82 @@
       "pre_sale_available": true,
       "pre_sale_ended": true
     },
-    "watchlist_portfolio_users": 45175,
-    "market_cap_rank": 191,
-    "market_cap_rank_with_rehypothecated": 267,
+    "watchlist_portfolio_users": 45186,
+    "market_cap_rank": 198,
+    "market_cap_rank_with_rehypothecated": 273,
     "market_data": {
       "current_price": {
-        "aed": 1.36,
-        "ars": 533.77,
-        "aud": 0.525648,
-        "bch": 0.00170737,
-        "bdt": 45.49,
-        "bhd": 0.139809,
-        "bmd": 0.370491,
-        "bnb": 0.00062321,
-        "brl": 1.92,
-        "btc": 0.00000587,
-        "cad": 0.516885,
-        "chf": 0.295629,
-        "clp": 339.13,
-        "cny": 2.51,
-        "czk": 7.79,
-        "dkk": 2.4,
-        "dot": 0.38380898,
-        "eos": 5.743731,
-        "eth": 0.00022216,
-        "eur": 0.321696,
-        "gbp": 0.277983,
-        "gel": 0.985507,
-        "hkd": 2.9,
-        "huf": 114.58,
-        "idr": 6737.22,
-        "ils": 1.099,
-        "inr": 35.43,
-        "jpy": 59.36,
-        "krw": 567.48,
-        "kwd": 0.11456,
-        "lkr": 124.71,
-        "ltc": 0.00865822,
-        "mmk": 777.96,
-        "mxn": 6.47,
-        "myr": 1.51,
-        "ngn": 504.76,
-        "nok": 3.5,
-        "nzd": 0.638615,
-        "php": 22.86,
-        "pkr": 103.16,
-        "pln": 1.37,
-        "rub": 27.17,
-        "sar": 1.4,
-        "sek": 3.51,
-        "sgd": 0.477993,
-        "sol": 0.00561438,
-        "thb": 12.18,
-        "try": 17.08,
-        "twd": 11.7,
-        "uah": 16.44,
-        "usd": 0.370491,
-        "vef": 0.03709728,
-        "vnd": 9761.33,
-        "xag": 0.00553728,
-        "xau": 0.00008627,
-        "xdr": 0.262458,
-        "xlm": 1.824271,
-        "xrp": 0.3233885,
-        "yfi": 0.00019828,
-        "zar": 6.15,
-        "bits": 5.87,
-        "link": 0.04688104,
-        "sats": 586.95
+        "aed": 1.32,
+        "ars": 512.03,
+        "aud": 0.508685,
+        "bch": 0.00173155,
+        "bdt": 44.07,
+        "bhd": 0.135044,
+        "bmd": 0.358368,
+        "bnb": 0.00059399,
+        "brl": 1.82,
+        "btc": 0.00000561,
+        "cad": 0.501518,
+        "chf": 0.285593,
+        "clp": 323.22,
+        "cny": 2.43,
+        "czk": 7.48,
+        "dkk": 2.32,
+        "dot": 0.36481819,
+        "eos": 4.918339,
+        "eth": 0.00021415,
+        "eur": 0.309753,
+        "gbp": 0.267249,
+        "gel": 0.951468,
+        "hkd": 2.81,
+        "huf": 109.13,
+        "idr": 6371.54,
+        "ils": 1.047,
+        "inr": 34.08,
+        "jpy": 57.42,
+        "krw": 544.01,
+        "kwd": 0.110481,
+        "lkr": 120.13,
+        "ltc": 0.0082469,
+        "mmk": 752.51,
+        "mxn": 6.17,
+        "myr": 1.45,
+        "ngn": 487.68,
+        "nok": 3.4,
+        "nzd": 0.614486,
+        "php": 21.78,
+        "pkr": 99.7,
+        "pln": 1.32,
+        "rub": 25.97,
+        "sar": 1.35,
+        "sek": 3.39,
+        "sgd": 0.460324,
+        "sol": 0.00533072,
+        "thb": 11.77,
+        "try": 16.57,
+        "twd": 11.33,
+        "uah": 16.06,
+        "usd": 0.358368,
+        "vef": 0.03588341,
+        "vnd": 9427.02,
+        "xag": 0.00528711,
+        "xau": 0.00008511,
+        "xdr": 0.252565,
+        "xlm": 1.886038,
+        "xrp": 0.31400716,
+        "yfi": 0.00018874,
+        "zar": 5.85,
+        "bits": 5.61,
+        "link": 0.04510865,
+        "sats": 561.49
       },
       "total_value_locked": null,
       "mcap_to_tvl_ratio": null,
       "fdv_to_tvl_ratio": null,
       "roi": {
-        "times": 2.704911989203734,
+        "times": 2.583681810596668,
         "currency": "usd",
-        "percentage": 270.4911989203734
+        "percentage": 258.3681810596668
       },
       "ath": {
         "aed": 12.87,
@@ -268,69 +269,69 @@
         "sats": 5660.77
       },
       "ath_change_percentage": {
-        "aed": -89.42218,
-        "ars": -59.1024,
-        "aud": -88.83834,
-        "bch": -70.71025,
-        "bdt": -84.85569,
-        "bhd": -89.41322,
-        "bmd": -89.42074,
-        "bnb": -94.94534,
-        "brl": -90.25195,
-        "btc": -89.64467,
-        "cad": -88.09786,
-        "chf": -90.74294,
-        "clp": -88.12367,
-        "cny": -88.804,
-        "czk": -89.91675,
-        "dkk": -89.30029,
-        "dot": -22.27891,
-        "eos": -23.05823,
-        "eth": -71.43663,
-        "eur": -89.35163,
-        "gbp": -89.15257,
-        "gel": -75.91452,
-        "hkd": -89.3534,
-        "huf": -89.45112,
-        "idr": -86.64001,
-        "ils": -89.92942,
-        "inr": -86.42507,
-        "jpy": -85.1192,
-        "krw": -86.31006,
-        "kwd": -89.15783,
-        "lkr": -82.32673,
-        "ltc": -51.14316,
-        "mmk": -87.66127,
-        "mxn": -91.12013,
-        "myr": -89.63087,
-        "ngn": -79.38754,
-        "nok": -88.28135,
-        "nzd": -86.97357,
-        "php": -87.14233,
-        "pkr": -82.64689,
-        "pln": -90.15339,
-        "rub": -89.21419,
-        "sar": -89.36442,
-        "sek": -88.30411,
-        "sgd": -85.68978,
-        "sol": -20.97693,
-        "thb": -89.59829,
-        "try": -65.26686,
-        "twd": -88.00284,
-        "uah": -82.1077,
-        "usd": -89.42074,
+        "aed": -89.81585,
+        "ars": -60.95149,
+        "aud": -89.24262,
+        "bch": -70.41659,
+        "bdt": -85.39507,
+        "bhd": -89.82157,
+        "bmd": -89.81446,
+        "bnb": -95.18841,
+        "brl": -90.7893,
+        "btc": -90.11177,
+        "cad": -88.50257,
+        "chf": -91.09497,
+        "clp": -88.73355,
+        "cny": -89.24118,
+        "czk": -90.3535,
+        "dkk": -89.73869,
+        "dot": -26.3748,
+        "eos": -35.06669,
+        "eth": -72.52212,
+        "eur": -89.78948,
+        "gbp": -89.61417,
+        "gel": -76.85448,
+        "hkd": -89.74787,
+        "huf": -89.98526,
+        "idr": -87.42422,
+        "ils": -90.45719,
+        "inr": -86.99888,
+        "jpy": -85.67167,
+        "krw": -86.93869,
+        "kwd": -89.59243,
+        "lkr": -83.05433,
+        "ltc": -53.64576,
+        "mmk": -88.12047,
+        "mxn": -91.56776,
+        "myr": -90.04964,
+        "ngn": -80.17738,
+        "nok": -88.65116,
+        "nzd": -87.51734,
+        "php": -87.80289,
+        "pkr": -83.30761,
+        "pln": -90.54945,
+        "rub": -89.75043,
+        "sar": -89.80775,
+        "sek": -88.73431,
+        "sgd": -86.27958,
+        "sol": -25.19006,
+        "thb": -89.98922,
+        "try": -66.46058,
+        "twd": -88.43159,
+        "uah": -82.60521,
+        "usd": -89.81446,
         "vef": -99.99995,
-        "vnd": -87.73443,
-        "xag": -96.32671,
-        "xau": -95.65144,
-        "xdr": -89.43281,
-        "xlm": -83.26838,
-        "xrp": -89.27154,
-        "yfi": -18.60086,
-        "zar": -88.63862,
-        "bits": -89.64467,
-        "link": -93.34513,
-        "sats": -89.64467
+        "vnd": -88.20955,
+        "xag": -96.50472,
+        "xau": -95.72783,
+        "xdr": -89.87839,
+        "xlm": -82.73566,
+        "xrp": -89.61335,
+        "yfi": -22.82132,
+        "zar": -89.23745,
+        "bits": -90.11177,
+        "link": -93.61819,
+        "sats": -90.11177
       },
       "ath_date": {
         "aed": "2021-11-03T18:09:57.627Z",
@@ -463,69 +464,69 @@
         "sats": 93.33
       },
       "atl_change_percentage": {
-        "aed": 9522.70316,
-        "ars": 221065.15294,
-        "aud": 8504.75616,
-        "bch": 7109.89305,
-        "bdt": 13747.76053,
-        "bhd": 9529.25802,
-        "bmd": 9524.53731,
-        "bnb": 107.94421,
-        "brl": 10288.41817,
-        "btc": 544.64375,
-        "cad": 9537.47207,
-        "chf": 8015.72133,
-        "clp": 10231.67378,
-        "cny": 9204.38723,
-        "czk": 8513.20731,
-        "dkk": 9238.34488,
-        "dot": 4996.53409,
-        "eos": 272651.75297,
-        "eth": 505.49761,
-        "eur": 9236.91814,
-        "gbp": 8952.54321,
-        "gel": 38.73982,
-        "hkd": 9593.89054,
-        "huf": 9724.43366,
-        "idr": 11724.90757,
-        "ils": 7643.56928,
-        "inr": 12088.39921,
-        "jpy": 14574.34253,
-        "krw": 11947.02066,
-        "kwd": 9572.64873,
-        "lkr": 17514.8235,
-        "ltc": 6105.21215,
-        "mmk": 14373.15105,
-        "mxn": 7530.91954,
-        "myr": 9032.15042,
-        "ngn": 24965.06427,
-        "nok": 8785.07754,
-        "nzd": 10082.08226,
-        "php": 11512.61148,
-        "pkr": 16640.88111,
-        "pln": 8933.21609,
-        "rub": 9331.51789,
-        "sar": 9569.28012,
-        "sek": 9215.22092,
-        "sgd": 8695.16429,
-        "sol": 290.73055,
-        "thb": 9778.67679,
-        "try": 70115.53023,
-        "twd": 9947.79673,
-        "uah": 16321.26078,
-        "usd": 9524.53731,
-        "vef": 180.28995,
-        "vnd": 10773.78735,
-        "xag": 2117.39234,
-        "xau": 3394.52177,
-        "xdr": 9375.18799,
-        "xlm": 1802.88076,
-        "xrp": 965.18658,
-        "yfi": 5761.3637,
-        "zar": 9520.37831,
-        "bits": 528.10396,
-        "link": 1794.6034,
-        "sats": 528.10396
+        "aed": 9164.58031,
+        "ars": 211065.6575,
+        "aud": 8193.08859,
+        "bch": 7182.1808,
+        "bdt": 13254.56675,
+        "bhd": 9157.84577,
+        "bmd": 9166.34619,
+        "bnb": 97.94467,
+        "brl": 9715.75953,
+        "btc": 515.56515,
+        "cad": 9209.76671,
+        "chf": 7707.08995,
+        "clp": 9701.11223,
+        "cny": 8841.06753,
+        "czk": 8140.1338,
+        "dkk": 8855.7282,
+        "dot": 4727.94727,
+        "eos": 230082.82032,
+        "eth": 482.48697,
+        "eur": 8852.99119,
+        "gbp": 8567.32516,
+        "gel": 33.32534,
+        "hkd": 9234.72296,
+        "huf": 9226.97893,
+        "idr": 11030.79675,
+        "ils": 7237.75091,
+        "inr": 11573.19974,
+        "jpy": 14029.53834,
+        "krw": 11393.83398,
+        "kwd": 9184.92876,
+        "lkr": 16789.62375,
+        "ltc": 5787.36137,
+        "mmk": 13834.51174,
+        "mxn": 7146.25567,
+        "myr": 8663.34374,
+        "ngn": 24004.59788,
+        "nok": 8504.68467,
+        "nzd": 9657.04412,
+        "php": 10916.01815,
+        "pkr": 16003.47712,
+        "pln": 8569.88083,
+        "rub": 8862.60653,
+        "sar": 9166.22276,
+        "sek": 8872.59462,
+        "sgd": 8332.66455,
+        "sol": 269.89868,
+        "thb": 9407.4127,
+        "try": 67702.33783,
+        "twd": 9588.71362,
+        "uah": 15864.65583,
+        "usd": 9166.34619,
+        "vef": 169.85855,
+        "vnd": 10352.57993,
+        "xag": 2009.93712,
+        "xau": 3333.13659,
+        "xdr": 8975.65498,
+        "xlm": 1863.46644,
+        "xrp": 931.25004,
+        "yfi": 5457.45759,
+        "zar": 9013.30775,
+        "bits": 499.77144,
+        "link": 1716.86473,
+        "sats": 499.77144
       },
       "atl_date": {
         "aed": "2020-03-13T02:24:12.031Z",
@@ -593,1065 +594,1065 @@
         "sats": "2019-12-17T00:00:00.000Z"
       },
       "market_cap": {
-        "aed": 609179329,
-        "ars": 238980660977,
-        "aud": 235342438,
-        "bch": 763604,
-        "bdt": 20366200603,
-        "bhd": 62595104,
-        "bmd": 165875923,
-        "bnb": 278340,
-        "brl": 857810751,
-        "btc": 2622,
-        "cad": 231419307,
-        "chf": 132358537,
-        "clp": 151834526574,
-        "cny": 1124671937,
-        "czk": 3486197697,
-        "dkk": 1076499412,
-        "dot": 171708878,
-        "eos": 2566266641,
-        "eth": 99238,
-        "eur": 144029567,
-        "gbp": 124458364,
-        "gel": 441229957,
-        "hkd": 1299588098,
-        "huf": 51301083658,
-        "idr": 3016381261816,
-        "ils": 492015359,
-        "inr": 15862384471,
-        "jpy": 26577991167,
-        "krw": 254069492533,
-        "kwd": 51290494,
-        "lkr": 55833143317,
-        "ltc": 3873965,
-        "mmk": 348307922921,
-        "mxn": 2897368026,
-        "myr": 675280885,
-        "ngn": 225989358174,
-        "nok": 1567432098,
-        "nzd": 285919832,
-        "php": 10235789047,
-        "pkr": 46186513039,
-        "pln": 611397754,
-        "rub": 12163222823,
-        "sar": 625568036,
-        "sek": 1569898176,
-        "sgd": 214006647,
-        "sol": 2510706,
-        "thb": 5454663868,
-        "try": 7647327772,
-        "twd": 5237963562,
-        "uah": 7359884370,
-        "usd": 165875923,
-        "vef": 16609156,
-        "vnd": 4370331349730,
-        "xag": 2479147,
-        "xau": 38624,
-        "xdr": 117507499,
-        "xlm": 815729519,
-        "xrp": 144594859,
-        "yfi": 88685,
-        "zar": 2751627449,
-        "bits": 2622474512,
-        "link": 20971084,
-        "sats": 262247451190
+        "aed": 588630172,
+        "ars": 229007217675,
+        "aud": 227509689,
+        "bch": 774649,
+        "bdt": 19711922192,
+        "bhd": 60398505,
+        "bmd": 160280510,
+        "bnb": 265769,
+        "brl": 813535784,
+        "btc": 2512,
+        "cad": 224304559,
+        "chf": 127731866,
+        "clp": 144558594612,
+        "cny": 1084682322,
+        "czk": 3345807558,
+        "dkk": 1035588402,
+        "dot": 163322134,
+        "eos": 2173916603,
+        "eth": 95820,
+        "eur": 138537176,
+        "gbp": 119527587,
+        "gel": 425544754,
+        "hkd": 1255966089,
+        "huf": 48809019628,
+        "idr": 2849675268241,
+        "ils": 468168951,
+        "inr": 15244355903,
+        "jpy": 25681585808,
+        "krw": 243309019517,
+        "kwd": 49412718,
+        "lkr": 53728220651,
+        "ltc": 3688571,
+        "mmk": 336558617325,
+        "mxn": 2760495193,
+        "myr": 650354197,
+        "ngn": 218116116802,
+        "nok": 1522264142,
+        "nzd": 274829464,
+        "php": 9740406061,
+        "pkr": 44588742445,
+        "pln": 588477585,
+        "rub": 11613748311,
+        "sar": 601660978,
+        "sek": 1516490517,
+        "sgd": 205880315,
+        "sol": 2384607,
+        "thb": 5265697032,
+        "try": 7410168831,
+        "twd": 5068310141,
+        "uah": 7181129425,
+        "usd": 160280510,
+        "vef": 16048887,
+        "vnd": 4216243919320,
+        "xag": 2364665,
+        "xau": 38063,
+        "xdr": 112959933,
+        "xlm": 843916748,
+        "xrp": 140473071,
+        "yfi": 84398,
+        "zar": 2614791394,
+        "bits": 2511990648,
+        "link": 20177792,
+        "sats": 251199064839
       },
-      "market_cap_rank": 191,
+      "market_cap_rank": 198,
       "outstanding_token_value_usd": null,
-      "market_cap_rank_with_rehypothecated": 267,
+      "market_cap_rank_with_rehypothecated": 273,
       "fully_diluted_valuation": {
-        "aed": 680991035,
-        "ars": 267152347251,
-        "aud": 263085241,
-        "bch": 853620,
-        "bdt": 22767023379,
-        "bhd": 69973984,
-        "bmd": 185429826,
-        "bnb": 311152,
-        "brl": 958931801,
-        "btc": 2932,
-        "cad": 258699640,
-        "chf": 147961319,
-        "clp": 169733190971,
-        "cny": 1257251304,
-        "czk": 3897160104,
-        "dkk": 1203400072,
-        "dot": 191950384,
-        "eos": 2868785089,
-        "eth": 110936,
-        "eur": 161008161,
-        "gbp": 139129853,
-        "gel": 493243336,
-        "hkd": 1452787056,
-        "huf": 57348594065,
-        "idr": 3371960438158,
-        "ils": 550015459,
-        "inr": 17732285228,
-        "jpy": 29711076606,
-        "krw": 284019891056,
-        "kwd": 57336756,
-        "lkr": 62414905167,
-        "ltc": 4330639,
-        "mmk": 389367402342,
-        "mxn": 3238917600,
-        "myr": 754884820,
-        "ngn": 252629594559,
-        "nok": 1752205231,
-        "nzd": 319624834,
-        "php": 11442411527,
-        "pkr": 51631104037,
-        "pln": 683470973,
-        "rub": 13597056406,
-        "sar": 699311687,
-        "sek": 1754962016,
-        "sgd": 239234329,
-        "sol": 2806675,
-        "thb": 6097674389,
-        "try": 8548815441,
-        "twd": 5855428865,
-        "uah": 8227487433,
-        "usd": 185429826,
-        "vef": 18567088,
-        "vnd": 4885517822126,
-        "xag": 2771395,
-        "xau": 43177,
-        "xdr": 131359601,
-        "xlm": 911889919,
-        "xrp": 161640092,
-        "yfi": 99140,
-        "zar": 3075996730,
-        "bits": 2931618896,
-        "link": 23443212,
-        "sats": 293161889584
+        "aed": 658019488,
+        "ars": 256003207495,
+        "aud": 254329146,
+        "bch": 865967,
+        "bdt": 22035616860,
+        "bhd": 67518443,
+        "bmd": 179174810,
+        "bnb": 297099,
+        "brl": 909437581,
+        "btc": 2808,
+        "cad": 250746187,
+        "chf": 142789243,
+        "clp": 161599552483,
+        "cny": 1212547606,
+        "czk": 3740220397,
+        "dkk": 1157666362,
+        "dot": 182574988,
+        "eos": 2430183769,
+        "eth": 107115,
+        "eur": 154868313,
+        "gbp": 133617822,
+        "gel": 475709119,
+        "hkd": 1404022766,
+        "huf": 54562758792,
+        "idr": 3185602691458,
+        "ils": 523357972,
+        "inr": 17041401782,
+        "jpy": 28709000560,
+        "krw": 271990944395,
+        "kwd": 55237623,
+        "lkr": 60061848527,
+        "ltc": 4123390,
+        "mmk": 376233056844,
+        "mxn": 3085909827,
+        "myr": 727019707,
+        "ngn": 243828234213,
+        "nok": 1701712754,
+        "nzd": 307227104,
+        "php": 10888631455,
+        "pkr": 49844983926,
+        "pln": 657848914,
+        "rub": 12982808354,
+        "sar": 672586400,
+        "sek": 1695258519,
+        "sgd": 230150043,
+        "sol": 2665711,
+        "thb": 5886431631,
+        "try": 8283699562,
+        "twd": 5665776240,
+        "uah": 8027660371,
+        "usd": 179174810,
+        "vef": 17940774,
+        "vnd": 4713266148926,
+        "xag": 2643418,
+        "xau": 42550,
+        "xdr": 126275955,
+        "xlm": 943399936,
+        "xrp": 157032416,
+        "yfi": 94347,
+        "zar": 2923030071,
+        "bits": 2808110896,
+        "link": 22556404,
+        "sats": 280811089586
       },
       "market_cap_fdv_ratio": 0.89,
       "total_volume": {
-        "aed": 49998131,
-        "ars": 19614234721,
-        "aud": 19315629,
-        "bch": 62739,
-        "bdt": 1671547134,
-        "bhd": 5137466,
-        "bmd": 13614195,
-        "bnb": 22901,
-        "brl": 70404448,
-        "btc": 215.684,
-        "cad": 18993640,
-        "chf": 10863270,
-        "clp": 12461753310,
-        "cny": 92306964,
-        "czk": 286128173,
-        "dkk": 88353225,
-        "dot": 14103574,
-        "eos": 211061074,
-        "eth": 8164,
-        "eur": 11821165,
-        "gbp": 10214867,
-        "gel": 36213758,
-        "hkd": 106663133,
-        "huf": 4210514325,
-        "idr": 247568191656,
-        "ils": 40381948,
-        "inr": 1301898367,
-        "jpy": 2181377167,
-        "krw": 20852644066,
-        "kwd": 4209645,
-        "lkr": 4582481167,
-        "ltc": 318158,
-        "mmk": 28587222613,
-        "mxn": 237800232,
-        "myr": 55423387,
-        "ngn": 18547979145,
-        "nok": 128646314,
-        "nzd": 23466747,
-        "php": 840097973,
-        "pkr": 3790738146,
-        "pln": 50180207,
-        "rub": 998291269,
-        "sar": 51343227,
-        "sek": 128848716,
-        "sgd": 17564503,
-        "sol": 206308,
-        "thb": 447689185,
-        "try": 627651130,
-        "twd": 429903601,
-        "uah": 604059337,
-        "usd": 13614195,
-        "vef": 1363189,
-        "vnd": 358693061413,
-        "xag": 203475,
-        "xau": 3170.07,
-        "xdr": 9644377,
-        "xlm": 67035277,
-        "xrp": 11883343,
-        "yfi": 7286,
-        "zar": 225838637,
-        "bits": 215683856,
-        "link": 1722707,
-        "sats": 21568385646
+        "aed": 7111632,
+        "ars": 2766788458,
+        "aud": 2748696,
+        "bch": 9356,
+        "bdt": 238152838,
+        "bhd": 729714,
+        "bmd": 1936455,
+        "bnb": 3210,
+        "brl": 9828867,
+        "btc": 30.340439,
+        "cad": 2709973,
+        "chf": 1543214,
+        "clp": 1746508495,
+        "cny": 13104768,
+        "czk": 40422926,
+        "dkk": 12511632,
+        "dot": 1971308,
+        "eos": 26576425,
+        "eth": 1157,
+        "eur": 1673760,
+        "gbp": 1444092,
+        "gel": 5141289,
+        "hkd": 15174161,
+        "huf": 589694218,
+        "idr": 34428821591,
+        "ils": 5656260,
+        "inr": 184177199,
+        "jpy": 310276313,
+        "krw": 2939578035,
+        "kwd": 596988,
+        "lkr": 649126356,
+        "ltc": 44562,
+        "mmk": 4066188425,
+        "mxn": 33351378,
+        "myr": 7857361,
+        "ngn": 2635205827,
+        "nok": 18391485,
+        "nzd": 3320397,
+        "php": 117680322,
+        "pkr": 538706243,
+        "pln": 7109789,
+        "rub": 140313415,
+        "sar": 7269066,
+        "sek": 18321730,
+        "sgd": 2487377,
+        "sol": 28805,
+        "thb": 63618387,
+        "try": 89527176,
+        "twd": 61233625,
+        "uah": 86759999,
+        "usd": 1936455,
+        "vef": 193897,
+        "vnd": 50939246060,
+        "xag": 28569,
+        "xau": 459.87,
+        "xdr": 1364744,
+        "xlm": 10191275,
+        "xrp": 1696749,
+        "yfi": 1020,
+        "zar": 31591033,
+        "bits": 30340439,
+        "link": 243746,
+        "sats": 3034043874
       },
       "high_24h": {
-        "aed": 1.48,
-        "ars": 584.17,
-        "aud": 0.571648,
-        "bch": 0.00182545,
-        "bdt": 49.47,
-        "bhd": 0.15204,
-        "bmd": 0.402904,
-        "bnb": 0.00066895,
-        "brl": 2.08,
-        "btc": 0.00000637,
-        "cad": 0.562007,
-        "chf": 0.321257,
-        "clp": 368.81,
-        "cny": 2.73,
-        "czk": 8.46,
-        "dkk": 2.61,
-        "dot": 0.41626393,
-        "eos": 6.35571,
-        "eth": 0.00023943,
-        "eur": 0.34952,
-        "gbp": 0.302099,
-        "gel": 1.072,
-        "hkd": 3.16,
-        "huf": 124.37,
-        "idr": 7316.28,
-        "ils": 1.18,
-        "inr": 38.41,
-        "jpy": 64.62,
-        "krw": 624.14,
-        "kwd": 0.124968,
-        "lkr": 135.62,
-        "ltc": 0.00948004,
-        "mmk": 846.02,
-        "mxn": 7.03,
-        "myr": 1.64,
-        "ngn": 547.97,
-        "nok": 3.81,
-        "nzd": 0.694509,
-        "php": 24.87,
-        "pkr": 112.18,
-        "pln": 1.48,
-        "rub": 29.68,
-        "sar": 1.52,
-        "sek": 3.81,
-        "sgd": 0.520053,
-        "sol": 0.00607563,
-        "thb": 13.24,
-        "try": 18.57,
-        "twd": 12.75,
-        "uah": 17.88,
-        "usd": 0.402904,
-        "vef": 0.0403428,
-        "vnd": 10615.32,
-        "xag": 0.00596687,
-        "xau": 0.00009346,
-        "xdr": 0.28542,
-        "xlm": 2.005298,
-        "xrp": 0.34897457,
-        "yfi": 0.00021517,
-        "zar": 6.67,
-        "bits": 6.37,
-        "link": 0.05106056,
-        "sats": 637.16
+        "aed": 1.34,
+        "ars": 522.32,
+        "aud": 0.519056,
+        "bch": 0.00180904,
+        "bdt": 44.97,
+        "bhd": 0.137876,
+        "bmd": 0.365623,
+        "bnb": 0.00060541,
+        "brl": 1.86,
+        "btc": 0.00000576,
+        "cad": 0.511708,
+        "chf": 0.291375,
+        "clp": 329.76,
+        "cny": 2.47,
+        "czk": 7.63,
+        "dkk": 2.36,
+        "dot": 0.38175845,
+        "eos": 5.304545,
+        "eth": 0.00021944,
+        "eur": 0.315914,
+        "gbp": 0.27267,
+        "gel": 0.970729,
+        "hkd": 2.87,
+        "huf": 111.24,
+        "idr": 6500.52,
+        "ils": 1.068,
+        "inr": 34.84,
+        "jpy": 58.59,
+        "krw": 554.67,
+        "kwd": 0.112785,
+        "lkr": 121.44,
+        "ltc": 0.00849191,
+        "mmk": 767.74,
+        "mxn": 6.3,
+        "myr": 1.48,
+        "ngn": 497.59,
+        "nok": 3.47,
+        "nzd": 0.627033,
+        "php": 22.22,
+        "pkr": 101.75,
+        "pln": 1.34,
+        "rub": 26.49,
+        "sar": 1.37,
+        "sek": 3.46,
+        "sgd": 0.469606,
+        "sol": 0.00546897,
+        "thb": 12.01,
+        "try": 16.9,
+        "twd": 11.56,
+        "uah": 16.38,
+        "usd": 0.365623,
+        "vef": 0.03660985,
+        "vnd": 9617.87,
+        "xag": 0.00539414,
+        "xau": 0.00008683,
+        "xdr": 0.257809,
+        "xlm": 1.961112,
+        "xrp": 0.32271352,
+        "yfi": 0.00019381,
+        "zar": 5.96,
+        "bits": 5.76,
+        "link": 0.04645883,
+        "sats": 575.55
       },
       "low_24h": {
-        "aed": 1.22,
-        "ars": 477.54,
-        "aud": 0.470013,
-        "bch": 0.00146174,
-        "bdt": 40.7,
-        "bhd": 0.124999,
-        "bmd": 0.331453,
-        "bnb": 0.00056068,
-        "brl": 1.72,
-        "btc": 0.00000534,
-        "cad": 0.461797,
-        "chf": 0.262974,
-        "clp": 303.08,
-        "cny": 2.25,
-        "czk": 6.96,
-        "dkk": 2.15,
-        "dot": 0.34222942,
-        "eos": 5.220607,
-        "eth": 0.00020153,
-        "eur": 0.287681,
-        "gbp": 0.247528,
-        "gel": 0.881664,
-        "hkd": 2.6,
-        "huf": 102.27,
-        "idr": 5997.87,
-        "ils": 0.971273,
-        "inr": 31.61,
-        "jpy": 53.14,
-        "krw": 516.82,
-        "kwd": 0.102525,
-        "lkr": 111.57,
-        "ltc": 0.00784882,
-        "mmk": 695.99,
-        "mxn": 5.79,
-        "myr": 1.34,
-        "ngn": 450.88,
-        "nok": 3.14,
-        "nzd": 0.572013,
-        "php": 20.48,
-        "pkr": 92.31,
-        "pln": 1.22,
-        "rub": 24.42,
-        "sar": 1.25,
-        "sek": 3.14,
-        "sgd": 0.427906,
-        "sol": 0.00508823,
-        "thb": 10.92,
-        "try": 15.27,
-        "twd": 10.47,
-        "uah": 14.71,
-        "usd": 0.331453,
-        "vef": 0.03318836,
-        "vnd": 8727.03,
-        "xag": 0.00488595,
-        "xau": 0.00007657,
-        "xdr": 0.232842,
-        "xlm": 1.614389,
-        "xrp": 0.29247681,
-        "yfi": 0.00017973,
-        "zar": 5.49,
-        "bits": 5.34,
-        "link": 0.04270925,
-        "sats": 534.17
+        "aed": 1.27,
+        "ars": 494.78,
+        "aud": 0.491201,
+        "bch": 0.00170416,
+        "bdt": 42.35,
+        "bhd": 0.129924,
+        "bmd": 0.345405,
+        "bnb": 0.00057455,
+        "brl": 1.76,
+        "btc": 0.00000547,
+        "cad": 0.483152,
+        "chf": 0.275105,
+        "clp": 313.14,
+        "cny": 2.34,
+        "czk": 7.22,
+        "dkk": 2.23,
+        "dot": 0.36380433,
+        "eos": 4.792738,
+        "eth": 0.00020782,
+        "eur": 0.298619,
+        "gbp": 0.257812,
+        "gel": 0.915324,
+        "hkd": 2.71,
+        "huf": 105.51,
+        "idr": 6165.46,
+        "ils": 1.013,
+        "inr": 32.91,
+        "jpy": 55.36,
+        "krw": 525.55,
+        "kwd": 0.106534,
+        "lkr": 114.72,
+        "ltc": 0.00811623,
+        "mmk": 725.29,
+        "mxn": 5.96,
+        "myr": 1.4,
+        "ngn": 469.52,
+        "nok": 3.29,
+        "nzd": 0.593461,
+        "php": 20.98,
+        "pkr": 95.8,
+        "pln": 1.27,
+        "rub": 24.9,
+        "sar": 1.29,
+        "sek": 3.27,
+        "sgd": 0.443798,
+        "sol": 0.00520162,
+        "thb": 11.32,
+        "try": 15.98,
+        "twd": 10.92,
+        "uah": 15.47,
+        "usd": 0.345405,
+        "vef": 0.03458543,
+        "vnd": 9093.08,
+        "xag": 0.0051865,
+        "xau": 0.00008229,
+        "xdr": 0.243552,
+        "xlm": 1.812741,
+        "xrp": 0.30466339,
+        "yfi": 0.00018298,
+        "zar": 5.63,
+        "bits": 5.47,
+        "link": 0.04419283,
+        "sats": 547.1
       },
-      "price_change_24h": 0.02820816,
-      "price_change_percentage_24h": 8.24118,
-      "price_change_percentage_7d": 4.88391,
-      "price_change_percentage_14d": -8.6473,
-      "price_change_percentage_30d": 5.56537,
-      "price_change_percentage_60d": 27.25531,
-      "price_change_percentage_200d": -27.28892,
-      "price_change_percentage_1y": -2.76098,
-      "market_cap_change_24h": 12814103,
-      "market_cap_change_percentage_24h": 8.37185,
+      "price_change_24h": 0.01175788,
+      "price_change_percentage_24h": 3.39225,
+      "price_change_percentage_7d": 9.65648,
+      "price_change_percentage_14d": -5.13037,
+      "price_change_percentage_30d": 5.43285,
+      "price_change_percentage_60d": 20.84598,
+      "price_change_percentage_200d": -37.32831,
+      "price_change_percentage_1y": 1.94439,
+      "market_cap_change_24h": 5250694,
+      "market_cap_change_percentage_24h": 3.38689,
       "price_change_24h_in_currency": {
-        "aed": 0.103594,
-        "ars": 40.63,
-        "aud": 0.04027738,
-        "bch": 0.00017279,
-        "bdt": 3.46,
-        "bhd": 0.01072544,
-        "bmd": 0.02820816,
-        "bnb": 0.00004202,
-        "brl": 0.143754,
-        "btc": 3.8242e-7,
-        "cad": 0.0399994,
-        "chf": 0.02406196,
-        "clp": 26.15,
-        "cny": 0.192558,
-        "czk": 0.597982,
-        "dkk": 0.184087,
-        "dot": 0.03002571,
-        "eos": 0.33822711,
-        "eth": 0.00000997,
-        "eur": 0.0246156,
-        "gbp": 0.02236697,
-        "gel": 0.075034,
-        "hkd": 0.221157,
-        "huf": 8.97,
-        "idr": 543.37,
-        "ils": 0.095929,
-        "inr": 2.79,
-        "jpy": 4.49,
-        "krw": 33.73,
-        "kwd": 0.0086846,
-        "lkr": 9.49,
-        "ltc": 0.00049134,
-        "mmk": 59.23,
-        "mxn": 0.490722,
-        "myr": 0.12904,
-        "ngn": 39.15,
-        "nok": 0.260912,
-        "nzd": 0.04791106,
-        "php": 1.71,
-        "pkr": 7.83,
-        "pln": 0.105096,
-        "rub": 1.95,
-        "sar": 0.11086,
-        "sek": 0.266694,
-        "sgd": 0.0361059,
-        "sol": 0.00032951,
-        "thb": 0.90745,
-        "try": 1.31,
-        "twd": 0.890746,
-        "uah": 1.25,
-        "usd": 0.02820816,
-        "vef": 0.00282448,
-        "vnd": 749.14,
-        "xag": 0.00049169,
-        "xau": 0.00000719,
-        "xdr": 0.02200812,
-        "xlm": 0.19310506,
-        "xrp": 0.0218698,
-        "yfi": 0.00001327,
-        "zar": 0.474926,
-        "bits": 0.38242,
-        "link": 0.00250781,
-        "sats": 38.24
+        "aed": 0.04318082,
+        "ars": 15.52,
+        "aud": 0.0152367,
+        "bch": 0.00001562,
+        "bdt": 1.58,
+        "bhd": 0.00466642,
+        "bmd": 0.01175788,
+        "bnb": 0.00001543,
+        "brl": 0.051118,
+        "btc": 1.109e-7,
+        "cad": 0.01646913,
+        "chf": 0.0091837,
+        "clp": 8.99,
+        "cny": 0.079432,
+        "czk": 0.226413,
+        "dkk": 0.074004,
+        "dot": -0.0026524511600306,
+        "eos": -0.13357953923612786,
+        "eth": 0.00000506,
+        "eur": 0.00985816,
+        "gbp": 0.00830872,
+        "gel": 0.03295023,
+        "hkd": 0.092598,
+        "huf": 3,
+        "idr": 176.52,
+        "ils": 0.02761284,
+        "inr": 1,
+        "jpy": 1.84,
+        "krw": 15.95,
+        "kwd": 0.00357526,
+        "lkr": 5.01,
+        "ltc": 0.00006579,
+        "mmk": 24.69,
+        "mxn": 0.187567,
+        "myr": 0.04670361,
+        "ngn": 16.53,
+        "nok": 0.097533,
+        "nzd": 0.01821858,
+        "php": 0.696685,
+        "pkr": 3.56,
+        "pln": 0.04055307,
+        "rub": 0.924465,
+        "sar": 0.04841218,
+        "sek": 0.106169,
+        "sgd": 0.01470682,
+        "sol": 0.00009042,
+        "thb": 0.39859,
+        "try": 0.532591,
+        "twd": 0.368682,
+        "uah": 0.532334,
+        "usd": 0.01175788,
+        "vef": 0.00117732,
+        "vnd": 302.5,
+        "xag": 0.00002996,
+        "xau": 0.00000209,
+        "xdr": 0.00816279,
+        "xlm": 0.05725203,
+        "xrp": 0.0073844,
+        "yfi": 0.00000475,
+        "zar": 0.185655,
+        "bits": 0.1109,
+        "link": 0.00060245,
+        "sats": 11.09
       },
       "price_change_percentage_1h_in_currency": {
-        "aed": 0.31253,
-        "ars": 0.30929,
-        "aud": 0.29563,
-        "bch": 2.65484,
-        "bdt": 0.31253,
-        "bhd": 0.31253,
-        "bmd": 0.31253,
-        "bnb": 0.34291,
-        "brl": 0.28732,
-        "btc": -0.06304,
-        "cad": 0.35835,
-        "chf": 0.38197,
-        "clp": 0.31253,
-        "cny": 0.28294,
-        "czk": 0.26589,
-        "dkk": 0.33123,
-        "dot": -0.32671,
-        "eos": -1.52788,
-        "eth": 0.08943,
-        "eur": 0.33067,
-        "gbp": 0.31801,
-        "gel": 0.31253,
-        "hkd": 0.30945,
-        "huf": 0.13898,
-        "idr": 0.24651,
-        "ils": -0.21406,
-        "inr": 0.34895,
-        "jpy": 0.30698,
-        "krw": 0.42969,
-        "kwd": 0.30279,
-        "lkr": 0.31253,
-        "ltc": -0.34039,
-        "mmk": 0.31253,
-        "mxn": 0.18852,
-        "myr": 0.31253,
-        "ngn": 0.30958,
-        "nok": 0.48304,
-        "nzd": 0.28576,
-        "php": 0.35155,
-        "pkr": 0.31253,
-        "pln": 0.29949,
-        "rub": -0.19492,
-        "sar": 0.31253,
-        "sek": 0.28486,
-        "sgd": 0.31999,
-        "sol": -0.4907,
-        "thb": 0.27898,
-        "try": 0.31274,
-        "twd": 0.35257,
-        "uah": 0.31253,
-        "usd": 0.31253,
-        "vef": 0.31253,
-        "vnd": 0.29931,
-        "xag": 0.43321,
-        "xau": 0.42466,
-        "xdr": 0.31253,
-        "xlm": -1.4215,
-        "xrp": -0.33722,
-        "yfi": -0.10071,
-        "zar": -0.01104,
-        "bits": -0.06304,
-        "link": -0.8554,
-        "sats": -0.06304
+        "aed": 0.06206,
+        "ars": 0.06206,
+        "aud": 0.06206,
+        "bch": -1.27668,
+        "bdt": 0.06206,
+        "bhd": 0.06206,
+        "bmd": 0.06206,
+        "bnb": -0.19264,
+        "brl": 0.06206,
+        "btc": -0.19926,
+        "cad": 0.06206,
+        "chf": 0.06206,
+        "clp": 0.06206,
+        "cny": 0.06206,
+        "czk": 0.06206,
+        "dkk": 0.06206,
+        "dot": -0.80973,
+        "eos": 1.40404,
+        "eth": -0.31306,
+        "eur": 0.06206,
+        "gbp": 0.06206,
+        "gel": 0.06206,
+        "hkd": 0.06206,
+        "huf": 0.06206,
+        "idr": 0.06206,
+        "ils": 0.06206,
+        "inr": 0.06206,
+        "jpy": 0.06206,
+        "krw": 0.06206,
+        "kwd": 0.06206,
+        "lkr": 0.06206,
+        "ltc": -0.46468,
+        "mmk": 0.06206,
+        "mxn": 0.06206,
+        "myr": 0.06206,
+        "ngn": 0.06206,
+        "nok": 0.06206,
+        "nzd": 0.06206,
+        "php": 0.06206,
+        "pkr": 0.06206,
+        "pln": 0.06206,
+        "rub": 0.06206,
+        "sar": 0.06206,
+        "sek": 0.06206,
+        "sgd": 0.06206,
+        "sol": -0.30443,
+        "thb": 0.06206,
+        "try": 0.06206,
+        "twd": 0.06206,
+        "uah": 0.06206,
+        "usd": 0.06206,
+        "vef": 0.06206,
+        "vnd": 0.06206,
+        "xag": 0.06206,
+        "xau": 0.06206,
+        "xdr": 0.06206,
+        "xlm": -1.74775,
+        "xrp": -0.4518,
+        "yfi": -0.51298,
+        "zar": 0.06206,
+        "bits": -0.19926,
+        "link": -0.40087,
+        "sats": -0.19926
       },
       "price_change_percentage_24h_in_currency": {
-        "aed": 8.24118,
-        "ars": 8.23888,
-        "aud": 8.29828,
-        "bch": 11.26015,
-        "bdt": 8.24118,
-        "bhd": 8.30892,
-        "bmd": 8.24118,
-        "bnb": 7.22953,
-        "brl": 8.11157,
-        "btc": 6.96942,
-        "cad": 8.38763,
-        "chf": 8.86042,
-        "clp": 8.35482,
-        "cny": 8.30188,
-        "czk": 8.31849,
-        "dkk": 8.29102,
-        "dot": 8.48704,
-        "eos": 6.25709,
-        "eth": 4.69911,
-        "eur": 8.28583,
-        "gbp": 8.75021,
-        "gel": 8.24118,
-        "hkd": 8.2474,
-        "huf": 8.49511,
-        "idr": 8.77273,
-        "ils": 9.56411,
-        "inr": 8.53532,
-        "jpy": 8.18591,
-        "krw": 6.32008,
-        "kwd": 8.20269,
-        "lkr": 8.24118,
-        "ltc": 6.0162,
-        "mmk": 8.24118,
-        "mxn": 8.20513,
-        "myr": 9.35596,
-        "ngn": 8.40828,
-        "nok": 8.05279,
-        "nzd": 8.11085,
-        "php": 8.08181,
-        "pkr": 8.21791,
-        "pln": 8.33774,
-        "rub": 7.73172,
-        "sar": 8.61804,
-        "sek": 8.23194,
-        "sgd": 8.17084,
-        "sol": 6.23505,
-        "thb": 8.04778,
-        "try": 8.33565,
-        "twd": 8.24118,
-        "uah": 8.24118,
-        "usd": 8.24118,
-        "vef": 8.24118,
-        "vnd": 8.31248,
-        "xag": 9.74485,
-        "xau": 9.0986,
-        "xdr": 9.15289,
-        "xlm": 11.83847,
-        "xrp": 7.25321,
-        "yfi": 7.17029,
-        "zar": 8.37471,
-        "bits": 6.96942,
-        "link": 5.65163,
-        "sats": 6.96942
+        "aed": 3.39225,
+        "ars": 3.12556,
+        "aud": 3.0878,
+        "bch": 0.91051,
+        "bdt": 3.71978,
+        "bhd": 3.57916,
+        "bmd": 3.39225,
+        "bnb": 2.66741,
+        "brl": 2.89154,
+        "btc": 2.01489,
+        "cad": 3.39535,
+        "chf": 3.3225,
+        "clp": 2.85965,
+        "cny": 3.38614,
+        "czk": 3.12104,
+        "dkk": 3.30159,
+        "dot": -0.72181,
+        "eos": -2.64413,
+        "eth": 2.41872,
+        "eur": 3.28721,
+        "gbp": 3.20873,
+        "gel": 3.58733,
+        "hkd": 3.40987,
+        "huf": 2.82728,
+        "idr": 2.84933,
+        "ils": 2.70938,
+        "inr": 3.02394,
+        "jpy": 3.30918,
+        "krw": 3.01973,
+        "kwd": 3.34431,
+        "lkr": 4.34848,
+        "ltc": 0.80418,
+        "mmk": 3.39225,
+        "mxn": 3.13417,
+        "myr": 3.31841,
+        "ngn": 3.50786,
+        "nok": 2.95013,
+        "nzd": 3.05544,
+        "php": 3.30469,
+        "pkr": 3.70446,
+        "pln": 3.1801,
+        "rub": 3.69158,
+        "sar": 3.73312,
+        "sek": 3.2324,
+        "sgd": 3.30033,
+        "sol": 1.7254,
+        "thb": 3.50412,
+        "try": 3.32129,
+        "twd": 3.36283,
+        "uah": 3.42914,
+        "usd": 3.39225,
+        "vef": 3.39225,
+        "vnd": 3.31529,
+        "xag": 0.5699,
+        "xau": 2.52021,
+        "xdr": 3.3399,
+        "xlm": 3.1306,
+        "xrp": 2.4083,
+        "yfi": 2.58243,
+        "zar": 3.27971,
+        "bits": 2.01489,
+        "link": 1.35363,
+        "sats": 2.01489
       },
       "price_change_percentage_7d_in_currency": {
-        "aed": 4.88391,
-        "ars": 7.24509,
-        "aud": 6.86417,
-        "bch": 41.75408,
-        "bdt": 4.90004,
-        "bhd": 4.91004,
-        "bmd": 4.88391,
-        "bnb": 22.38206,
-        "brl": 7.67821,
-        "btc": 21.33103,
-        "cad": 5.98982,
-        "chf": 6.95277,
-        "clp": 7.91256,
-        "cny": 5.09316,
-        "czk": 5.81636,
-        "dkk": 6.18277,
-        "dot": 27.33272,
-        "eos": 23.13355,
-        "eth": 24.78112,
-        "eur": 6.17556,
-        "gbp": 6.02383,
-        "gel": 4.49109,
-        "hkd": 4.853,
-        "huf": 6.87257,
-        "idr": 7.07544,
-        "ils": 10.86964,
-        "inr": 5.63843,
-        "jpy": 5.38405,
-        "krw": 6.76422,
-        "kwd": 4.81611,
-        "lkr": 6.96897,
-        "ltc": 25.63769,
-        "mmk": 4.88391,
-        "mxn": 5.63225,
-        "myr": 7.6933,
-        "ngn": 4.16749,
-        "nok": 7.19739,
-        "nzd": 7.9404,
-        "php": 4.89496,
-        "pkr": 4.86361,
-        "pln": 6.51941,
-        "rub": 8.33299,
-        "sar": 5.32759,
-        "sek": 7.38947,
-        "sgd": 5.95972,
-        "sol": 29.30231,
-        "thb": 5.952,
-        "try": 5.30964,
-        "twd": 5.62447,
-        "uah": 5.06562,
-        "usd": 4.88391,
-        "vef": 4.88391,
-        "vnd": 4.96681,
-        "xag": 18.18171,
-        "xau": 9.99018,
-        "xdr": 6.21822,
-        "xlm": 39.54379,
-        "xrp": 20.17692,
-        "yfi": 28.72559,
-        "zar": 7.11985,
-        "bits": 21.33103,
-        "link": 19.46502,
-        "sats": 21.33103
+        "aed": 9.64006,
+        "ars": 8.3903,
+        "aud": 9.78108,
+        "bch": 11.3727,
+        "bdt": 9.83883,
+        "bhd": 9.57071,
+        "bmd": 9.65648,
+        "bnb": 4.4871,
+        "brl": 7.47758,
+        "btc": 4.56452,
+        "cad": 10.14446,
+        "chf": 9.75344,
+        "clp": 8.15984,
+        "cny": 9.51085,
+        "czk": 8.99234,
+        "dkk": 9.22204,
+        "dot": 3.18532,
+        "eos": -9.47126,
+        "eth": 2.36064,
+        "eur": 9.21575,
+        "gbp": 9.11263,
+        "gel": 9.45036,
+        "hkd": 9.68168,
+        "huf": 8.22514,
+        "idr": 7.73916,
+        "ils": 9.30417,
+        "inr": 9.3594,
+        "jpy": 9.60443,
+        "krw": 6.74941,
+        "kwd": 9.29099,
+        "lkr": 9.20621,
+        "ltc": 5.88462,
+        "mmk": 9.65648,
+        "mxn": 8.08753,
+        "myr": 10.42118,
+        "ngn": 9.70001,
+        "nok": 10.02255,
+        "nzd": 8.9796,
+        "php": 7.83327,
+        "pkr": 9.53518,
+        "pln": 9.32772,
+        "rub": 7.84792,
+        "sar": 9.52764,
+        "sek": 9.61452,
+        "sgd": 9.09593,
+        "sol": 1.78264,
+        "thb": 9.3574,
+        "try": 10.06119,
+        "twd": 9.80893,
+        "uah": 10.72832,
+        "usd": 9.65648,
+        "vef": 9.65648,
+        "vnd": 9.55553,
+        "xag": 9.74783,
+        "xau": 12.7228,
+        "xdr": 10.01161,
+        "xlm": 12.11934,
+        "xrp": 4.26973,
+        "yfi": 1.5836,
+        "zar": 7.97441,
+        "bits": 4.56452,
+        "link": 0.09315,
+        "sats": 4.56452
       },
       "price_change_percentage_14d_in_currency": {
-        "aed": -8.6473,
-        "ars": -6.05672,
-        "aud": -7.20673,
-        "bch": 47.12105,
-        "bdt": -8.41303,
-        "bhd": -8.26125,
-        "bmd": -8.6473,
-        "bnb": 1.54528,
-        "brl": -6.18371,
-        "btc": 11.81174,
-        "cad": -7.7619,
-        "chf": -6.80057,
-        "clp": -6.81901,
-        "cny": -8.73211,
-        "czk": -7.97717,
-        "dkk": -7.69501,
-        "dot": 19.28604,
-        "eos": 12.06532,
-        "eth": 15.61197,
-        "eur": -7.7122,
-        "gbp": -7.61001,
-        "gel": -8.76837,
-        "hkd": -8.64555,
-        "huf": -8.0145,
-        "idr": -6.37406,
-        "ils": -6.1197,
-        "inr": -8.39102,
-        "jpy": -7.93118,
-        "krw": -7.62996,
-        "kwd": -8.72553,
-        "lkr": -7.7389,
-        "ltc": 12.98478,
-        "mmk": -8.6473,
-        "mxn": -7.74813,
-        "myr": -5.96793,
-        "ngn": -9.09768,
-        "nok": -6.74868,
-        "nzd": -7.5973,
-        "php": -8.32342,
-        "pkr": -8.30758,
-        "pln": -7.50422,
-        "rub": -6.4444,
-        "sar": -7.88359,
-        "sek": -7.1234,
-        "sgd": -7.76106,
-        "sol": 18.67315,
-        "thb": -7.56936,
-        "try": -7.89269,
-        "twd": -8.23027,
-        "uah": -8.08605,
-        "usd": -8.6473,
-        "vef": -8.6473,
-        "vnd": -8.682,
-        "xag": 6.35985,
-        "xau": -2.95417,
-        "xdr": -7.6636,
-        "xlm": -31.3995,
-        "xrp": 7.94632,
-        "yfi": 21.33063,
-        "zar": -7.38032,
-        "bits": 11.81174,
-        "link": 9.84833,
-        "sats": 11.81174
+        "aed": -5.14716,
+        "ars": -3.99152,
+        "aud": -3.12391,
+        "bch": 38.05958,
+        "bdt": -4.958,
+        "bhd": -5.24227,
+        "bmd": -5.13037,
+        "bnb": 4.67557,
+        "brl": -4.7268,
+        "btc": 9.26901,
+        "cad": -3.81765,
+        "chf": -3.18527,
+        "clp": -3.86622,
+        "cny": -5.11635,
+        "czk": -4.9003,
+        "dkk": -4.38034,
+        "dot": 16.11806,
+        "eos": 1.29465,
+        "eth": 14.15114,
+        "eur": -4.36771,
+        "gbp": -4.8014,
+        "gel": -5.48635,
+        "hkd": -5.14247,
+        "huf": -4.8084,
+        "idr": -5.36643,
+        "ils": -1.09819,
+        "inr": -5.03659,
+        "jpy": -4.58971,
+        "krw": -4.46579,
+        "kwd": -5.48264,
+        "lkr": -3.64169,
+        "ltc": 14.30613,
+        "mmk": -5.13037,
+        "mxn": -5.8514,
+        "myr": -3.01992,
+        "ngn": -5.88147,
+        "nok": -2.62776,
+        "nzd": -2.6415,
+        "php": -6.26255,
+        "pkr": -5.25232,
+        "pln": -4.0176,
+        "rub": -3.38082,
+        "sar": -5.59572,
+        "sek": -2.87056,
+        "sgd": -4.56571,
+        "sol": 16.43264,
+        "thb": -4.51777,
+        "try": -4.34581,
+        "twd": -4.54262,
+        "uah": -4.03709,
+        "usd": -5.13037,
+        "vef": -5.13037,
+        "vnd": -5.15532,
+        "xag": 5.36905,
+        "xau": 2.29122,
+        "xdr": -4.52358,
+        "xlm": 29.49997,
+        "xrp": 11.98347,
+        "yfi": 14.38964,
+        "zar": -4.59324,
+        "bits": 9.26901,
+        "link": 9.39953,
+        "sats": 9.26901
       },
       "price_change_percentage_30d_in_currency": {
-        "aed": 5.56537,
-        "ars": 8.74018,
-        "aud": 8.61659,
-        "bch": 119.1944,
-        "bdt": 5.64326,
-        "bhd": 5.78319,
-        "bmd": 5.56537,
-        "bnb": 15.36404,
-        "brl": 11.09047,
-        "btc": 34.1534,
-        "cad": 7.72625,
-        "chf": 8.44413,
-        "clp": 8.46574,
-        "cny": 5.24561,
-        "czk": 7.51026,
-        "dkk": 8.05261,
-        "dot": 49.47266,
-        "eos": 56.38516,
-        "eth": 46.4867,
-        "eur": 8.05591,
-        "gbp": 7.95877,
-        "gel": 4.97342,
-        "hkd": 5.60783,
-        "huf": 8.75981,
-        "idr": 10.46908,
-        "ils": 7.93668,
-        "inr": 6.90975,
-        "jpy": 7.98701,
-        "krw": 10.61136,
-        "kwd": 6.04482,
-        "lkr": 10.66084,
-        "ltc": 44.37008,
-        "mmk": 5.56537,
-        "mxn": 7.34438,
-        "myr": 9.60384,
-        "ngn": 6.0484,
-        "nok": 8.31791,
-        "nzd": 8.57716,
-        "php": 7.64563,
-        "pkr": 5.74825,
-        "pln": 8.36626,
-        "rub": 4.26746,
-        "sar": 5.67224,
-        "sek": 8.41298,
-        "sgd": 7.4612,
-        "sol": 49.94961,
-        "thb": 7.77678,
-        "try": 7.32341,
-        "twd": 6.44723,
-        "uah": 6.91595,
-        "usd": 5.56537,
-        "vef": 5.56537,
-        "vnd": 5.71835,
-        "xag": 26.83196,
-        "xau": 16.05164,
-        "xdr": 7.52259,
-        "xlm": -14.18177,
-        "xrp": 31.17352,
-        "yfi": 55.27601,
-        "zar": 6.90427,
-        "bits": 34.1534,
-        "link": 39.74172,
-        "sats": 34.1534
+        "aed": 5.43285,
+        "ars": 8.21987,
+        "aud": 8.67105,
+        "bch": 121.44865,
+        "bdt": 5.63295,
+        "bhd": 5.31295,
+        "bmd": 5.43285,
+        "bnb": 17.13368,
+        "brl": 6.46484,
+        "btc": 31.92174,
+        "cad": 7.66799,
+        "chf": 7.46626,
+        "clp": 7.19062,
+        "cny": 5.14541,
+        "czk": 5.97734,
+        "dkk": 6.78447,
+        "dot": 43.29255,
+        "eos": 30.97026,
+        "eth": 42.8909,
+        "eur": 6.7464,
+        "gbp": 6.29706,
+        "gel": 4.44933,
+        "hkd": 5.48847,
+        "huf": 4.91485,
+        "idr": 6.98931,
+        "ils": 5.982,
+        "inr": 4.56469,
+        "jpy": 6.9902,
+        "krw": 7.16706,
+        "kwd": 5.40618,
+        "lkr": 8.8981,
+        "ltc": 38.91753,
+        "mmk": 5.43285,
+        "mxn": 5.751,
+        "myr": 8.88377,
+        "ngn": 4.6897,
+        "nok": 9.21722,
+        "nzd": 7.31997,
+        "php": 4.05956,
+        "pkr": 5.28447,
+        "pln": 6.74673,
+        "rub": 2.99572,
+        "sar": 5.313,
+        "sek": 7.03367,
+        "sgd": 6.37996,
+        "sol": 43.09335,
+        "thb": 7.07222,
+        "try": 7.28654,
+        "twd": 5.71702,
+        "uah": 7.42117,
+        "usd": 5.43285,
+        "vef": 5.43285,
+        "vnd": 5.25257,
+        "xag": 35.61622,
+        "xau": 17.64409,
+        "xdr": 6.91883,
+        "xlm": -11.27659,
+        "xrp": 32.69921,
+        "yfi": 49.97484,
+        "zar": 4.7064,
+        "bits": 31.92174,
+        "link": 36.54569,
+        "sats": 31.92174
       },
       "price_change_percentage_60d_in_currency": {
-        "aed": 27.25531,
-        "ars": 32.17548,
-        "aud": 27.01503,
-        "bch": 159.17556,
-        "bdt": 27.21838,
-        "bhd": 27.20744,
-        "bmd": 27.25531,
-        "bnb": 28.51457,
-        "brl": 29.01662,
-        "btc": 43.18765,
-        "cad": 28.12408,
-        "chf": 28.25118,
-        "clp": 29.82385,
-        "cny": 26.26644,
-        "czk": 27.81642,
-        "dkk": 28.86201,
-        "dot": 65.63451,
-        "eos": 55.86633,
-        "eth": 66.43608,
-        "eur": 28.83943,
-        "gbp": 27.8767,
-        "gel": 26.07044,
-        "hkd": 27.27164,
-        "huf": 21.54258,
-        "idr": 35.47381,
-        "ils": 22.08478,
-        "inr": 31.23978,
-        "jpy": 28.37338,
-        "krw": 31.57473,
-        "kwd": 27.35828,
-        "lkr": 35.97649,
-        "ltc": 60.42794,
-        "mmk": 27.25531,
-        "mxn": 27.30618,
-        "myr": 30.03423,
-        "ngn": 25.67788,
-        "nok": 25.40479,
-        "nzd": 27.94488,
-        "php": 31.44089,
-        "pkr": 27.05326,
-        "pln": 28.49794,
-        "rub": 18.79815,
-        "sar": 27.8873,
-        "sek": 29.19151,
-        "sgd": 28.76981,
-        "sol": 58.4151,
-        "thb": 30.59797,
-        "try": 31.64587,
-        "twd": 26.29648,
-        "uah": 30.37597,
-        "usd": 27.25531,
-        "vef": 27.25531,
-        "vnd": 27.38942,
-        "xag": 40.38723,
-        "xau": 39.5141,
-        "xdr": 28.97195,
-        "xlm": -2.39517,
-        "xrp": 47.97143,
-        "yfi": 69.54104,
-        "zar": 28.35759,
-        "bits": 43.18765,
-        "link": 41.2449,
-        "sats": 43.18765
+        "aed": 20.84598,
+        "ars": 27.44724,
+        "aud": 21.45538,
+        "bch": 154.97079,
+        "bdt": 20.97151,
+        "bhd": 20.7156,
+        "bmd": 20.84598,
+        "bnb": 22.81728,
+        "brl": 22.75415,
+        "btc": 40.54257,
+        "cad": 22.66708,
+        "chf": 22.94566,
+        "clp": 21.72595,
+        "cny": 19.93329,
+        "czk": 21.82421,
+        "dkk": 22.91842,
+        "dot": 45.69816,
+        "eos": 31.53344,
+        "eth": 70.18637,
+        "eur": 22.87518,
+        "gbp": 21.79817,
+        "gel": 19.2458,
+        "hkd": 20.90278,
+        "huf": 19.16874,
+        "idr": 25.37322,
+        "ils": 16.00035,
+        "inr": 23.21807,
+        "jpy": 21.68705,
+        "krw": 23.72942,
+        "kwd": 20.59524,
+        "lkr": 28.49864,
+        "ltc": 50.35552,
+        "mmk": 20.84598,
+        "mxn": 20.2791,
+        "myr": 23.96528,
+        "ngn": 21.08087,
+        "nok": 21.4367,
+        "nzd": 21.66444,
+        "php": 22.67178,
+        "pkr": 20.49597,
+        "pln": 22.96607,
+        "rub": 14.95207,
+        "sar": 20.87635,
+        "sek": 24.48776,
+        "sgd": 21.87918,
+        "sol": 53.69677,
+        "thb": 23.79458,
+        "try": 24.93449,
+        "twd": 20.74659,
+        "uah": 24.74685,
+        "usd": 20.84598,
+        "vef": 20.84598,
+        "vnd": 20.70331,
+        "xag": 36.76671,
+        "xau": 36.65954,
+        "xdr": 22.19737,
+        "xlm": -1.91437,
+        "xrp": 44.24451,
+        "yfi": 63.44112,
+        "zar": 20.07176,
+        "bits": 40.54257,
+        "link": 39.22029,
+        "sats": 40.54257
       },
       "price_change_percentage_200d_in_currency": {
-        "aed": -27.28892,
-        "ars": -25.54604,
-        "aud": -33.16792,
-        "bch": 66.71207,
-        "bdt": -27.00789,
-        "bhd": -27.21601,
-        "bmd": -27.28892,
-        "bnb": 10.50824,
-        "brl": -29.45913,
-        "btc": 5.73528,
-        "cad": -27.85018,
-        "chf": -28.0842,
-        "clp": -28.58789,
-        "cny": -30.71135,
-        "czk": -27.17127,
-        "dkk": -27.23387,
-        "dot": 104.82761,
-        "eos": 158.43993,
-        "eth": 31.70217,
-        "eur": -27.289,
-        "gbp": -28.76236,
-        "gel": -28.49853,
-        "hkd": -26.79271,
-        "huf": -32.12801,
-        "idr": -21.04082,
-        "ils": -33.76866,
-        "inr": -21.60961,
-        "jpy": -26.14802,
-        "krw": -24.20984,
-        "kwd": -26.85222,
-        "lkr": -20.60862,
-        "ltc": 57.52553,
-        "mmk": -27.28511,
-        "mxn": -30.77497,
-        "myr": -28.83596,
-        "ngn": -32.14031,
-        "nok": -32.58757,
-        "nzd": -29.69074,
-        "php": -24.01853,
-        "pkr": -28.16521,
-        "pln": -26.99751,
-        "rub": -33.80992,
-        "sar": -26.88309,
-        "sek": -27.98122,
-        "sgd": -28.27827,
-        "sol": 57.37222,
-        "thb": -26.35049,
-        "try": -20.87796,
-        "twd": -26.53372,
-        "uah": -23.36518,
-        "usd": -27.28892,
-        "vef": -27.28892,
-        "vnd": -27.35599,
-        "xag": -44.35036,
-        "xau": -31.10289,
-        "xdr": -26.9056,
-        "xlm": -10.28298,
-        "xrp": 34.98328,
-        "yfi": 69.95075,
-        "zar": -29.91107,
-        "bits": 5.73528,
-        "link": 26.5599,
-        "sats": 5.73528
+        "aed": -37.32831,
+        "ars": -37.13551,
+        "aud": -42.54966,
+        "bch": 62.44558,
+        "bdt": -37.14423,
+        "bhd": -37.35208,
+        "bmd": -37.32831,
+        "bnb": -10.36906,
+        "brl": -40.97403,
+        "btc": -13.49841,
+        "cad": -37.87566,
+        "chf": -38.25404,
+        "clp": -39.90812,
+        "cny": -40.21702,
+        "czk": -37.67044,
+        "dkk": -37.55816,
+        "dot": 47.53611,
+        "eos": 81.6764,
+        "eth": 9.64713,
+        "eur": -37.61298,
+        "gbp": -38.76608,
+        "gel": -38.48675,
+        "hkd": -36.82983,
+        "huf": -42.56042,
+        "idr": -33.10527,
+        "ils": -43.83028,
+        "inr": -33.17525,
+        "jpy": -35.93153,
+        "krw": -35.39398,
+        "kwd": -37.11822,
+        "lkr": -31.92897,
+        "ltc": 22.40143,
+        "mmk": -37.32503,
+        "mxn": -41.69827,
+        "myr": -38.50141,
+        "ngn": -41.49427,
+        "nok": -41.8915,
+        "nzd": -39.77607,
+        "php": -35.32268,
+        "pkr": -38.46304,
+        "pln": -37.44957,
+        "rub": -42.15281,
+        "sar": -37.2736,
+        "sek": -37.96614,
+        "sgd": -38.26077,
+        "sol": 29.18767,
+        "thb": -36.35018,
+        "try": -31.74137,
+        "twd": -36.98836,
+        "uah": -34.07571,
+        "usd": -37.32831,
+        "vef": -37.32831,
+        "vnd": -37.50141,
+        "xag": -52.18047,
+        "xau": -38.21548,
+        "xdr": -37.65614,
+        "xlm": -16.69742,
+        "xrp": 23.73017,
+        "yfi": 36.39995,
+        "zar": -40.85262,
+        "bits": -13.49841,
+        "link": 2.44905,
+        "sats": -13.49841
       },
       "price_change_percentage_1y_in_currency": {
-        "aed": -2.77157,
-        "ars": 18.6856,
-        "aud": -10.40789,
-        "bch": 82.81275,
-        "bdt": -2.3133,
-        "bhd": -2.79833,
-        "bmd": -2.76098,
-        "bnb": 6.33608,
-        "brl": -9.56209,
-        "btc": 62.52188,
-        "cad": -0.95166,
-        "chf": -5.6244,
-        "clp": -4.75464,
-        "cny": -8.29682,
-        "czk": -6.03763,
-        "dkk": -3.60705,
-        "dot": 307.54199,
-        "eos": 779.07029,
-        "eth": 46.65683,
-        "eur": -3.74295,
-        "gbp": -1.30057,
-        "gel": -5.25428,
-        "hkd": -2.89669,
-        "huf": -15.09222,
-        "idr": 8.37284,
-        "ils": -17.64794,
-        "inr": 8.39135,
-        "jpy": 7.55138,
-        "krw": 9.49981,
-        "kwd": -1.88617,
-        "lkr": 9.40437,
-        "ltc": 99.91328,
-        "mmk": -2.67709,
-        "mxn": -11.11753,
-        "myr": -6.36072,
-        "ngn": -15.02781,
-        "nok": -9.1522,
-        "nzd": 0.78422,
-        "php": 7.31919,
-        "pkr": -4.05653,
-        "pln": -4.72273,
-        "rub": -9.2348,
-        "sar": -2.22279,
-        "sek": -4.57789,
-        "sgd": -2.59027,
-        "sol": 121.3643,
-        "thb": -2.06557,
-        "try": 14.30549,
-        "twd": 2.58194,
-        "uah": 4.1788,
-        "usd": -2.76098,
-        "vef": -2.76098,
-        "vnd": -1.66748,
-        "xag": -47.71473,
-        "xau": -25.01621,
-        "xdr": -3.89794,
-        "xlm": 27.76964,
-        "xrp": 87.95697,
-        "yfi": 170.06767,
-        "zar": -9.29074,
-        "bits": 62.52188,
-        "link": 69.67261,
-        "sats": 62.52188
+        "aed": 1.94328,
+        "ars": 22.97187,
+        "aud": -6.20355,
+        "bch": 101.32751,
+        "bdt": 2.29798,
+        "bhd": 1.91464,
+        "bmd": 1.94439,
+        "bnb": 9.53903,
+        "brl": -6.56402,
+        "btc": 66.33288,
+        "cad": 4.61461,
+        "chf": 0.31144,
+        "clp": -1.14965,
+        "cny": -3.92992,
+        "czk": -1.0035,
+        "dkk": 1.89898,
+        "dot": 293.83649,
+        "eos": 649.7551,
+        "eth": 52.84764,
+        "eur": 1.67513,
+        "gbp": 2.99863,
+        "gel": -1.03753,
+        "hkd": 1.77418,
+        "huf": -11.30263,
+        "idr": 11.12437,
+        "ils": -17.81561,
+        "inr": 12.59025,
+        "jpy": 13.88391,
+        "krw": 13.01599,
+        "kwd": 2.70429,
+        "lkr": 13.92152,
+        "ltc": 94.71353,
+        "mmk": 2.03234,
+        "mxn": -7.79638,
+        "myr": -2.69359,
+        "ngn": -10.06042,
+        "nok": -2.8486,
+        "nzd": 5.20526,
+        "php": 10.30369,
+        "pkr": 0.33648,
+        "pln": 0.95395,
+        "rub": -7.66566,
+        "sar": 1.9316,
+        "sek": 1.53937,
+        "sgd": 2.05371,
+        "sol": 118.31035,
+        "thb": 3.18871,
+        "try": 19.54134,
+        "twd": 8.85692,
+        "uah": 9.8429,
+        "usd": 1.94439,
+        "vef": 1.94439,
+        "vnd": 2.96343,
+        "xag": -45.40479,
+        "xau": -17.05296,
+        "xdr": 1.80384,
+        "xlm": 37.80076,
+        "xrp": 88.91909,
+        "yfi": 171.76765,
+        "zar": -7.40562,
+        "bits": 66.33288,
+        "link": 68.92883,
+        "sats": 66.33288
       },
       "market_cap_change_24h_in_currency": {
-        "aed": 47059793,
-        "ars": 18456843111,
-        "aud": 18294960,
-        "bch": 78031,
-        "bdt": 1573312070,
-        "bhd": 4871665,
-        "bmd": 12814103,
-        "bnb": 18495,
-        "brl": 65317869,
-        "btc": 168.275,
-        "cad": 18165925,
-        "chf": 10919595,
-        "clp": 11876328540,
-        "cny": 87463816,
-        "czk": 271608649,
-        "dkk": 83617995,
-        "dot": 13581593,
-        "eos": 148568590,
-        "eth": 4415,
-        "eur": 11181243,
-        "gbp": 10152103,
-        "gel": 34085514,
-        "hkd": 100463531,
-        "huf": 4073858947,
-        "idr": 246620476848,
-        "ils": 43490653,
-        "inr": 1265054672,
-        "jpy": 2040650725,
-        "krw": 15391012140,
-        "kwd": 3945412,
-        "lkr": 4313173575,
-        "ltc": 222942,
-        "mmk": 26907181646,
-        "mxn": 222934143,
-        "myr": 58518279,
-        "ngn": 17779363767,
-        "nok": 118564212,
-        "nzd": 21769568,
-        "php": 776799052,
-        "pkr": 3558796034,
-        "pln": 47733977,
-        "rub": 886546567,
-        "sar": 50328653,
-        "sek": 121152739,
-        "sgd": 16403837,
-        "sol": 150545,
-        "thb": 412369592,
-        "try": 596917819,
-        "twd": 404638619,
-        "uah": 568559406,
-        "usd": 12814103,
-        "vef": 1283076,
-        "vnd": 340267619147,
-        "xag": 222861,
-        "xau": 3263.87,
-        "xdr": 9983254,
-        "xlm": 86472480,
-        "xrp": 9721085,
-        "yfi": 5947,
-        "zar": 215694615,
-        "bits": 168275330,
-        "link": 1121999,
-        "sats": 16827532957
+        "aed": 19283174,
+        "ars": 6929316418,
+        "aud": 6803197,
+        "bch": 7162,
+        "bdt": 705959597,
+        "bhd": 2084039,
+        "bmd": 5250694,
+        "bnb": 6997,
+        "brl": 22821711,
+        "btc": 50.184,
+        "cad": 7354595,
+        "chf": 4101014,
+        "clp": 4011664161,
+        "cny": 35471534,
+        "czk": 101095525,
+        "dkk": 33046240,
+        "dot": -1037972.6194428205,
+        "eos": -85676004.54022455,
+        "eth": 2297,
+        "eur": 4402124,
+        "gbp": 3710083,
+        "gel": 14715742,
+        "hkd": 41351665,
+        "huf": 1339564551,
+        "idr": 78803777475,
+        "ils": 12326257,
+        "inr": 446682776,
+        "jpy": 821340437,
+        "krw": 7119670505,
+        "kwd": 1596562,
+        "lkr": 2236332826,
+        "ltc": 29374,
+        "mmk": 11025459711,
+        "mxn": 83750857,
+        "myr": 20855629,
+        "ngn": 7380987524,
+        "nok": 43545265,
+        "nzd": 8134462,
+        "php": 311104776,
+        "pkr": 1590543369,
+        "pln": 18107855,
+        "rub": 412887679,
+        "sar": 21622348,
+        "sek": 47408139,
+        "sgd": 6567317,
+        "sol": 40757,
+        "thb": 178006050,
+        "try": 237830208,
+        "twd": 164639551,
+        "uah": 237727206,
+        "usd": 5250694,
+        "vef": 525752,
+        "vnd": 135084017140,
+        "xag": 13278.02,
+        "xau": 933.77,
+        "xdr": 3645154,
+        "xlm": 25948037,
+        "xrp": 3328645,
+        "yfi": 2106,
+        "zar": 82903043,
+        "bits": 50183655,
+        "link": 271322,
+        "sats": 5018365483
       },
       "market_cap_change_percentage_24h_in_currency": {
-        "aed": 8.37185,
-        "ars": 8.36955,
-        "aud": 8.42901,
-        "bch": 11.3819,
-        "bdt": 8.37185,
-        "bhd": 8.43967,
-        "bmd": 8.37185,
-        "bnb": 7.11778,
-        "brl": 8.24208,
-        "btc": 6.85663,
-        "cad": 8.51847,
-        "chf": 8.99184,
-        "clp": 8.48563,
-        "cny": 8.43262,
-        "czk": 8.44925,
-        "dkk": 8.42175,
-        "dot": 8.58903,
-        "eos": 6.14504,
-        "eth": 4.65626,
-        "eur": 8.41655,
-        "gbp": 8.88149,
-        "gel": 8.37185,
-        "hkd": 8.37807,
-        "huf": 8.62608,
-        "idr": 8.90404,
-        "ils": 9.69638,
-        "inr": 8.66634,
-        "jpy": 8.31651,
-        "krw": 6.44843,
-        "kwd": 8.33331,
-        "lkr": 8.37185,
-        "ltc": 6.10628,
-        "mmk": 8.37185,
-        "mxn": 8.33575,
-        "myr": 9.48797,
-        "ngn": 8.53915,
-        "nok": 8.18323,
-        "nzd": 8.24136,
-        "php": 8.21228,
-        "pkr": 8.34855,
-        "pln": 8.46852,
-        "rub": 7.86177,
-        "sar": 8.74917,
-        "sek": 8.3626,
-        "sgd": 8.30142,
-        "sol": 6.37858,
-        "thb": 8.17821,
-        "try": 8.46643,
-        "twd": 8.37185,
-        "uah": 8.37185,
-        "usd": 8.37185,
-        "vef": 8.37185,
-        "vnd": 8.44323,
-        "xag": 9.87733,
-        "xau": 9.2303,
-        "xdr": 9.28465,
-        "xlm": 11.85761,
-        "xrp": 7.20754,
-        "yfi": 7.18779,
-        "zar": 8.50553,
-        "bits": 6.85663,
-        "link": 5.65265,
-        "sats": 6.85663
+        "aed": 3.38689,
+        "ars": 3.12022,
+        "aud": 3.08246,
+        "bch": 0.93316,
+        "bdt": 3.71441,
+        "bhd": 3.57379,
+        "bmd": 3.38689,
+        "bnb": 2.70402,
+        "brl": 2.88622,
+        "btc": 2.03849,
+        "cad": 3.39,
+        "chf": 3.31714,
+        "clp": 2.85432,
+        "cny": 3.38078,
+        "czk": 3.1157,
+        "dkk": 3.29624,
+        "dot": -0.63152,
+        "eos": -3.79166,
+        "eth": 2.45636,
+        "eur": 3.28186,
+        "gbp": 3.20339,
+        "gel": 3.58196,
+        "hkd": 3.40451,
+        "huf": 2.82195,
+        "idr": 2.84401,
+        "ils": 2.70406,
+        "inr": 3.0186,
+        "jpy": 3.30383,
+        "krw": 3.01439,
+        "kwd": 3.33896,
+        "lkr": 4.34308,
+        "ltc": 0.80274,
+        "mmk": 3.38689,
+        "mxn": 3.12883,
+        "myr": 3.31305,
+        "ngn": 3.5025,
+        "nok": 2.9448,
+        "nzd": 3.0501,
+        "php": 3.29934,
+        "pkr": 3.69909,
+        "pln": 3.17476,
+        "rub": 3.68621,
+        "sar": 3.72774,
+        "sek": 3.22706,
+        "sgd": 3.29498,
+        "sol": 1.7389,
+        "thb": 3.49876,
+        "try": 3.31594,
+        "twd": 3.35748,
+        "uah": 3.42379,
+        "usd": 3.38689,
+        "vef": 3.38689,
+        "vnd": 3.30994,
+        "xag": 0.56469,
+        "xau": 2.5149,
+        "xdr": 3.33455,
+        "xlm": 3.17225,
+        "xrp": 2.42711,
+        "yfi": 2.55932,
+        "zar": 3.27436,
+        "bits": 2.03849,
+        "link": 1.36298,
+        "sats": 2.03849
       },
       "total_supply": 500000000,
       "max_supply": 500000000,
       "max_supply_infinite": false,
       "circulating_supply": 447274118,
       "outstanding_supply": 0,
-      "last_updated": "2026-06-08T08:03:30.093Z"
+      "last_updated": "2026-06-13T07:48:05.495Z"
     },
     "community_data": {
       "facebook_likes": null,
@@ -1659,7 +1660,7 @@
       "reddit_average_comments_48h": 0,
       "reddit_subscribers": 0,
       "reddit_accounts_active_48h": 0,
-      "telegram_channel_user_count": 5420
+      "telegram_channel_user_count": 5416
     },
     "developer_data": {
       "forks": 86,
@@ -1840,39 +1841,40 @@
         }
       }
     ],
-    "last_updated": "2026-06-08T08:03:30.093Z",
+    "last_updated": "2026-06-13T07:48:05.495Z",
     "tickers": [
       {
         "base": "TRAC",
-        "target": "KRW",
+        "target": "USDT",
         "market": {
-          "name": "Upbit",
-          "identifier": "upbit",
+          "name": "KuCoin",
+          "identifier": "kucoin",
           "has_trading_incentive": false
         },
-        "last": 564,
-        "volume": 23649166.1235842,
+        "last": 0.3596,
+        "volume": 0,
         "converted_last": {
-          "btc": 0.00000583,
-          "eth": 0.00022062,
-          "usd": 0.368222
+          "btc": 0.00000563,
+          "eth": 0.00021486,
+          "usd": 0.359456
         },
         "converted_volume": {
-          "btc": 137.807,
-          "eth": 5218,
-          "usd": 8708147
+          "btc": 1.869101,
+          "eth": 71.289,
+          "usd": 119263
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.177305,
-        "timestamp": "2026-06-08T08:02:21+00:00",
-        "last_traded_at": "2026-06-08T08:02:21+00:00",
-        "last_fetch_at": "2026-06-08T08:02:21+00:00",
+        "bid_ask_spread_percentage": 0.027809,
+        "timestamp": "2026-06-13T07:47:40+00:00",
+        "last_traded_at": "2026-06-13T07:47:40+00:00",
+        "last_fetch_at": "2026-06-13T07:47:40+00:00",
         "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-TRAC",
+        "trade_url": "https://www.kucoin.com/trade/TRAC-USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -1882,62 +1884,93 @@
           "identifier": "gdax",
           "has_trading_incentive": false
         },
-        "last": 0.3742,
-        "volume": 2899665,
+        "last": 0.3595,
+        "volume": 812270.2,
         "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022438,
-          "usd": 0.3742
+          "btc": 0.00000564,
+          "eth": 0.00021492,
+          "usd": 0.3595
         },
         "converted_volume": {
-          "btc": 17.190056,
-          "eth": 650.637,
-          "usd": 1085055
+          "btc": 4.577164,
+          "eth": 174.57,
+          "usd": 292011
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.37155,
-        "timestamp": "2026-06-08T08:03:06+00:00",
-        "last_traded_at": "2026-06-08T08:03:06+00:00",
-        "last_fetch_at": "2026-06-08T08:03:06+00:00",
+        "bid_ask_spread_percentage": 0.139121,
+        "timestamp": "2026-06-13T07:41:02+00:00",
+        "last_traded_at": "2026-06-13T07:41:02+00:00",
+        "last_fetch_at": "2026-06-13T07:46:53+00:00",
         "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://www.coinbase.com/advanced-trade/spot/TRAC-USD",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
-        "target": "USDT",
+        "target": "USD",
         "market": {
-          "name": "Gate",
-          "identifier": "gate",
+          "name": "Kraken",
+          "identifier": "kraken",
           "has_trading_incentive": false
         },
-        "last": 0.371,
-        "volume": 312999.3,
+        "last": 0.358,
+        "volume": 160255.60089,
         "converted_last": {
-          "btc": 0.00000587,
-          "eth": 0.00022227,
-          "usd": 0.370705
+          "btc": 0.00000561,
+          "eth": 0.00021404,
+          "usd": 0.358
         },
         "converted_volume": {
-          "btc": 1.885842,
-          "eth": 71.383,
-          "usd": 119051
+          "btc": 0.89942593,
+          "eth": 34.301311,
+          "usd": 57372
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.10661,
-        "timestamp": "2026-06-08T07:29:07+00:00",
-        "last_traded_at": "2026-06-08T07:29:07+00:00",
-        "last_fetch_at": "2026-06-08T08:02:57+00:00",
+        "bid_ask_spread_percentage": 0.111328,
+        "timestamp": "2026-06-13T07:07:17+00:00",
+        "last_traded_at": "2026-06-13T07:07:17+00:00",
+        "last_fetch_at": "2026-06-13T07:46:06+00:00",
         "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://www.gate.com/trade/TRAC_USDT",
+        "trade_url": "https://pro.kraken.com/app/trade/TRAC-USD",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "KRW",
+        "market": {
+          "name": "Upbit",
+          "identifier": "upbit",
+          "has_trading_incentive": false
+        },
+        "last": 544,
+        "volume": 1407287.93270776,
+        "converted_last": {
+          "btc": 0.00000561,
+          "eth": 0.00021417,
+          "usd": 0.358253
+        },
+        "converted_volume": {
+          "btc": 7.901505,
+          "eth": 301.402,
+          "usd": 504165
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.183486,
+        "timestamp": "2026-06-13T07:45:56+00:00",
+        "last_traded_at": "2026-06-13T07:45:56+00:00",
+        "last_fetch_at": "2026-06-13T07:47:14+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-TRAC",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -1947,161 +1980,30 @@
           "identifier": "mxc",
           "has_trading_incentive": false
         },
-        "last": 0.3753,
-        "volume": 844736.29,
+        "last": 0.3594,
+        "volume": 321310.11,
         "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022417,
-          "usd": 0.374991
+          "btc": 0.00000563,
+          "eth": 0.00021478,
+          "usd": 0.359166
         },
         "converted_volume": {
-          "btc": 4.91465,
-          "eth": 185.742,
-          "usd": 310715
+          "btc": 1.805112,
+          "eth": 68.85,
+          "usd": 115136
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.186121,
-        "timestamp": "2026-06-08T07:57:16+00:00",
-        "last_traded_at": "2026-06-08T07:57:16+00:00",
-        "last_fetch_at": "2026-06-08T07:57:16+00:00",
+        "bid_ask_spread_percentage": 0.139005,
+        "timestamp": "2026-06-13T07:42:35+00:00",
+        "last_traded_at": "2026-06-13T07:42:35+00:00",
+        "last_fetch_at": "2026-06-13T07:42:35+00:00",
         "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://www.mexc.com/exchange/TRAC_USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "KuCoin",
-          "identifier": "kucoin",
-          "has_trading_incentive": false
-        },
-        "last": 0.3763,
-        "volume": 0,
-        "converted_last": {
-          "btc": 0.00000595,
-          "eth": 0.00022533,
-          "usd": 0.376077
-        },
-        "converted_volume": {
-          "btc": 9.313552,
-          "eth": 352.626,
-          "usd": 588532
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.29232,
-        "timestamp": "2026-06-08T08:02:08+00:00",
-        "last_traded_at": "2026-06-08T08:02:08+00:00",
-        "last_fetch_at": "2026-06-08T08:02:08+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.kucoin.com/trade/TRAC-USDT",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USD",
-        "market": {
-          "name": "Kraken",
-          "identifier": "kraken",
-          "has_trading_incentive": false
-        },
-        "last": 0.3751,
-        "volume": 563375.34797,
-        "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022451,
-          "usd": 0.3751
-        },
-        "converted_volume": {
-          "btc": 3.341609,
-          "eth": 126.481,
-          "usd": 211322
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.373234,
-        "timestamp": "2026-06-08T07:59:00+00:00",
-        "last_traded_at": "2026-06-08T07:59:00+00:00",
-        "last_fetch_at": "2026-06-08T08:01:52+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://pro.kraken.com/app/trade/TRAC-USD",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
-        "target": "0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2",
-        "market": {
-          "name": "Uniswap V3 (Ethereum)",
-          "identifier": "uniswap_v3",
-          "has_trading_incentive": false
-        },
-        "last": 0.0002243500458,
-        "volume": 743962.893409288,
-        "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022436,
-          "usd": 0.374153
-        },
-        "converted_volume": {
-          "btc": 4.407997,
-          "eth": 166.841,
-          "usd": 278237
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.603707,
-        "timestamp": "2026-06-08T08:00:31+00:00",
-        "last_traded_at": "2026-06-08T08:00:31+00:00",
-        "last_fetch_at": "2026-06-08T08:03:26+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://app.uniswap.org/explore/tokens/ethereum/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "weth",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
-        "target": "0X0000000000000000000000000000000000000000",
-        "market": {
-          "name": "Uniswap V4 (Ethereum)",
-          "identifier": "uniswap-v4-ethereum",
-          "has_trading_incentive": false
-        },
-        "last": 0.0002240336601,
-        "volume": 616293.939043022,
-        "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022435,
-          "usd": 0.374146
-        },
-        "converted_volume": {
-          "btc": 3.668853,
-          "eth": 138.865,
-          "usd": 231582
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.603816,
-        "timestamp": "2026-06-08T08:00:20+00:00",
-        "last_traded_at": "2026-06-08T08:00:20+00:00",
-        "last_fetch_at": "2026-06-08T08:03:36+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f&outputCurrency=0x0000000000000000000000000000000000000000",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "ethereum",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -2111,29 +2013,29 @@
           "identifier": "bitvavo",
           "has_trading_incentive": false
         },
-        "last": 0.3236,
-        "volume": 341705.08108877,
+        "last": 0.30983,
+        "volume": 267002.98428193,
         "converted_last": {
-          "btc": 0.00000589,
-          "eth": 0.00022277,
-          "usd": 0.372571
+          "btc": 0.00000562,
+          "eth": 0.00021438,
+          "usd": 0.358458
         },
         "converted_volume": {
-          "btc": 2.012046,
-          "eth": 76.122,
-          "usd": 127310
+          "btc": 1.500619,
+          "eth": 57.239,
+          "usd": 95709
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.536612,
-        "timestamp": "2026-06-08T07:58:11+00:00",
-        "last_traded_at": "2026-06-08T07:58:11+00:00",
-        "last_fetch_at": "2026-06-08T07:58:11+00:00",
+        "bid_ask_spread_percentage": 0.205841,
+        "timestamp": "2026-06-13T07:30:41+00:00",
+        "last_traded_at": "2026-06-13T07:30:41+00:00",
+        "last_fetch_at": "2026-06-13T07:44:27+00:00",
         "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://account.bitvavo.com/markets/TRAC-EUR",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -2143,326 +2045,63 @@
           "identifier": "ourbit",
           "has_trading_incentive": false
         },
-        "last": 0.3754,
-        "volume": 392604.27,
+        "last": 0.3591,
+        "volume": 95456.87,
         "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.0002245,
-          "usd": 0.375098
+          "btc": 0.00000563,
+          "eth": 0.00021461,
+          "usd": 0.358866
         },
         "converted_volume": {
-          "btc": 2.336369,
-          "eth": 88.432,
-          "usd": 147751
+          "btc": 0.53667124,
+          "eth": 20.4704,
+          "usd": 34230
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.265745,
-        "timestamp": "2026-06-08T08:01:44+00:00",
-        "last_traded_at": "2026-06-08T08:01:44+00:00",
-        "last_fetch_at": "2026-06-08T08:01:44+00:00",
+        "bid_ask_spread_percentage": 0.055602,
+        "timestamp": "2026-06-13T07:43:53+00:00",
+        "last_traded_at": "2026-06-13T07:43:53+00:00",
+        "last_fetch_at": "2026-06-13T07:43:53+00:00",
         "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://www.ourbit.com/exchange/TRAC_USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "EUR",
-        "market": {
-          "name": "Kraken",
-          "identifier": "kraken",
-          "has_trading_incentive": false
-        },
-        "last": 0.3245,
-        "volume": 92201.76672,
-        "converted_last": {
-          "btc": 0.00000591,
-          "eth": 0.00022372,
-          "usd": 0.373791
-        },
-        "converted_volume": {
-          "btc": 0.54497828,
-          "eth": 20.627603,
-          "usd": 34464
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.367872,
-        "timestamp": "2026-06-08T08:01:52+00:00",
-        "last_traded_at": "2026-06-08T08:01:52+00:00",
-        "last_fetch_at": "2026-06-08T08:01:52+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://pro.kraken.com/app/trade/TRAC-EUR",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
         "target": "USDT",
         "market": {
-          "name": "KCEX",
-          "identifier": "kcex",
+          "name": "Gate",
+          "identifier": "gate",
           "has_trading_incentive": false
         },
-        "last": 0.3759,
-        "volume": 139290.62,
+        "last": 0.3583,
+        "volume": 102976.5,
         "converted_last": {
-          "btc": 0.00000594,
-          "eth": 0.00022473,
-          "usd": 0.375601
+          "btc": 0.00000561,
+          "eth": 0.00021408,
+          "usd": 0.358064
         },
         "converted_volume": {
-          "btc": 0.79271527,
-          "eth": 30.002398,
-          "usd": 50143
+          "btc": 0.58141206,
+          "eth": 22.17325,
+          "usd": 37086
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.080257,
-        "timestamp": "2026-06-08T07:59:42+00:00",
-        "last_traded_at": "2026-06-08T07:59:42+00:00",
-        "last_fetch_at": "2026-06-08T07:59:42+00:00",
+        "bid_ask_spread_percentage": 0.222408,
+        "timestamp": "2026-06-13T07:40:25+00:00",
+        "last_traded_at": "2026-06-13T07:40:25+00:00",
+        "last_fetch_at": "2026-06-13T07:46:23+00:00",
         "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://www.kcex.com/exchange/TRAC_USDT",
+        "trade_url": "https://www.gate.com/trade/TRAC_USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "Biconomy.com",
-          "identifier": "biconomy",
-          "has_trading_incentive": false
-        },
-        "last": 0.3752,
-        "volume": 472186.832,
-        "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022422,
-          "usd": 0.37494
-        },
-        "converted_volume": {
-          "btc": 2.759281,
-          "eth": 104.297,
-          "usd": 174405
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.425532,
-        "timestamp": "2026-06-08T07:56:42+00:00",
-        "last_traded_at": "2026-06-08T07:56:42+00:00",
-        "last_fetch_at": "2026-06-08T07:56:42+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.biconomy.com/exchange/TRAC_USDT",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "0XA81A52B4DDA010896CDD386C7FBDC5CDC835BA23",
-        "target": "0X4200000000000000000000000000000000000006",
-        "market": {
-          "name": "Aerodrome (Base)",
-          "identifier": "aerodrome-base",
-          "has_trading_incentive": false
-        },
-        "last": 0.0002234031063,
-        "volume": 36416.5509504723,
-        "converted_last": {
-          "btc": 0.00000589,
-          "eth": 0.00022304,
-          "usd": 0.371965
-        },
-        "converted_volume": {
-          "btc": 0.21545165,
-          "eth": 8.15476,
-          "usd": 13599.54
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.611114,
-        "timestamp": "2026-06-08T08:03:10+00:00",
-        "last_traded_at": "2026-06-08T08:03:10+00:00",
-        "last_fetch_at": "2026-06-08T08:03:10+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://aerodrome.finance/swap?from=0xa81a52b4dda010896cdd386c7fbdc5cdc835ba23&to=0x4200000000000000000000000000000000000006&chain0=8453&chain1=8453",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "l2-standard-bridged-weth-base",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "Toobit",
-          "identifier": "toobit",
-          "has_trading_incentive": false
-        },
-        "last": 0.3766,
-        "volume": 81531.3,
-        "converted_last": {
-          "btc": 0.00000595,
-          "eth": 0.00022546,
-          "usd": 0.376301
-        },
-        "converted_volume": {
-          "btc": 0.48129115,
-          "eth": 18.222453,
-          "usd": 30413
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.636943,
-        "timestamp": "2026-06-08T08:02:26+00:00",
-        "last_traded_at": "2026-06-08T08:02:26+00:00",
-        "last_fetch_at": "2026-06-08T08:02:26+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.toobit.com/en-US/spot/TRAC_USDT",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
-        "target": "0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2",
-        "market": {
-          "name": "Uniswap V2 (Ethereum)",
-          "identifier": "uniswap_v2",
-          "has_trading_incentive": false
-        },
-        "last": 0.0002235676272,
-        "volume": 14025.8940342749,
-        "converted_last": {
-          "btc": 0.00000591,
-          "eth": 0.00022357,
-          "usd": 0.372849
-        },
-        "converted_volume": {
-          "btc": 0.08273157,
-          "eth": 3.131358,
-          "usd": 5222.11
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 0.61727,
-        "timestamp": "2026-06-08T08:02:52+00:00",
-        "last_traded_at": "2026-06-08T08:02:52+00:00",
-        "last_fetch_at": "2026-06-08T08:03:27+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://app.uniswap.org/explore/tokens/ethereum/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
-        "token_info_url": "https://v2.info.uniswap.org/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
-        "coin_id": "origintrail",
-        "target_coin_id": "weth",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "HTX",
-          "identifier": "huobi",
-          "has_trading_incentive": false
-        },
-        "last": 0.3732,
-        "volume": 3324445.6789,
-        "converted_last": {
-          "btc": 0.00000591,
-          "eth": 0.00022361,
-          "usd": 0.372903
-        },
-        "converted_volume": {
-          "btc": 18.056506,
-          "eth": 683.432,
-          "usd": 1139746
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 2.513228,
-        "timestamp": "2026-06-08T08:03:30+00:00",
-        "last_traded_at": "2026-06-08T08:03:30+00:00",
-        "last_fetch_at": "2026-06-08T08:03:30+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.huobi.com/en-us/exchange/trac_usdt",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "BitMart",
-          "identifier": "bitmart",
-          "has_trading_incentive": false
-        },
-        "last": 0.3807,
-        "volume": 797466.8,
-        "converted_last": {
-          "btc": 0.00000603,
-          "eth": 0.00022809,
-          "usd": 0.380397
-        },
-        "converted_volume": {
-          "btc": 4.805303,
-          "eth": 181.891,
-          "usd": 303354
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 10.745098,
-        "timestamp": "2026-06-08T06:09:00+00:00",
-        "last_traded_at": "2026-06-08T06:09:00+00:00",
-        "last_fetch_at": "2026-06-08T08:02:39+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.bitmart.com/trade/en?symbol=TRAC_USDT",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "ETH",
-        "market": {
-          "name": "KuCoin",
-          "identifier": "kucoin",
-          "has_trading_incentive": false
-        },
-        "last": 0.0002228,
-        "volume": 0,
-        "converted_last": {
-          "btc": 0.00000588,
-          "eth": 0.00022253,
-          "usd": 0.371952
-        },
-        "converted_volume": {
-          "btc": 0.20122966,
-          "eth": 7.614793,
-          "usd": 12728.11
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 1.864181,
-        "timestamp": "2026-06-08T07:14:25+00:00",
-        "last_traded_at": "2026-06-08T07:14:25+00:00",
-        "last_fetch_at": "2026-06-08T08:01:15+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.kucoin.com/trade/TRAC-ETH",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "ethereum",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
@@ -2472,227 +2111,95 @@
           "identifier": "uniswap_v3",
           "has_trading_incentive": false
         },
-        "last": 0.0002228976611,
-        "volume": 1539.1992388426,
+        "last": 0.0002144623539,
+        "volume": 164912.62832937,
         "converted_last": {
-          "btc": 0.00000591,
-          "eth": 0.00022354,
-          "usd": 0.373762
+          "btc": 0.00000562,
+          "eth": 0.00021447,
+          "usd": 0.358755
         },
         "converted_volume": {
-          "btc": 0.00914702,
-          "eth": 0.34612967,
-          "usd": 578.73
+          "btc": 0.92963446,
+          "eth": 35.460839,
+          "usd": 59316
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.746094,
-        "timestamp": "2026-06-08T07:46:43+00:00",
-        "last_traded_at": "2026-06-08T07:46:43+00:00",
-        "last_fetch_at": "2026-06-08T07:58:37+00:00",
+        "bid_ask_spread_percentage": 0.603704,
+        "timestamp": "2026-06-13T07:46:17+00:00",
+        "last_traded_at": "2026-06-13T07:46:17+00:00",
+        "last_fetch_at": "2026-06-13T07:47:17+00:00",
         "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://app.uniswap.org/explore/tokens/ethereum/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "weth",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
-        "target": "USD",
+        "target": "EUR",
         "market": {
-          "name": "Crypto.com Exchange",
-          "identifier": "crypto_com",
+          "name": "Kraken",
+          "identifier": "kraken",
           "has_trading_incentive": false
         },
-        "last": 0.37345,
-        "volume": 9732.2,
+        "last": 0.3076,
+        "volume": 55223.64474,
         "converted_last": {
-          "btc": 0.00000592,
-          "eth": 0.00022393,
-          "usd": 0.37345
+          "btc": 0.00000558,
+          "eth": 0.00021276,
+          "usd": 0.355856
         },
         "converted_volume": {
-          "btc": 0.05757967,
-          "eth": 2.179368,
-          "usd": 3634.49
+          "btc": 0.30808397,
+          "eth": 11.749366,
+          "usd": 19651.69
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 1.572194,
-        "timestamp": "2026-06-08T07:38:32+00:00",
-        "last_traded_at": "2026-06-08T07:38:32+00:00",
-        "last_fetch_at": "2026-06-08T08:03:06+00:00",
+        "bid_ask_spread_percentage": 0.192926,
+        "timestamp": "2026-06-13T06:46:21+00:00",
+        "last_traded_at": "2026-06-13T06:46:21+00:00",
+        "last_fetch_at": "2026-06-13T07:46:06+00:00",
         "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://crypto.com/exchange/trade/spot/TRAC_USD",
+        "trade_url": "https://pro.kraken.com/app/trade/TRAC-EUR",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
-        "base": "TRAC",
-        "target": "USDT",
+        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
+        "target": "0X0000000000000000000000000000000000000000",
         "market": {
-          "name": "CoinEx",
-          "identifier": "coinex",
+          "name": "Uniswap V4 (Ethereum)",
+          "identifier": "uniswap-v4-ethereum",
           "has_trading_incentive": false
         },
-        "last": 0.3752,
-        "volume": 12945.49796627,
+        "last": 0.0002145886797,
+        "volume": 151148.669943813,
         "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022432,
-          "usd": 0.374898
+          "btc": 0.00000563,
+          "eth": 0.00021463,
+          "usd": 0.359017
         },
         "converted_volume": {
-          "btc": 0.07415692,
-          "eth": 2.806725,
-          "usd": 4690.81
+          "btc": 0.85432227,
+          "eth": 32.588061,
+          "usd": 54511
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 1.533986,
-        "timestamp": "2026-06-08T08:00:24+00:00",
-        "last_traded_at": "2026-06-08T08:00:24+00:00",
-        "last_fetch_at": "2026-06-08T08:00:24+00:00",
+        "bid_ask_spread_percentage": 0.603819,
+        "timestamp": "2026-06-13T07:32:43+00:00",
+        "last_traded_at": "2026-06-13T07:32:43+00:00",
+        "last_fetch_at": "2026-06-13T07:47:29+00:00",
         "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://www.coinex.com/en/exchange/trac-usdt?",
+        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f&outputCurrency=0x0000000000000000000000000000000000000000",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "0XA81A52B4DDA010896CDD386C7FBDC5CDC835BA23",
-        "target": "0X4200000000000000000000000000000000000006",
-        "market": {
-          "name": "Aerodrome SlipStream",
-          "identifier": "aerodrome-slipstream",
-          "has_trading_incentive": false
-        },
-        "last": 0.0002233385482,
-        "volume": 39.7721337636,
-        "converted_last": {
-          "btc": 0.0000059,
-          "eth": 0.00022325,
-          "usd": 0.372312
-        },
-        "converted_volume": {
-          "btc": 0.00023816,
-          "eth": 0.00901418,
-          "usd": 15.03
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 2.625428,
-        "timestamp": "2026-06-08T07:30:21+00:00",
-        "last_traded_at": "2026-06-08T07:30:21+00:00",
-        "last_fetch_at": "2026-06-08T08:03:18+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://aerodrome.finance/swap?from=0xa81a52b4dda010896cdd386c7fbdc5cdc835ba23&to=0x4200000000000000000000000000000000000006",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "l2-standard-bridged-weth-base",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "Binance US",
-          "identifier": "binance_us",
-          "has_trading_incentive": false
-        },
-        "last": 0.3752,
-        "volume": 770.8829957356077,
-        "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022432,
-          "usd": 0.374902
-        },
-        "converted_volume": {
-          "btc": 0.00456887,
-          "eth": 0.17292111,
-          "usd": 289.01
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 3.700808,
-        "timestamp": "2026-06-08T06:16:06+00:00",
-        "last_traded_at": "2026-06-08T06:16:06+00:00",
-        "last_fetch_at": "2026-06-08T07:59:58+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://www.binance.us/trade/pro/TRAC_USDT",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "BTC",
-        "market": {
-          "name": "ChangeNOW",
-          "identifier": "changenow",
-          "has_trading_incentive": false
-        },
-        "last": 0.000005883414722303424,
-        "volume": 523.7365560363417,
-        "converted_last": {
-          "btc": 0.00000586,
-          "eth": 0.00022175,
-          "usd": 0.37076
-        },
-        "converted_volume": {
-          "btc": 0.00260335,
-          "eth": 0.09851274,
-          "usd": 164.71
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": null,
-        "timestamp": "2026-06-08T07:51:18+00:00",
-        "last_traded_at": "2026-06-08T07:51:18+00:00",
-        "last_fetch_at": "2026-06-08T07:58:44+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://changenow.io/currencies",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "bitcoin",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "H2O",
-        "market": {
-          "name": "Hydration",
-          "identifier": "hydradx",
-          "has_trading_incentive": false
-        },
-        "last": 0.06816320458398642,
-        "volume": 85550.5655015402,
-        "converted_last": {
-          "btc": 0.00000593,
-          "eth": 0.00022432,
-          "usd": 0.37541
-        },
-        "converted_volume": {
-          "btc": 0.49829432,
-          "eth": 18.837006,
-          "usd": 31524
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": null,
-        "timestamp": "2026-06-08T07:44:09+00:00",
-        "last_traded_at": "2026-06-08T07:44:09+00:00",
-        "last_fetch_at": "2026-06-08T07:57:46+00:00",
-        "is_anomaly": false,
-        "is_stale": false,
-        "trade_url": "https://app.hydradx.io/trade",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "h2o-2",
-        "coin_mcap_usd": 165875923.49808112
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -2702,29 +2209,227 @@
           "identifier": "bithumb",
           "has_trading_incentive": false
         },
-        "last": 549,
-        "volume": 2518566.066819816,
+        "last": 540,
+        "volume": 381371.23670355225,
         "converted_last": {
-          "btc": 0.00000568,
-          "eth": 0.00021493,
-          "usd": 0.358429
+          "btc": 0.00000557,
+          "eth": 0.00021263,
+          "usd": 0.355668
         },
         "converted_volume": {
-          "btc": 14.30152,
-          "eth": 541.307,
-          "usd": 902727
+          "btc": 2.126127,
+          "eth": 81.089,
+          "usd": 135641
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.724638,
-        "timestamp": "2026-06-08T08:03:32+00:00",
-        "last_traded_at": "2026-06-08T08:03:32+00:00",
-        "last_fetch_at": "2026-06-08T08:03:32+00:00",
-        "is_anomaly": true,
+        "bid_ask_spread_percentage": 0.555556,
+        "timestamp": "2026-06-13T07:42:35+00:00",
+        "last_traded_at": "2026-06-13T07:42:35+00:00",
+        "last_fetch_at": "2026-06-13T07:46:32+00:00",
+        "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://www.bithumb.com/trade/order/TRAC_KRW",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USDT",
+        "market": {
+          "name": "BitMart",
+          "identifier": "bitmart",
+          "has_trading_incentive": false
+        },
+        "last": 0.3575,
+        "volume": 735324.6,
+        "converted_last": {
+          "btc": 0.0000056,
+          "eth": 0.00021349,
+          "usd": 0.357264
+        },
+        "converted_volume": {
+          "btc": 4.116072,
+          "eth": 156.986,
+          "usd": 262705
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.694444,
+        "timestamp": "2026-06-13T06:45:11+00:00",
+        "last_traded_at": "2026-06-13T06:45:11+00:00",
+        "last_fetch_at": "2026-06-13T07:48:04+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.bitmart.com/trade/en?symbol=TRAC_USDT",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USDT",
+        "market": {
+          "name": "Biconomy.com",
+          "identifier": "biconomy",
+          "has_trading_incentive": false
+        },
+        "last": 0.3596,
+        "volume": 214631.271,
+        "converted_last": {
+          "btc": 0.00000563,
+          "eth": 0.00021489,
+          "usd": 0.35942
+        },
+        "converted_volume": {
+          "btc": 1.207684,
+          "eth": 46.057327,
+          "usd": 77034
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.333056,
+        "timestamp": "2026-06-13T07:46:27+00:00",
+        "last_traded_at": "2026-06-13T07:46:27+00:00",
+        "last_fetch_at": "2026-06-13T07:46:27+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.biconomy.com/exchange/TRAC_USDT",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USDT",
+        "market": {
+          "name": "Toobit",
+          "identifier": "toobit",
+          "has_trading_incentive": false
+        },
+        "last": 0.3597,
+        "volume": 40556.9,
+        "converted_last": {
+          "btc": 0.00000564,
+          "eth": 0.00021497,
+          "usd": 0.359465
+        },
+        "converted_volume": {
+          "btc": 0.22901226,
+          "eth": 8.735278,
+          "usd": 14607.05
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.388781,
+        "timestamp": "2026-06-13T07:43:42+00:00",
+        "last_traded_at": "2026-06-13T07:43:42+00:00",
+        "last_fetch_at": "2026-06-13T07:43:42+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.toobit.com/en-US/spot/TRAC_USDT",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USDT",
+        "market": {
+          "name": "KCEX",
+          "identifier": "kcex",
+          "has_trading_incentive": false
+        },
+        "last": 0.3593,
+        "volume": 106143.54,
+        "converted_last": {
+          "btc": 0.00000563,
+          "eth": 0.00021472,
+          "usd": 0.359066
+        },
+        "converted_volume": {
+          "btc": 0.59738924,
+          "eth": 22.785277,
+          "usd": 38103
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.139005,
+        "timestamp": "2026-06-13T07:42:55+00:00",
+        "last_traded_at": "2026-06-13T07:42:55+00:00",
+        "last_fetch_at": "2026-06-13T07:42:55+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.kcex.com/exchange/TRAC_USDT",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "0XA81A52B4DDA010896CDD386C7FBDC5CDC835BA23",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002146948476,
+        "volume": 11775.870973745,
+        "converted_last": {
+          "btc": 0.00000562,
+          "eth": 0.00021447,
+          "usd": 0.358748
+        },
+        "converted_volume": {
+          "btc": 0.0658018,
+          "eth": 2.510005,
+          "usd": 4198.56
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.611278,
+        "timestamp": "2026-06-13T07:47:09+00:00",
+        "last_traded_at": "2026-06-13T07:47:09+00:00",
+        "last_fetch_at": "2026-06-13T07:47:09+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0xa81a52b4dda010896cdd386c7fbdc5cdc835ba23&to=0x4200000000000000000000000000000000000006&chain0=8453&chain1=8453",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
+        "target": "0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2",
+        "market": {
+          "name": "Uniswap V2 (Ethereum)",
+          "identifier": "uniswap_v2",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002149797906,
+        "volume": 3111.5212245723,
+        "converted_last": {
+          "btc": 0.00000564,
+          "eth": 0.00021498,
+          "usd": 0.359647
+        },
+        "converted_volume": {
+          "btc": 0.01757507,
+          "eth": 0.6703289,
+          "usd": 1121.42
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.617576,
+        "timestamp": "2026-06-13T07:47:40+00:00",
+        "last_traded_at": "2026-06-13T07:47:40+00:00",
+        "last_fetch_at": "2026-06-13T07:47:40+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/ethereum/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "token_info_url": "https://v2.info.uniswap.org/token/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "coin_id": "origintrail",
+        "target_coin_id": "weth",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -2734,158 +2439,293 @@
           "identifier": "bancor",
           "has_trading_incentive": false
         },
-        "last": 1.43261150523774,
-        "volume": 10922.8377834054,
+        "last": 1.313844921099183,
+        "volume": 1514.032269561292,
         "converted_last": {
-          "btc": 0.00000624,
-          "eth": 0.00023623,
-          "usd": 0.393957
+          "btc": 0.00000565,
+          "eth": 0.00021567,
+          "usd": 0.360913
         },
         "converted_volume": {
-          "btc": 0.06817267,
-          "eth": 2.580309,
-          "usd": 4303.13
+          "btc": 0.00856153,
+          "eth": 0.32653459,
+          "usd": 546.43
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.606601,
-        "timestamp": "2026-06-08T07:08:00+00:00",
-        "last_traded_at": "2026-06-08T07:08:00+00:00",
-        "last_fetch_at": "2026-06-08T08:03:00+00:00",
-        "is_anomaly": true,
+        "bid_ask_spread_percentage": 0.606714,
+        "timestamp": "2026-06-13T07:02:00+00:00",
+        "last_traded_at": "2026-06-13T07:02:00+00:00",
+        "last_fetch_at": "2026-06-13T07:48:00+00:00",
+        "is_anomaly": false,
         "is_stale": false,
         "trade_url": "https://app.bancor.network/trade?inputCurrency=trac&outputCurrency=bnt",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "bancor",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
         "target": "USD",
         "market": {
-          "name": "Bitstamp by Robinhood",
-          "identifier": "bitstamp",
+          "name": "Crypto.com Exchange",
+          "identifier": "crypto_com",
           "has_trading_incentive": false
         },
-        "last": 0.3951,
-        "volume": 3867.16,
+        "last": 0.3581,
+        "volume": 3604.2,
         "converted_last": {
-          "btc": 0.00000625,
-          "eth": 0.00023673,
-          "usd": 0.3951
+          "btc": 0.00000561,
+          "eth": 0.0002141,
+          "usd": 0.3581
         },
         "converted_volume": {
-          "btc": 0.02417933,
-          "eth": 0.91546831,
-          "usd": 1527.91
+          "btc": 0.02023403,
+          "eth": 0.77166301,
+          "usd": 1290.66
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.637112,
-        "timestamp": "2026-06-08T07:55:52+00:00",
-        "last_traded_at": "2026-06-08T07:55:52+00:00",
-        "last_fetch_at": "2026-06-08T08:02:36+00:00",
-        "is_anomaly": true,
+        "bid_ask_spread_percentage": 1.232683,
+        "timestamp": "2026-06-13T06:00:47+00:00",
+        "last_traded_at": "2026-06-13T06:00:47+00:00",
+        "last_fetch_at": "2026-06-13T07:46:31+00:00",
+        "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://www.bitstamp.net/markets/trac/usd/",
+        "trade_url": "https://crypto.com/exchange/trade/spot/TRAC_USD",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
-        "target": "THB",
+        "target": "USDT",
         "market": {
-          "name": "Bitkub",
-          "identifier": "bitkub",
+          "name": "CoinEx",
+          "identifier": "coinex",
           "has_trading_incentive": false
         },
-        "last": 11.85,
-        "volume": 12644.58911851,
+        "last": 0.3591,
+        "volume": 9950.71327846,
         "converted_last": {
-          "btc": 0.0000057,
-          "eth": 0.00021567,
-          "usd": 0.360585
+          "btc": 0.00000562,
+          "eth": 0.00021454,
+          "usd": 0.358863
         },
         "converted_volume": {
-          "btc": 0.07206393,
-          "eth": 2.727086,
-          "usd": 4559.44
+          "btc": 0.05603113,
+          "eth": 2.137304,
+          "usd": 3575.13
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 5.826772,
-        "timestamp": "2026-06-08T04:03:58+00:00",
-        "last_traded_at": "2026-06-08T04:03:58+00:00",
-        "last_fetch_at": "2026-06-08T07:59:00+00:00",
-        "is_anomaly": true,
+        "bid_ask_spread_percentage": 1.40884,
+        "timestamp": "2026-06-13T07:47:25+00:00",
+        "last_traded_at": "2026-06-13T07:47:25+00:00",
+        "last_fetch_at": "2026-06-13T07:47:25+00:00",
+        "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://www.bitkub.com/th/market/TRAC_THB",
+        "trade_url": "https://www.coinex.com/en/exchange/trac-usdt?",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
-        "target": "EUR",
+        "target": "ETH",
         "market": {
-          "name": "Bitstamp by Robinhood",
-          "identifier": "bitstamp",
+          "name": "KuCoin",
+          "identifier": "kucoin",
           "has_trading_incentive": false
         },
-        "last": 0.3425,
-        "volume": 1120.22,
+        "last": 0.0002142,
+        "volume": 0,
         "converted_last": {
-          "btc": 0.00000624,
-          "eth": 0.00023634,
-          "usd": 0.39445
+          "btc": 0.00000562,
+          "eth": 0.00021422,
+          "usd": 0.358386
         },
         "converted_volume": {
-          "btc": 0.00699263,
-          "eth": 0.2647523,
-          "usd": 441.87
+          "btc": 0.01141217,
+          "eth": 0.43527025,
+          "usd": 728.18
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 9.602004,
-        "timestamp": "2026-06-08T07:47:45+00:00",
-        "last_traded_at": "2026-06-08T07:47:45+00:00",
-        "last_fetch_at": "2026-06-08T08:02:36+00:00",
-        "is_anomaly": true,
+        "bid_ask_spread_percentage": 1.389532,
+        "timestamp": "2026-06-13T07:30:40+00:00",
+        "last_traded_at": "2026-06-13T07:30:40+00:00",
+        "last_fetch_at": "2026-06-13T07:47:35+00:00",
+        "is_anomaly": false,
         "is_stale": false,
-        "trade_url": "https://www.bitstamp.net/markets/trac/eur/",
+        "trade_url": "https://www.kucoin.com/trade/TRAC-ETH",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
+        "target": "0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2",
+        "market": {
+          "name": "Uniswap V3 (Ethereum)",
+          "identifier": "uniswap_v3",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002152755287,
+        "volume": 252.0233555719,
+        "converted_last": {
+          "btc": 0.00000562,
+          "eth": 0.00021452,
+          "usd": 0.358731
+        },
+        "converted_volume": {
+          "btc": 0.0014268,
+          "eth": 0.05442105,
+          "usd": 91.01
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.746065,
+        "timestamp": "2026-06-13T07:31:09+00:00",
+        "last_traded_at": "2026-06-13T07:31:09+00:00",
+        "last_fetch_at": "2026-06-13T07:43:09+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/ethereum/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "weth",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
-        "target": "INR",
+        "target": "BTC",
         "market": {
-          "name": "ZebPay",
-          "identifier": "zebpay",
+          "name": "ChangeNOW",
+          "identifier": "changenow",
           "has_trading_incentive": false
         },
-        "last": 38.74,
-        "volume": 1658.744144,
+        "last": 0.000005653421792322764,
+        "volume": 523.7365560363417,
         "converted_last": {
-          "btc": 0.00000643,
-          "eth": 0.00024319,
-          "usd": 0.40556
+          "btc": 0.00000564,
+          "eth": 0.00021511,
+          "usd": 0.359791
         },
         "converted_volume": {
-          "btc": 0.01065762,
-          "eth": 0.40338658,
-          "usd": 672.72
+          "btc": 0.00260795,
+          "eth": 0.09945216,
+          "usd": 166.34
         },
         "trust_score": null,
         "bid_ask_spread_percentage": null,
-        "timestamp": "2026-06-08T08:03:04+00:00",
-        "last_traded_at": "2026-06-08T08:03:04+00:00",
-        "last_fetch_at": "2026-06-08T08:03:04+00:00",
-        "is_anomaly": true,
+        "timestamp": "2026-06-13T07:02:23+00:00",
+        "last_traded_at": "2026-06-13T07:02:23+00:00",
+        "last_fetch_at": "2026-06-13T07:41:16+00:00",
+        "is_anomaly": false,
         "is_stale": false,
-        "trade_url": null,
+        "trade_url": "https://changenow.io/currencies",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
+        "target_coin_id": "bitcoin",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "H2O",
+        "market": {
+          "name": "Hydration",
+          "identifier": "hydradx",
+          "has_trading_incentive": false
+        },
+        "last": 0.06564688907939649,
+        "volume": 22607.9010470727,
+        "converted_last": {
+          "btc": 0.00000568,
+          "eth": 0.00021654,
+          "usd": 0.362093
+        },
+        "converted_volume": {
+          "btc": 0.12848405,
+          "eth": 4.900803,
+          "usd": 8195.08
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": null,
+        "timestamp": "2026-06-13T07:29:50+00:00",
+        "last_traded_at": "2026-06-13T07:29:50+00:00",
+        "last_fetch_at": "2026-06-13T07:43:51+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.hydradx.io/trade",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "h2o-2",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USDT",
+        "market": {
+          "name": "HTX",
+          "identifier": "huobi",
+          "has_trading_incentive": false
+        },
+        "last": 0.3516,
+        "volume": 2657025.2917,
+        "converted_last": {
+          "btc": 0.00000551,
+          "eth": 0.00021006,
+          "usd": 0.351368
+        },
+        "converted_volume": {
+          "btc": 14.81032,
+          "eth": 564.939,
+          "usd": 944990
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 3.739612,
+        "timestamp": "2026-06-13T07:47:13+00:00",
+        "last_traded_at": "2026-06-13T07:47:13+00:00",
+        "last_fetch_at": "2026-06-13T07:47:13+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://www.huobi.com/en-us/exchange/trac_usdt",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "0XA81A52B4DDA010896CDD386C7FBDC5CDC835BA23",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Aerodrome SlipStream",
+          "identifier": "aerodrome-slipstream",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002176665642,
+        "volume": 15.8892590486,
+        "converted_last": {
+          "btc": 0.0000057,
+          "eth": 0.0002176,
+          "usd": 0.36399
+        },
+        "converted_volume": {
+          "btc": 0.00008753,
+          "eth": 0.00333874,
+          "usd": 5.58
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 2.661206,
+        "timestamp": "2026-06-13T04:50:16+00:00",
+        "last_traded_at": "2026-06-13T04:50:16+00:00",
+        "last_fetch_at": "2026-06-13T07:47:19+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0xa81a52b4dda010896cdd386c7fbdc5cdc835ba23&to=0x4200000000000000000000000000000000000006",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -2896,62 +2736,94 @@
           "has_trading_incentive": false
         },
         "last": 0.3483,
-        "volume": 1715077.2478,
+        "volume": 90.7418,
         "converted_last": {
-          "btc": 0.00000555,
-          "eth": 0.00020866,
-          "usd": 0.347979
+          "btc": 0.00000546,
+          "eth": 0.00020808,
+          "usd": 0.34807
         },
         "converted_volume": {
-          "btc": 9.515224,
-          "eth": 357.874,
-          "usd": 596811
+          "btc": 0.00049508,
+          "eth": 0.01888189,
+          "usd": 31.58
         },
         "trust_score": null,
         "bid_ask_spread_percentage": 1.226819,
-        "timestamp": "2026-06-05T07:04:32+00:00",
-        "last_traded_at": "2026-06-05T07:04:32+00:00",
-        "last_fetch_at": "2026-06-05T08:15:44+00:00",
-        "is_anomaly": false,
-        "is_stale": true,
+        "timestamp": "2026-06-13T07:39:47+00:00",
+        "last_traded_at": "2026-06-13T07:39:47+00:00",
+        "last_fetch_at": "2026-06-13T07:46:33+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
         "trade_url": "https://www.grovex.io/en_US/trade/TRAC_USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "INR",
+        "market": {
+          "name": "ZebPay",
+          "identifier": "zebpay",
+          "has_trading_incentive": false
+        },
+        "last": 36.85,
+        "volume": 2973.960432,
+        "converted_last": {
+          "btc": 0.00000607,
+          "eth": 0.00023146,
+          "usd": 0.387334
+        },
+        "converted_volume": {
+          "btc": 0.01804828,
+          "eth": 0.6883564,
+          "usd": 1151.92
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": null,
+        "timestamp": "2026-06-13T07:43:26+00:00",
+        "last_traded_at": "2026-06-13T07:43:26+00:00",
+        "last_fetch_at": "2026-06-13T07:48:05+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": null,
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
         "target": "USDT",
         "market": {
-          "name": "HitBTC",
-          "identifier": "hitbtc",
+          "name": "Binance US",
+          "identifier": "binance_us",
           "has_trading_incentive": false
         },
-        "last": 0.395,
-        "volume": 200,
+        "last": 0.3568,
+        "volume": 160.72617713004485,
         "converted_last": {
-          "btc": 0.00000642,
-          "eth": 0.00024053,
-          "usd": 0.394615
+          "btc": 0.00000559,
+          "eth": 0.00021325,
+          "usd": 0.356567
         },
         "converted_volume": {
-          "btc": 0.00128321,
-          "eth": 0.0481053,
-          "usd": 78.92
+          "btc": 0.00089855,
+          "eth": 0.03427407,
+          "usd": 57.31
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.986564,
-        "timestamp": "2026-06-04T07:11:39+00:00",
-        "last_traded_at": "2026-06-04T07:11:39+00:00",
-        "last_fetch_at": "2026-06-05T07:09:34+00:00",
+        "bid_ask_spread_percentage": 6.36786,
+        "timestamp": "2026-06-12T17:30:16+00:00",
+        "last_traded_at": "2026-06-12T17:30:16+00:00",
+        "last_fetch_at": "2026-06-13T07:44:15+00:00",
         "is_anomaly": false,
         "is_stale": true,
-        "trade_url": "https://hitbtc.com/TRAC-to-USDT",
+        "trade_url": "https://www.binance.us/trade/pro/TRAC_USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -2961,30 +2833,95 @@
           "identifier": "bitcoin_com",
           "has_trading_incentive": false
         },
-        "last": 0.395,
-        "volume": 200,
+        "last": 0.35234,
+        "volume": 124.68,
         "converted_last": {
-          "btc": 0.00000642,
-          "eth": 0.0002409,
-          "usd": 0.394602
+          "btc": 0.00000554,
+          "eth": 0.00021133,
+          "usd": 0.35211
         },
         "converted_volume": {
-          "btc": 0.00128398,
-          "eth": 0.04818038,
-          "usd": 78.92
+          "btc": 0.00069134,
+          "eth": 0.02634882,
+          "usd": 43.9
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 1.246098,
-        "timestamp": "2026-06-04T07:14:14+00:00",
-        "last_traded_at": "2026-06-04T07:14:14+00:00",
-        "last_fetch_at": "2026-06-05T07:09:00+00:00",
+        "bid_ask_spread_percentage": 1.068512,
+        "timestamp": "2026-06-11T20:36:51+00:00",
+        "last_traded_at": "2026-06-11T20:36:51+00:00",
+        "last_fetch_at": "2026-06-12T20:33:18+00:00",
         "is_anomaly": false,
         "is_stale": true,
         "trade_url": "https://fmfw.io/TRAC-to-USDT",
         "token_info_url": null,
         "coin_id": "origintrail",
         "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USDT",
+        "market": {
+          "name": "HitBTC",
+          "identifier": "hitbtc",
+          "has_trading_incentive": false
+        },
+        "last": 0.35234,
+        "volume": 124.68,
+        "converted_last": {
+          "btc": 0.00000555,
+          "eth": 0.00021142,
+          "usd": 0.352126
+        },
+        "converted_volume": {
+          "btc": 0.00069154,
+          "eth": 0.02635995,
+          "usd": 43.9
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.137338,
+        "timestamp": "2026-06-11T20:38:24+00:00",
+        "last_traded_at": "2026-06-11T20:38:24+00:00",
+        "last_fetch_at": "2026-06-12T20:35:16+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://hitbtc.com/TRAC-to-USDT",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "USD",
+        "market": {
+          "name": "Bitstamp by Robinhood",
+          "identifier": "bitstamp",
+          "has_trading_incentive": false
+        },
+        "last": 0.3593,
+        "volume": 30.73,
+        "converted_last": {
+          "btc": 0.00000563,
+          "eth": 0.0002148,
+          "usd": 0.3593
+        },
+        "converted_volume": {
+          "btc": 0.00017307,
+          "eth": 0.00660071,
+          "usd": 11.04
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 13.12031,
+        "timestamp": "2026-06-12T23:33:47+00:00",
+        "last_traded_at": "2026-06-12T23:33:47+00:00",
+        "last_fetch_at": "2026-06-13T07:46:59+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://www.bitstamp.net/markets/trac/usd/",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
@@ -3017,40 +2954,71 @@
         "token_info_url": null,
         "coin_id": "usd-coin",
         "target_coin_id": "origintrail",
-        "coin_mcap_usd": 75553091303.06645
+        "coin_mcap_usd": 74810330490.98692
       },
       {
-        "base": "0XAA7A9CA87D3694B5755F213B5D04094B8D0F0A6F",
-        "target": "0X0000000000000000000000000000000000000000",
+        "base": "TRAC",
+        "target": "EUR",
         "market": {
-          "name": "Uniswap V4 (Ethereum)",
-          "identifier": "uniswap-v4-ethereum",
+          "name": "Bitstamp by Robinhood",
+          "identifier": "bitstamp",
           "has_trading_incentive": false
         },
-        "last": 0.0001897914264,
-        "volume": 74.9732866839,
+        "last": 0.2952,
+        "volume": 295.59,
         "converted_last": {
-          "btc": 0.00000526,
-          "eth": 0.00018914,
-          "usd": 0.337334
+          "btc": 0.00000537,
+          "eth": 0.00020241,
+          "usd": 0.341017
         },
         "converted_volume": {
-          "btc": 0.00039229,
-          "eth": 0.01411,
-          "usd": 25.16
+          "btc": 0.00158874,
+          "eth": 0.05983012,
+          "usd": 100.8
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 0.73384,
-        "timestamp": "2026-06-04T11:23:32+00:00",
-        "last_traded_at": "2026-06-04T11:23:32+00:00",
-        "last_fetch_at": "2026-06-04T14:07:19+00:00",
+        "bid_ask_spread_percentage": 13.79694,
+        "timestamp": "2026-06-11T09:48:46+00:00",
+        "last_traded_at": "2026-06-11T09:48:46+00:00",
+        "last_fetch_at": "2026-06-11T17:52:25+00:00",
         "is_anomaly": true,
         "is_stale": true,
-        "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f&outputCurrency=0x0000000000000000000000000000000000000000",
+        "trade_url": "https://www.bitstamp.net/markets/trac/eur/",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "target_coin_id": "ethereum",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
+      },
+      {
+        "base": "TRAC",
+        "target": "THB",
+        "market": {
+          "name": "Bitkub",
+          "identifier": "bitkub",
+          "has_trading_incentive": false
+        },
+        "last": 10.86,
+        "volume": 42.66467065,
+        "converted_last": {
+          "btc": 0.0000052,
+          "eth": 0.00019831,
+          "usd": 0.330563
+        },
+        "converted_volume": {
+          "btc": 0.00022205,
+          "eth": 0.00846096,
+          "usd": 14.1
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 11.750789,
+        "timestamp": "2026-06-12T03:54:32+00:00",
+        "last_traded_at": "2026-06-12T03:54:32+00:00",
+        "last_fetch_at": "2026-06-13T00:33:35+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://www.bitkub.com/th/market/TRAC_THB",
+        "token_info_url": null,
+        "coin_id": "origintrail",
+        "coin_mcap_usd": 160280509.81989565
       },
       {
         "base": "TRAC",
@@ -3060,576 +3028,34 @@
           "identifier": "mercado_bitcoin",
           "has_trading_incentive": false
         },
-        "last": 1.9849,
-        "volume": 672.02582497,
+        "last": 2.254,
+        "volume": 3.34379448,
         "converted_last": {
-          "btc": 0.00000626,
-          "eth": 0.00024117,
-          "usd": 0.383287
+          "btc": 0.00000704,
+          "eth": 0.00026769,
+          "usd": 0.433819
         },
         "converted_volume": {
-          "btc": 0.00420671,
-          "eth": 0.16207048,
-          "usd": 257.58
+          "btc": 0.00002355,
+          "eth": 0.0008951,
+          "usd": 1.45
         },
         "trust_score": null,
-        "bid_ask_spread_percentage": 21.502222,
-        "timestamp": "2026-06-05T00:03:05+00:00",
-        "last_traded_at": "2026-06-05T00:03:05+00:00",
-        "last_fetch_at": "2026-06-06T00:03:49+00:00",
+        "bid_ask_spread_percentage": 30.179592,
+        "timestamp": "2026-06-09T21:18:44+00:00",
+        "last_traded_at": "2026-06-09T21:18:44+00:00",
+        "last_fetch_at": "2026-06-10T21:18:34+00:00",
         "is_anomaly": true,
         "is_stale": true,
         "trade_url": "https://www.mercadobitcoin.com.br/criptomoedas/TRAC-BRL",
         "token_info_url": null,
         "coin_id": "origintrail",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "USDT",
-        "market": {
-          "name": "Upbit",
-          "identifier": "upbit",
-          "has_trading_incentive": false
-        },
-        "last": 0.5897,
-        "volume": 1.66666666,
-        "converted_last": {
-          "btc": 0.00000882,
-          "eth": 0.00031672,
-          "usd": 0.588952
-        },
-        "converted_volume": {
-          "btc": 0.0000147,
-          "eth": 0.00052787,
-          "usd": 0.981586
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 79.835967,
-        "timestamp": "2026-06-02T11:56:54+00:00",
-        "last_traded_at": "2026-06-02T11:56:54+00:00",
-        "last_fetch_at": "2026-06-03T02:14:16+00:00",
-        "is_anomaly": true,
-        "is_stale": true,
-        "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.USDT-TRAC",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "tether",
-        "coin_mcap_usd": 165875923.49808112
-      },
-      {
-        "base": "TRAC",
-        "target": "BTC",
-        "market": {
-          "name": "Upbit",
-          "identifier": "upbit",
-          "has_trading_incentive": false
-        },
-        "last": 0.00000593,
-        "volume": 1.35368577,
-        "converted_last": {
-          "btc": 0.00000597,
-          "eth": 0.00022841,
-          "usd": 0.365006
-        },
-        "converted_volume": {
-          "btc": 0.00000808,
-          "eth": 0.0003092,
-          "usd": 0.494104
-        },
-        "trust_score": null,
-        "bid_ask_spread_percentage": 92.05298,
-        "timestamp": "2026-06-05T11:28:18+00:00",
-        "last_traded_at": "2026-06-05T11:28:18+00:00",
-        "last_fetch_at": "2026-06-05T16:26:21+00:00",
-        "is_anomaly": true,
-        "is_stale": true,
-        "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-TRAC",
-        "token_info_url": null,
-        "coin_id": "origintrail",
-        "target_coin_id": "bitcoin",
-        "coin_mcap_usd": 165875923.49808112
+        "coin_mcap_usd": 160280509.81989565
       }
     ]
   },
   "chart": {
     "prices": [
-      [
-        1778317271039,
-        0.3511267924009309
-      ],
-      [
-        1778320831250,
-        0.35080030156426667
-      ],
-      [
-        1778324430573,
-        0.3506752004712168
-      ],
-      [
-        1778328030881,
-        0.35115824008108076
-      ],
-      [
-        1778331629718,
-        0.3513171222816269
-      ],
-      [
-        1778335229170,
-        0.3523237020441245
-      ],
-      [
-        1778338829970,
-        0.3554494262194661
-      ],
-      [
-        1778342430741,
-        0.3493571921920485
-      ],
-      [
-        1778346047112,
-        0.3484368635003781
-      ],
-      [
-        1778349645888,
-        0.35127172319072514
-      ],
-      [
-        1778353246034,
-        0.35517255667997394
-      ],
-      [
-        1778356845973,
-        0.3552075823186099
-      ],
-      [
-        1778360447789,
-        0.3553561592612887
-      ],
-      [
-        1778364047090,
-        0.3548654513547615
-      ],
-      [
-        1778367649021,
-        0.3482247164943305
-      ],
-      [
-        1778371248240,
-        0.34821577303571916
-      ],
-      [
-        1778374848844,
-        0.3465039302911112
-      ],
-      [
-        1778378427665,
-        0.34526311843231855
-      ],
-      [
-        1778382027755,
-        0.34429807225572334
-      ],
-      [
-        1778385626730,
-        0.34709586730121883
-      ],
-      [
-        1778389226248,
-        0.34780756414639125
-      ],
-      [
-        1778392826557,
-        0.3482142684775461
-      ],
-      [
-        1778396432594,
-        0.34756850455480925
-      ],
-      [
-        1778400032193,
-        0.34639102007489453
-      ],
-      [
-        1778403620133,
-        0.34733563630319186
-      ],
-      [
-        1778407220022,
-        0.3473287450262861
-      ],
-      [
-        1778410819854,
-        0.34863582117986913
-      ],
-      [
-        1778414420583,
-        0.3462648786986361
-      ],
-      [
-        1778418008713,
-        0.3488273850323968
-      ],
-      [
-        1778421645043,
-        0.34953982402407624
-      ],
-      [
-        1778425248877,
-        0.3501709958469859
-      ],
-      [
-        1778428847102,
-        0.34764119399661236
-      ],
-      [
-        1778432445458,
-        0.35233229364726076
-      ],
-      [
-        1778436046314,
-        0.3520800446488932
-      ],
-      [
-        1778439646381,
-        0.35463497688887125
-      ],
-      [
-        1778443245688,
-        0.3555413326484935
-      ],
-      [
-        1778446847046,
-        0.3534306862928877
-      ],
-      [
-        1778450446811,
-        0.35247126854447586
-      ],
-      [
-        1778454047156,
-        0.35512927077031653
-      ],
-      [
-        1778457647529,
-        0.3552306784266498
-      ],
-      [
-        1778461249980,
-        0.3543504221267203
-      ],
-      [
-        1778464855377,
-        0.35482609675318527
-      ],
-      [
-        1778468446376,
-        0.3533623502533525
-      ],
-      [
-        1778472058870,
-        0.3532238027508994
-      ],
-      [
-        1778475653958,
-        0.35352854314440724
-      ],
-      [
-        1778479263762,
-        0.35204460788609576
-      ],
-      [
-        1778482844376,
-        0.3527316411482588
-      ],
-      [
-        1778486447439,
-        0.3496492125193426
-      ],
-      [
-        1778490046618,
-        0.34615281188626007
-      ],
-      [
-        1778493609298,
-        0.3464137394720741
-      ],
-      [
-        1778497210186,
-        0.34693523126947257
-      ],
-      [
-        1778500808514,
-        0.34667050321881737
-      ],
-      [
-        1778504408011,
-        0.3484618448821844
-      ],
-      [
-        1778508008417,
-        0.35007368938955513
-      ],
-      [
-        1778511614633,
-        0.3478139434540931
-      ],
-      [
-        1778515213168,
-        0.34751057244595224
-      ],
-      [
-        1778518875149,
-        0.3463890783605749
-      ],
-      [
-        1778522474554,
-        0.3454334044860502
-      ],
-      [
-        1778526072848,
-        0.3455767563839587
-      ],
-      [
-        1778529636015,
-        0.35408176935303054
-      ],
-      [
-        1778533235464,
-        0.34575886088240676
-      ],
-      [
-        1778536889160,
-        0.3466101933178317
-      ],
-      [
-        1778540436447,
-        0.34477957416768684
-      ],
-      [
-        1778544038988,
-        0.34574446370775996
-      ],
-      [
-        1778547634927,
-        0.34560050323385005
-      ],
-      [
-        1778551240405,
-        0.34978400402086973
-      ],
-      [
-        1778554843450,
-        0.3438528606395196
-      ],
-      [
-        1778558440491,
-        0.35091089476683546
-      ],
-      [
-        1778562041212,
-        0.3505409350279829
-      ],
-      [
-        1778565639657,
-        0.3502392272159686
-      ],
-      [
-        1778569228008,
-        0.35110945699932794
-      ],
-      [
-        1778572831485,
-        0.3504420919396206
-      ],
-      [
-        1778576426938,
-        0.35112990554179757
-      ],
-      [
-        1778580027385,
-        0.3507133788789273
-      ],
-      [
-        1778583628692,
-        0.35021354259814974
-      ],
-      [
-        1778587227821,
-        0.35148002163703546
-      ],
-      [
-        1778590828731,
-        0.35148074260092077
-      ],
-      [
-        1778594424181,
-        0.35168588143393154
-      ],
-      [
-        1778598028176,
-        0.35503224275854484
-      ],
-      [
-        1778601624947,
-        0.3463387725300976
-      ],
-      [
-        1778605224179,
-        0.34384093053048004
-      ],
-      [
-        1778608855154,
-        0.3437756336689577
-      ],
-      [
-        1778612454020,
-        0.34389198386573877
-      ],
-      [
-        1778616054544,
-        0.34439708156585264
-      ],
-      [
-        1778619655701,
-        0.34386544604501135
-      ],
-      [
-        1778623253334,
-        0.34387861871908293
-      ],
-      [
-        1778626853928,
-        0.34389748538136095
-      ],
-      [
-        1778630479561,
-        0.34369976738606545
-      ],
-      [
-        1778634054484,
-        0.3439074784168568
-      ],
-      [
-        1778637653028,
-        0.34464385262999536
-      ],
-      [
-        1778641250980,
-        0.34413038004194463
-      ],
-      [
-        1778644851989,
-        0.34445746669209903
-      ],
-      [
-        1778648449665,
-        0.3445768195145153
-      ],
-      [
-        1778652055434,
-        0.3446385938037668
-      ],
-      [
-        1778655650970,
-        0.34549990799541896
-      ],
-      [
-        1778659251749,
-        0.34561829944550887
-      ],
-      [
-        1778662850580,
-        0.34444708362498755
-      ],
-      [
-        1778666450723,
-        0.34473705694897633
-      ],
-      [
-        1778670051464,
-        0.3446550067653996
-      ],
-      [
-        1778673610029,
-        0.34785153181384526
-      ],
-      [
-        1778677243700,
-        0.3479685062683893
-      ],
-      [
-        1778680843223,
-        0.34946519760769557
-      ],
-      [
-        1778684443835,
-        0.3438484556455432
-      ],
-      [
-        1778688026687,
-        0.3412230135844169
-      ],
-      [
-        1778691625159,
-        0.33732067949443734
-      ],
-      [
-        1778695226046,
-        0.3378937899320338
-      ],
-      [
-        1778698822541,
-        0.33841950729072046
-      ],
-      [
-        1778702439030,
-        0.3381646937203056
-      ],
-      [
-        1778706040437,
-        0.33800923788429454
-      ],
-      [
-        1778709639243,
-        0.3379460325199306
-      ],
-      [
-        1778713237764,
-        0.3379848940677766
-      ],
-      [
-        1778716841998,
-        0.33814645658781745
-      ],
-      [
-        1778720438843,
-        0.3388900937011476
-      ],
-      [
-        1778724038162,
-        0.3393253023012143
-      ],
-      [
-        1778727637716,
-        0.3394520490222793
-      ],
-      [
-        1778731239504,
-        0.3389612495149872
-      ],
-      [
-        1778734838443,
-        0.3394250018839223
-      ],
-      [
-        1778738437808,
-        0.33990183383557515
-      ],
-      [
-        1778742036819,
-        0.3400609677360193
-      ],
       [
         1778745609942,
         0.3396132497447577
@@ -6035,487 +5461,487 @@
         0.3708596514365741
       ],
       [
-        1780905810000,
-        0.37049119892037347
+        1780909274812,
+        0.3723371507355428
+      ],
+      [
+        1780912873472,
+        0.3699780796507149
+      ],
+      [
+        1780916478404,
+        0.364391858497894
+      ],
+      [
+        1780920074476,
+        0.362627549694413
+      ],
+      [
+        1780923634002,
+        0.3677534209209208
+      ],
+      [
+        1780927259273,
+        0.37025666787822337
+      ],
+      [
+        1780930836393,
+        0.36317769039792636
+      ],
+      [
+        1780934436465,
+        0.37001890233353113
+      ],
+      [
+        1780938065612,
+        0.3704993011692074
+      ],
+      [
+        1780941667770,
+        0.37002823014345426
+      ],
+      [
+        1780945266436,
+        0.37234644351112456
+      ],
+      [
+        1780948868904,
+        0.36781304057494946
+      ],
+      [
+        1780952466251,
+        0.3752136536327582
+      ],
+      [
+        1780956024030,
+        0.37824983169832066
+      ],
+      [
+        1780959674417,
+        0.3773565803662554
+      ],
+      [
+        1780963275143,
+        0.3804630180837118
+      ],
+      [
+        1780966877980,
+        0.35755783090672294
+      ],
+      [
+        1780970418431,
+        0.3574437836118089
+      ],
+      [
+        1780974016168,
+        0.3369555856918203
+      ],
+      [
+        1780977617450,
+        0.33782085723659994
+      ],
+      [
+        1780981241764,
+        0.3376411252253022
+      ],
+      [
+        1780984802110,
+        0.34237558057631723
+      ],
+      [
+        1780988402900,
+        0.3427832690083378
+      ],
+      [
+        1780992002389,
+        0.3430137380694938
+      ],
+      [
+        1780995602370,
+        0.3440581481956449
+      ],
+      [
+        1780999204385,
+        0.34102989854378174
+      ],
+      [
+        1781002860227,
+        0.3466341214575328
+      ],
+      [
+        1781006466834,
+        0.3422282084930609
+      ],
+      [
+        1781010068445,
+        0.34555686640407246
+      ],
+      [
+        1781013620839,
+        0.3486262768732958
+      ],
+      [
+        1781017221273,
+        0.34326631537071706
+      ],
+      [
+        1781020820923,
+        0.34513133229383325
+      ],
+      [
+        1781024421001,
+        0.3431496058502405
+      ],
+      [
+        1781028021232,
+        0.3435299140439856
+      ],
+      [
+        1781031620364,
+        0.3449064680342779
+      ],
+      [
+        1781035221897,
+        0.3468064985574107
+      ],
+      [
+        1781038827661,
+        0.3471534226699564
+      ],
+      [
+        1781042420582,
+        0.34601525913027414
+      ],
+      [
+        1781046020181,
+        0.3480291246445707
+      ],
+      [
+        1781049624184,
+        0.34998206779836394
+      ],
+      [
+        1781053222638,
+        0.34010450234908013
+      ],
+      [
+        1781056840850,
+        0.3412943056025375
+      ],
+      [
+        1781060441353,
+        0.3399422439223005
+      ],
+      [
+        1781064043457,
+        0.3382044161051182
+      ],
+      [
+        1781067641018,
+        0.33732140284736467
+      ],
+      [
+        1781071228078,
+        0.33512485211855
+      ],
+      [
+        1781074825261,
+        0.33786596188750595
+      ],
+      [
+        1781078423294,
+        0.3387403567539743
+      ],
+      [
+        1781082023155,
+        0.3362342410224203
+      ],
+      [
+        1781085621941,
+        0.3370237099068401
+      ],
+      [
+        1781089223848,
+        0.33679633589407487
+      ],
+      [
+        1781092825268,
+        0.33525778842811166
+      ],
+      [
+        1781096422615,
+        0.33926282416248915
+      ],
+      [
+        1781100053291,
+        0.3422062370896767
+      ],
+      [
+        1781103620827,
+        0.34310792988533756
+      ],
+      [
+        1781107220410,
+        0.3439746458911177
+      ],
+      [
+        1781110846405,
+        0.34254250104183165
+      ],
+      [
+        1781114428027,
+        0.3368131760249973
+      ],
+      [
+        1781118027765,
+        0.3397217672313277
+      ],
+      [
+        1781121629611,
+        0.34130536926729
+      ],
+      [
+        1781125226725,
+        0.3413947082768691
+      ],
+      [
+        1781128831793,
+        0.34248670988398167
+      ],
+      [
+        1781132431711,
+        0.3422027346548138
+      ],
+      [
+        1781136036683,
+        0.34258157004719436
+      ],
+      [
+        1781139632813,
+        0.34009364856405355
+      ],
+      [
+        1781143230745,
+        0.3377897378805267
+      ],
+      [
+        1781146838732,
+        0.336883314584288
+      ],
+      [
+        1781150440480,
+        0.338533720416434
+      ],
+      [
+        1781154003167,
+        0.3427512596112458
+      ],
+      [
+        1781157603512,
+        0.33916522901273544
+      ],
+      [
+        1781161215001,
+        0.33886287788309005
+      ],
+      [
+        1781164814044,
+        0.3393775574611664
+      ],
+      [
+        1781168418119,
+        0.34152427200682595
+      ],
+      [
+        1781172016517,
+        0.3403374225446516
+      ],
+      [
+        1781175614262,
+        0.34043392537534733
+      ],
+      [
+        1781179214559,
+        0.34166317434156146
+      ],
+      [
+        1781182814751,
+        0.34640629685362845
+      ],
+      [
+        1781186441880,
+        0.34647872117447215
+      ],
+      [
+        1781190041866,
+        0.3449308586858644
+      ],
+      [
+        1781193644847,
+        0.35165304966559224
+      ],
+      [
+        1781197242835,
+        0.35127473497712836
+      ],
+      [
+        1781200842957,
+        0.35307015191062374
+      ],
+      [
+        1781204445277,
+        0.3565487389412382
+      ],
+      [
+        1781208043149,
+        0.3580144278189457
+      ],
+      [
+        1781211643691,
+        0.3531801282208777
+      ],
+      [
+        1781215226687,
+        0.35506546480100437
+      ],
+      [
+        1781218828129,
+        0.3566325412242405
+      ],
+      [
+        1781222427226,
+        0.3565026481735515
+      ],
+      [
+        1781226028595,
+        0.3504657600337778
+      ],
+      [
+        1781229627019,
+        0.34832713180502095
+      ],
+      [
+        1781233226690,
+        0.35222281108998044
+      ],
+      [
+        1781236826152,
+        0.3522527716459754
+      ],
+      [
+        1781240426857,
+        0.35122256641564786
+      ],
+      [
+        1781244026798,
+        0.3496254035185468
+      ],
+      [
+        1781247644674,
+        0.34559852782000505
+      ],
+      [
+        1781251246866,
+        0.34558763292159433
+      ],
+      [
+        1781254846578,
+        0.35550781616639976
+      ],
+      [
+        1781258445491,
+        0.3548767841141368
+      ],
+      [
+        1781262065186,
+        0.35431124907690703
+      ],
+      [
+        1781265619144,
+        0.3580195467449933
+      ],
+      [
+        1781269218506,
+        0.3551237133137679
+      ],
+      [
+        1781272811238,
+        0.35605682238301684
+      ],
+      [
+        1781276412250,
+        0.35595117018200656
+      ],
+      [
+        1781280011020,
+        0.3569557623889712
+      ],
+      [
+        1781283668090,
+        0.3568824549672307
+      ],
+      [
+        1781287267597,
+        0.359813883231682
+      ],
+      [
+        1781290868991,
+        0.35856908623806416
+      ],
+      [
+        1781294469357,
+        0.3568733454899383
+      ],
+      [
+        1781298044224,
+        0.36116641113862663
+      ],
+      [
+        1781301640166,
+        0.36074991815307345
+      ],
+      [
+        1781305240959,
+        0.3605062019773874
+      ],
+      [
+        1781308842321,
+        0.3645310448101695
+      ],
+      [
+        1781312441864,
+        0.3595620245472782
+      ],
+      [
+        1781316047166,
+        0.36163175594718117
+      ],
+      [
+        1781319650042,
+        0.36149814192446744
+      ],
+      [
+        1781323249915,
+        0.36047959931225326
+      ],
+      [
+        1781326850043,
+        0.35915102642740143
+      ],
+      [
+        1781330450212,
+        0.3589606436287518
+      ],
+      [
+        1781334028891,
+        0.35744808611512513
+      ],
+      [
+        1781336885000,
+        0.3583681810596668
       ]
     ],
     "market_caps": [
-      [
-        1778317271039,
-        157045093.01741597
-      ],
-      [
-        1778320831250,
-        156903469.0696061
-      ],
-      [
-        1778324430573,
-        156891591.61938363
-      ],
-      [
-        1778328030881,
-        157050068.67394924
-      ],
-      [
-        1778331629718,
-        157139565.76146713
-      ],
-      [
-        1778335229170,
-        157545008.9940205
-      ],
-      [
-        1778338829970,
-        158945582.52432203
-      ],
-      [
-        1778342430741,
-        156245613.9812409
-      ],
-      [
-        1778346047112,
-        156050162.804084
-      ],
-      [
-        1778349645888,
-        157111022.03261164
-      ],
-      [
-        1778353246034,
-        158854266.51084083
-      ],
-      [
-        1778356845973,
-        158875475.37398085
-      ],
-      [
-        1778360447789,
-        159246039.0584747
-      ],
-      [
-        1778364047090,
-        158722131.76337287
-      ],
-      [
-        1778367649021,
-        155769857.25294837
-      ],
-      [
-        1778371248240,
-        155831251.692352
-      ],
-      [
-        1778374848844,
-        154987449.9444085
-      ],
-      [
-        1778378427665,
-        154432794.75353584
-      ],
-      [
-        1778382027755,
-        153996501.21483043
-      ],
-      [
-        1778385626730,
-        155264488.38329878
-      ],
-      [
-        1778389226248,
-        155281396.69958407
-      ],
-      [
-        1778392826557,
-        155708609.17546487
-      ],
-      [
-        1778396432594,
-        155469761.0332852
-      ],
-      [
-        1778400032193,
-        154968463.77020472
-      ],
-      [
-        1778403620133,
-        155361947.5152932
-      ],
-      [
-        1778407220022,
-        155350528.36676896
-      ],
-      [
-        1778410819854,
-        156019903.94566372
-      ],
-      [
-        1778414420583,
-        155000732.23754808
-      ],
-      [
-        1778418008713,
-        155878445.6482201
-      ],
-      [
-        1778421645043,
-        155811773.64887
-      ],
-      [
-        1778425248877,
-        156635751.96776018
-      ],
-      [
-        1778428847102,
-        155686040.16851473
-      ],
-      [
-        1778432445458,
-        157516457.27552053
-      ],
-      [
-        1778436046314,
-        157485903.74240074
-      ],
-      [
-        1778439646381,
-        158726067.6301697
-      ],
-      [
-        1778443245688,
-        159024691.97853866
-      ],
-      [
-        1778446847046,
-        158129815.66800144
-      ],
-      [
-        1778450446811,
-        157660455.3694145
-      ],
-      [
-        1778454047156,
-        158840131.3597765
-      ],
-      [
-        1778457647529,
-        158799008.01297843
-      ],
-      [
-        1778461249980,
-        158513862.3084059
-      ],
-      [
-        1778464855377,
-        158601520.54762134
-      ],
-      [
-        1778468446376,
-        158182615.29839298
-      ],
-      [
-        1778472058870,
-        158006941.02731967
-      ],
-      [
-        1778475653958,
-        158047142.53845078
-      ],
-      [
-        1778479263762,
-        157335670.29710737
-      ],
-      [
-        1778482844376,
-        157960080.84280398
-      ],
-      [
-        1778486447439,
-        156389043.13898352
-      ],
-      [
-        1778490046618,
-        154607141.91490287
-      ],
-      [
-        1778493609298,
-        154941526.20741063
-      ],
-      [
-        1778497210186,
-        155167522.93032572
-      ],
-      [
-        1778500808514,
-        155028914.91905102
-      ],
-      [
-        1778504408011,
-        155864900.16079143
-      ],
-      [
-        1778508008417,
-        157086497.9636134
-      ],
-      [
-        1778511614633,
-        155474019.37136164
-      ],
-      [
-        1778515213168,
-        155414624.6153694
-      ],
-      [
-        1778518875149,
-        154939283.57568702
-      ],
-      [
-        1778522474554,
-        154530930.0105556
-      ],
-      [
-        1778526072848,
-        154548319.38724273
-      ],
-      [
-        1778529636015,
-        158562085.826949
-      ],
-      [
-        1778533235464,
-        154648989.54186317
-      ],
-      [
-        1778536889160,
-        156873707.4517872
-      ],
-      [
-        1778540436447,
-        154107659.4837641
-      ],
-      [
-        1778544038988,
-        154642550.05827132
-      ],
-      [
-        1778547634927,
-        154569129.15604597
-      ],
-      [
-        1778551240405,
-        155148653.73922932
-      ],
-      [
-        1778554843450,
-        153796484.96431804
-      ],
-      [
-        1778558440491,
-        156933507.50921607
-      ],
-      [
-        1778562041212,
-        156759057.31244832
-      ],
-      [
-        1778565639657,
-        156618928.52803993
-      ],
-      [
-        1778569228008,
-        157011347.45157722
-      ],
-      [
-        1778572831485,
-        156892178.8131946
-      ],
-      [
-        1778576426938,
-        157146301.2463365
-      ],
-      [
-        1778580027385,
-        156861881.68829665
-      ],
-      [
-        1778583628692,
-        156641453.37724283
-      ],
-      [
-        1778587227821,
-        157358651.75839826
-      ],
-      [
-        1778590828731,
-        157389688.99693993
-      ],
-      [
-        1778594424181,
-        157296730.34233138
-      ],
-      [
-        1778598028176,
-        158790564.16381264
-      ],
-      [
-        1778601624947,
-        154700216.61527994
-      ],
-      [
-        1778605224179,
-        153791148.93531972
-      ],
-      [
-        1778608855154,
-        153759769.53296334
-      ],
-      [
-        1778612454020,
-        153821630.67198682
-      ],
-      [
-        1778616054544,
-        154041186.96834707
-      ],
-      [
-        1778619655701,
-        153802103.9146958
-      ],
-      [
-        1778623253334,
-        153806873.8921701
-      ],
-      [
-        1778626853928,
-        153836016.2459852
-      ],
-      [
-        1778630479561,
-        153732420.13387445
-      ],
-      [
-        1778634054484,
-        153832642.01207447
-      ],
-      [
-        1778637653028,
-        153853213.09281248
-      ],
-      [
-        1778641250980,
-        153897835.5136685
-      ],
-      [
-        1778644851989,
-        154065291.35632318
-      ],
-      [
-        1778648449665,
-        154121421.77862328
-      ],
-      [
-        1778652055434,
-        154173294.31637362
-      ],
-      [
-        1778655650970,
-        154532636.57602426
-      ],
-      [
-        1778659251749,
-        154581066.69116127
-      ],
-      [
-        1778662850580,
-        154068219.8442734
-      ],
-      [
-        1778666450723,
-        154040007.2484688
-      ],
-      [
-        1778670051464,
-        154160141.02153793
-      ],
-      [
-        1778673610029,
-        155551694.09608147
-      ],
-      [
-        1778677243700,
-        155627764.69086286
-      ],
-      [
-        1778680843223,
-        156617431.70208183
-      ],
-      [
-        1778684443835,
-        153803779.0943858
-      ],
-      [
-        1778688026687,
-        152632122.88336882
-      ],
-      [
-        1778691625159,
-        150874809.40403512
-      ],
-      [
-        1778695226046,
-        151133170.58352855
-      ],
-      [
-        1778698822541,
-        151423478.27071965
-      ],
-      [
-        1778702439030,
-        151252966.76280835
-      ],
-      [
-        1778706040437,
-        151182742.08047533
-      ],
-      [
-        1778709639243,
-        151184436.09666967
-      ],
-      [
-        1778713237764,
-        151159300.41836205
-      ],
-      [
-        1778716841998,
-        151224473.4277894
-      ],
-      [
-        1778720438843,
-        151570437.12184083
-      ],
-      [
-        1778724038162,
-        151768420.40660647
-      ],
-      [
-        1778727637716,
-        151823342.46248674
-      ],
-      [
-        1778731239504,
-        151546421.4244432
-      ],
-      [
-        1778734838443,
-        151816608.79249415
-      ],
-      [
-        1778738437808,
-        151951815.15133452
-      ],
-      [
-        1778742036819,
-        152100469.4103545
-      ],
       [
         1778745609942,
         151959597.46371835
@@ -8921,487 +8347,487 @@
         165845079.6940155
       ],
       [
-        1780905810000,
-        165875923.49808112
+        1780909274812,
+        166646016.1389607
+      ],
+      [
+        1780912873472,
+        166249353.7132884
+      ],
+      [
+        1780916478404,
+        160142564.3575699
+      ],
+      [
+        1780920074476,
+        162213703.64523596
+      ],
+      [
+        1780923634002,
+        164179821.05257684
+      ],
+      [
+        1780927259273,
+        165606224.55885127
+      ],
+      [
+        1780930836393,
+        162370476.1412062
+      ],
+      [
+        1780934436465,
+        165498733.76504144
+      ],
+      [
+        1780938065612,
+        165363532.5584042
+      ],
+      [
+        1780941667770,
+        165439857.66038325
+      ],
+      [
+        1780945266436,
+        166509900.60058764
+      ],
+      [
+        1780948868904,
+        165896051.24465144
+      ],
+      [
+        1780952466251,
+        167728868.5120234
+      ],
+      [
+        1780956024030,
+        169247277.22219312
+      ],
+      [
+        1780959674417,
+        168200748.11471134
+      ],
+      [
+        1780963275143,
+        170706009.84570238
+      ],
+      [
+        1780966877980,
+        159926363.45452455
+      ],
+      [
+        1780970418431,
+        159843508.31694803
+      ],
+      [
+        1780974016168,
+        150905215.05714133
+      ],
+      [
+        1780977617450,
+        151096880.4247482
+      ],
+      [
+        1780981241764,
+        151074185.06648758
+      ],
+      [
+        1780984802110,
+        153062548.19957897
+      ],
+      [
+        1780988402900,
+        153367192.81431475
+      ],
+      [
+        1780992002389,
+        152887105.88960958
+      ],
+      [
+        1780995602370,
+        154093826.1745494
+      ],
+      [
+        1780999204385,
+        152706816.17657122
+      ],
+      [
+        1781002860227,
+        154980762.8557305
+      ],
+      [
+        1781006466834,
+        153157835.60719442
+      ],
+      [
+        1781010068445,
+        154322515.55627695
+      ],
+      [
+        1781013620839,
+        155538338.7079864
+      ],
+      [
+        1781017221273,
+        153580675.68225446
+      ],
+      [
+        1781020820923,
+        153821905.83962953
+      ],
+      [
+        1781024421001,
+        153472416.3743644
+      ],
+      [
+        1781028021232,
+        153800136.04207632
+      ],
+      [
+        1781031620364,
+        154199532.53056347
+      ],
+      [
+        1781035221897,
+        154698350.4209135
+      ],
+      [
+        1781038827661,
+        154921773.97230816
+      ],
+      [
+        1781042420582,
+        154940530.8738451
+      ],
+      [
+        1781046020181,
+        155922674.8330972
+      ],
+      [
+        1781049624184,
+        156537272.36088598
+      ],
+      [
+        1781053222638,
+        152394400.2597459
+      ],
+      [
+        1781056840850,
+        153123151.13676187
+      ],
+      [
+        1781060441353,
+        152566313.00444776
+      ],
+      [
+        1781064043457,
+        150794297.61653906
+      ],
+      [
+        1781067641018,
+        150874357.00104696
+      ],
+      [
+        1781071228078,
+        149863717.08938676
+      ],
+      [
+        1781074825261,
+        151263240.31558532
+      ],
+      [
+        1781078423294,
+        151745686.16905895
+      ],
+      [
+        1781082023155,
+        150425008.68397292
+      ],
+      [
+        1781085621941,
+        150649066.51705727
+      ],
+      [
+        1781089223848,
+        150640284.08265406
+      ],
+      [
+        1781092825268,
+        150450352.08108848
+      ],
+      [
+        1781096422615,
+        151743480.4474664
+      ],
+      [
+        1781100053291,
+        153066200.8313453
+      ],
+      [
+        1781103620827,
+        153462014.5705424
+      ],
+      [
+        1781107220410,
+        153236475.89016703
+      ],
+      [
+        1781110846405,
+        153215113.88964647
+      ],
+      [
+        1781114428027,
+        150647816.2373594
+      ],
+      [
+        1781118027765,
+        151890918.49752924
+      ],
+      [
+        1781121629611,
+        152559656.42950407
+      ],
+      [
+        1781125226725,
+        152778256.03535914
+      ],
+      [
+        1781128831793,
+        153203186.92125273
+      ],
+      [
+        1781132431711,
+        153027067.91608515
+      ],
+      [
+        1781136036683,
+        153148768.11859483
+      ],
+      [
+        1781139632813,
+        152103315.7460514
+      ],
+      [
+        1781143230745,
+        151084607.07996377
+      ],
+      [
+        1781146838732,
+        150582569.71851018
+      ],
+      [
+        1781150440480,
+        151417371.2125191
+      ],
+      [
+        1781154003167,
+        152728886.99406075
+      ],
+      [
+        1781157603512,
+        151697095.35971197
+      ],
+      [
+        1781161215001,
+        151569237.156207
+      ],
+      [
+        1781164814044,
+        151780779.2986646
+      ],
+      [
+        1781168418119,
+        152808502.6792368
+      ],
+      [
+        1781172016517,
+        152293597.9898748
+      ],
+      [
+        1781175614262,
+        152500723.9539171
+      ],
+      [
+        1781179214559,
+        153147380.29374278
+      ],
+      [
+        1781182814751,
+        154683257.0149676
+      ],
+      [
+        1781186441880,
+        154974326.64268818
+      ],
+      [
+        1781190041866,
+        154772000.81441364
+      ],
+      [
+        1781193644847,
+        156115051.84578174
+      ],
+      [
+        1781197242835,
+        156828791.83670968
+      ],
+      [
+        1781200842957,
+        158020152.6062962
+      ],
+      [
+        1781204445277,
+        158927105.99755228
+      ],
+      [
+        1781208043149,
+        159727877.26756883
+      ],
+      [
+        1781211643691,
+        157780014.37541312
+      ],
+      [
+        1781215226687,
+        158811592.60112923
+      ],
+      [
+        1781218828129,
+        159929340.6310533
+      ],
+      [
+        1781222427226,
+        159472465.41466835
+      ],
+      [
+        1781226028595,
+        156891357.30257863
+      ],
+      [
+        1781229627019,
+        156415348.9981335
+      ],
+      [
+        1781233226690,
+        157362846.52133068
+      ],
+      [
+        1781236826152,
+        157545047.40289804
+      ],
+      [
+        1781240426857,
+        156551236.1750683
+      ],
+      [
+        1781244026798,
+        156526878.47125417
+      ],
+      [
+        1781247644674,
+        154577276.7127912
+      ],
+      [
+        1781251246866,
+        154660260.56897917
+      ],
+      [
+        1781254846578,
+        159192112.40331754
+      ],
+      [
+        1781258445491,
+        158727361.68861663
+      ],
+      [
+        1781262065186,
+        158073643.8479126
+      ],
+      [
+        1781265619144,
+        160132071.9808441
+      ],
+      [
+        1781269218506,
+        158675726.84459484
+      ],
+      [
+        1781272811238,
+        159267642.4807138
+      ],
+      [
+        1781276412250,
+        159200932.46093318
+      ],
+      [
+        1781280011020,
+        159613467.75783858
+      ],
+      [
+        1781283668090,
+        159624696.1312603
+      ],
+      [
+        1781287267597,
+        161425217.71409804
+      ],
+      [
+        1781290868991,
+        160386768.6028413
+      ],
+      [
+        1781294469357,
+        159741599.26639634
+      ],
+      [
+        1781298044224,
+        161540387.9932546
+      ],
+      [
+        1781301640166,
+        161182329.97697917
+      ],
+      [
+        1781305240959,
+        161249713.07575512
+      ],
+      [
+        1781308842321,
+        162572485.80791497
+      ],
+      [
+        1781312441864,
+        162335453.91454712
+      ],
+      [
+        1781316047166,
+        161688745.49188888
+      ],
+      [
+        1781319650042,
+        161749997.65799883
+      ],
+      [
+        1781323249915,
+        160272898.73552027
+      ],
+      [
+        1781326850043,
+        160779905.05153558
+      ],
+      [
+        1781330450212,
+        160551590.70686838
+      ],
+      [
+        1781334028891,
+        160068116.32079676
+      ],
+      [
+        1781336885000,
+        160280509.81989565
       ]
     ],
     "total_volumes": [
-      [
-        1778317271039,
-        7356401.497988562
-      ],
-      [
-        1778320831250,
-        7070901.573759545
-      ],
-      [
-        1778324430573,
-        6885367.114269858
-      ],
-      [
-        1778328030881,
-        6711916.483381071
-      ],
-      [
-        1778331629718,
-        6417597.595282576
-      ],
-      [
-        1778335229170,
-        6065979.266127548
-      ],
-      [
-        1778338829970,
-        5599500.078959379
-      ],
-      [
-        1778342430741,
-        5166093.578042654
-      ],
-      [
-        1778346047112,
-        5130088.576611927
-      ],
-      [
-        1778349645888,
-        5001441.483734494
-      ],
-      [
-        1778353246034,
-        4730374.045147258
-      ],
-      [
-        1778356845973,
-        4618718.907341591
-      ],
-      [
-        1778360447789,
-        4201627.130975236
-      ],
-      [
-        1778364047090,
-        4477473.176574208
-      ],
-      [
-        1778367649021,
-        4359415.397684142
-      ],
-      [
-        1778371248240,
-        4335196.984047909
-      ],
-      [
-        1778374848844,
-        4322766.873575414
-      ],
-      [
-        1778378427665,
-        4318033.55391172
-      ],
-      [
-        1778382027755,
-        4266389.001264561
-      ],
-      [
-        1778385626730,
-        4277740.424134197
-      ],
-      [
-        1778389226248,
-        4199014.55524775
-      ],
-      [
-        1778392826557,
-        4115178.148238469
-      ],
-      [
-        1778396432594,
-        3789469.3475200622
-      ],
-      [
-        1778400032193,
-        4365610.799633643
-      ],
-      [
-        1778403620133,
-        3719233.3157474482
-      ],
-      [
-        1778407220022,
-        4323250.044833005
-      ],
-      [
-        1778410819854,
-        4367667.959486775
-      ],
-      [
-        1778414420583,
-        4183759.472080956
-      ],
-      [
-        1778418008713,
-        4504984.231124234
-      ],
-      [
-        1778421645043,
-        4500575.72587674
-      ],
-      [
-        1778425248877,
-        4553736.318579039
-      ],
-      [
-        1778428847102,
-        5049219.835721649
-      ],
-      [
-        1778432445458,
-        3991018.3357165447
-      ],
-      [
-        1778436046314,
-        4830652.235293918
-      ],
-      [
-        1778439646381,
-        5767495.415316595
-      ],
-      [
-        1778443245688,
-        5880884.922922586
-      ],
-      [
-        1778446847046,
-        6100631.967458116
-      ],
-      [
-        1778450446811,
-        5865093.594698895
-      ],
-      [
-        1778454047156,
-        6810531.658176765
-      ],
-      [
-        1778457647529,
-        7178889.8050762545
-      ],
-      [
-        1778461249980,
-        7432460.27633165
-      ],
-      [
-        1778464855377,
-        7525563.312418779
-      ],
-      [
-        1778468446376,
-        7562706.2039570445
-      ],
-      [
-        1778472058870,
-        7738833.958602958
-      ],
-      [
-        1778475653958,
-        7821439.495652334
-      ],
-      [
-        1778479263762,
-        7952030.241853889
-      ],
-      [
-        1778482844376,
-        7984117.610161293
-      ],
-      [
-        1778486447439,
-        7662280.0386132235
-      ],
-      [
-        1778490046618,
-        7802722.9698889265
-      ],
-      [
-        1778493609298,
-        7703613.962908035
-      ],
-      [
-        1778497210186,
-        7874268.891140616
-      ],
-      [
-        1778500808514,
-        7974742.772528778
-      ],
-      [
-        1778504408011,
-        8033385.855573752
-      ],
-      [
-        1778508008417,
-        8586162.271241793
-      ],
-      [
-        1778511614633,
-        8820165.428106464
-      ],
-      [
-        1778515213168,
-        1751224.0059183622
-      ],
-      [
-        1778518875149,
-        1757131.1373979587
-      ],
-      [
-        1778522474554,
-        1312417.398114749
-      ],
-      [
-        1778526072848,
-        1649484.5972038084
-      ],
-      [
-        1778529636015,
-        6887069.140188336
-      ],
-      [
-        1778533235464,
-        1641985.0757486748
-      ],
-      [
-        1778536889160,
-        1640283.3629268815
-      ],
-      [
-        1778540436447,
-        1627477.6027650489
-      ],
-      [
-        1778544038988,
-        1593907.3120927967
-      ],
-      [
-        1778547634927,
-        1570260.0227182442
-      ],
-      [
-        1778551240405,
-        5949633.807309804
-      ],
-      [
-        1778554843450,
-        1587556.5036078834
-      ],
-      [
-        1778558440491,
-        6890520.700156516
-      ],
-      [
-        1778562041212,
-        6488239.2185438005
-      ],
-      [
-        1778565639657,
-        6742871.080520723
-      ],
-      [
-        1778569228008,
-        6748727.470717135
-      ],
-      [
-        1778572831485,
-        5803211.599109983
-      ],
-      [
-        1778576426938,
-        6774327.558679854
-      ],
-      [
-        1778580027385,
-        6832476.130516656
-      ],
-      [
-        1778583628692,
-        6804899.835129919
-      ],
-      [
-        1778587227821,
-        6936670.654217545
-      ],
-      [
-        1778590828731,
-        6966997.929144233
-      ],
-      [
-        1778594424181,
-        6514219.952086025
-      ],
-      [
-        1778598028176,
-        6803030.426198728
-      ],
-      [
-        1778601624947,
-        6532210.718348609
-      ],
-      [
-        1778605224179,
-        6050149.569585808
-      ],
-      [
-        1778608855154,
-        6085884.892046135
-      ],
-      [
-        1778612454020,
-        6005375.781342023
-      ],
-      [
-        1778616054544,
-        5920057.198821944
-      ],
-      [
-        1778619655701,
-        5860742.657166704
-      ],
-      [
-        1778623253334,
-        5864897.985320751
-      ],
-      [
-        1778626853928,
-        5801088.196875757
-      ],
-      [
-        1778630479561,
-        5785957.320016895
-      ],
-      [
-        1778634054484,
-        5800494.578664607
-      ],
-      [
-        1778637653028,
-        6221213.109679183
-      ],
-      [
-        1778641250980,
-        5792154.687790231
-      ],
-      [
-        1778644851989,
-        5808067.900536526
-      ],
-      [
-        1778648449665,
-        5802497.737645601
-      ],
-      [
-        1778652055434,
-        5905960.369719555
-      ],
-      [
-        1778655650970,
-        6423768.514344129
-      ],
-      [
-        1778659251749,
-        6438588.487468643
-      ],
-      [
-        1778662850580,
-        6410076.961710999
-      ],
-      [
-        1778666450723,
-        6515511.868859165
-      ],
-      [
-        1778670051464,
-        6666511.334935102
-      ],
-      [
-        1778673610029,
-        6640576.346659663
-      ],
-      [
-        1778677243700,
-        6700216.893172707
-      ],
-      [
-        1778680843223,
-        7037322.055938619
-      ],
-      [
-        1778684443835,
-        6856219.543392576
-      ],
-      [
-        1778688026687,
-        6746992.953607156
-      ],
-      [
-        1778691625159,
-        6938952.600555702
-      ],
-      [
-        1778695226046,
-        6733951.088459097
-      ],
-      [
-        1778698822541,
-        6811258.853095567
-      ],
-      [
-        1778702439030,
-        7021010.420539348
-      ],
-      [
-        1778706040437,
-        6971976.781808148
-      ],
-      [
-        1778709639243,
-        6953841.249400843
-      ],
-      [
-        1778713237764,
-        6950028.065908068
-      ],
-      [
-        1778716841998,
-        6970091.754214986
-      ],
-      [
-        1778720438843,
-        6820252.014095669
-      ],
-      [
-        1778724038162,
-        6699868.979662732
-      ],
-      [
-        1778727637716,
-        6640472.8216376165
-      ],
-      [
-        1778731239504,
-        6445153.735070967
-      ],
-      [
-        1778734838443,
-        6459586.829616915
-      ],
-      [
-        1778738437808,
-        6570480.987051514
-      ],
-      [
-        1778742036819,
-        7154765.639318016
-      ],
       [
         1778745609942,
         7108139.0347899385
@@ -11807,8 +11233,484 @@
         13628453.94773853
       ],
       [
-        1780905810000,
-        13614194.909475168
+        1780909274812,
+        13797843.873622242
+      ],
+      [
+        1780912873472,
+        13787567.864598343
+      ],
+      [
+        1780916478404,
+        4592617.958612049
+      ],
+      [
+        1780920074476,
+        14053782.116452474
+      ],
+      [
+        1780923634002,
+        15471094.774483377
+      ],
+      [
+        1780927259273,
+        4740316.25186881
+      ],
+      [
+        1780930836393,
+        15114665.04214256
+      ],
+      [
+        1780934436465,
+        5251559.6005253
+      ],
+      [
+        1780938065612,
+        4010419.8101276234
+      ],
+      [
+        1780941667770,
+        5294956.519300866
+      ],
+      [
+        1780945266436,
+        5332958.605727413
+      ],
+      [
+        1780948868904,
+        15046403.536556719
+      ],
+      [
+        1780952466251,
+        4131949.943803183
+      ],
+      [
+        1780956024030,
+        4169681.266566493
+      ],
+      [
+        1780959674417,
+        14270432.18579933
+      ],
+      [
+        1780963275143,
+        16532402.890032224
+      ],
+      [
+        1780966877980,
+        12943499.822307287
+      ],
+      [
+        1780970418431,
+        10204810.89045942
+      ],
+      [
+        1780974016168,
+        9218438.234574145
+      ],
+      [
+        1780977617450,
+        8899202.146872342
+      ],
+      [
+        1780981241764,
+        8459720.513801236
+      ],
+      [
+        1780984802110,
+        7916695.975374567
+      ],
+      [
+        1780988402900,
+        7716299.292411385
+      ],
+      [
+        1780992002389,
+        8051913.108558338
+      ],
+      [
+        1780995602370,
+        7958392.837249652
+      ],
+      [
+        1780999204385,
+        7909905.968027873
+      ],
+      [
+        1781002860227,
+        4905292.188658186
+      ],
+      [
+        1781006466834,
+        7518054.670563533
+      ],
+      [
+        1781010068445,
+        7424877.179240382
+      ],
+      [
+        1781013620839,
+        7368586.143970116
+      ],
+      [
+        1781017221273,
+        7877136.839536548
+      ],
+      [
+        1781020820923,
+        4981827.665727272
+      ],
+      [
+        1781024421001,
+        5155551.616995257
+      ],
+      [
+        1781028021232,
+        5425835.053934376
+      ],
+      [
+        1781031620364,
+        7937144.646624601
+      ],
+      [
+        1781035221897,
+        7531283.627262643
+      ],
+      [
+        1781038827661,
+        7908818.671817214
+      ],
+      [
+        1781042420582,
+        7804504.972273904
+      ],
+      [
+        1781046020181,
+        7574893.467763123
+      ],
+      [
+        1781049624184,
+        7437714.223537727
+      ],
+      [
+        1781053222638,
+        6657551.177493588
+      ],
+      [
+        1781056840850,
+        6368888.000116364
+      ],
+      [
+        1781060441353,
+        5667571.640498339
+      ],
+      [
+        1781064043457,
+        4267519.9277549945
+      ],
+      [
+        1781067641018,
+        3976576.2940293555
+      ],
+      [
+        1781071228078,
+        4710855.8771455735
+      ],
+      [
+        1781074825261,
+        4580187.242907906
+      ],
+      [
+        1781078423294,
+        4445944.208308958
+      ],
+      [
+        1781082023155,
+        4320295.465150856
+      ],
+      [
+        1781085621941,
+        2844942.8815928125
+      ],
+      [
+        1781089223848,
+        3853341.751682
+      ],
+      [
+        1781092825268,
+        3492822.8269945383
+      ],
+      [
+        1781096422615,
+        3739447.8156645736
+      ],
+      [
+        1781100053291,
+        3590655.946845948
+      ],
+      [
+        1781103620827,
+        3190800.4474998834
+      ],
+      [
+        1781107220410,
+        2345964.996299808
+      ],
+      [
+        1781110846405,
+        3118615.904350743
+      ],
+      [
+        1781114428027,
+        3130187.3091738117
+      ],
+      [
+        1781118027765,
+        3158737.3505034987
+      ],
+      [
+        1781121629611,
+        2885602.2153584785
+      ],
+      [
+        1781125226725,
+        2894905.05766347
+      ],
+      [
+        1781128831793,
+        3146098.8131054277
+      ],
+      [
+        1781132431711,
+        3114503.350247937
+      ],
+      [
+        1781136036683,
+        3135019.3411266366
+      ],
+      [
+        1781139632813,
+        3051770.9465667023
+      ],
+      [
+        1781143230745,
+        3142228.084026609
+      ],
+      [
+        1781146838732,
+        3032978.174467144
+      ],
+      [
+        1781150440480,
+        2504069.505074838
+      ],
+      [
+        1781154003167,
+        2644675.4719458115
+      ],
+      [
+        1781157603512,
+        3353403.356336498
+      ],
+      [
+        1781161215001,
+        2603135.870338426
+      ],
+      [
+        1781164814044,
+        3009204.7895754194
+      ],
+      [
+        1781168418119,
+        2563947.140052474
+      ],
+      [
+        1781172016517,
+        3142548.380691655
+      ],
+      [
+        1781175614262,
+        3147463.3544770638
+      ],
+      [
+        1781179214559,
+        3003377.959081239
+      ],
+      [
+        1781182814751,
+        3393921.7825834616
+      ],
+      [
+        1781186441880,
+        2738928.703419278
+      ],
+      [
+        1781190041866,
+        2695298.9448025823
+      ],
+      [
+        1781193644847,
+        3213097.892547405
+      ],
+      [
+        1781197242835,
+        3332824.958387674
+      ],
+      [
+        1781200842957,
+        3148376.8518790896
+      ],
+      [
+        1781204445277,
+        1361087.4228042215
+      ],
+      [
+        1781208043149,
+        2721894.2049500523
+      ],
+      [
+        1781211643691,
+        3371670.661694148
+      ],
+      [
+        1781215226687,
+        3520116.9942214107
+      ],
+      [
+        1781218828129,
+        3328480.9252152666
+      ],
+      [
+        1781222427226,
+        3313773.571571831
+      ],
+      [
+        1781226028595,
+        3375669.7003246252
+      ],
+      [
+        1781229627019,
+        3268960.3442058978
+      ],
+      [
+        1781233226690,
+        3249118.0751281274
+      ],
+      [
+        1781236826152,
+        3282032.3548678486
+      ],
+      [
+        1781240426857,
+        3185392.735262262
+      ],
+      [
+        1781244026798,
+        3445944.755627343
+      ],
+      [
+        1781247644674,
+        3457703.7922796225
+      ],
+      [
+        1781251246866,
+        3373664.2405953347
+      ],
+      [
+        1781254846578,
+        3778092.2430533413
+      ],
+      [
+        1781258445491,
+        3250993.0911461175
+      ],
+      [
+        1781262065186,
+        3324928.412320687
+      ],
+      [
+        1781265619144,
+        3437673.2017431254
+      ],
+      [
+        1781269218506,
+        2979290.233941163
+      ],
+      [
+        1781272811238,
+        2957992.712688848
+      ],
+      [
+        1781276412250,
+        3084602.618435695
+      ],
+      [
+        1781280011020,
+        3092603.4945834666
+      ],
+      [
+        1781283668090,
+        2492941.458043832
+      ],
+      [
+        1781287267597,
+        3494650.8205893612
+      ],
+      [
+        1781290868991,
+        3462090.1099567795
+      ],
+      [
+        1781294469357,
+        3292627.672833107
+      ],
+      [
+        1781298044224,
+        2173159.6191592203
+      ],
+      [
+        1781301640166,
+        3185502.8457834446
+      ],
+      [
+        1781305240959,
+        2093656.0196094508
+      ],
+      [
+        1781308842321,
+        3412815.0347402464
+      ],
+      [
+        1781312441864,
+        3339441.2933630524
+      ],
+      [
+        1781316047166,
+        2171667.1265833713
+      ],
+      [
+        1781319650042,
+        2238742.031984596
+      ],
+      [
+        1781323249915,
+        2229273.762389202
+      ],
+      [
+        1781326850043,
+        2037391.9690973954
+      ],
+      [
+        1781330450212,
+        1726145.4958781437
+      ],
+      [
+        1781334028891,
+        2918198.180125827
+      ],
+      [
+        1781336885000,
+        1936455.4054739636
       ]
     ]
   }
