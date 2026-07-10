@@ -1,0 +1,10245 @@
+{
+  "savedAt": "2026-07-10T07:21:03.219Z",
+  "id": "vaneck-treasury-fund",
+  "detail": {
+    "id": "vaneck-treasury-fund",
+    "symbol": "vbill",
+    "name": "VanEck Treasury Fund",
+    "web_slug": "vaneck-treasury-fund",
+    "asset_platform_id": "ethereum",
+    "platforms": {
+      "ethereum": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
+      "binance-smart-chain": "0x14d72634328c4d03bba184a48081df65f1911279",
+      "solana": "34mJztT9am2jybSukvjNqRjgJBZqHJsHnivArx1P4xy1",
+      "avalanche": "0x7f4546ef315efc65336187fe3765ea779ac90183"
+    },
+    "detail_platforms": {
+      "ethereum": {
+        "decimal_place": 6,
+        "contract_address": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
+        "geckoterminal_url": "https://www.geckoterminal.com/eth/tokens/0x2255718832bc9fd3be1caf75084f4803da14ff01"
+      },
+      "binance-smart-chain": {
+        "decimal_place": 6,
+        "contract_address": "0x14d72634328c4d03bba184a48081df65f1911279",
+        "geckoterminal_url": "https://www.geckoterminal.com/bsc/tokens/0x14d72634328c4d03bba184a48081df65f1911279"
+      },
+      "solana": {
+        "decimal_place": 6,
+        "contract_address": "34mJztT9am2jybSukvjNqRjgJBZqHJsHnivArx1P4xy1",
+        "geckoterminal_url": "https://www.geckoterminal.com/solana/tokens/34mJztT9am2jybSukvjNqRjgJBZqHJsHnivArx1P4xy1"
+      },
+      "avalanche": {
+        "decimal_place": 6,
+        "contract_address": "0x7f4546ef315efc65336187fe3765ea779ac90183",
+        "geckoterminal_url": "https://www.geckoterminal.com/avax/tokens/0x7f4546ef315efc65336187fe3765ea779ac90183"
+      }
+    },
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+      "BNB Chain Ecosystem",
+      "Solana Ecosystem",
+      "Avalanche Ecosystem",
+      "Ethereum Ecosystem",
+      "Real World Assets (RWA)"
+    ],
+    "preview_listing": false,
+    "public_notice": null,
+    "additional_notices": [],
+    "has_supply_breakdown": false,
+    "description": {
+      "en": "This Fund seeks to offer a stable value of $1 per token and pays daily accrued dividends directly to investors' wallets as new tokens each day. The Fund primarily invests its total assets in cash, U.S. Treasury bills, and repurchase agreements, allowing investors to earn yield while holding the token on the blockchain. \n \nThe Fund pursues its investment objective by investing only in cash, U.S. Treasury obligations, which include securities issued or guaranteed by the U.S. Treasury where the payment of principal and interest is backed by the full faith and credit of the U.S. government (“U.S. Treasury Obligations”), and repurchase agreements collateralized by U.S. Treasury Obligations and cash. The Fund will invest in securities with maturities of (or deemed maturities of) 397 days or less and will maintain a dollar-weighted average portfolio maturity of 60 days or less and a dollar-weighted average portfolio life of 120 days or less. \n\nThe Fund may also invest in one or more other pooled investment vehicles managed by third-party investment managers or the Investment Manager or an affiliate thereof that invest in the same types of securities in which the Fund may invest directly (“Underlying Funds”). Underlying Funds may include investment companies registered under the U.S. Investment Company Act of 1940, as amended (the “Investment Company Act”).\n\nThe Fund may also invest in or otherwise hold one or more stablecoins and similar yield-bearing digital asset instruments, including in connection with investors that subscribe for Shares (as defined below) in-kind with stablecoins and such instruments instead of U.S. dollars, including subscriptions executed through Atomic Swaps (as defined below), and in connection with processing redemption transactions.\n\nFor the purposes of satisfying the Fund’s investment strategy of investing only in cash, U.S. Treasury Obligations and repurchase agreements collateralized by U.S. Treasury Obligations and cash, investments in Underlying Funds, stablecoins and similar yieldbearing digital asset instruments will be considered as if they are invested in cash and such securities.\n\nFor the purposes of this Memorandum, the Fund’s investments are collectively referred to as “Investments”. While the Fund intends to invest in the manner described above, the Fund will also remain opportunistic and may pursue other investment opportunities.\n\nThere can be no assurance that the Fund will achieve its investment objective; you could lose money by investing in the Fund. Although the Fund seeks to preserve the value of your investment at $1.00 per Share, it cannot guarantee it will do so. An investment in the Fund is not a bank account or a deposit of a bank and is not insured or guaranteed by the U.S. Federal Deposit Insurance Corporation or any other government agency. You should not expect that the Investment Manager or its affiliates will provide financial support to the Fund at any time, including during periods of market stress."
+    },
+    "links": {
+      "homepage": [
+        "https://securitize.io/primary-market/vaneck-vbill",
+        "https://www.vaneck.com/"
+      ],
+      "whitepaper": "",
+      "blockchain_site": [
+        "https://etherscan.io/token/0x2255718832bC9fD3bE1CaF75084F4803DA14FF01",
+        "https://intel.arkm.com/explorer/token/vaneck-treasury-fund ",
+        "https://bscscan.com/token/0x14d72634328c4d03bba184a48081df65f1911279",
+        "https://snowtrace.io/token/0x7F4546eF315Efc65336187Fe3765ea779Ac90183",
+        "https://solscan.io/token/34mJztT9am2jybSukvjNqRjgJBZqHJsHnivArx1P4xy1",
+        "https://ethplorer.io/address/0x2255718832bC9fD3bE1CaF75084F4803DA14FF01",
+        "https://binplorer.com/address/0x14d72634328c4d03bba184a48081df65f1911279",
+        "https://snowtrace.io/token/0x7f4546ef315efc65336187fe3765ea779ac90183?type=erc20&chainid=43114",
+        "https://intel.arkm.com/explorer/token/vaneck-treasury-fund",
+        "https://avascan.info/blockchain/c/token/0x7f4546ef315efc65336187fe3765ea779ac90183"
+      ],
+      "official_forum_url": [],
+      "chat_url": [],
+      "announcement_url": [],
+      "snapshot_url": null,
+      "twitter_screen_name": "vaneck_us",
+      "facebook_username": "",
+      "bitcointalk_thread_identifier": null,
+      "telegram_channel_identifier": "",
+      "subreddit_url": null,
+      "repos_url": {
+        "github": [],
+        "bitbucket": []
+      }
+    },
+    "image": {
+      "thumb": "https://coin-images.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620",
+      "small": "https://coin-images.coingecko.com/coins/images/56023/small/vbill_200.png?1748092620",
+      "large": "https://coin-images.coingecko.com/coins/images/56023/large/vbill_200.png?1748092620"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0x2255718832bc9fd3be1caf75084f4803da14ff01",
+    "sentiment_votes_up_percentage": null,
+    "sentiment_votes_down_percentage": null,
+    "watchlist_portfolio_users": 223,
+    "market_cap_rank": 170,
+    "market_cap_rank_with_rehypothecated": 233,
+    "market_data": {
+      "current_price": {
+        "aed": 3.67,
+        "ars": 1487.48,
+        "aud": 1.44,
+        "bch": 0.00413646,
+        "bdt": 123.08,
+        "bhd": 0.376755,
+        "bmd": 1,
+        "bnb": 0.00173626,
+        "brl": 5.12,
+        "btc": 0.00001567,
+        "cad": 1.42,
+        "chf": 0.805153,
+        "clp": 927.3,
+        "cny": 6.78,
+        "czk": 21.2,
+        "dkk": 6.53,
+        "dot": 1.186986,
+        "eos": 13.011249,
+        "eth": 0.00056508,
+        "eur": 0.874071,
+        "gbp": 0.744797,
+        "gel": 2.64,
+        "hkd": 7.84,
+        "huf": 311.18,
+        "idr": 18070.67,
+        "ils": 3.01,
+        "inr": 95.38,
+        "jpy": 161.6,
+        "krw": 1502.83,
+        "kwd": 0.309513,
+        "lkr": 334.9,
+        "ltc": 0.02257187,
+        "mmk": 2099.81,
+        "mxn": 17.51,
+        "myr": 4.06,
+        "ngn": 1376.08,
+        "nok": 9.74,
+        "nzd": 1.73,
+        "php": 61.56,
+        "pkr": 277.59,
+        "pln": 3.79,
+        "rub": 76.5,
+        "sar": 3.76,
+        "sek": 9.65,
+        "sgd": 1.29,
+        "sol": 0.01268016,
+        "thb": 33.33,
+        "try": 46.98,
+        "twd": 32.08,
+        "uah": 44.45,
+        "usd": 1,
+        "vef": 0.10013,
+        "vnd": 26285,
+        "xag": 0.01663057,
+        "xau": 0.00024309,
+        "xdr": 0.713149,
+        "xlm": 5.28213,
+        "xrp": 0.90534729,
+        "yfi": 0.00047447,
+        "zar": 16.3,
+        "bits": 15.67,
+        "link": 0.12681733,
+        "sats": 1567.28
+      },
+      "total_value_locked": null,
+      "mcap_to_tvl_ratio": null,
+      "fdv_to_tvl_ratio": null,
+      "roi": null,
+      "ath": {
+        "aed": 3.67,
+        "ars": 1494.83,
+        "aud": 1.57,
+        "bch": 0.00551304,
+        "bdt": 123.53,
+        "bhd": 0.38025,
+        "bmd": 1,
+        "bnb": 0.00185556,
+        "brl": 5.79,
+        "btc": 0.00001719,
+        "cad": 1.42,
+        "chf": 0.8336,
+        "clp": 982.6,
+        "cny": 7.21,
+        "czk": 22.2,
+        "dkk": 6.64,
+        "dot": 1.248863,
+        "eos": 17.232666,
+        "eth": 0.00066131,
+        "eur": 0.890143,
+        "gbp": 0.768458,
+        "gel": 2.75,
+        "hkd": 7.85,
+        "huf": 359.61,
+        "idr": 18252.96,
+        "ils": 3.66,
+        "inr": 97.01,
+        "jpy": 162.83,
+        "krw": 1561.38,
+        "kwd": 0.311587,
+        "lkr": 345.39,
+        "ltc": 0.02535144,
+        "mmk": 2100.15,
+        "mxn": 19.44,
+        "myr": 4.3,
+        "ngn": 1590.76,
+        "nok": 10.37,
+        "nzd": 1.79,
+        "php": 61.99,
+        "pkr": 286.43,
+        "pln": 3.79,
+        "rub": 86.5,
+        "sar": 3.79,
+        "sek": 9.83,
+        "sgd": 1.31,
+        "sol": 0.01655685,
+        "thb": 33.53,
+        "try": 46.99,
+        "twd": 32.23,
+        "uah": 45.09,
+        "usd": 1,
+        "vef": 0.10013,
+        "vnd": 26449,
+        "xag": 0.03045883,
+        "xau": 0.00030752,
+        "xdr": 0.754425,
+        "xlm": 7.125932,
+        "xrp": 0.98846161,
+        "yfi": 0.00062605,
+        "zar": 18.57,
+        "bits": 17.19,
+        "link": 0.14217062,
+        "sats": 1718.99
+      },
+      "ath_change_percentage": {
+        "aed": -0.02042,
+        "ars": -0.49211,
+        "aud": -8.25469,
+        "bch": -24.96953,
+        "bdt": -0.36519,
+        "bhd": -0.91913,
+        "bmd": 0,
+        "bnb": -6.42911,
+        "brl": -11.57927,
+        "btc": -8.82559,
+        "cad": -0.63168,
+        "chf": -3.41255,
+        "clp": -5.62793,
+        "cny": -5.95974,
+        "czk": -4.50347,
+        "dkk": -1.58838,
+        "dot": -4.95465,
+        "eos": -24.4966,
+        "eth": -14.55039,
+        "eur": -1.80555,
+        "gbp": -3.07902,
+        "gel": -3.82514,
+        "hkd": -0.16433,
+        "huf": -13.46898,
+        "idr": -0.99871,
+        "ils": -17.8719,
+        "inr": -1.68668,
+        "jpy": -0.75885,
+        "krw": -3.74999,
+        "kwd": -0.66562,
+        "lkr": -3.03783,
+        "ltc": -10.96416,
+        "mmk": -0.01612,
+        "mxn": -9.92525,
+        "myr": -5.36438,
+        "ngn": -13.49544,
+        "nok": -6.05105,
+        "nzd": -3.28003,
+        "php": -0.6953,
+        "pkr": -3.08612,
+        "pln": -0.0933,
+        "rub": -11.56577,
+        "sar": -1.03188,
+        "sek": -1.89747,
+        "sgd": -1.42961,
+        "sol": -23.41445,
+        "thb": -0.60508,
+        "try": -0.00033,
+        "twd": -0.44437,
+        "uah": -1.41495,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.62133,
+        "xag": -45.39984,
+        "xau": -20.95148,
+        "xdr": -5.47119,
+        "xlm": -25.87454,
+        "xrp": -8.40845,
+        "yfi": -24.21329,
+        "zar": -12.2501,
+        "bits": -8.82559,
+        "link": -10.7992,
+        "sats": -8.82559
+      },
+      "ath_date": {
+        "aed": "2026-04-14T20:50:05.604Z",
+        "ars": "2026-07-06T03:40:15.500Z",
+        "aud": "2025-06-23T11:40:06.713Z",
+        "bch": "2026-06-24T17:55:04.979Z",
+        "bdt": "2026-07-08T01:20:35.338Z",
+        "bhd": "2026-04-06T16:20:07.298Z",
+        "bmd": "2025-05-29T01:55:13.833Z",
+        "bnb": "2026-07-01T11:05:03.240Z",
+        "brl": "2025-06-02T11:20:05.099Z",
+        "btc": "2026-07-01T01:20:54.718Z",
+        "cad": "2026-06-25T11:35:13.098Z",
+        "chf": "2025-05-29T05:55:01.697Z",
+        "clp": "2025-07-31T13:55:15.974Z",
+        "cny": "2025-08-01T08:55:11.008Z",
+        "czk": "2025-05-29T05:55:01.697Z",
+        "dkk": "2025-05-29T05:55:01.697Z",
+        "dot": "2026-06-28T14:00:37.750Z",
+        "eos": "2026-06-06T05:05:13.017Z",
+        "eth": "2026-06-06T05:05:13.017Z",
+        "eur": "2025-05-29T05:55:01.697Z",
+        "gbp": "2025-11-04T20:10:03.290Z",
+        "gel": "2025-06-05T02:40:04.939Z",
+        "hkd": "2025-06-24T20:40:01.671Z",
+        "huf": "2025-05-29T05:55:01.697Z",
+        "idr": "2026-06-09T00:10:06.117Z",
+        "ils": "2025-06-13T05:30:27.790Z",
+        "inr": "2026-05-20T14:20:11.486Z",
+        "jpy": "2026-07-01T03:50:55.090Z",
+        "krw": "2026-06-05T16:30:17.450Z",
+        "kwd": "2026-07-03T21:10:10.670Z",
+        "lkr": "2026-05-21T12:50:27.432Z",
+        "ltc": "2026-06-24T17:55:04.979Z",
+        "mmk": "2026-01-18T05:35:05.046Z",
+        "mxn": "2025-06-01T22:40:04.903Z",
+        "myr": "2025-06-23T19:25:08.974Z",
+        "ngn": "2025-05-29T14:05:02.105Z",
+        "nok": "2025-08-01T09:55:11.124Z",
+        "nzd": "2025-11-20T23:15:04.864Z",
+        "php": "2026-05-19T22:40:06.651Z",
+        "pkr": "2025-07-21T18:25:08.790Z",
+        "pln": "2026-07-09T19:40:09.889Z",
+        "rub": "2026-03-19T09:10:07.550Z",
+        "sar": "2026-06-24T20:35:08.168Z",
+        "sek": "2025-08-01T09:55:11.124Z",
+        "sgd": "2025-11-21T12:35:03.153Z",
+        "sol": "2026-06-06T05:05:13.017Z",
+        "thb": "2026-07-08T15:20:12.919Z",
+        "try": "2026-07-10T06:55:12.848Z",
+        "twd": "2026-07-09T11:20:25.954Z",
+        "uah": "2026-06-23T01:10:01.611Z",
+        "usd": "2025-05-29T01:55:13.833Z",
+        "vef": "2025-05-29T19:50:11.303Z",
+        "vnd": "2025-08-21T08:50:05.784Z",
+        "xag": "2025-05-30T16:55:04.969Z",
+        "xau": "2025-06-29T22:35:01.752Z",
+        "xdr": "2025-05-31T23:25:02.441Z",
+        "xlm": "2026-05-23T08:35:10.681Z",
+        "xrp": "2026-06-26T03:05:17.805Z",
+        "yfi": "2026-06-30T13:05:53.541Z",
+        "zar": "2025-06-22T08:15:07.039Z",
+        "bits": "2026-07-01T01:20:54.718Z",
+        "link": "2026-06-06T04:45:20.520Z",
+        "sats": "2026-07-01T01:20:54.718Z"
+      },
+      "atl": {
+        "aed": 3.67,
+        "ars": 1123.5,
+        "aud": 1.37,
+        "bch": 0.00149756,
+        "bdt": 120.27,
+        "bhd": 0.371166,
+        "bmd": 1,
+        "bnb": 0.00072994,
+        "brl": 4.89,
+        "btc": 0.00000794,
+        "cad": 1.35,
+        "chf": 0.760709,
+        "clp": 852.87,
+        "cny": 6.76,
+        "czk": 20.1,
+        "dkk": 6.19,
+        "dot": 0.20609202,
+        "eos": 1.315104,
+        "eth": 0.00020202,
+        "eur": 0.829443,
+        "gbp": 0.721835,
+        "gel": 2.63,
+        "hkd": 7.77,
+        "huf": 298.38,
+        "idr": 15865.05,
+        "ils": 2.8,
+        "inr": 85.22,
+        "jpy": 142.43,
+        "krw": 1347.56,
+        "kwd": 0.302614,
+        "lkr": 296.67,
+        "ltc": 0.00741295,
+        "mmk": 2098,
+        "mxn": 17.09,
+        "myr": 3.88,
+        "ngn": 1339.18,
+        "nok": 9.15,
+        "nzd": 1.63,
+        "php": 55.51,
+        "pkr": 277,
+        "pln": 3.48,
+        "rub": 70.49,
+        "sar": 3.7,
+        "sek": 8.76,
+        "sgd": 1.26,
+        "sol": 0.00395302,
+        "thb": 30.76,
+        "try": 39.09,
+        "twd": 28.76,
+        "uah": 40.88,
+        "usd": 1,
+        "vef": 0.10013,
+        "vnd": 25867,
+        "xag": 0.00822548,
+        "xau": 0.00017891,
+        "xdr": 0.68021,
+        "xlm": 1.929354,
+        "xrp": 0.27415457,
+        "yfi": 0.00015781,
+        "zar": 15.65,
+        "bits": 7.94,
+        "link": 0.03610369,
+        "sats": 793.72
+      },
+      "atl_change_percentage": {
+        "aed": 0.00735,
+        "ars": 32.39684,
+        "aud": 4.70052,
+        "bch": 176.21427,
+        "bdt": 2.33281,
+        "bhd": 1.5058,
+        "bmd": 0,
+        "bnb": 137.86482,
+        "brl": 4.70713,
+        "btc": 97.45865,
+        "cad": 5.00366,
+        "chf": 5.84244,
+        "clp": 8.727,
+        "cny": 0.4011,
+        "czk": 5.48239,
+        "dkk": 5.49436,
+        "dot": 475.94957,
+        "eos": 889.37019,
+        "eth": 179.71935,
+        "eur": 5.38048,
+        "gbp": 3.18106,
+        "gel": 0.27309,
+        "hkd": 0.92915,
+        "huf": 4.28954,
+        "idr": 13.90239,
+        "ils": 7.48082,
+        "inr": 11.92367,
+        "jpy": 13.45643,
+        "krw": 11.52234,
+        "kwd": 2.2798,
+        "lkr": 12.88853,
+        "ltc": 204.49245,
+        "mmk": 0.08627,
+        "mxn": 2.49259,
+        "myr": 4.63638,
+        "ngn": 2.75542,
+        "nok": 6.41723,
+        "nzd": 6.01837,
+        "php": 10.88295,
+        "pkr": 0.21142,
+        "pln": 8.73158,
+        "rub": 8.52973,
+        "sar": 1.61513,
+        "sek": 10.18595,
+        "sgd": 2.5207,
+        "sol": 220.77157,
+        "thb": 8.3571,
+        "try": 20.19371,
+        "twd": 11.57015,
+        "uah": 8.74083,
+        "usd": 0,
+        "vef": 0,
+        "vnd": 1.61651,
+        "xag": 102.18358,
+        "xau": 35.87279,
+        "xdr": 4.84248,
+        "xlm": 173.7772,
+        "xrp": 230.23243,
+        "yfi": 200.66364,
+        "zar": 4.15374,
+        "bits": 97.45865,
+        "link": 251.25865,
+        "sats": 97.45865
+      },
+      "atl_date": {
+        "aed": "2025-06-20T05:10:07.866Z",
+        "ars": "2025-07-05T03:15:12.893Z",
+        "aud": "2026-05-06T11:00:15.550Z",
+        "bch": "2026-01-05T10:15:01.981Z",
+        "bdt": "2025-08-24T16:00:09.516Z",
+        "bhd": "2025-08-03T16:45:04.981Z",
+        "bmd": "2025-05-29T01:55:13.833Z",
+        "bnb": "2025-10-13T08:45:06.676Z",
+        "brl": "2026-05-12T07:10:10.715Z",
+        "btc": "2025-10-06T18:55:05.779Z",
+        "cad": "2026-01-29T23:40:02.384Z",
+        "chf": "2026-01-27T21:50:03.778Z",
+        "clp": "2026-02-09T20:50:07.424Z",
+        "cny": "2026-06-17T04:40:08.964Z",
+        "czk": "2026-01-27T21:00:01.650Z",
+        "dkk": "2026-01-27T21:00:01.650Z",
+        "dot": "2025-09-19T01:10:07.796Z",
+        "eos": "2025-05-29T10:15:02.242Z",
+        "eth": "2025-08-24T19:25:04.585Z",
+        "eur": "2026-01-27T21:00:01.650Z",
+        "gbp": "2026-01-27T21:50:03.778Z",
+        "gel": "2026-07-06T07:00:01.690Z",
+        "hkd": "2025-09-22T06:20:10.540Z",
+        "huf": "2026-05-10T08:50:07.832Z",
+        "idr": "2025-07-02T00:00:30.926Z",
+        "ils": "2026-05-29T15:00:15.587Z",
+        "inr": "2025-07-03T08:10:04.644Z",
+        "jpy": "2025-06-03T00:00:04.588Z",
+        "krw": "2025-06-30T05:30:05.626Z",
+        "kwd": "2025-08-24T11:00:08.754Z",
+        "lkr": "2025-08-03T15:55:04.793Z",
+        "ltc": "2025-10-10T13:30:05.808Z",
+        "mmk": "2025-05-29T12:05:01.965Z",
+        "mxn": "2026-02-18T10:35:01.747Z",
+        "myr": "2026-02-26T21:55:01.576Z",
+        "ngn": "2026-02-23T04:45:04.744Z",
+        "nok": "2026-05-12T11:45:19.080Z",
+        "nzd": "2025-07-01T10:55:01.498Z",
+        "php": "2025-05-30T01:25:05.658Z",
+        "pkr": "2026-01-26T03:25:01.793Z",
+        "pln": "2026-01-27T21:00:01.650Z",
+        "rub": "2026-05-20T07:20:04.551Z",
+        "sar": "2026-06-21T06:00:01.783Z",
+        "sek": "2026-01-27T21:00:01.650Z",
+        "sgd": "2026-01-28T07:25:02.521Z",
+        "sol": "2025-09-18T17:20:06.587Z",
+        "thb": "2026-01-25T23:20:05.204Z",
+        "try": "2025-05-29T07:10:01.743Z",
+        "twd": "2025-06-27T07:15:14.847Z",
+        "uah": "2025-08-24T10:15:06.882Z",
+        "usd": "2025-05-29T01:55:13.833Z",
+        "vef": "2025-05-30T01:35:04.853Z",
+        "vnd": "2026-02-10T07:05:02.061Z",
+        "xag": "2026-01-29T14:25:04.872Z",
+        "xau": "2026-01-28T23:45:05.084Z",
+        "xdr": "2026-01-28T22:35:04.510Z",
+        "xlm": "2025-07-18T00:55:01.691Z",
+        "xrp": "2025-07-18T03:40:04.733Z",
+        "yfi": "2025-07-18T06:05:14.066Z",
+        "zar": "2026-01-29T05:25:04.398Z",
+        "bits": "2025-10-06T18:55:05.779Z",
+        "link": "2025-08-22T16:35:03.308Z",
+        "sats": "2025-10-06T18:55:05.779Z"
+      },
+      "market_cap": {
+        "aed": 704018133,
+        "ars": 285149581044,
+        "aud": 275814655,
+        "bch": 792960,
+        "bdt": 23593505208,
+        "bhd": 72223921,
+        "bmd": 191699968,
+        "bnb": 332841,
+        "brl": 980775377,
+        "btc": 3004,
+        "cad": 271404597,
+        "chf": 154347804,
+        "clp": 177763380447,
+        "cny": 1300396734,
+        "czk": 4063703849,
+        "dkk": 1252520434,
+        "dot": 227545196,
+        "eos": 2494255928,
+        "eth": 108326,
+        "eur": 167559383,
+        "gbp": 142777561,
+        "gel": 506087916,
+        "hkd": 1502574639,
+        "huf": 59652343401,
+        "idr": 3464147143922,
+        "ils": 576905718,
+        "inr": 18283884797,
+        "jpy": 30978491199,
+        "krw": 288091957975,
+        "kwd": 59333632,
+        "lkr": 64200547450,
+        "ltc": 4327027,
+        "mmk": 402533510078,
+        "mxn": 3357414072,
+        "myr": 779183690,
+        "ngn": 263794492144,
+        "nok": 1866913272,
+        "nzd": 332133039,
+        "php": 11800092305,
+        "pkr": 53213144539,
+        "pln": 726043501,
+        "rub": 14664594191,
+        "sar": 719963928,
+        "sek": 1849451514,
+        "sgd": 247444977,
+        "sol": 2430785,
+        "thb": 6388593138,
+        "try": 9007012267,
+        "twd": 6150118186,
+        "uah": 8521125119,
+        "usd": 191699968,
+        "vef": 19194918,
+        "vnd": 5038769127069,
+        "xag": 3188080,
+        "xau": 46600,
+        "xdr": 136710641,
+        "xlm": 1012584211,
+        "xrp": 173555046,
+        "yfi": 90955,
+        "zar": 3124235023,
+        "bits": 3004470538,
+        "link": 24310878,
+        "sats": 300447053822
+      },
+      "market_cap_rank": 170,
+      "outstanding_token_value_usd": null,
+      "market_cap_rank_with_rehypothecated": 233,
+      "fully_diluted_valuation": {
+        "aed": 704018133,
+        "ars": 285149581044,
+        "aud": 275814655,
+        "bch": 792960,
+        "bdt": 23593505208,
+        "bhd": 72223921,
+        "bmd": 191699968,
+        "bnb": 332841,
+        "brl": 980775377,
+        "btc": 3004,
+        "cad": 271404597,
+        "chf": 154347804,
+        "clp": 177763380447,
+        "cny": 1300396734,
+        "czk": 4063703849,
+        "dkk": 1252520434,
+        "dot": 227545196,
+        "eos": 2494255928,
+        "eth": 108326,
+        "eur": 167559383,
+        "gbp": 142777561,
+        "gel": 506087916,
+        "hkd": 1502574639,
+        "huf": 59652343401,
+        "idr": 3464147143922,
+        "ils": 576905718,
+        "inr": 18283884797,
+        "jpy": 30978491199,
+        "krw": 288091957975,
+        "kwd": 59333632,
+        "lkr": 64200547450,
+        "ltc": 4327027,
+        "mmk": 402533510078,
+        "mxn": 3357414072,
+        "myr": 779183690,
+        "ngn": 263794492144,
+        "nok": 1866913272,
+        "nzd": 332133039,
+        "php": 11800092305,
+        "pkr": 53213144539,
+        "pln": 726043501,
+        "rub": 14664594191,
+        "sar": 719963928,
+        "sek": 1849451514,
+        "sgd": 247444977,
+        "sol": 2430785,
+        "thb": 6388593138,
+        "try": 9007012267,
+        "twd": 6150118186,
+        "uah": 8521125119,
+        "usd": 191699968,
+        "vef": 19194918,
+        "vnd": 5038769127069,
+        "xag": 3188080,
+        "xau": 46600,
+        "xdr": 136710641,
+        "xlm": 1012584211,
+        "xrp": 173555046,
+        "yfi": 90955,
+        "zar": 3124235023,
+        "bits": 3004470538,
+        "link": 24310878,
+        "sats": 300447053822
+      },
+      "market_cap_fdv_ratio": 1,
+      "total_volume": {
+        "usd": 0
+      },
+      "high_24h": {
+        "aed": 3.67,
+        "ars": 1487.69,
+        "aud": 1.44,
+        "bch": 0.00424349,
+        "bdt": 123.21,
+        "bhd": 0.377238,
+        "bmd": 1,
+        "bnb": 0.0017602,
+        "brl": 5.17,
+        "btc": 0.000016,
+        "cad": 1.42,
+        "chf": 0.807904,
+        "clp": 935.84,
+        "cny": 6.8,
+        "czk": 21.24,
+        "dkk": 6.54,
+        "dot": 1.217146,
+        "eos": 13.484575,
+        "eth": 0.00057674,
+        "eur": 0.87537,
+        "gbp": 0.747109,
+        "gel": 2.64,
+        "hkd": 7.84,
+        "huf": 314.06,
+        "idr": 18153.88,
+        "ils": 3.04,
+        "inr": 95.67,
+        "jpy": 162.5,
+        "krw": 1513.83,
+        "kwd": 0.309782,
+        "lkr": 335.28,
+        "ltc": 0.02294587,
+        "mmk": 2099.81,
+        "mxn": 17.57,
+        "myr": 4.08,
+        "ngn": 1377.91,
+        "nok": 9.78,
+        "nzd": 1.75,
+        "php": 61.65,
+        "pkr": 278.18,
+        "pln": 3.79,
+        "rub": 76.5,
+        "sar": 3.76,
+        "sek": 9.7,
+        "sgd": 1.29,
+        "sol": 0.0129405,
+        "thb": 33.47,
+        "try": 46.99,
+        "twd": 32.23,
+        "uah": 44.51,
+        "usd": 1,
+        "vef": 0.10013,
+        "vnd": 26295,
+        "xag": 0.01700338,
+        "xau": 0.00024406,
+        "xdr": 0.713973,
+        "xlm": 5.548868,
+        "xrp": 0.92053257,
+        "yfi": 0.00047625,
+        "zar": 16.4,
+        "bits": 16,
+        "link": 0.13020597,
+        "sats": 1599.81
+      },
+      "low_24h": {
+        "aed": 3.67,
+        "ars": 1487.05,
+        "aud": 1.44,
+        "bch": 0.00411362,
+        "bdt": 123.06,
+        "bhd": 0.376513,
+        "bmd": 1,
+        "bnb": 0.00173125,
+        "brl": 5.12,
+        "btc": 0.0000156,
+        "cad": 1.41,
+        "chf": 0.803307,
+        "clp": 925.93,
+        "cny": 6.78,
+        "czk": 21.16,
+        "dkk": 6.52,
+        "dot": 1.177858,
+        "eos": 12.485357,
+        "eth": 0.00056254,
+        "eur": 0.872703,
+        "gbp": 0.743529,
+        "gel": 2.64,
+        "hkd": 7.83,
+        "huf": 310.99,
+        "idr": 18050.57,
+        "ils": 3.01,
+        "inr": 95.27,
+        "jpy": 161.39,
+        "krw": 1500.48,
+        "kwd": 0.309379,
+        "lkr": 334.62,
+        "ltc": 0.02240152,
+        "mmk": 2099.81,
+        "mxn": 17.5,
+        "myr": 4.06,
+        "ngn": 1375.25,
+        "nok": 9.68,
+        "nzd": 1.73,
+        "php": 61.51,
+        "pkr": 277.56,
+        "pln": 3.76,
+        "rub": 75.85,
+        "sar": 3.75,
+        "sek": 9.63,
+        "sgd": 1.29,
+        "sol": 0.01262981,
+        "thb": 33.28,
+        "try": 46.86,
+        "twd": 32.07,
+        "uah": 44.42,
+        "usd": 1,
+        "vef": 0.10013,
+        "vnd": 26284,
+        "xag": 0.01647854,
+        "xau": 0.00024181,
+        "xdr": 0.713149,
+        "xlm": 5.243917,
+        "xrp": 0.90175201,
+        "yfi": 0.00044731,
+        "zar": 16.28,
+        "bits": 15.6,
+        "link": 0.12623135,
+        "sats": 1559.66
+      },
+      "price_change_24h": 0,
+      "price_change_percentage_24h": 0,
+      "price_change_percentage_7d": 0,
+      "price_change_percentage_14d": 0,
+      "price_change_percentage_30d": 0,
+      "price_change_percentage_60d": 0,
+      "price_change_percentage_200d": 0,
+      "price_change_percentage_1y": 0,
+      "market_cap_change_24h": 135005329,
+      "market_cap_change_percentage_24h": 238.12715,
+      "price_change_24h_in_currency": {
+        "aed": 0,
+        "ars": -0.02144999999995889,
+        "aud": -0.002920999999999951,
+        "bch": -0.000052566169378176,
+        "bdt": 0.011557,
+        "bhd": 0.000242,
+        "bmd": 0,
+        "bnb": -0.00000644836198837,
+        "brl": -0.03539999999999921,
+        "btc": -2.19958796393e-7,
+        "cad": -0.001017000000000046,
+        "chf": -0.001611999999999947,
+        "clp": -7.880000000000109,
+        "cny": -0.014200000000000657,
+        "czk": -0.006788000000000238,
+        "dkk": -0.00248700000000035,
+        "dot": -0.011054020199566583,
+        "eos": -0.4212836556768842,
+        "eth": -0.000005533926661316,
+        "eur": -0.000279999999999947,
+        "gbp": -0.000248000000000026,
+        "gel": -8.88e-16,
+        "hkd": 0.000938,
+        "huf": -2.23401999999993,
+        "idr": -27.235884999998234,
+        "ils": -0.019029999999999436,
+        "inr": -0.014173999999997022,
+        "jpy": -0.767809530000136,
+        "krw": -7.02005999999983,
+        "kwd": -0.00022799999999995,
+        "lkr": 0.280071,
+        "ltc": -0.000090945609753621,
+        "mmk": 4.54747e-13,
+        "mxn": -0.03246000000000038,
+        "myr": -0.01440000000000019,
+        "ngn": -0.22000000000025466,
+        "nok": -0.03064499999999981,
+        "nzd": -0.01357300000000028,
+        "php": -0.025991000000011866,
+        "pkr": 0.027083,
+        "pln": 0.021699,
+        "rub": 0.444261,
+        "sar": 0.000208,
+        "sek": -0.02166300000000021,
+        "sgd": -0.001956999999999764,
+        "sol": -0.000094357669893406,
+        "thb": -0.08849999999998914,
+        "try": 0.109726,
+        "twd": -0.06400199999999501,
+        "uah": 0.030968,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -10.366885999988881,
+        "xag": -0.000313339999999992,
+        "xau": -7.1e-7,
+        "xdr": -0.000823999999999936,
+        "xlm": -0.23769846822179286,
+        "xrp": -0.006572605713081936,
+        "yfi": 0.00001222,
+        "zar": -0.08339599999999692,
+        "bits": -0.21995879639327676,
+        "link": -0.002604376373591039,
+        "sats": -21.99587963932754
+      },
+      "price_change_percentage_1h_in_currency": {
+        "aed": 0,
+        "ars": -0.00205,
+        "aud": 0.05814,
+        "bch": 0.55532,
+        "bdt": 0,
+        "bhd": 0,
+        "bmd": 0,
+        "bnb": 0.08514,
+        "brl": 0.00977,
+        "btc": 0.14882,
+        "cad": -0.01949,
+        "chf": 0.09461,
+        "clp": 0.00108,
+        "cny": 0.0059,
+        "czk": 0.05924,
+        "dkk": 0.04462,
+        "dot": 0.16961,
+        "eos": 0.4223,
+        "eth": 0.15176,
+        "eur": 0.04498,
+        "gbp": 0.06556,
+        "gel": 0,
+        "hkd": 0.00591,
+        "huf": 0.00558,
+        "idr": 0.03079,
+        "ils": 0.05918,
+        "inr": 0.07572,
+        "jpy": 0.11368,
+        "krw": 0.15673,
+        "kwd": -0.00517,
+        "lkr": 0,
+        "ltc": 0.09593,
+        "mmk": 0,
+        "mxn": 0.02848,
+        "myr": -0.07375,
+        "ngn": 0.01599,
+        "nok": 0.15285,
+        "nzd": 0.11273,
+        "php": 0.07967,
+        "pkr": 0,
+        "pln": 0.1071,
+        "rub": -0.00011,
+        "sar": 0,
+        "sek": 0.10263,
+        "sgd": 0.03844,
+        "sol": 0.09456,
+        "thb": 0.10363,
+        "try": 0.00202,
+        "twd": 0.03831,
+        "uah": 0,
+        "usd": 0,
+        "vef": 0,
+        "vnd": 0,
+        "xag": 0.45029,
+        "xau": 0.15244,
+        "xdr": 0,
+        "xlm": 0.19334,
+        "xrp": 0.14656,
+        "yfi": 0.28824,
+        "zar": 0.0869,
+        "bits": 0.14882,
+        "link": 0.15994,
+        "sats": 0.14882
+      },
+      "price_change_percentage_24h_in_currency": {
+        "aed": 0,
+        "ars": -0.00144,
+        "aud": -0.20261,
+        "bch": -1.25485,
+        "bdt": 0.00939,
+        "bhd": 0.06427,
+        "bmd": 0,
+        "bnb": -0.37002,
+        "brl": -0.68717,
+        "btc": -1.38402,
+        "cad": -0.07178,
+        "chf": -0.19981,
+        "clp": -0.84262,
+        "cny": -0.20889,
+        "czk": -0.03201,
+        "dkk": -0.03805,
+        "dot": -0.92268,
+        "eos": -3.13629,
+        "eth": -0.96981,
+        "eur": -0.03202,
+        "gbp": -0.03329,
+        "gel": 0,
+        "hkd": 0.01197,
+        "huf": -0.71281,
+        "idr": -0.15049,
+        "ils": -0.62837,
+        "inr": -0.01486,
+        "jpy": -0.47289,
+        "krw": -0.46495,
+        "kwd": -0.07361,
+        "lkr": 0.0837,
+        "ltc": -0.4013,
+        "mmk": 0,
+        "mxn": -0.185,
+        "myr": -0.35303,
+        "ngn": -0.01598,
+        "nok": -0.31368,
+        "nzd": -0.77731,
+        "php": -0.04221,
+        "pkr": 0.00976,
+        "pln": 0.57623,
+        "rub": 0.58414,
+        "sar": 0.00554,
+        "sek": -0.22404,
+        "sgd": -0.15138,
+        "sol": -0.73864,
+        "thb": -0.26486,
+        "try": 0.23408,
+        "twd": -0.1991,
+        "uah": 0.06972,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.03943,
+        "xag": -1.84928,
+        "xau": -0.29122,
+        "xdr": -0.11541,
+        "xlm": -4.30627,
+        "xrp": -0.72074,
+        "yfi": 2.64322,
+        "zar": -0.5091,
+        "bits": -1.38402,
+        "link": -2.01232,
+        "sats": -1.38402
+      },
+      "price_change_percentage_7d_in_currency": {
+        "aed": 0,
+        "ars": -0.10124,
+        "aud": -0.1481,
+        "bch": -7.73255,
+        "bdt": 0.05881,
+        "bhd": 0.28134,
+        "bmd": 0,
+        "bnb": -2.42322,
+        "brl": -2.04668,
+        "btc": -3.3832,
+        "cad": -0.02825,
+        "chf": 0.39101,
+        "clp": 0.30721,
+        "cny": 0.01622,
+        "czk": 0.36004,
+        "dkk": 0.10931,
+        "dot": 0.92957,
+        "eos": -16.31485,
+        "eth": -3.13946,
+        "eur": 0.10296,
+        "gbp": -0.42994,
+        "gel": 0.18975,
+        "hkd": -0.05538,
+        "huf": 0.69103,
+        "idr": 0.61965,
+        "ils": 0.61417,
+        "inr": 0.09146,
+        "jpy": 0.28661,
+        "krw": -2.59957,
+        "kwd": 1.3866,
+        "lkr": 0.0179,
+        "ltc": -2.37688,
+        "mmk": 0,
+        "mxn": 0.5007,
+        "myr": -0.08604,
+        "ngn": 0.51423,
+        "nok": -0.74292,
+        "nzd": -0.95259,
+        "php": 0.16272,
+        "pkr": 0.17503,
+        "pln": 1.18632,
+        "rub": -1.29293,
+        "sar": 0.09563,
+        "sek": 0.0122,
+        "sgd": -0.01084,
+        "sol": 2.76244,
+        "thb": 0.48602,
+        "try": 0.43251,
+        "twd": 0.39587,
+        "uah": -0.59034,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.06571,
+        "xag": 3.64587,
+        "xau": 1.40158,
+        "xdr": -0.01234,
+        "xlm": 5.09929,
+        "xrp": -0.60812,
+        "yfi": -16.09769,
+        "zar": 0.56058,
+        "bits": -3.3832,
+        "link": -1.55384,
+        "sats": -3.3832
+      },
+      "price_change_percentage_14d_in_currency": {
+        "aed": 0,
+        "ars": 0.70258,
+        "aud": -0.78166,
+        "bch": -19.53282,
+        "bdt": 0.31355,
+        "bhd": 0.09511,
+        "bmd": 0,
+        "bnb": -2.21791,
+        "brl": -1.14387,
+        "btc": -5.66507,
+        "cad": -0.27057,
+        "chf": -0.50234,
+        "clp": 0.77157,
+        "cny": -0.24705,
+        "czk": -0.66588,
+        "dkk": -0.59712,
+        "dot": -0.82065,
+        "eos": -20.6772,
+        "eth": -11.38809,
+        "eur": -0.59818,
+        "gbp": -1.72315,
+        "gel": -0.18904,
+        "hkd": -0.04013,
+        "huf": -0.17582,
+        "idr": 0.82461,
+        "ils": 0.50328,
+        "inr": 0.87514,
+        "jpy": -0.07817,
+        "krw": -2.33131,
+        "kwd": -0.04844,
+        "lkr": -0.46152,
+        "ltc": -6.08565,
+        "mmk": 0,
+        "mxn": -0.09555,
+        "myr": -0.81745,
+        "ngn": -0.0523,
+        "nok": -1.44513,
+        "nzd": -2.15112,
+        "php": 0.40862,
+        "pkr": -0.08874,
+        "pln": 0.52719,
+        "rub": 0.69012,
+        "sar": 0.22502,
+        "sek": -0.84935,
+        "sgd": -0.33972,
+        "sol": -11.78064,
+        "thb": -0.23052,
+        "try": 0.77222,
+        "twd": 0.68516,
+        "uah": -0.97895,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.09199,
+        "xag": -3.90592,
+        "xau": -2.18493,
+        "xdr": -0.65086,
+        "xlm": -6.66853,
+        "xrp": -5.65635,
+        "yfi": -21.20363,
+        "zar": -1.17129,
+        "bits": -5.66507,
+        "link": -8.05017,
+        "sats": -5.66507
+      },
+      "price_change_percentage_30d_in_currency": {
+        "aed": 0,
+        "ars": 3.15351,
+        "aud": 1.04211,
+        "bch": -17.1443,
+        "bdt": 0.15644,
+        "bhd": -0.0793,
+        "bmd": 0,
+        "bnb": 1.69279,
+        "brl": -1.09418,
+        "btc": -3.68934,
+        "cad": 1.57327,
+        "chf": 0.94431,
+        "clp": 1.14198,
+        "cny": 0.15355,
+        "czk": 1.39235,
+        "dkk": 1.01005,
+        "dot": 11.91685,
+        "eos": -18.06006,
+        "eth": -7.8538,
+        "eur": 1.00021,
+        "gbp": -0.23749,
+        "gel": -0.37736,
+        "hkd": 0.03162,
+        "huf": 1.21697,
+        "idr": 0.76207,
+        "ils": 1.59563,
+        "inr": 0.27167,
+        "jpy": 0.77285,
+        "krw": -1.44331,
+        "kwd": 0.09767,
+        "lkr": -0.73639,
+        "ltc": -4.19305,
+        "mmk": 0,
+        "mxn": 0.50697,
+        "myr": 0.04923,
+        "ngn": 1.20096,
+        "nok": 2.83167,
+        "nzd": 0.82214,
+        "php": 0.19615,
+        "pkr": -0.4539,
+        "pln": 3.17668,
+        "rub": 6.28321,
+        "sar": 0.04614,
+        "sek": 2.01204,
+        "sgd": 0.27049,
+        "sol": -18.55528,
+        "thb": 1.35645,
+        "try": 1.83706,
+        "twd": 1.48227,
+        "uah": -1.01669,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.11828,
+        "xag": 8.23783,
+        "xau": 2.28047,
+        "xdr": 0.66953,
+        "xlm": -1.97033,
+        "xrp": 0.56046,
+        "yfi": -11.0829,
+        "zar": -1.24975,
+        "bits": -3.68934,
+        "link": -2.19551,
+        "sats": -3.68934
+      },
+      "price_change_percentage_60d_in_currency": {
+        "aed": 0,
+        "ars": 6.40182,
+        "aud": 4.16649,
+        "bch": 86.59367,
+        "bdt": 0.57036,
+        "bhd": 0.00212,
+        "bmd": 0,
+        "bnb": 13.06751,
+        "brl": 4.46768,
+        "btc": 26.57898,
+        "cad": 3.51214,
+        "chf": 3.49449,
+        "clp": 4.31919,
+        "cny": -0.17512,
+        "czk": 2.52514,
+        "dkk": 2.83724,
+        "dot": 61.5224,
+        "eos": 24.15523,
+        "eth": 31.78195,
+        "eur": 2.80757,
+        "gbp": 1.23912,
+        "gel": -1.30841,
+        "hkd": 0.12941,
+        "huf": 3.15622,
+        "idr": 3.81433,
+        "ils": 3.357,
+        "inr": 0.25476,
+        "jpy": 2.92428,
+        "krw": 2.03563,
+        "kwd": 0.5304,
+        "lkr": 4.29907,
+        "ltc": 32.81444,
+        "mmk": 0,
+        "mxn": 1.73876,
+        "myr": 3.4776,
+        "ngn": 1.33435,
+        "nok": 5.94662,
+        "nzd": 3.08512,
+        "php": 0.84454,
+        "pkr": -0.18386,
+        "pln": 5.09168,
+        "rub": 2.65983,
+        "sar": 0.0856,
+        "sek": 4.39452,
+        "sgd": 1.68809,
+        "sol": 21.19225,
+        "thb": 2.76129,
+        "try": 3.53581,
+        "twd": 2.2182,
+        "uah": 1.46313,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.14456,
+        "xag": 33.90347,
+        "xau": 13.63063,
+        "xdr": 3.11284,
+        "xlm": -11.85392,
+        "xrp": 31.47279,
+        "yfi": 32.97253,
+        "zar": -0.9823,
+        "bits": 26.57898,
+        "link": 33.8412,
+        "sats": 26.57898
+      },
+      "price_change_percentage_200d_in_currency": {
+        "aed": 0,
+        "ars": 2.58313,
+        "aud": -4.67273,
+        "bch": 140.28073,
+        "bdt": 0.6874,
+        "bhd": -0.0077,
+        "bmd": 0,
+        "bnb": 48.72548,
+        "brl": -7.75971,
+        "btc": 39.20219,
+        "cad": 2.6484,
+        "chf": 1.31241,
+        "clp": 2.003,
+        "cny": -3.64894,
+        "czk": 2.06132,
+        "dkk": 2.50481,
+        "dot": 114.80028,
+        "eos": 111.75906,
+        "eth": 71.11254,
+        "eur": 2.41835,
+        "gbp": -0.21717,
+        "gel": -1.67598,
+        "hkd": 0.74331,
+        "huf": -5.63297,
+        "idr": 7.66635,
+        "ils": -5.8659,
+        "inr": 6.33689,
+        "jpy": 2.69024,
+        "krw": 1.52872,
+        "kwd": 0.88297,
+        "lkr": 8.22449,
+        "ltc": 75.16286,
+        "mmk": 0.00524,
+        "mxn": -2.77567,
+        "myr": -0.35303,
+        "ngn": -5.66977,
+        "nok": -3.80947,
+        "nzd": -0.05036,
+        "php": 4.82888,
+        "pkr": -0.87156,
+        "pln": 5.52539,
+        "rub": -4.8958,
+        "sar": 0.12479,
+        "sek": 4.11516,
+        "sgd": -0.12272,
+        "sol": 60.12827,
+        "thb": 6.68929,
+        "try": 9.73911,
+        "twd": 1.64916,
+        "uah": 5.18354,
+        "usd": 0,
+        "vef": 0,
+        "vnd": -0.14185,
+        "xag": 14.15431,
+        "xau": 6.96559,
+        "xdr": 2.43185,
+        "xlm": 15.15236,
+        "xrp": 73.75033,
+        "yfi": 64.193,
+        "zar": -2.58525,
+        "bits": 39.20219,
+        "link": 59.04134,
+        "sats": 39.20219
+      },
+      "price_change_percentage_1y_in_currency": {
+        "aed": -0.01429,
+        "ars": 18.75867,
+        "aud": -5.77665,
+        "bch": 111.74967,
+        "bdt": 1.31634,
+        "bhd": -0.04934,
+        "bmd": 0,
+        "bnb": 16.92788,
+        "brl": -8.35781,
+        "btc": 74.16131,
+        "cad": 3.46963,
+        "chf": 1.40274,
+        "clp": -2.3319,
+        "cny": -5.49069,
+        "czk": 0.95856,
+        "dkk": 2.79663,
+        "dot": 332.54752,
+        "eos": 573.82645,
+        "eth": 57.13927,
+        "eur": 2.61024,
+        "gbp": 1.35982,
+        "gel": -2.58303,
+        "hkd": -0.15048,
+        "huf": -8.63161,
+        "idr": 11.36793,
+        "ils": -9.14437,
+        "inr": 11.47505,
+        "jpy": 10.49785,
+        "krw": 9.46487,
+        "kwd": 1.34576,
+        "lkr": 11.40623,
+        "ltc": 104.55497,
+        "mmk": 0.08627,
+        "mxn": -5.88421,
+        "myr": -4.38485,
+        "ngn": -9.94241,
+        "nok": -3.38849,
+        "nzd": 4.08877,
+        "php": 9.10817,
+        "pkr": -2.43038,
+        "pln": 4.75966,
+        "rub": -2.17946,
+        "sar": 0.13115,
+        "sek": 1.55913,
+        "sgd": 0.89594,
+        "sol": 99.3882,
+        "thb": 2.2819,
+        "try": 17.34531,
+        "twd": 9.79278,
+        "uah": 6.71673,
+        "usd": 0,
+        "vef": 0,
+        "vnd": 0.69654,
+        "xag": -39.38906,
+        "xau": -19.2392,
+        "xdr": 2.65479,
+        "xlm": 53.28051,
+        "xrp": 119.28136,
+        "yfi": 157.5828,
+        "zar": -8.37782,
+        "bits": 74.16131,
+        "link": 81.41812,
+        "sats": 74.16131
+      },
+      "market_cap_change_24h_in_currency": {
+        "aed": 495807072,
+        "ars": 200816308634,
+        "aud": 194077768,
+        "bch": 555464,
+        "bdt": 16616458401,
+        "bhd": 50877653,
+        "bmd": 135005329,
+        "bnb": 234039,
+        "brl": 688707276,
+        "btc": 2103,
+        "cad": 191079917,
+        "chf": 108608554,
+        "clp": 124743688115,
+        "cny": 915003588,
+        "czk": 2861491879,
+        "dkk": 881950611,
+        "dot": 159622745,
+        "eos": 1732703367,
+        "eth": 75976,
+        "eur": 117988369,
+        "gbp": 100537504,
+        "gel": 356414069,
+        "hkd": 1058246282,
+        "huf": 41883700914,
+        "idr": 2438092823322,
+        "ils": 405208839,
+        "inr": 12875682057,
+        "jpy": 21773173026,
+        "krw": 202491703542,
+        "kwd": 41772978,
+        "lkr": 45229323966,
+        "ltc": 3042167,
+        "mmk": 283485540538,
+        "mxn": 2362629529,
+        "myr": 547926259,
+        "ngn": 185765660736,
+        "nok": 1313042368,
+        "nzd": 233136262,
+        "php": 8308780035,
+        "pkr": 37477066480,
+        "pln": 512548726,
+        "rub": 10352775622,
+        "sar": 507048743,
+        "sek": 1301254099,
+        "sgd": 174152983,
+        "sol": 1706539,
+        "thb": 4494170129,
+        "try": 6349438713,
+        "twd": 4327612270,
+        "uah": 6002785944,
+        "usd": 135005329,
+        "vef": 13518084,
+        "vnd": 3547981884917,
+        "xag": 2227451,
+        "xau": 32778,
+        "xdr": 96232199,
+        "xlm": 699639512,
+        "xrp": 121854077,
+        "yfi": 64748,
+        "zar": 2195524623,
+        "bits": 2103437715,
+        "link": 16973361,
+        "sats": 210343771501
+      },
+      "market_cap_change_percentage_24h_in_currency": {
+        "aed": 238.12715,
+        "ars": 238.12228,
+        "aud": 237.44208,
+        "bch": 233.88415,
+        "bdt": 238.15891,
+        "bhd": 238.34448,
+        "bmd": 238.12715,
+        "bnb": 236.87602,
+        "brl": 235.80366,
+        "btc": 233.4474,
+        "cad": 237.88444,
+        "chf": 237.45154,
+        "clp": 235.27803,
+        "cny": 237.42083,
+        "czk": 238.01891,
+        "dkk": 237.9985,
+        "dot": 235.00734,
+        "eos": 227.52249,
+        "eth": 234.84795,
+        "eur": 238.01887,
+        "gbp": 238.0146,
+        "gel": 238.12715,
+        "hkd": 238.16762,
+        "huf": 235.71694,
+        "idr": 237.6183,
+        "ils": 236.00245,
+        "inr": 238.07691,
+        "jpy": 236.5282,
+        "krw": 236.55503,
+        "kwd": 237.87826,
+        "lkr": 238.41016,
+        "ltc": 236.77025,
+        "mmk": 238.12715,
+        "mxn": 237.50163,
+        "myr": 236.93347,
+        "ngn": 238.0731,
+        "nok": 237.0665,
+        "nzd": 235.49884,
+        "php": 237.98444,
+        "pkr": 238.16015,
+        "pln": 240.07554,
+        "rub": 240.1023,
+        "sar": 238.14588,
+        "sek": 237.36962,
+        "sgd": 237.61529,
+        "sol": 235.62961,
+        "thb": 237.23161,
+        "try": 238.91864,
+        "twd": 237.45395,
+        "uah": 238.36289,
+        "usd": 238.12715,
+        "vef": 238.12715,
+        "vnd": 237.99385,
+        "xag": 231.87424,
+        "xau": 237.14245,
+        "xdr": 237.73692,
+        "xlm": 223.5665,
+        "xrp": 235.69012,
+        "yfi": 247.06459,
+        "zar": 236.40573,
+        "bits": 233.4474,
+        "link": 231.32296,
+        "sats": 233.4474
+      },
+      "total_supply": 191699968.129655,
+      "max_supply": null,
+      "max_supply_infinite": true,
+      "circulating_supply": 191699968.129655,
+      "outstanding_supply": null,
+      "last_updated": "2026-07-10T07:00:20.117Z"
+    },
+    "community_data": {
+      "facebook_likes": null,
+      "reddit_average_posts_48h": 0,
+      "reddit_average_comments_48h": 0,
+      "reddit_subscribers": 0,
+      "reddit_accounts_active_48h": 0,
+      "telegram_channel_user_count": null
+    },
+    "developer_data": {
+      "forks": 0,
+      "stars": 0,
+      "subscribers": 0,
+      "total_issues": 0,
+      "closed_issues": 0,
+      "pull_requests_merged": 0,
+      "pull_request_contributors": 0,
+      "code_additions_deletions_4_weeks": {
+        "additions": null,
+        "deletions": null
+      },
+      "commit_count_4_weeks": 0,
+      "last_4_weeks_commit_activity_series": []
+    },
+    "status_updates": [],
+    "last_updated": "2026-07-10T07:00:20.117Z",
+    "tickers": []
+  },
+  "chart": {
+    "prices": [
+      [
+        1781078421665,
+        1
+      ],
+      [
+        1781082021547,
+        1
+      ],
+      [
+        1781085620249,
+        1
+      ],
+      [
+        1781089222684,
+        1
+      ],
+      [
+        1781092823878,
+        1
+      ],
+      [
+        1781096419224,
+        1
+      ],
+      [
+        1781100018745,
+        1
+      ],
+      [
+        1781103619450,
+        1
+      ],
+      [
+        1781107233012,
+        1
+      ],
+      [
+        1781110836033,
+        1
+      ],
+      [
+        1781114433629,
+        1
+      ],
+      [
+        1781118033159,
+        1
+      ],
+      [
+        1781121608884,
+        1
+      ],
+      [
+        1781125207026,
+        1
+      ],
+      [
+        1781128808170,
+        1
+      ],
+      [
+        1781132407462,
+        1
+      ],
+      [
+        1781136080593,
+        1
+      ],
+      [
+        1781139635328,
+        1
+      ],
+      [
+        1781143232894,
+        1
+      ],
+      [
+        1781146832974,
+        1
+      ],
+      [
+        1781150434893,
+        1
+      ],
+      [
+        1781154034393,
+        1
+      ],
+      [
+        1781157634233,
+        1
+      ],
+      [
+        1781161233568,
+        1
+      ],
+      [
+        1781164824166,
+        1
+      ],
+      [
+        1781168433372,
+        1
+      ],
+      [
+        1781172028002,
+        1
+      ],
+      [
+        1781175661365,
+        1
+      ],
+      [
+        1781179272165,
+        1
+      ],
+      [
+        1781182863991,
+        1
+      ],
+      [
+        1781186465459,
+        1
+      ],
+      [
+        1781190064793,
+        1
+      ],
+      [
+        1781193669449,
+        1
+      ],
+      [
+        1781197266197,
+        1
+      ],
+      [
+        1781200867747,
+        1
+      ],
+      [
+        1781204436408,
+        1
+      ],
+      [
+        1781208035068,
+        1
+      ],
+      [
+        1781211635843,
+        1
+      ],
+      [
+        1781215235373,
+        1
+      ],
+      [
+        1781218836058,
+        1
+      ],
+      [
+        1781222435573,
+        1
+      ],
+      [
+        1781226036999,
+        1
+      ],
+      [
+        1781229635581,
+        1
+      ],
+      [
+        1781233234707,
+        1
+      ],
+      [
+        1781236834376,
+        1
+      ],
+      [
+        1781240434730,
+        1
+      ],
+      [
+        1781244034835,
+        1
+      ],
+      [
+        1781247633845,
+        1
+      ],
+      [
+        1781251236752,
+        1
+      ],
+      [
+        1781254835246,
+        1
+      ],
+      [
+        1781258434511,
+        1
+      ],
+      [
+        1781262033873,
+        1
+      ],
+      [
+        1781265634607,
+        1
+      ],
+      [
+        1781269234575,
+        1
+      ],
+      [
+        1781272833550,
+        1
+      ],
+      [
+        1781276434239,
+        1
+      ],
+      [
+        1781280033233,
+        1
+      ],
+      [
+        1781283671572,
+        1
+      ],
+      [
+        1781287271013,
+        1
+      ],
+      [
+        1781290872061,
+        1
+      ],
+      [
+        1781294472574,
+        1
+      ],
+      [
+        1781298076910,
+        1
+      ],
+      [
+        1781301672634,
+        1
+      ],
+      [
+        1781305272935,
+        1
+      ],
+      [
+        1781308876727,
+        1
+      ],
+      [
+        1781312473853,
+        1
+      ],
+      [
+        1781316083171,
+        1
+      ],
+      [
+        1781319672326,
+        1
+      ],
+      [
+        1781323272325,
+        1
+      ],
+      [
+        1781326871656,
+        1
+      ],
+      [
+        1781330474128,
+        1
+      ],
+      [
+        1781334071571,
+        1
+      ],
+      [
+        1781337669748,
+        1
+      ],
+      [
+        1781341271965,
+        1
+      ],
+      [
+        1781344872917,
+        1
+      ],
+      [
+        1781348470806,
+        1
+      ],
+      [
+        1781352070494,
+        1
+      ],
+      [
+        1781355669293,
+        1
+      ],
+      [
+        1781359271655,
+        1
+      ],
+      [
+        1781362873307,
+        1
+      ],
+      [
+        1781366472789,
+        1
+      ],
+      [
+        1781370072580,
+        1
+      ],
+      [
+        1781373635297,
+        1
+      ],
+      [
+        1781377235514,
+        1
+      ],
+      [
+        1781380835909,
+        1
+      ],
+      [
+        1781384435619,
+        1
+      ],
+      [
+        1781388020445,
+        1
+      ],
+      [
+        1781391620097,
+        1
+      ],
+      [
+        1781395221854,
+        1
+      ],
+      [
+        1781398824103,
+        1
+      ],
+      [
+        1781402420459,
+        1
+      ],
+      [
+        1781406021129,
+        1
+      ],
+      [
+        1781409619867,
+        1
+      ],
+      [
+        1781413219485,
+        1
+      ],
+      [
+        1781416821986,
+        1
+      ],
+      [
+        1781420420353,
+        1
+      ],
+      [
+        1781424021990,
+        1
+      ],
+      [
+        1781427621545,
+        1
+      ],
+      [
+        1781431220784,
+        1
+      ],
+      [
+        1781434820843,
+        1
+      ],
+      [
+        1781438420635,
+        1
+      ],
+      [
+        1781442020293,
+        1
+      ],
+      [
+        1781445619885,
+        1
+      ],
+      [
+        1781449242732,
+        1
+      ],
+      [
+        1781452842596,
+        1
+      ],
+      [
+        1781456439869,
+        1
+      ],
+      [
+        1781460041032,
+        1
+      ],
+      [
+        1781463640777,
+        1
+      ],
+      [
+        1781467243446,
+        1
+      ],
+      [
+        1781470842465,
+        1
+      ],
+      [
+        1781474444147,
+        1
+      ],
+      [
+        1781478040956,
+        1
+      ],
+      [
+        1781481642595,
+        1
+      ],
+      [
+        1781485244982,
+        1
+      ],
+      [
+        1781488843165,
+        1
+      ],
+      [
+        1781492443077,
+        1
+      ],
+      [
+        1781496043318,
+        1
+      ],
+      [
+        1781499643586,
+        1
+      ],
+      [
+        1781503242143,
+        1
+      ],
+      [
+        1781506845515,
+        1
+      ],
+      [
+        1781510442941,
+        1
+      ],
+      [
+        1781514041584,
+        1
+      ],
+      [
+        1781517641930,
+        1
+      ],
+      [
+        1781521241479,
+        1
+      ],
+      [
+        1781524841803,
+        1
+      ],
+      [
+        1781528442955,
+        1
+      ],
+      [
+        1781532042452,
+        1
+      ],
+      [
+        1781535645352,
+        1
+      ],
+      [
+        1781539246205,
+        1
+      ],
+      [
+        1781542845594,
+        1
+      ],
+      [
+        1781546445673,
+        1
+      ],
+      [
+        1781550048054,
+        1
+      ],
+      [
+        1781553647759,
+        1
+      ],
+      [
+        1781557247930,
+        1
+      ],
+      [
+        1781560845765,
+        1
+      ],
+      [
+        1781564446604,
+        1
+      ],
+      [
+        1781568047279,
+        1
+      ],
+      [
+        1781571647823,
+        1
+      ],
+      [
+        1781575249751,
+        1
+      ],
+      [
+        1781578846138,
+        1
+      ],
+      [
+        1781582448089,
+        1
+      ],
+      [
+        1781586071669,
+        1
+      ],
+      [
+        1781589644620,
+        1
+      ],
+      [
+        1781593244808,
+        1
+      ],
+      [
+        1781596844031,
+        1
+      ],
+      [
+        1781600445542,
+        1
+      ],
+      [
+        1781604033345,
+        1
+      ],
+      [
+        1781607634825,
+        1
+      ],
+      [
+        1781611233839,
+        1
+      ],
+      [
+        1781614833899,
+        1
+      ],
+      [
+        1781618434718,
+        1
+      ],
+      [
+        1781622034817,
+        1
+      ],
+      [
+        1781625612083,
+        1
+      ],
+      [
+        1781629211378,
+        1
+      ],
+      [
+        1781632809933,
+        1
+      ],
+      [
+        1781636422778,
+        1
+      ],
+      [
+        1781640063231,
+        1
+      ],
+      [
+        1781643664228,
+        1
+      ],
+      [
+        1781647209322,
+        1
+      ],
+      [
+        1781650866801,
+        1
+      ],
+      [
+        1781654474437,
+        1
+      ],
+      [
+        1781658070353,
+        1
+      ],
+      [
+        1781661671603,
+        1
+      ],
+      [
+        1781665265780,
+        1
+      ],
+      [
+        1781668866891,
+        1
+      ],
+      [
+        1781672464953,
+        1
+      ],
+      [
+        1781676068797,
+        1
+      ],
+      [
+        1781679664204,
+        1
+      ],
+      [
+        1781683264321,
+        1
+      ],
+      [
+        1781686867074,
+        1
+      ],
+      [
+        1781690471601,
+        1
+      ],
+      [
+        1781694078598,
+        1
+      ],
+      [
+        1781697670557,
+        1
+      ],
+      [
+        1781701270047,
+        1
+      ],
+      [
+        1781704875001,
+        1
+      ],
+      [
+        1781708471306,
+        1
+      ],
+      [
+        1781712070719,
+        1
+      ],
+      [
+        1781715672453,
+        1
+      ],
+      [
+        1781719272696,
+        1
+      ],
+      [
+        1781722870655,
+        1
+      ],
+      [
+        1781726472578,
+        1
+      ],
+      [
+        1781730071269,
+        1
+      ],
+      [
+        1781733673885,
+        1
+      ],
+      [
+        1781737268427,
+        1
+      ],
+      [
+        1781740814126,
+        1
+      ],
+      [
+        1781744415460,
+        1
+      ],
+      [
+        1781748075045,
+        1
+      ],
+      [
+        1781751647090,
+        1
+      ],
+      [
+        1781755272366,
+        1
+      ],
+      [
+        1781758867159,
+        1
+      ],
+      [
+        1781762468339,
+        1
+      ],
+      [
+        1781766068169,
+        1
+      ],
+      [
+        1781769673153,
+        1
+      ],
+      [
+        1781773269263,
+        1
+      ],
+      [
+        1781776869102,
+        1
+      ],
+      [
+        1781780455791,
+        1
+      ],
+      [
+        1781784057485,
+        1
+      ],
+      [
+        1781787654979,
+        1
+      ],
+      [
+        1781791243658,
+        1
+      ],
+      [
+        1781794834277,
+        1
+      ],
+      [
+        1781798401528,
+        1
+      ],
+      [
+        1781802001843,
+        1
+      ],
+      [
+        1781805601714,
+        1
+      ],
+      [
+        1781809203962,
+        1
+      ],
+      [
+        1781812801385,
+        1
+      ],
+      [
+        1781816403120,
+        1
+      ],
+      [
+        1781820002951,
+        1
+      ],
+      [
+        1781823602330,
+        1
+      ],
+      [
+        1781827205358,
+        1
+      ],
+      [
+        1781830803249,
+        1
+      ],
+      [
+        1781834402642,
+        1
+      ],
+      [
+        1781838002343,
+        1
+      ],
+      [
+        1781841603738,
+        1
+      ],
+      [
+        1781845203290,
+        1
+      ],
+      [
+        1781848803158,
+        1
+      ],
+      [
+        1781852401939,
+        1
+      ],
+      [
+        1781856002414,
+        1
+      ],
+      [
+        1781859602087,
+        1
+      ],
+      [
+        1781863202151,
+        1
+      ],
+      [
+        1781866801904,
+        1
+      ],
+      [
+        1781870401602,
+        1
+      ],
+      [
+        1781874001602,
+        1
+      ],
+      [
+        1781877601955,
+        1
+      ],
+      [
+        1781881202100,
+        1
+      ],
+      [
+        1781884803203,
+        1
+      ],
+      [
+        1781888402434,
+        1
+      ],
+      [
+        1781892001856,
+        1
+      ],
+      [
+        1781895601828,
+        1
+      ],
+      [
+        1781899202619,
+        1
+      ],
+      [
+        1781902802543,
+        1
+      ],
+      [
+        1781906401973,
+        1
+      ],
+      [
+        1781910002314,
+        1
+      ],
+      [
+        1781913601420,
+        1
+      ],
+      [
+        1781917202927,
+        1
+      ],
+      [
+        1781920801534,
+        1
+      ],
+      [
+        1781924402113,
+        1
+      ],
+      [
+        1781928001564,
+        1
+      ],
+      [
+        1781931601963,
+        1
+      ],
+      [
+        1781935202164,
+        1
+      ],
+      [
+        1781938801356,
+        1
+      ],
+      [
+        1781942402363,
+        1
+      ],
+      [
+        1781946001828,
+        1
+      ],
+      [
+        1781949602222,
+        1
+      ],
+      [
+        1781953202153,
+        1
+      ],
+      [
+        1781956801344,
+        1
+      ],
+      [
+        1781960402218,
+        1
+      ],
+      [
+        1781964001843,
+        1
+      ],
+      [
+        1781967601631,
+        1
+      ],
+      [
+        1781971202614,
+        1
+      ],
+      [
+        1781974802074,
+        1
+      ],
+      [
+        1781978401964,
+        1
+      ],
+      [
+        1781982002416,
+        1
+      ],
+      [
+        1781985601944,
+        1
+      ],
+      [
+        1781989203116,
+        1
+      ],
+      [
+        1781992802049,
+        1
+      ],
+      [
+        1781996402848,
+        1
+      ],
+      [
+        1782000001269,
+        1
+      ],
+      [
+        1782003602150,
+        1
+      ],
+      [
+        1782007201604,
+        1
+      ],
+      [
+        1782010801497,
+        1
+      ],
+      [
+        1782014402104,
+        1
+      ],
+      [
+        1782018002371,
+        1
+      ],
+      [
+        1782021601791,
+        1
+      ],
+      [
+        1782025202545,
+        1
+      ],
+      [
+        1782028801772,
+        1
+      ],
+      [
+        1782032402039,
+        1
+      ],
+      [
+        1782036004286,
+        1
+      ],
+      [
+        1782039602428,
+        1
+      ],
+      [
+        1782043201737,
+        1
+      ],
+      [
+        1782046801632,
+        1
+      ],
+      [
+        1782050401821,
+        1
+      ],
+      [
+        1782054001809,
+        1
+      ],
+      [
+        1782057601991,
+        1
+      ],
+      [
+        1782061202141,
+        1
+      ],
+      [
+        1782064803994,
+        1
+      ],
+      [
+        1782068401879,
+        1
+      ],
+      [
+        1782072001818,
+        1
+      ],
+      [
+        1782075601520,
+        1
+      ],
+      [
+        1782079202401,
+        1
+      ],
+      [
+        1782082802674,
+        1
+      ],
+      [
+        1782086401869,
+        1
+      ],
+      [
+        1782090001735,
+        1
+      ],
+      [
+        1782093603018,
+        1
+      ],
+      [
+        1782097201930,
+        1
+      ],
+      [
+        1782100816929,
+        1
+      ],
+      [
+        1782104416919,
+        1
+      ],
+      [
+        1782108017631,
+        1
+      ],
+      [
+        1782111615645,
+        1
+      ],
+      [
+        1782115216172,
+        1
+      ],
+      [
+        1782118815201,
+        1
+      ],
+      [
+        1782122414925,
+        1
+      ],
+      [
+        1782126015713,
+        1
+      ],
+      [
+        1782129616271,
+        1
+      ],
+      [
+        1782133214887,
+        1
+      ],
+      [
+        1782136815264,
+        1
+      ],
+      [
+        1782140415290,
+        1
+      ],
+      [
+        1782144073609,
+        1
+      ],
+      [
+        1782147676478,
+        1
+      ],
+      [
+        1782151223977,
+        1
+      ],
+      [
+        1782154803249,
+        1
+      ],
+      [
+        1782158404048,
+        1
+      ],
+      [
+        1782162003068,
+        1
+      ],
+      [
+        1782165602820,
+        1
+      ],
+      [
+        1782169260740,
+        1
+      ],
+      [
+        1782172865533,
+        1
+      ],
+      [
+        1782176409292,
+        1
+      ],
+      [
+        1782180089898,
+        1
+      ],
+      [
+        1782183667207,
+        1
+      ],
+      [
+        1782187267376,
+        1
+      ],
+      [
+        1782190840798,
+        1
+      ],
+      [
+        1782194440284,
+        1
+      ],
+      [
+        1782198027279,
+        1
+      ],
+      [
+        1782201625340,
+        1
+      ],
+      [
+        1782205227816,
+        1
+      ],
+      [
+        1782208826692,
+        1
+      ],
+      [
+        1782212427180,
+        1
+      ],
+      [
+        1782216027153,
+        1
+      ],
+      [
+        1782219627358,
+        1
+      ],
+      [
+        1782223226093,
+        1
+      ],
+      [
+        1782226828304,
+        1
+      ],
+      [
+        1782230427838,
+        1
+      ],
+      [
+        1782234024481,
+        1
+      ],
+      [
+        1782237642457,
+        1
+      ],
+      [
+        1782241241871,
+        1
+      ],
+      [
+        1782244822453,
+        1
+      ],
+      [
+        1782248421993,
+        1
+      ],
+      [
+        1782252022017,
+        1
+      ],
+      [
+        1782255621850,
+        1
+      ],
+      [
+        1782259221675,
+        1
+      ],
+      [
+        1782262805630,
+        1
+      ],
+      [
+        1782266415745,
+        1
+      ],
+      [
+        1782270070105,
+        1
+      ],
+      [
+        1782273612180,
+        1
+      ],
+      [
+        1782277212526,
+        1
+      ],
+      [
+        1782280813411,
+        1
+      ],
+      [
+        1782284412128,
+        1
+      ],
+      [
+        1782288012057,
+        1
+      ],
+      [
+        1782291611358,
+        1
+      ],
+      [
+        1782295212886,
+        1
+      ],
+      [
+        1782298812258,
+        1
+      ],
+      [
+        1782302414637,
+        1
+      ],
+      [
+        1782306011715,
+        1
+      ],
+      [
+        1782309612709,
+        1
+      ],
+      [
+        1782313213774,
+        1
+      ],
+      [
+        1782316820478,
+        1
+      ],
+      [
+        1782320426050,
+        1
+      ],
+      [
+        1782324023202,
+        1
+      ],
+      [
+        1782327612434,
+        1
+      ],
+      [
+        1782331213174,
+        1
+      ],
+      [
+        1782334841550,
+        1
+      ],
+      [
+        1782338475915,
+        1
+      ],
+      [
+        1782342048871,
+        1
+      ],
+      [
+        1782345601511,
+        1
+      ],
+      [
+        1782349202319,
+        1
+      ],
+      [
+        1782352805537,
+        1
+      ],
+      [
+        1782356451704,
+        1
+      ],
+      [
+        1782360053351,
+        1
+      ],
+      [
+        1782363615522,
+        1
+      ],
+      [
+        1782367217012,
+        1
+      ],
+      [
+        1782370816659,
+        1
+      ],
+      [
+        1782374410593,
+        1
+      ],
+      [
+        1782378014071,
+        1
+      ],
+      [
+        1782381659565,
+        1
+      ],
+      [
+        1782385260100,
+        1
+      ],
+      [
+        1782388854437,
+        1
+      ],
+      [
+        1782392450995,
+        1
+      ],
+      [
+        1782396051153,
+        1
+      ],
+      [
+        1782399650416,
+        1
+      ],
+      [
+        1782403225046,
+        1
+      ],
+      [
+        1782406812530,
+        1
+      ],
+      [
+        1782410412570,
+        1
+      ],
+      [
+        1782414007558,
+        1
+      ],
+      [
+        1782417608838,
+        1
+      ],
+      [
+        1782421207348,
+        1
+      ],
+      [
+        1782424809285,
+        1
+      ],
+      [
+        1782428409235,
+        1
+      ],
+      [
+        1782432007319,
+        1
+      ],
+      [
+        1782435608924,
+        1
+      ],
+      [
+        1782439206386,
+        1
+      ],
+      [
+        1782442810270,
+        1
+      ],
+      [
+        1782446407403,
+        1
+      ],
+      [
+        1782450008587,
+        1
+      ],
+      [
+        1782453609039,
+        1
+      ],
+      [
+        1782457218842,
+        1
+      ],
+      [
+        1782460819119,
+        1
+      ],
+      [
+        1782464421381,
+        1
+      ],
+      [
+        1782468017048,
+        1
+      ],
+      [
+        1782471620685,
+        1
+      ],
+      [
+        1782475216401,
+        1
+      ],
+      [
+        1782478816436,
+        1
+      ],
+      [
+        1782482418338,
+        1
+      ],
+      [
+        1782486020218,
+        1
+      ],
+      [
+        1782489615921,
+        1
+      ],
+      [
+        1782493217743,
+        1
+      ],
+      [
+        1782496814321,
+        1
+      ],
+      [
+        1782500416250,
+        1
+      ],
+      [
+        1782504016985,
+        1
+      ],
+      [
+        1782507618115,
+        1
+      ],
+      [
+        1782511214877,
+        1
+      ],
+      [
+        1782514818013,
+        1
+      ],
+      [
+        1782518498572,
+        1
+      ],
+      [
+        1782522098438,
+        1
+      ],
+      [
+        1782525688053,
+        1
+      ],
+      [
+        1782529291102,
+        1
+      ],
+      [
+        1782532887550,
+        1
+      ],
+      [
+        1782536496573,
+        1
+      ],
+      [
+        1782540094312,
+        1
+      ],
+      [
+        1782543689741,
+        1
+      ],
+      [
+        1782547290803,
+        1
+      ],
+      [
+        1782550897870,
+        1
+      ],
+      [
+        1782554499491,
+        1
+      ],
+      [
+        1782558097804,
+        1
+      ],
+      [
+        1782561699895,
+        1
+      ],
+      [
+        1782565297962,
+        1
+      ],
+      [
+        1782568898358,
+        1
+      ],
+      [
+        1782572500297,
+        1
+      ],
+      [
+        1782576095635,
+        1
+      ],
+      [
+        1782579699754,
+        1
+      ],
+      [
+        1782583296982,
+        1
+      ],
+      [
+        1782586897032,
+        1
+      ],
+      [
+        1782590489455,
+        1
+      ],
+      [
+        1782594091843,
+        1
+      ],
+      [
+        1782597685606,
+        1
+      ],
+      [
+        1782601284642,
+        1
+      ],
+      [
+        1782604886114,
+        1
+      ],
+      [
+        1782608491701,
+        1
+      ],
+      [
+        1782612087868,
+        1
+      ],
+      [
+        1782615688165,
+        1
+      ],
+      [
+        1782619286890,
+        1
+      ],
+      [
+        1782622884594,
+        1
+      ],
+      [
+        1782626487553,
+        1
+      ],
+      [
+        1782630087539,
+        1
+      ],
+      [
+        1782633683092,
+        1
+      ],
+      [
+        1782637284797,
+        1
+      ],
+      [
+        1782640881860,
+        1
+      ],
+      [
+        1782644487542,
+        1
+      ],
+      [
+        1782648083121,
+        1
+      ],
+      [
+        1782651687413,
+        1
+      ],
+      [
+        1782655282747,
+        1
+      ],
+      [
+        1782658882975,
+        1
+      ],
+      [
+        1782662492894,
+        1
+      ],
+      [
+        1782666030639,
+        1
+      ],
+      [
+        1782669635512,
+        1
+      ],
+      [
+        1782673232490,
+        1
+      ],
+      [
+        1782676831621,
+        1
+      ],
+      [
+        1782680433602,
+        1
+      ],
+      [
+        1782684035452,
+        1
+      ],
+      [
+        1782687634920,
+        1
+      ],
+      [
+        1782691234983,
+        1
+      ],
+      [
+        1782694832716,
+        1
+      ],
+      [
+        1782698432196,
+        1
+      ],
+      [
+        1782702030688,
+        1
+      ],
+      [
+        1782705632271,
+        1
+      ],
+      [
+        1782709230652,
+        1
+      ],
+      [
+        1782712834796,
+        1
+      ],
+      [
+        1782716432141,
+        1
+      ],
+      [
+        1782720031986,
+        1
+      ],
+      [
+        1782723633318,
+        1
+      ],
+      [
+        1782727231455,
+        1
+      ],
+      [
+        1782730834075,
+        1
+      ],
+      [
+        1782734434222,
+        1
+      ],
+      [
+        1782738034514,
+        1
+      ],
+      [
+        1782741630498,
+        1
+      ],
+      [
+        1782745231285,
+        1
+      ],
+      [
+        1782748924852,
+        1
+      ],
+      [
+        1782752527520,
+        1
+      ],
+      [
+        1782756124831,
+        1
+      ],
+      [
+        1782759727157,
+        1
+      ],
+      [
+        1782763327473,
+        1
+      ],
+      [
+        1782766927604,
+        1
+      ],
+      [
+        1782770525898,
+        1
+      ],
+      [
+        1782774136749,
+        1
+      ],
+      [
+        1782777743343,
+        1
+      ],
+      [
+        1782781347226,
+        1
+      ],
+      [
+        1782784935738,
+        1
+      ],
+      [
+        1782788530772,
+        1
+      ],
+      [
+        1782792131118,
+        1
+      ],
+      [
+        1782795728280,
+        1
+      ],
+      [
+        1782799331583,
+        1
+      ],
+      [
+        1782802933870,
+        1
+      ],
+      [
+        1782806517990,
+        1
+      ],
+      [
+        1782810119257,
+        1
+      ],
+      [
+        1782813726361,
+        1
+      ],
+      [
+        1782817324655,
+        1
+      ],
+      [
+        1782820918990,
+        1
+      ],
+      [
+        1782824524105,
+        1
+      ],
+      [
+        1782828120682,
+        1
+      ],
+      [
+        1782831728005,
+        1
+      ],
+      [
+        1782835244521,
+        1
+      ],
+      [
+        1782838842239,
+        1
+      ],
+      [
+        1782842564548,
+        1
+      ],
+      [
+        1782846159833,
+        1
+      ],
+      [
+        1782849756104,
+        1
+      ],
+      [
+        1782853280971,
+        1
+      ],
+      [
+        1782856915711,
+        1
+      ],
+      [
+        1782860514269,
+        1
+      ],
+      [
+        1782864121524,
+        1
+      ],
+      [
+        1782867719545,
+        1
+      ],
+      [
+        1782871252752,
+        1
+      ],
+      [
+        1782874933972,
+        1
+      ],
+      [
+        1782878542910,
+        1
+      ],
+      [
+        1782882144593,
+        1
+      ],
+      [
+        1782885729997,
+        1
+      ],
+      [
+        1782889328502,
+        1
+      ],
+      [
+        1782892937615,
+        1
+      ],
+      [
+        1782896486727,
+        1
+      ],
+      [
+        1782900023423,
+        1
+      ],
+      [
+        1782903626412,
+        1
+      ],
+      [
+        1782907224658,
+        1
+      ],
+      [
+        1782910827348,
+        1
+      ],
+      [
+        1782914425131,
+        1
+      ],
+      [
+        1782918028761,
+        1
+      ],
+      [
+        1782921703440,
+        1
+      ],
+      [
+        1782925265371,
+        1
+      ],
+      [
+        1782928858485,
+        1
+      ],
+      [
+        1782932457561,
+        1
+      ],
+      [
+        1782936056607,
+        1
+      ],
+      [
+        1782939660375,
+        1
+      ],
+      [
+        1782943260921,
+        1
+      ],
+      [
+        1782946861469,
+        1
+      ],
+      [
+        1782950465587,
+        1
+      ],
+      [
+        1782954061851,
+        1
+      ],
+      [
+        1782957664378,
+        1
+      ],
+      [
+        1782961259344,
+        1
+      ],
+      [
+        1782964858465,
+        1
+      ],
+      [
+        1782968457870,
+        1
+      ],
+      [
+        1782972023608,
+        1
+      ],
+      [
+        1782975625720,
+        1
+      ],
+      [
+        1782979341795,
+        1
+      ],
+      [
+        1782982932616,
+        1
+      ],
+      [
+        1782986552130,
+        1
+      ],
+      [
+        1782990088240,
+        1
+      ],
+      [
+        1782993689635,
+        1
+      ],
+      [
+        1782997287490,
+        1
+      ],
+      [
+        1783000887394,
+        1
+      ],
+      [
+        1783004487254,
+        1
+      ],
+      [
+        1783008090376,
+        1
+      ],
+      [
+        1783011618802,
+        1
+      ],
+      [
+        1783015355308,
+        1
+      ],
+      [
+        1783018852077,
+        1
+      ],
+      [
+        1783022440755,
+        1
+      ],
+      [
+        1783026039410,
+        1
+      ],
+      [
+        1783029753751,
+        1
+      ],
+      [
+        1783033299573,
+        1
+      ],
+      [
+        1783036900425,
+        1
+      ],
+      [
+        1783040494008,
+        1
+      ],
+      [
+        1783044109659,
+        1
+      ],
+      [
+        1783047702967,
+        1
+      ],
+      [
+        1783051240189,
+        1
+      ],
+      [
+        1783054840524,
+        1
+      ],
+      [
+        1783058441475,
+        1
+      ],
+      [
+        1783062150014,
+        1
+      ],
+      [
+        1783065647918,
+        1
+      ],
+      [
+        1783069248987,
+        1
+      ],
+      [
+        1783072849514,
+        1
+      ],
+      [
+        1783076456851,
+        1
+      ],
+      [
+        1783080024061,
+        1
+      ],
+      [
+        1783083726950,
+        1
+      ],
+      [
+        1783087331097,
+        1
+      ],
+      [
+        1783090854154,
+        1
+      ],
+      [
+        1783094454055,
+        1
+      ],
+      [
+        1783098052892,
+        1
+      ],
+      [
+        1783101654935,
+        1
+      ],
+      [
+        1783105253240,
+        1
+      ],
+      [
+        1783108870606,
+        1
+      ],
+      [
+        1783112477749,
+        1
+      ],
+      [
+        1783116079206,
+        1
+      ],
+      [
+        1783119608369,
+        1
+      ],
+      [
+        1783123217861,
+        1
+      ],
+      [
+        1783126950650,
+        1
+      ],
+      [
+        1783130451922,
+        1
+      ],
+      [
+        1783134033557,
+        1
+      ],
+      [
+        1783137718727,
+        1
+      ],
+      [
+        1783141315816,
+        1
+      ],
+      [
+        1783144927321,
+        1
+      ],
+      [
+        1783148519136,
+        1
+      ],
+      [
+        1783152121525,
+        1
+      ],
+      [
+        1783155670711,
+        1
+      ],
+      [
+        1783159324109,
+        1
+      ],
+      [
+        1783162926154,
+        1
+      ],
+      [
+        1783166520774,
+        1
+      ],
+      [
+        1783170122881,
+        1
+      ],
+      [
+        1783173721798,
+        1
+      ],
+      [
+        1783177324547,
+        1
+      ],
+      [
+        1783180928357,
+        1
+      ],
+      [
+        1783184527751,
+        1
+      ],
+      [
+        1783188128263,
+        1
+      ],
+      [
+        1783191731799,
+        1
+      ],
+      [
+        1783195251236,
+        1
+      ],
+      [
+        1783198934594,
+        1
+      ],
+      [
+        1783202515438,
+        1
+      ],
+      [
+        1783206116335,
+        1
+      ],
+      [
+        1783209732856,
+        1
+      ],
+      [
+        1783213327420,
+        1
+      ],
+      [
+        1783216847148,
+        1
+      ],
+      [
+        1783220561075,
+        1
+      ],
+      [
+        1783224161124,
+        1
+      ],
+      [
+        1783227759570,
+        1
+      ],
+      [
+        1783231362585,
+        1
+      ],
+      [
+        1783234960033,
+        1
+      ],
+      [
+        1783238560665,
+        1
+      ],
+      [
+        1783242161497,
+        1
+      ],
+      [
+        1783245756503,
+        1
+      ],
+      [
+        1783249361611,
+        1
+      ],
+      [
+        1783252963287,
+        1
+      ],
+      [
+        1783256509474,
+        1
+      ],
+      [
+        1783260111161,
+        1
+      ],
+      [
+        1783263621751,
+        1
+      ],
+      [
+        1783267328975,
+        1
+      ],
+      [
+        1783270927283,
+        1
+      ],
+      [
+        1783274483021,
+        1
+      ],
+      [
+        1783278083760,
+        1
+      ],
+      [
+        1783281629087,
+        1
+      ],
+      [
+        1783285224961,
+        1
+      ],
+      [
+        1783288828393,
+        1
+      ],
+      [
+        1783292522336,
+        1
+      ],
+      [
+        1783296118292,
+        1
+      ],
+      [
+        1783299719092,
+        1
+      ],
+      [
+        1783303306114,
+        1
+      ],
+      [
+        1783306905869,
+        1
+      ],
+      [
+        1783310505759,
+        1
+      ],
+      [
+        1783314105907,
+        1
+      ],
+      [
+        1783317604219,
+        1
+      ],
+      [
+        1783321201458,
+        1
+      ],
+      [
+        1783324918377,
+        1
+      ],
+      [
+        1783328518247,
+        1
+      ],
+      [
+        1783332116989,
+        1
+      ],
+      [
+        1783335714425,
+        1
+      ],
+      [
+        1783339350950,
+        1
+      ],
+      [
+        1783342869908,
+        1
+      ],
+      [
+        1783346466822,
+        1
+      ],
+      [
+        1783350068861,
+        1
+      ],
+      [
+        1783353714828,
+        1
+      ],
+      [
+        1783357317072,
+        1
+      ],
+      [
+        1783360918701,
+        1
+      ],
+      [
+        1783364517599,
+        1
+      ],
+      [
+        1783368117570,
+        1
+      ],
+      [
+        1783371729171,
+        1
+      ],
+      [
+        1783375324610,
+        1
+      ],
+      [
+        1783378924770,
+        1
+      ],
+      [
+        1783382533002,
+        1
+      ],
+      [
+        1783386129678,
+        1
+      ],
+      [
+        1783389751153,
+        1
+      ],
+      [
+        1783393354780,
+        1
+      ],
+      [
+        1783396955824,
+        1
+      ],
+      [
+        1783400557451,
+        1
+      ],
+      [
+        1783404152060,
+        1
+      ],
+      [
+        1783407673764,
+        1
+      ],
+      [
+        1783411266264,
+        1
+      ],
+      [
+        1783414867869,
+        1
+      ],
+      [
+        1783418469346,
+        1
+      ],
+      [
+        1783422071221,
+        1
+      ],
+      [
+        1783425668664,
+        1
+      ],
+      [
+        1783429267040,
+        1
+      ],
+      [
+        1783432864910,
+        1
+      ],
+      [
+        1783436466328,
+        1
+      ],
+      [
+        1783440138715,
+        1
+      ],
+      [
+        1783443738075,
+        1
+      ],
+      [
+        1783447311933,
+        1
+      ],
+      [
+        1783450921250,
+        1
+      ],
+      [
+        1783454462765,
+        1
+      ],
+      [
+        1783458065069,
+        1
+      ],
+      [
+        1783461746579,
+        1
+      ],
+      [
+        1783465346514,
+        1
+      ],
+      [
+        1783468952852,
+        1
+      ],
+      [
+        1783472551486,
+        1
+      ],
+      [
+        1783476084118,
+        1
+      ],
+      [
+        1783479716573,
+        1
+      ],
+      [
+        1783483265181,
+        1
+      ],
+      [
+        1783486951072,
+        1
+      ],
+      [
+        1783490546183,
+        1
+      ],
+      [
+        1783494081752,
+        1
+      ],
+      [
+        1783497675508,
+        1
+      ],
+      [
+        1783501278544,
+        1
+      ],
+      [
+        1783504843701,
+        1
+      ],
+      [
+        1783508422787,
+        1
+      ],
+      [
+        1783512025200,
+        1
+      ],
+      [
+        1783515665267,
+        1
+      ],
+      [
+        1783519241980,
+        1
+      ],
+      [
+        1783522841873,
+        1
+      ],
+      [
+        1783526548814,
+        1
+      ],
+      [
+        1783530150693,
+        1
+      ],
+      [
+        1783533748400,
+        1
+      ],
+      [
+        1783537349564,
+        1
+      ],
+      [
+        1783540946559,
+        1
+      ],
+      [
+        1783544553061,
+        1
+      ],
+      [
+        1783548092416,
+        1
+      ],
+      [
+        1783551696464,
+        1
+      ],
+      [
+        1783555295530,
+        1
+      ],
+      [
+        1783558894500,
+        1
+      ],
+      [
+        1783562615796,
+        1
+      ],
+      [
+        1783566150272,
+        1
+      ],
+      [
+        1783569748312,
+        1
+      ],
+      [
+        1783573351251,
+        1
+      ],
+      [
+        1783576940583,
+        1
+      ],
+      [
+        1783580540289,
+        1
+      ],
+      [
+        1783584136063,
+        1
+      ],
+      [
+        1783587744406,
+        1
+      ],
+      [
+        1783591285375,
+        1
+      ],
+      [
+        1783594910827,
+        1
+      ],
+      [
+        1783598505826,
+        1
+      ],
+      [
+        1783602112712,
+        1
+      ],
+      [
+        1783605712561,
+        1
+      ],
+      [
+        1783609316003,
+        1
+      ],
+      [
+        1783612895513,
+        1
+      ],
+      [
+        1783616492314,
+        1
+      ],
+      [
+        1783620009364,
+        1
+      ],
+      [
+        1783623611324,
+        1
+      ],
+      [
+        1783627257667,
+        1
+      ],
+      [
+        1783630850920,
+        1
+      ],
+      [
+        1783634452202,
+        1
+      ],
+      [
+        1783638029523,
+        1
+      ],
+      [
+        1783641621641,
+        1
+      ],
+      [
+        1783645217681,
+        1
+      ],
+      [
+        1783648815854,
+        1
+      ],
+      [
+        1783652417914,
+        1
+      ],
+      [
+        1783656096961,
+        1
+      ],
+      [
+        1783659649409,
+        1
+      ],
+      [
+        1783663258709,
+        1
+      ],
+      [
+        1783666820000,
+        1
+      ],
+      [
+        1783666860532,
+        1
+      ]
+    ],
+    "market_caps": [
+      [
+        1781078421665,
+        67158258.662445
+      ],
+      [
+        1781082021547,
+        67158258.662445
+      ],
+      [
+        1781085620249,
+        67158258.662445
+      ],
+      [
+        1781089222684,
+        67158258.662445
+      ],
+      [
+        1781092823878,
+        67158258.66244501
+      ],
+      [
+        1781096419224,
+        67158258.66244501
+      ],
+      [
+        1781100018745,
+        67158258.662445
+      ],
+      [
+        1781103619450,
+        67158258.662445
+      ],
+      [
+        1781107233012,
+        67158258.662445
+      ],
+      [
+        1781110836033,
+        67164571.532445
+      ],
+      [
+        1781114433629,
+        67164571.532445
+      ],
+      [
+        1781118033159,
+        67164571.532445
+      ],
+      [
+        1781121608884,
+        67164571.532445
+      ],
+      [
+        1781125207026,
+        67164569.572445
+      ],
+      [
+        1781128808170,
+        67164569.572445
+      ],
+      [
+        1781132407462,
+        67164569.572445
+      ],
+      [
+        1781136080593,
+        67164569.57244499
+      ],
+      [
+        1781139635328,
+        67164569.57244499
+      ],
+      [
+        1781143232894,
+        67164569.572445
+      ],
+      [
+        1781146832974,
+        67164569.572445
+      ],
+      [
+        1781150434893,
+        67164569.572445
+      ],
+      [
+        1781154034393,
+        67164569.572445
+      ],
+      [
+        1781157634233,
+        67164569.572445
+      ],
+      [
+        1781161233568,
+        67164569.572445
+      ],
+      [
+        1781164824166,
+        67164569.57244499
+      ],
+      [
+        1781168433372,
+        67164569.57244499
+      ],
+      [
+        1781172028002,
+        67164569.57244499
+      ],
+      [
+        1781175661365,
+        67164569.57244499
+      ],
+      [
+        1781179272165,
+        67164569.572445
+      ],
+      [
+        1781182863991,
+        67164569.572445
+      ],
+      [
+        1781186465459,
+        67164569.572445
+      ],
+      [
+        1781190064793,
+        67164569.572445
+      ],
+      [
+        1781193669449,
+        67170873.592445
+      ],
+      [
+        1781197266197,
+        67170873.592445
+      ],
+      [
+        1781200867747,
+        67170873.592445
+      ],
+      [
+        1781204436408,
+        67170873.592445
+      ],
+      [
+        1781208035068,
+        67070481.042445
+      ],
+      [
+        1781211635843,
+        67070481.042445
+      ],
+      [
+        1781215235373,
+        67070481.042445
+      ],
+      [
+        1781218836058,
+        67070481.042445
+      ],
+      [
+        1781222435573,
+        67070481.042445
+      ],
+      [
+        1781226036999,
+        67070481.042445
+      ],
+      [
+        1781229635581,
+        67070481.042445
+      ],
+      [
+        1781233234707,
+        67070481.042445
+      ],
+      [
+        1781236834376,
+        67070481.042445
+      ],
+      [
+        1781240434730,
+        67070481.042445
+      ],
+      [
+        1781244034835,
+        67070481.042445
+      ],
+      [
+        1781247633845,
+        67070481.042445
+      ],
+      [
+        1781251236752,
+        67070481.042445
+      ],
+      [
+        1781254835246,
+        67070481.042445
+      ],
+      [
+        1781258434511,
+        67070481.042445
+      ],
+      [
+        1781262033873,
+        67070481.042445
+      ],
+      [
+        1781265634607,
+        67070481.042445
+      ],
+      [
+        1781269234575,
+        67070481.042445
+      ],
+      [
+        1781272833550,
+        67070481.042445
+      ],
+      [
+        1781276434239,
+        67070481.042445
+      ],
+      [
+        1781280033233,
+        67070481.042445
+      ],
+      [
+        1781283671572,
+        67070481.042445
+      ],
+      [
+        1781287271013,
+        67076785.682445
+      ],
+      [
+        1781290872061,
+        67076785.682445
+      ],
+      [
+        1781294472574,
+        67076785.682445
+      ],
+      [
+        1781298076910,
+        67076785.682445
+      ],
+      [
+        1781301672634,
+        67076785.682445
+      ],
+      [
+        1781305272935,
+        67076785.682445
+      ],
+      [
+        1781308876727,
+        67076785.682445
+      ],
+      [
+        1781312473853,
+        67076785.682445
+      ],
+      [
+        1781316083171,
+        67076785.682445
+      ],
+      [
+        1781319672326,
+        67076785.682445
+      ],
+      [
+        1781323272325,
+        67076785.682445
+      ],
+      [
+        1781326871656,
+        67076785.682445
+      ],
+      [
+        1781330474128,
+        67076785.682445
+      ],
+      [
+        1781334071571,
+        67076785.682445
+      ],
+      [
+        1781337669748,
+        67076785.682445
+      ],
+      [
+        1781341271965,
+        67076785.682445
+      ],
+      [
+        1781344872917,
+        67076785.682445
+      ],
+      [
+        1781348470806,
+        67076785.682445
+      ],
+      [
+        1781352070494,
+        67076785.682445
+      ],
+      [
+        1781355669293,
+        67076785.682445
+      ],
+      [
+        1781359271655,
+        67076785.682445
+      ],
+      [
+        1781362873307,
+        67076785.682445
+      ],
+      [
+        1781366472789,
+        67076785.682445
+      ],
+      [
+        1781370072580,
+        67076785.682445
+      ],
+      [
+        1781373635297,
+        67076785.68245
+      ],
+      [
+        1781377235514,
+        67076785.68245
+      ],
+      [
+        1781380835909,
+        67076785.68245
+      ],
+      [
+        1781384435619,
+        67076785.68245
+      ],
+      [
+        1781388020445,
+        67076785.68245
+      ],
+      [
+        1781391620097,
+        67076785.682445
+      ],
+      [
+        1781395221854,
+        67076785.682445
+      ],
+      [
+        1781398824103,
+        67076785.682445
+      ],
+      [
+        1781402420459,
+        67076785.682445
+      ],
+      [
+        1781406021129,
+        67076785.682445
+      ],
+      [
+        1781409619867,
+        67076785.682445
+      ],
+      [
+        1781413219485,
+        67076785.682445
+      ],
+      [
+        1781416821986,
+        67076785.682445
+      ],
+      [
+        1781420420353,
+        67076785.682445
+      ],
+      [
+        1781424021990,
+        67076785.682445
+      ],
+      [
+        1781427621545,
+        67076785.682445
+      ],
+      [
+        1781431220784,
+        67076785.682445
+      ],
+      [
+        1781434820843,
+        67076785.682445
+      ],
+      [
+        1781438420635,
+        67076785.682445
+      ],
+      [
+        1781442020293,
+        67076785.682445
+      ],
+      [
+        1781445619885,
+        67076785.682445
+      ],
+      [
+        1781449242732,
+        67076785.682445
+      ],
+      [
+        1781452842596,
+        67076785.682445
+      ],
+      [
+        1781456439869,
+        67076785.682445
+      ],
+      [
+        1781460041032,
+        67076785.682445
+      ],
+      [
+        1781463640777,
+        67076785.682445
+      ],
+      [
+        1781467243446,
+        67076785.682445
+      ],
+      [
+        1781470842465,
+        67076785.682445
+      ],
+      [
+        1781474444147,
+        67076785.682445
+      ],
+      [
+        1781478040956,
+        67076785.682445
+      ],
+      [
+        1781481642595,
+        67076785.682445
+      ],
+      [
+        1781485244982,
+        67076785.682445
+      ],
+      [
+        1781488843165,
+        67076785.682445
+      ],
+      [
+        1781492443077,
+        67076785.682445
+      ],
+      [
+        1781496043318,
+        67076785.682445
+      ],
+      [
+        1781499643586,
+        67076785.682445
+      ],
+      [
+        1781503242143,
+        67076785.682445
+      ],
+      [
+        1781506845515,
+        67076785.682445
+      ],
+      [
+        1781510442941,
+        67076785.682445
+      ],
+      [
+        1781514041584,
+        67076785.682445
+      ],
+      [
+        1781517641930,
+        67076785.682445
+      ],
+      [
+        1781521241479,
+        67076785.682445
+      ],
+      [
+        1781524841803,
+        67076785.682445
+      ],
+      [
+        1781528442955,
+        67076785.682445
+      ],
+      [
+        1781532042452,
+        67076785.682445
+      ],
+      [
+        1781535645352,
+        67076785.682445
+      ],
+      [
+        1781539246205,
+        67095768.382445
+      ],
+      [
+        1781542845594,
+        67095768.382445
+      ],
+      [
+        1781546445673,
+        67095768.382445
+      ],
+      [
+        1781550048054,
+        67095768.382445
+      ],
+      [
+        1781553647759,
+        67095768.382445
+      ],
+      [
+        1781557247930,
+        67095768.382445
+      ],
+      [
+        1781560845765,
+        67095768.382445
+      ],
+      [
+        1781564446604,
+        67095768.382445
+      ],
+      [
+        1781568047279,
+        67095768.382445
+      ],
+      [
+        1781571647823,
+        67095768.382445
+      ],
+      [
+        1781575249751,
+        67095768.382445
+      ],
+      [
+        1781578846138,
+        67095768.382445
+      ],
+      [
+        1781582448089,
+        67095768.382445
+      ],
+      [
+        1781586071669,
+        67095768.382445
+      ],
+      [
+        1781589644620,
+        67095768.382445
+      ],
+      [
+        1781593244808,
+        67095768.382445
+      ],
+      [
+        1781596844031,
+        67095768.382445
+      ],
+      [
+        1781600445542,
+        67095768.382445
+      ],
+      [
+        1781604033345,
+        67095768.382445
+      ],
+      [
+        1781607634825,
+        67095768.382445
+      ],
+      [
+        1781611233839,
+        67095768.382445
+      ],
+      [
+        1781614833899,
+        67095768.382445
+      ],
+      [
+        1781618434718,
+        67095768.382445
+      ],
+      [
+        1781622034817,
+        67095768.382445
+      ],
+      [
+        1781625612083,
+        67095768.382445
+      ],
+      [
+        1781629211378,
+        67102142.462445
+      ],
+      [
+        1781632809933,
+        67102142.462445
+      ],
+      [
+        1781636422778,
+        67102142.462445
+      ],
+      [
+        1781640063231,
+        67102142.46244499
+      ],
+      [
+        1781643664228,
+        67102142.462445
+      ],
+      [
+        1781647209322,
+        67102142.462445
+      ],
+      [
+        1781650866801,
+        67102142.46244499
+      ],
+      [
+        1781654474437,
+        67102142.462445
+      ],
+      [
+        1781658070353,
+        67102142.462445
+      ],
+      [
+        1781661671603,
+        67102142.462445
+      ],
+      [
+        1781665265780,
+        67102142.462445
+      ],
+      [
+        1781668866891,
+        67102142.462445
+      ],
+      [
+        1781672464953,
+        67102142.462445
+      ],
+      [
+        1781676068797,
+        67102142.462445
+      ],
+      [
+        1781679664204,
+        67102142.462445
+      ],
+      [
+        1781683264321,
+        67102142.462445
+      ],
+      [
+        1781686867074,
+        67102142.462445
+      ],
+      [
+        1781690471601,
+        67102142.462445
+      ],
+      [
+        1781694078598,
+        67102142.462445
+      ],
+      [
+        1781697670557,
+        67102142.462445
+      ],
+      [
+        1781701270047,
+        67102142.462445
+      ],
+      [
+        1781704875001,
+        67102142.462445
+      ],
+      [
+        1781708471306,
+        67102142.462445
+      ],
+      [
+        1781712070719,
+        67108450.08244499
+      ],
+      [
+        1781715672453,
+        67108450.08244499
+      ],
+      [
+        1781719272696,
+        67108450.08244499
+      ],
+      [
+        1781722870655,
+        67108450.08244499
+      ],
+      [
+        1781726472578,
+        67108450.08244499
+      ],
+      [
+        1781730071269,
+        67108450.08244499
+      ],
+      [
+        1781733673885,
+        67108450.08244499
+      ],
+      [
+        1781737268427,
+        67108450.08244499
+      ],
+      [
+        1781740814126,
+        67108450.082445
+      ],
+      [
+        1781744415460,
+        67108450.08244499
+      ],
+      [
+        1781748075045,
+        67108450.082445
+      ],
+      [
+        1781751647090,
+        67108450.082445
+      ],
+      [
+        1781755272366,
+        67108450.08244501
+      ],
+      [
+        1781758867159,
+        67108450.08244499
+      ],
+      [
+        1781762468339,
+        67108450.08244499
+      ],
+      [
+        1781766068169,
+        67108450.08244499
+      ],
+      [
+        1781769673153,
+        67108450.08244499
+      ],
+      [
+        1781773269263,
+        67108450.08244499
+      ],
+      [
+        1781776869102,
+        67108450.08244499
+      ],
+      [
+        1781780455791,
+        67108450.08244499
+      ],
+      [
+        1781784057485,
+        67108450.08244499
+      ],
+      [
+        1781787654979,
+        67108450.08244499
+      ],
+      [
+        1781791243658,
+        67108450.08244499
+      ],
+      [
+        1781794834277,
+        67108450.082445
+      ],
+      [
+        1781798401528,
+        67108450.08244499
+      ],
+      [
+        1781802001843,
+        67114758.282445
+      ],
+      [
+        1781805601714,
+        67114758.282445
+      ],
+      [
+        1781809203962,
+        67114758.282445
+      ],
+      [
+        1781812801385,
+        67114758.282445
+      ],
+      [
+        1781816403120,
+        67114758.282445
+      ],
+      [
+        1781820002951,
+        67114758.282445
+      ],
+      [
+        1781823602330,
+        67114758.282445
+      ],
+      [
+        1781827205358,
+        67114758.282445
+      ],
+      [
+        1781830803249,
+        67114758.282445
+      ],
+      [
+        1781834402642,
+        67114758.282445
+      ],
+      [
+        1781838002343,
+        67114758.282445
+      ],
+      [
+        1781841603738,
+        67114758.282445
+      ],
+      [
+        1781845203290,
+        67114758.282445
+      ],
+      [
+        1781848803158,
+        67114758.282445
+      ],
+      [
+        1781852401939,
+        67114758.282445
+      ],
+      [
+        1781856002414,
+        67114758.282445
+      ],
+      [
+        1781859602087,
+        67114758.282445
+      ],
+      [
+        1781863202151,
+        67114758.282445
+      ],
+      [
+        1781866801904,
+        67114758.282445
+      ],
+      [
+        1781870401602,
+        67114758.282445
+      ],
+      [
+        1781874001602,
+        67114758.282445
+      ],
+      [
+        1781877601955,
+        67114758.282445
+      ],
+      [
+        1781881202100,
+        67114758.282445
+      ],
+      [
+        1781884803203,
+        67114758.282445
+      ],
+      [
+        1781888402434,
+        67114758.282445
+      ],
+      [
+        1781892001856,
+        67114758.282445
+      ],
+      [
+        1781895601828,
+        67114758.282445
+      ],
+      [
+        1781899202619,
+        67114758.282445
+      ],
+      [
+        1781902802543,
+        67114758.282445
+      ],
+      [
+        1781906401973,
+        67114758.282445
+      ],
+      [
+        1781910002314,
+        67114758.282445
+      ],
+      [
+        1781913601420,
+        67114758.282445
+      ],
+      [
+        1781917202927,
+        67114758.282445
+      ],
+      [
+        1781920801534,
+        67114758.282445
+      ],
+      [
+        1781924402113,
+        67114758.282445
+      ],
+      [
+        1781928001564,
+        67114758.282445
+      ],
+      [
+        1781931601963,
+        67114758.282445
+      ],
+      [
+        1781935202164,
+        67114758.282445
+      ],
+      [
+        1781938801356,
+        67114758.282445
+      ],
+      [
+        1781942402363,
+        67114758.282445
+      ],
+      [
+        1781946001828,
+        67114758.282445
+      ],
+      [
+        1781949602222,
+        67114758.282445
+      ],
+      [
+        1781953202153,
+        67114758.282445
+      ],
+      [
+        1781956801344,
+        67114758.282445
+      ],
+      [
+        1781960402218,
+        67114758.282445
+      ],
+      [
+        1781964001843,
+        67114758.282445
+      ],
+      [
+        1781967601631,
+        67114758.282445
+      ],
+      [
+        1781971202614,
+        67114758.282445
+      ],
+      [
+        1781974802074,
+        67114758.282445
+      ],
+      [
+        1781978401964,
+        67114758.282445
+      ],
+      [
+        1781982002416,
+        67114758.282445
+      ],
+      [
+        1781985601944,
+        67114758.282445
+      ],
+      [
+        1781989203116,
+        67114758.282445
+      ],
+      [
+        1781992802049,
+        67114758.282445
+      ],
+      [
+        1781996402848,
+        67114758.282445
+      ],
+      [
+        1782000001269,
+        67114758.282445
+      ],
+      [
+        1782003602150,
+        67114758.282445
+      ],
+      [
+        1782007201604,
+        67114758.282445
+      ],
+      [
+        1782010801497,
+        67114758.282445
+      ],
+      [
+        1782014402104,
+        67114758.282445
+      ],
+      [
+        1782018002371,
+        67114758.282445
+      ],
+      [
+        1782021601791,
+        67114758.282445
+      ],
+      [
+        1782025202545,
+        67114758.282445
+      ],
+      [
+        1782028801772,
+        67114758.282445
+      ],
+      [
+        1782032402039,
+        67114758.282445
+      ],
+      [
+        1782036004286,
+        67114758.282445
+      ],
+      [
+        1782039602428,
+        67114758.282445
+      ],
+      [
+        1782043201737,
+        67114758.282445
+      ],
+      [
+        1782046801632,
+        67114758.282445
+      ],
+      [
+        1782050401821,
+        67114758.282445
+      ],
+      [
+        1782054001809,
+        67114758.282445
+      ],
+      [
+        1782057601991,
+        67114758.282445
+      ],
+      [
+        1782061202141,
+        67114758.282445
+      ],
+      [
+        1782064803994,
+        67114758.282445
+      ],
+      [
+        1782068401879,
+        67114758.282445
+      ],
+      [
+        1782072001818,
+        67114758.282445
+      ],
+      [
+        1782075601520,
+        67114758.282445
+      ],
+      [
+        1782079202401,
+        67114758.282445
+      ],
+      [
+        1782082802674,
+        67114758.282445
+      ],
+      [
+        1782086401869,
+        67114758.282445
+      ],
+      [
+        1782090001735,
+        67114758.282445
+      ],
+      [
+        1782093603018,
+        67114758.282445
+      ],
+      [
+        1782097201930,
+        67114758.282445
+      ],
+      [
+        1782100816929,
+        67114758.282445
+      ],
+      [
+        1782104416919,
+        67114758.282445
+      ],
+      [
+        1782108017631,
+        67114758.282445
+      ],
+      [
+        1782111615645,
+        67114758.282445
+      ],
+      [
+        1782115216172,
+        67114758.282445
+      ],
+      [
+        1782118815201,
+        67114758.282445
+      ],
+      [
+        1782122414925,
+        67114758.282445
+      ],
+      [
+        1782126015713,
+        67114758.282445
+      ],
+      [
+        1782129616271,
+        67114758.282445
+      ],
+      [
+        1782133214887,
+        67114758.282445
+      ],
+      [
+        1782136815264,
+        67114758.282445
+      ],
+      [
+        1782140415290,
+        67114758.282445
+      ],
+      [
+        1782144073609,
+        67139993.442445
+      ],
+      [
+        1782147676478,
+        67139993.442445
+      ],
+      [
+        1782151223977,
+        67139993.442445
+      ],
+      [
+        1782154803249,
+        67139993.442445
+      ],
+      [
+        1782158404048,
+        67139993.442445
+      ],
+      [
+        1782162003068,
+        67139993.44244501
+      ],
+      [
+        1782165602820,
+        67139993.44244501
+      ],
+      [
+        1782169260740,
+        67139993.44244501
+      ],
+      [
+        1782172865533,
+        67139993.442445
+      ],
+      [
+        1782176409292,
+        67139993.442445
+      ],
+      [
+        1782180089898,
+        67139993.442445
+      ],
+      [
+        1782183667207,
+        67139993.442445
+      ],
+      [
+        1782187267376,
+        67139993.442445
+      ],
+      [
+        1782190840798,
+        67139993.442445
+      ],
+      [
+        1782194440284,
+        67139993.44244501
+      ],
+      [
+        1782198027279,
+        67139993.442445
+      ],
+      [
+        1782201625340,
+        67139993.442445
+      ],
+      [
+        1782205227816,
+        67139993.442445
+      ],
+      [
+        1782208826692,
+        67139993.442445
+      ],
+      [
+        1782212427180,
+        67139993.442445
+      ],
+      [
+        1782216027153,
+        67139993.442445
+      ],
+      [
+        1782219627358,
+        67139993.442445
+      ],
+      [
+        1782223226093,
+        67139993.442445
+      ],
+      [
+        1782226828304,
+        67139993.442445
+      ],
+      [
+        1782230427838,
+        67139993.442445
+      ],
+      [
+        1782234024481,
+        67139993.442445
+      ],
+      [
+        1782237642457,
+        67146237.47244501
+      ],
+      [
+        1782241241871,
+        67146237.472445
+      ],
+      [
+        1782244822453,
+        67146237.472445
+      ],
+      [
+        1782248421993,
+        67146237.47244501
+      ],
+      [
+        1782252022017,
+        67146237.47244501
+      ],
+      [
+        1782255621850,
+        67146237.47244501
+      ],
+      [
+        1782259221675,
+        67146237.47244501
+      ],
+      [
+        1782262805630,
+        67146237.47244501
+      ],
+      [
+        1782266415745,
+        67146237.47244501
+      ],
+      [
+        1782270070105,
+        67146237.47244501
+      ],
+      [
+        1782273612180,
+        67146237.472445
+      ],
+      [
+        1782277212526,
+        67146237.47244501
+      ],
+      [
+        1782280813411,
+        67146237.47244501
+      ],
+      [
+        1782284412128,
+        67146237.47244501
+      ],
+      [
+        1782288012057,
+        67146237.47244501
+      ],
+      [
+        1782291611358,
+        67146237.47244501
+      ],
+      [
+        1782295212886,
+        67146237.47244501
+      ],
+      [
+        1782298812258,
+        67146237.47244501
+      ],
+      [
+        1782302414637,
+        67146237.47244501
+      ],
+      [
+        1782306011715,
+        67146237.47244501
+      ],
+      [
+        1782309612709,
+        67146237.47244501
+      ],
+      [
+        1782313213774,
+        67146237.47244501
+      ],
+      [
+        1782316820478,
+        67146237.47244501
+      ],
+      [
+        1782320426050,
+        67151635.402445
+      ],
+      [
+        1782324023202,
+        67151635.402445
+      ],
+      [
+        1782327612434,
+        67151635.402445
+      ],
+      [
+        1782331213174,
+        55470290.95965499
+      ],
+      [
+        1782334841550,
+        55470290.95965499
+      ],
+      [
+        1782338475915,
+        55470290.959655
+      ],
+      [
+        1782342048871,
+        55470290.95965499
+      ],
+      [
+        1782345601511,
+        55470290.959655
+      ],
+      [
+        1782349202319,
+        55470290.95965499
+      ],
+      [
+        1782352805537,
+        55470290.95965499
+      ],
+      [
+        1782356451704,
+        55470290.95965499
+      ],
+      [
+        1782360053351,
+        55470290.959655
+      ],
+      [
+        1782363615522,
+        55470290.959655
+      ],
+      [
+        1782367217012,
+        55470290.95965499
+      ],
+      [
+        1782370816659,
+        55470290.959655
+      ],
+      [
+        1782374410593,
+        55470290.959655
+      ],
+      [
+        1782378014071,
+        55470290.95965499
+      ],
+      [
+        1782381659565,
+        55470290.959655
+      ],
+      [
+        1782385260100,
+        55470290.959655
+      ],
+      [
+        1782388854437,
+        55470290.959655
+      ],
+      [
+        1782392450995,
+        55470290.95965499
+      ],
+      [
+        1782396051153,
+        55470290.95965499
+      ],
+      [
+        1782399650416,
+        55470290.95965499
+      ],
+      [
+        1782403225046,
+        55470290.95965499
+      ],
+      [
+        1782406812530,
+        55470290.959655
+      ],
+      [
+        1782410412570,
+        55475560.629655
+      ],
+      [
+        1782414007558,
+        55475560.629655
+      ],
+      [
+        1782417608838,
+        55375042.589655
+      ],
+      [
+        1782421207348,
+        55375042.589655
+      ],
+      [
+        1782424809285,
+        55375042.589655
+      ],
+      [
+        1782428409235,
+        55375042.589655
+      ],
+      [
+        1782432007319,
+        55375042.589655
+      ],
+      [
+        1782435608924,
+        55375042.589655
+      ],
+      [
+        1782439206386,
+        55375042.589655
+      ],
+      [
+        1782442810270,
+        55375042.589655
+      ],
+      [
+        1782446407403,
+        55375042.589655
+      ],
+      [
+        1782450008587,
+        55375042.589655
+      ],
+      [
+        1782453609039,
+        55375042.589655
+      ],
+      [
+        1782457218842,
+        55375042.589655
+      ],
+      [
+        1782460819119,
+        55375042.589655
+      ],
+      [
+        1782464421381,
+        55375042.589655
+      ],
+      [
+        1782468017048,
+        55375042.589655
+      ],
+      [
+        1782471620685,
+        55375042.589655
+      ],
+      [
+        1782475216401,
+        55375042.589655
+      ],
+      [
+        1782478816436,
+        55375042.589655
+      ],
+      [
+        1782482418338,
+        55375042.589655
+      ],
+      [
+        1782486020218,
+        55375042.589655
+      ],
+      [
+        1782489615921,
+        55380192.469655
+      ],
+      [
+        1782493217743,
+        55380192.469655
+      ],
+      [
+        1782496814321,
+        55380192.469655
+      ],
+      [
+        1782500416250,
+        55380192.469655
+      ],
+      [
+        1782504016985,
+        55380192.469655
+      ],
+      [
+        1782507618115,
+        55380192.469655
+      ],
+      [
+        1782511214877,
+        55380192.469655
+      ],
+      [
+        1782514818013,
+        55380192.469655
+      ],
+      [
+        1782518498572,
+        55380192.469655
+      ],
+      [
+        1782522098438,
+        55380192.469655
+      ],
+      [
+        1782525688053,
+        55380192.469655
+      ],
+      [
+        1782529291102,
+        55380192.469655
+      ],
+      [
+        1782532887550,
+        55380192.469655
+      ],
+      [
+        1782536496573,
+        55380192.469655
+      ],
+      [
+        1782540094312,
+        55380192.469655
+      ],
+      [
+        1782543689741,
+        55380192.469655
+      ],
+      [
+        1782547290803,
+        55380192.469655
+      ],
+      [
+        1782550897870,
+        55380192.469655
+      ],
+      [
+        1782554499491,
+        55380192.469655
+      ],
+      [
+        1782558097804,
+        55380192.469655
+      ],
+      [
+        1782561699895,
+        55380192.469655
+      ],
+      [
+        1782565297962,
+        55380192.469655
+      ],
+      [
+        1782568898358,
+        55380192.469655
+      ],
+      [
+        1782572500297,
+        55380192.469655
+      ],
+      [
+        1782576095635,
+        55380192.469655
+      ],
+      [
+        1782579699754,
+        55380192.469655
+      ],
+      [
+        1782583296982,
+        55380192.469655
+      ],
+      [
+        1782586897032,
+        55380192.469655
+      ],
+      [
+        1782590489455,
+        55380192.469655
+      ],
+      [
+        1782594091843,
+        55380192.469655
+      ],
+      [
+        1782597685606,
+        55380192.469655
+      ],
+      [
+        1782601284642,
+        55380192.469655
+      ],
+      [
+        1782604886114,
+        55380192.469655
+      ],
+      [
+        1782608491701,
+        55380192.469655
+      ],
+      [
+        1782612087868,
+        55380192.469655
+      ],
+      [
+        1782615688165,
+        55380192.469655
+      ],
+      [
+        1782619286890,
+        55380192.469655
+      ],
+      [
+        1782622884594,
+        55380192.469655
+      ],
+      [
+        1782626487553,
+        55380192.469655
+      ],
+      [
+        1782630087539,
+        55380192.469655
+      ],
+      [
+        1782633683092,
+        55380192.469655
+      ],
+      [
+        1782637284797,
+        55380192.469655
+      ],
+      [
+        1782640881860,
+        55380192.469655
+      ],
+      [
+        1782644487542,
+        55380192.469655
+      ],
+      [
+        1782648083121,
+        55380192.469655
+      ],
+      [
+        1782651687413,
+        55380192.469655
+      ],
+      [
+        1782655282747,
+        55380192.469655
+      ],
+      [
+        1782658882975,
+        55380192.469655
+      ],
+      [
+        1782662492894,
+        55380192.469655
+      ],
+      [
+        1782666030639,
+        55380192.469655
+      ],
+      [
+        1782669635512,
+        55380192.469655
+      ],
+      [
+        1782673232490,
+        55380192.469655
+      ],
+      [
+        1782676831621,
+        55380192.469655
+      ],
+      [
+        1782680433602,
+        55380192.469655
+      ],
+      [
+        1782684035452,
+        55380192.469655
+      ],
+      [
+        1782687634920,
+        55380192.469655
+      ],
+      [
+        1782691234983,
+        55380192.469655
+      ],
+      [
+        1782694832716,
+        55380192.469655
+      ],
+      [
+        1782698432196,
+        55380192.469655
+      ],
+      [
+        1782702030688,
+        55380192.469655
+      ],
+      [
+        1782705632271,
+        55380192.469655
+      ],
+      [
+        1782709230652,
+        55380192.469655
+      ],
+      [
+        1782712834796,
+        55380192.469655
+      ],
+      [
+        1782716432141,
+        55380192.469655
+      ],
+      [
+        1782720031986,
+        55380192.469655
+      ],
+      [
+        1782723633318,
+        55380192.469655
+      ],
+      [
+        1782727231455,
+        55380192.469655
+      ],
+      [
+        1782730834075,
+        55380192.469655
+      ],
+      [
+        1782734434222,
+        55380192.469655
+      ],
+      [
+        1782738034514,
+        55380192.469655
+      ],
+      [
+        1782741630498,
+        55380192.469655
+      ],
+      [
+        1782745231285,
+        55380192.469655
+      ],
+      [
+        1782748924852,
+        55395809.659655
+      ],
+      [
+        1782752527520,
+        55395809.659655
+      ],
+      [
+        1782756124831,
+        55395809.659655
+      ],
+      [
+        1782759727157,
+        55395809.659655
+      ],
+      [
+        1782763327473,
+        55395809.659655
+      ],
+      [
+        1782766927604,
+        55395809.659655
+      ],
+      [
+        1782770525898,
+        55395809.659655
+      ],
+      [
+        1782774136749,
+        55395809.659655
+      ],
+      [
+        1782777743343,
+        55395809.659655
+      ],
+      [
+        1782781347226,
+        55395809.659655
+      ],
+      [
+        1782784935738,
+        55395809.659655
+      ],
+      [
+        1782788530772,
+        55395809.659655
+      ],
+      [
+        1782792131118,
+        55395809.659655
+      ],
+      [
+        1782795728280,
+        55395809.659655
+      ],
+      [
+        1782799331583,
+        55395809.659655
+      ],
+      [
+        1782802933870,
+        55395809.659655
+      ],
+      [
+        1782806517990,
+        55395809.659655
+      ],
+      [
+        1782810119257,
+        55395809.659655
+      ],
+      [
+        1782813726361,
+        55395809.659655
+      ],
+      [
+        1782817324655,
+        55395809.659655
+      ],
+      [
+        1782820918990,
+        55395809.659655
+      ],
+      [
+        1782824524105,
+        55395809.659655
+      ],
+      [
+        1782828120682,
+        55395809.659655
+      ],
+      [
+        1782831728005,
+        55395809.659655
+      ],
+      [
+        1782835244521,
+        55395809.659655
+      ],
+      [
+        1782838842239,
+        55401072.24965499
+      ],
+      [
+        1782842564548,
+        55401072.24965499
+      ],
+      [
+        1782846159833,
+        55401072.249655
+      ],
+      [
+        1782849756104,
+        55401072.249655
+      ],
+      [
+        1782853280971,
+        55401072.24965499
+      ],
+      [
+        1782856915711,
+        55401072.24965499
+      ],
+      [
+        1782860514269,
+        55401072.24965499
+      ],
+      [
+        1782864121524,
+        55401072.24965499
+      ],
+      [
+        1782867719545,
+        55401072.24965499
+      ],
+      [
+        1782871252752,
+        55401072.249655
+      ],
+      [
+        1782874933972,
+        55401072.24965499
+      ],
+      [
+        1782878542910,
+        55401072.24965499
+      ],
+      [
+        1782882144593,
+        55401072.24965499
+      ],
+      [
+        1782885729997,
+        55401072.24965499
+      ],
+      [
+        1782889328502,
+        55401072.24965499
+      ],
+      [
+        1782892937615,
+        55401072.24965499
+      ],
+      [
+        1782896486727,
+        55401072.249655
+      ],
+      [
+        1782900023423,
+        55401072.24965499
+      ],
+      [
+        1782903626412,
+        55401072.24965499
+      ],
+      [
+        1782907224658,
+        55401072.24965499
+      ],
+      [
+        1782910827348,
+        55401072.24965499
+      ],
+      [
+        1782914425131,
+        55401072.24965499
+      ],
+      [
+        1782918028761,
+        55401072.24965499
+      ],
+      [
+        1782921703440,
+        55406335.349655
+      ],
+      [
+        1782925265371,
+        55406335.34965499
+      ],
+      [
+        1782928858485,
+        55406335.34965499
+      ],
+      [
+        1782932457561,
+        55406335.34965499
+      ],
+      [
+        1782936056607,
+        55406335.34965499
+      ],
+      [
+        1782939660375,
+        55406335.34965499
+      ],
+      [
+        1782943260921,
+        55406335.34965499
+      ],
+      [
+        1782946861469,
+        55406335.34965499
+      ],
+      [
+        1782950465587,
+        55406335.34965499
+      ],
+      [
+        1782954061851,
+        55406335.34965499
+      ],
+      [
+        1782957664378,
+        55406335.34965499
+      ],
+      [
+        1782961259344,
+        55406335.34965499
+      ],
+      [
+        1782964858465,
+        55406335.34965499
+      ],
+      [
+        1782968457870,
+        55406335.34965499
+      ],
+      [
+        1782972023608,
+        55406335.349655
+      ],
+      [
+        1782975625720,
+        55406335.349655
+      ],
+      [
+        1782979341795,
+        55406335.349655
+      ],
+      [
+        1782982932616,
+        55406335.34965499
+      ],
+      [
+        1782986552130,
+        55406335.349655
+      ],
+      [
+        1782990088240,
+        55406335.349655
+      ],
+      [
+        1782993689635,
+        55406335.34965499
+      ],
+      [
+        1782997287490,
+        55406335.34965499
+      ],
+      [
+        1783000887394,
+        55406335.34965499
+      ],
+      [
+        1783004487254,
+        55406335.34965499
+      ],
+      [
+        1783008090376,
+        55406335.34965499
+      ],
+      [
+        1783011618802,
+        55411543.529655
+      ],
+      [
+        1783015355308,
+        55411543.52965499
+      ],
+      [
+        1783018852077,
+        55411543.52965499
+      ],
+      [
+        1783022440755,
+        56661543.529655
+      ],
+      [
+        1783026039410,
+        56661543.529655
+      ],
+      [
+        1783029753751,
+        56661543.52965499
+      ],
+      [
+        1783033299573,
+        56661543.52965499
+      ],
+      [
+        1783036900425,
+        56661543.529655
+      ],
+      [
+        1783040494008,
+        56661543.529655
+      ],
+      [
+        1783044109659,
+        56661543.52965501
+      ],
+      [
+        1783047702967,
+        56661543.52965501
+      ],
+      [
+        1783051240189,
+        56661543.529655
+      ],
+      [
+        1783054840524,
+        56661543.529655
+      ],
+      [
+        1783058441475,
+        56661543.529655
+      ],
+      [
+        1783062150014,
+        56661543.52965501
+      ],
+      [
+        1783065647918,
+        56661543.529655
+      ],
+      [
+        1783069248987,
+        56661543.529655
+      ],
+      [
+        1783072849514,
+        56661543.529655
+      ],
+      [
+        1783076456851,
+        56661543.52965501
+      ],
+      [
+        1783080024061,
+        56661543.52965501
+      ],
+      [
+        1783083726950,
+        56661543.529655
+      ],
+      [
+        1783087331097,
+        56661543.52965499
+      ],
+      [
+        1783090854154,
+        56661543.529655
+      ],
+      [
+        1783094454055,
+        56661543.529655
+      ],
+      [
+        1783098052892,
+        56661543.529655
+      ],
+      [
+        1783101654935,
+        56661543.529655
+      ],
+      [
+        1783105253240,
+        56661543.529655
+      ],
+      [
+        1783108870606,
+        56661543.529655
+      ],
+      [
+        1783112477749,
+        56661543.52965501
+      ],
+      [
+        1783116079206,
+        56661543.52965501
+      ],
+      [
+        1783119608369,
+        56661543.52965501
+      ],
+      [
+        1783123217861,
+        56661543.529655
+      ],
+      [
+        1783126950650,
+        56661543.529655
+      ],
+      [
+        1783130451922,
+        56661543.52965499
+      ],
+      [
+        1783134033557,
+        56661543.52965501
+      ],
+      [
+        1783137718727,
+        56661543.52965501
+      ],
+      [
+        1783141315816,
+        56661543.529655
+      ],
+      [
+        1783144927321,
+        56661543.529655
+      ],
+      [
+        1783148519136,
+        56661543.529655
+      ],
+      [
+        1783152121525,
+        56661543.529655
+      ],
+      [
+        1783155670711,
+        56661543.52965501
+      ],
+      [
+        1783159324109,
+        56661543.529655
+      ],
+      [
+        1783162926154,
+        56661543.529655
+      ],
+      [
+        1783166520774,
+        56661543.529655
+      ],
+      [
+        1783170122881,
+        56661543.529655
+      ],
+      [
+        1783173721798,
+        56661543.529655
+      ],
+      [
+        1783177324547,
+        56661543.529655
+      ],
+      [
+        1783180928357,
+        56661543.529655
+      ],
+      [
+        1783184527751,
+        56661543.529655
+      ],
+      [
+        1783188128263,
+        56661543.529655
+      ],
+      [
+        1783191731799,
+        56661543.529655
+      ],
+      [
+        1783195251236,
+        56661543.529655
+      ],
+      [
+        1783198934594,
+        56661543.529655
+      ],
+      [
+        1783202515438,
+        56661543.529655
+      ],
+      [
+        1783206116335,
+        56661543.529655
+      ],
+      [
+        1783209732856,
+        56661543.529655
+      ],
+      [
+        1783213327420,
+        56661543.529655
+      ],
+      [
+        1783216847148,
+        56661543.52965501
+      ],
+      [
+        1783220561075,
+        56661543.529655
+      ],
+      [
+        1783224161124,
+        56661543.529655
+      ],
+      [
+        1783227759570,
+        56661543.529655
+      ],
+      [
+        1783231362585,
+        56661543.529655
+      ],
+      [
+        1783234960033,
+        56661543.529655
+      ],
+      [
+        1783238560665,
+        56661543.529655
+      ],
+      [
+        1783242161497,
+        56661543.529655
+      ],
+      [
+        1783245756503,
+        56661543.529655
+      ],
+      [
+        1783249361611,
+        56661543.529655
+      ],
+      [
+        1783252963287,
+        56661543.529655
+      ],
+      [
+        1783256509474,
+        56661543.529655
+      ],
+      [
+        1783260111161,
+        56661543.52965499
+      ],
+      [
+        1783263621751,
+        56661543.529655
+      ],
+      [
+        1783267328975,
+        56661543.52965499
+      ],
+      [
+        1783270927283,
+        56661543.52965499
+      ],
+      [
+        1783274483021,
+        56661543.52965501
+      ],
+      [
+        1783278083760,
+        56661543.52965501
+      ],
+      [
+        1783281629087,
+        56661543.52965501
+      ],
+      [
+        1783285224961,
+        56661543.529655
+      ],
+      [
+        1783288828393,
+        56661543.529655
+      ],
+      [
+        1783292522336,
+        56661543.52965501
+      ],
+      [
+        1783296118292,
+        56661543.529655
+      ],
+      [
+        1783299719092,
+        56661543.529655
+      ],
+      [
+        1783303306114,
+        56661543.529655
+      ],
+      [
+        1783306905869,
+        56661543.529655
+      ],
+      [
+        1783310505759,
+        56661543.529655
+      ],
+      [
+        1783314105907,
+        56661543.529655
+      ],
+      [
+        1783317604219,
+        56661543.52965501
+      ],
+      [
+        1783321201458,
+        56661543.52965501
+      ],
+      [
+        1783324918377,
+        56661543.52965501
+      ],
+      [
+        1783328518247,
+        56661543.529655
+      ],
+      [
+        1783332116989,
+        56661543.529655
+      ],
+      [
+        1783335714425,
+        56661543.529655
+      ],
+      [
+        1783339350950,
+        56661543.529655
+      ],
+      [
+        1783342869908,
+        56661543.52965501
+      ],
+      [
+        1783346466822,
+        56661543.529655
+      ],
+      [
+        1783350068861,
+        56661543.529655
+      ],
+      [
+        1783353714828,
+        56683301.609655
+      ],
+      [
+        1783357317072,
+        56683301.609655
+      ],
+      [
+        1783360918701,
+        56683301.609655
+      ],
+      [
+        1783364517599,
+        56683301.609655
+      ],
+      [
+        1783368117570,
+        56683301.609655
+      ],
+      [
+        1783371729171,
+        56683301.609655
+      ],
+      [
+        1783375324610,
+        56683301.609655
+      ],
+      [
+        1783378924770,
+        56683301.609655
+      ],
+      [
+        1783382533002,
+        56683301.609655
+      ],
+      [
+        1783386129678,
+        56683301.609655
+      ],
+      [
+        1783389751153,
+        56683301.609655
+      ],
+      [
+        1783393354780,
+        56683301.609655
+      ],
+      [
+        1783396955824,
+        56683301.609655
+      ],
+      [
+        1783400557451,
+        56683301.609655
+      ],
+      [
+        1783404152060,
+        56683301.609655
+      ],
+      [
+        1783407673764,
+        56683301.609655
+      ],
+      [
+        1783411266264,
+        56683301.609655
+      ],
+      [
+        1783414867869,
+        56683301.609655
+      ],
+      [
+        1783418469346,
+        56683301.609655
+      ],
+      [
+        1783422071221,
+        56683301.609655
+      ],
+      [
+        1783425668664,
+        56683301.609655
+      ],
+      [
+        1783429267040,
+        56683301.609655
+      ],
+      [
+        1783432864910,
+        56683301.609655
+      ],
+      [
+        1783436466328,
+        56683301.609655
+      ],
+      [
+        1783440138715,
+        56689026.60965499
+      ],
+      [
+        1783443738075,
+        56689026.60965499
+      ],
+      [
+        1783447311933,
+        56689026.60965499
+      ],
+      [
+        1783450921250,
+        56689026.60965501
+      ],
+      [
+        1783454462765,
+        56689026.609655
+      ],
+      [
+        1783458065069,
+        56689026.609655
+      ],
+      [
+        1783461746579,
+        56689026.60965499
+      ],
+      [
+        1783465346514,
+        56689026.60965499
+      ],
+      [
+        1783468952852,
+        56689026.60965501
+      ],
+      [
+        1783472551486,
+        56689026.60965501
+      ],
+      [
+        1783476084118,
+        56689026.60965501
+      ],
+      [
+        1783479716573,
+        56689026.609655
+      ],
+      [
+        1783483265181,
+        56689026.609655
+      ],
+      [
+        1783486951072,
+        56689026.60965501
+      ],
+      [
+        1783490546183,
+        56689026.60965501
+      ],
+      [
+        1783494081752,
+        56689026.609655
+      ],
+      [
+        1783497675508,
+        56689026.60965499
+      ],
+      [
+        1783501278544,
+        56689026.60965499
+      ],
+      [
+        1783504843701,
+        56689026.60965499
+      ],
+      [
+        1783508422787,
+        56689026.609655
+      ],
+      [
+        1783512025200,
+        56689026.60965501
+      ],
+      [
+        1783515665267,
+        56689026.60965501
+      ],
+      [
+        1783519241980,
+        56689026.609655
+      ],
+      [
+        1783522841873,
+        56689026.60965499
+      ],
+      [
+        1783526548814,
+        56694638.819655
+      ],
+      [
+        1783530150693,
+        56694638.819655
+      ],
+      [
+        1783533748400,
+        56694638.819655
+      ],
+      [
+        1783537349564,
+        56694638.819655
+      ],
+      [
+        1783540946559,
+        56694638.819655
+      ],
+      [
+        1783544553061,
+        56694638.819655
+      ],
+      [
+        1783548092416,
+        56694638.819655
+      ],
+      [
+        1783551696464,
+        56694638.819655
+      ],
+      [
+        1783555295530,
+        56694638.819655
+      ],
+      [
+        1783558894500,
+        56694638.819655
+      ],
+      [
+        1783562615796,
+        56694638.819655
+      ],
+      [
+        1783566150272,
+        56694638.819655
+      ],
+      [
+        1783569748312,
+        56694638.819655
+      ],
+      [
+        1783573351251,
+        56694638.819655
+      ],
+      [
+        1783576940583,
+        56694638.819655
+      ],
+      [
+        1783580540289,
+        56694638.819655
+      ],
+      [
+        1783584136063,
+        56694638.819655
+      ],
+      [
+        1783587744406,
+        56694638.819655
+      ],
+      [
+        1783591285375,
+        56694638.819655
+      ],
+      [
+        1783594910827,
+        56694638.819655
+      ],
+      [
+        1783598505826,
+        56694638.819655
+      ],
+      [
+        1783602112712,
+        56694638.819655
+      ],
+      [
+        1783605712561,
+        56694638.819655
+      ],
+      [
+        1783609316003,
+        56694638.819655
+      ],
+      [
+        1783612895513,
+        56699968.12965499
+      ],
+      [
+        1783616492314,
+        56699968.12965499
+      ],
+      [
+        1783620009364,
+        56699968.12965499
+      ],
+      [
+        1783623611324,
+        56699968.129655
+      ],
+      [
+        1783627257667,
+        56699968.129655
+      ],
+      [
+        1783630850920,
+        191699968.129655
+      ],
+      [
+        1783634452202,
+        191699968.129655
+      ],
+      [
+        1783638029523,
+        191699968.129655
+      ],
+      [
+        1783641621641,
+        191699968.1296549
+      ],
+      [
+        1783645217681,
+        191699968.129655
+      ],
+      [
+        1783648815854,
+        191699968.129655
+      ],
+      [
+        1783652417914,
+        191699968.129655
+      ],
+      [
+        1783656096961,
+        191699968.1296549
+      ],
+      [
+        1783659649409,
+        191699968.1296549
+      ],
+      [
+        1783663258709,
+        191699968.129655
+      ],
+      [
+        1783666820000,
+        191699968.129655
+      ],
+      [
+        1783666860532,
+        191699968.129655
+      ]
+    ],
+    "total_volumes": [
+      [
+        1781078421665,
+        0
+      ],
+      [
+        1781082021547,
+        0
+      ],
+      [
+        1781085620249,
+        0
+      ],
+      [
+        1781089222684,
+        0
+      ],
+      [
+        1781092823878,
+        0
+      ],
+      [
+        1781096419224,
+        0
+      ],
+      [
+        1781100018745,
+        0
+      ],
+      [
+        1781103619450,
+        0
+      ],
+      [
+        1781107233012,
+        0
+      ],
+      [
+        1781110836033,
+        0
+      ],
+      [
+        1781114433629,
+        0
+      ],
+      [
+        1781118033159,
+        0
+      ],
+      [
+        1781121608884,
+        0
+      ],
+      [
+        1781125207026,
+        0
+      ],
+      [
+        1781128808170,
+        0
+      ],
+      [
+        1781132407462,
+        0
+      ],
+      [
+        1781136080593,
+        0
+      ],
+      [
+        1781139635328,
+        0
+      ],
+      [
+        1781143232894,
+        0
+      ],
+      [
+        1781146832974,
+        0
+      ],
+      [
+        1781150434893,
+        0
+      ],
+      [
+        1781154034393,
+        0
+      ],
+      [
+        1781157634233,
+        0
+      ],
+      [
+        1781161233568,
+        0
+      ],
+      [
+        1781164824166,
+        0
+      ],
+      [
+        1781168433372,
+        0
+      ],
+      [
+        1781172028002,
+        0
+      ],
+      [
+        1781175661365,
+        0
+      ],
+      [
+        1781179272165,
+        0
+      ],
+      [
+        1781182863991,
+        0
+      ],
+      [
+        1781186465459,
+        0
+      ],
+      [
+        1781190064793,
+        0
+      ],
+      [
+        1781193669449,
+        0
+      ],
+      [
+        1781197266197,
+        0
+      ],
+      [
+        1781200867747,
+        0
+      ],
+      [
+        1781204436408,
+        0
+      ],
+      [
+        1781208035068,
+        0
+      ],
+      [
+        1781211635843,
+        0
+      ],
+      [
+        1781215235373,
+        0
+      ],
+      [
+        1781218836058,
+        0
+      ],
+      [
+        1781222435573,
+        0
+      ],
+      [
+        1781226036999,
+        0
+      ],
+      [
+        1781229635581,
+        0
+      ],
+      [
+        1781233234707,
+        0
+      ],
+      [
+        1781236834376,
+        0
+      ],
+      [
+        1781240434730,
+        0
+      ],
+      [
+        1781244034835,
+        0
+      ],
+      [
+        1781247633845,
+        0
+      ],
+      [
+        1781251236752,
+        0
+      ],
+      [
+        1781254835246,
+        0
+      ],
+      [
+        1781258434511,
+        0
+      ],
+      [
+        1781262033873,
+        0
+      ],
+      [
+        1781265634607,
+        0
+      ],
+      [
+        1781269234575,
+        0
+      ],
+      [
+        1781272833550,
+        0
+      ],
+      [
+        1781276434239,
+        0
+      ],
+      [
+        1781280033233,
+        0
+      ],
+      [
+        1781283671572,
+        0
+      ],
+      [
+        1781287271013,
+        0
+      ],
+      [
+        1781290872061,
+        0
+      ],
+      [
+        1781294472574,
+        0
+      ],
+      [
+        1781298076910,
+        0
+      ],
+      [
+        1781301672634,
+        0
+      ],
+      [
+        1781305272935,
+        0
+      ],
+      [
+        1781308876727,
+        0
+      ],
+      [
+        1781312473853,
+        0
+      ],
+      [
+        1781316083171,
+        0
+      ],
+      [
+        1781319672326,
+        0
+      ],
+      [
+        1781323272325,
+        0
+      ],
+      [
+        1781326871656,
+        0
+      ],
+      [
+        1781330474128,
+        0
+      ],
+      [
+        1781334071571,
+        0
+      ],
+      [
+        1781337669748,
+        0
+      ],
+      [
+        1781341271965,
+        0
+      ],
+      [
+        1781344872917,
+        0
+      ],
+      [
+        1781348470806,
+        0
+      ],
+      [
+        1781352070494,
+        0
+      ],
+      [
+        1781355669293,
+        0
+      ],
+      [
+        1781359271655,
+        0
+      ],
+      [
+        1781362873307,
+        0
+      ],
+      [
+        1781366472789,
+        0
+      ],
+      [
+        1781370072580,
+        0
+      ],
+      [
+        1781373635297,
+        0
+      ],
+      [
+        1781377235514,
+        0
+      ],
+      [
+        1781380835909,
+        0
+      ],
+      [
+        1781384435619,
+        0
+      ],
+      [
+        1781388020445,
+        0
+      ],
+      [
+        1781391620097,
+        0
+      ],
+      [
+        1781395221854,
+        0
+      ],
+      [
+        1781398824103,
+        0
+      ],
+      [
+        1781402420459,
+        0
+      ],
+      [
+        1781406021129,
+        0
+      ],
+      [
+        1781409619867,
+        0
+      ],
+      [
+        1781413219485,
+        0
+      ],
+      [
+        1781416821986,
+        0
+      ],
+      [
+        1781420420353,
+        0
+      ],
+      [
+        1781424021990,
+        0
+      ],
+      [
+        1781427621545,
+        0
+      ],
+      [
+        1781431220784,
+        0
+      ],
+      [
+        1781434820843,
+        0
+      ],
+      [
+        1781438420635,
+        0
+      ],
+      [
+        1781442020293,
+        0
+      ],
+      [
+        1781445619885,
+        0
+      ],
+      [
+        1781449242732,
+        0
+      ],
+      [
+        1781452842596,
+        0
+      ],
+      [
+        1781456439869,
+        0
+      ],
+      [
+        1781460041032,
+        0
+      ],
+      [
+        1781463640777,
+        0
+      ],
+      [
+        1781467243446,
+        0
+      ],
+      [
+        1781470842465,
+        0
+      ],
+      [
+        1781474444147,
+        0
+      ],
+      [
+        1781478040956,
+        0
+      ],
+      [
+        1781481642595,
+        0
+      ],
+      [
+        1781485244982,
+        0
+      ],
+      [
+        1781488843165,
+        0
+      ],
+      [
+        1781492443077,
+        0
+      ],
+      [
+        1781496043318,
+        0
+      ],
+      [
+        1781499643586,
+        0
+      ],
+      [
+        1781503242143,
+        0
+      ],
+      [
+        1781506845515,
+        0
+      ],
+      [
+        1781510442941,
+        0
+      ],
+      [
+        1781514041584,
+        0
+      ],
+      [
+        1781517641930,
+        0
+      ],
+      [
+        1781521241479,
+        0
+      ],
+      [
+        1781524841803,
+        0
+      ],
+      [
+        1781528442955,
+        0
+      ],
+      [
+        1781532042452,
+        0
+      ],
+      [
+        1781535645352,
+        0
+      ],
+      [
+        1781539246205,
+        0
+      ],
+      [
+        1781542845594,
+        0
+      ],
+      [
+        1781546445673,
+        0
+      ],
+      [
+        1781550048054,
+        0
+      ],
+      [
+        1781553647759,
+        0
+      ],
+      [
+        1781557247930,
+        0
+      ],
+      [
+        1781560845765,
+        0
+      ],
+      [
+        1781564446604,
+        0
+      ],
+      [
+        1781568047279,
+        0
+      ],
+      [
+        1781571647823,
+        0
+      ],
+      [
+        1781575249751,
+        0
+      ],
+      [
+        1781578846138,
+        0
+      ],
+      [
+        1781582448089,
+        0
+      ],
+      [
+        1781586071669,
+        0
+      ],
+      [
+        1781589644620,
+        0
+      ],
+      [
+        1781593244808,
+        0
+      ],
+      [
+        1781596844031,
+        0
+      ],
+      [
+        1781600445542,
+        0
+      ],
+      [
+        1781604033345,
+        0
+      ],
+      [
+        1781607634825,
+        0
+      ],
+      [
+        1781611233839,
+        0
+      ],
+      [
+        1781614833899,
+        0
+      ],
+      [
+        1781618434718,
+        0
+      ],
+      [
+        1781622034817,
+        0
+      ],
+      [
+        1781625612083,
+        0
+      ],
+      [
+        1781629211378,
+        0
+      ],
+      [
+        1781632809933,
+        0
+      ],
+      [
+        1781636422778,
+        0
+      ],
+      [
+        1781640063231,
+        0
+      ],
+      [
+        1781643664228,
+        0
+      ],
+      [
+        1781647209322,
+        0
+      ],
+      [
+        1781650866801,
+        0
+      ],
+      [
+        1781654474437,
+        0
+      ],
+      [
+        1781658070353,
+        0
+      ],
+      [
+        1781661671603,
+        0
+      ],
+      [
+        1781665265780,
+        0
+      ],
+      [
+        1781668866891,
+        0
+      ],
+      [
+        1781672464953,
+        0
+      ],
+      [
+        1781676068797,
+        0
+      ],
+      [
+        1781679664204,
+        0
+      ],
+      [
+        1781683264321,
+        0
+      ],
+      [
+        1781686867074,
+        0
+      ],
+      [
+        1781690471601,
+        0
+      ],
+      [
+        1781694078598,
+        0
+      ],
+      [
+        1781697670557,
+        0
+      ],
+      [
+        1781701270047,
+        0
+      ],
+      [
+        1781704875001,
+        0
+      ],
+      [
+        1781708471306,
+        0
+      ],
+      [
+        1781712070719,
+        0
+      ],
+      [
+        1781715672453,
+        0
+      ],
+      [
+        1781719272696,
+        0
+      ],
+      [
+        1781722870655,
+        0
+      ],
+      [
+        1781726472578,
+        0
+      ],
+      [
+        1781730071269,
+        0
+      ],
+      [
+        1781733673885,
+        0
+      ],
+      [
+        1781737268427,
+        0
+      ],
+      [
+        1781740814126,
+        0
+      ],
+      [
+        1781744415460,
+        0
+      ],
+      [
+        1781748075045,
+        0
+      ],
+      [
+        1781751647090,
+        0
+      ],
+      [
+        1781755272366,
+        0
+      ],
+      [
+        1781758867159,
+        0
+      ],
+      [
+        1781762468339,
+        0
+      ],
+      [
+        1781766068169,
+        0
+      ],
+      [
+        1781769673153,
+        0
+      ],
+      [
+        1781773269263,
+        0
+      ],
+      [
+        1781776869102,
+        0
+      ],
+      [
+        1781780455791,
+        0
+      ],
+      [
+        1781784057485,
+        0
+      ],
+      [
+        1781787654979,
+        0
+      ],
+      [
+        1781791243658,
+        0
+      ],
+      [
+        1781794834277,
+        0
+      ],
+      [
+        1781798401528,
+        0
+      ],
+      [
+        1781802001843,
+        0
+      ],
+      [
+        1781805601714,
+        0
+      ],
+      [
+        1781809203962,
+        0
+      ],
+      [
+        1781812801385,
+        0
+      ],
+      [
+        1781816403120,
+        0
+      ],
+      [
+        1781820002951,
+        0
+      ],
+      [
+        1781823602330,
+        0
+      ],
+      [
+        1781827205358,
+        0
+      ],
+      [
+        1781830803249,
+        0
+      ],
+      [
+        1781834402642,
+        0
+      ],
+      [
+        1781838002343,
+        0
+      ],
+      [
+        1781841603738,
+        0
+      ],
+      [
+        1781845203290,
+        0
+      ],
+      [
+        1781848803158,
+        0
+      ],
+      [
+        1781852401939,
+        0
+      ],
+      [
+        1781856002414,
+        0
+      ],
+      [
+        1781859602087,
+        0
+      ],
+      [
+        1781863202151,
+        0
+      ],
+      [
+        1781866801904,
+        0
+      ],
+      [
+        1781870401602,
+        0
+      ],
+      [
+        1781874001602,
+        0
+      ],
+      [
+        1781877601955,
+        0
+      ],
+      [
+        1781881202100,
+        0
+      ],
+      [
+        1781884803203,
+        0
+      ],
+      [
+        1781888402434,
+        0
+      ],
+      [
+        1781892001856,
+        0
+      ],
+      [
+        1781895601828,
+        0
+      ],
+      [
+        1781899202619,
+        0
+      ],
+      [
+        1781902802543,
+        0
+      ],
+      [
+        1781906401973,
+        0
+      ],
+      [
+        1781910002314,
+        0
+      ],
+      [
+        1781913601420,
+        0
+      ],
+      [
+        1781917202927,
+        0
+      ],
+      [
+        1781920801534,
+        0
+      ],
+      [
+        1781924402113,
+        0
+      ],
+      [
+        1781928001564,
+        0
+      ],
+      [
+        1781931601963,
+        0
+      ],
+      [
+        1781935202164,
+        0
+      ],
+      [
+        1781938801356,
+        0
+      ],
+      [
+        1781942402363,
+        0
+      ],
+      [
+        1781946001828,
+        0
+      ],
+      [
+        1781949602222,
+        0
+      ],
+      [
+        1781953202153,
+        0
+      ],
+      [
+        1781956801344,
+        0
+      ],
+      [
+        1781960402218,
+        0
+      ],
+      [
+        1781964001843,
+        0
+      ],
+      [
+        1781967601631,
+        0
+      ],
+      [
+        1781971202614,
+        0
+      ],
+      [
+        1781974802074,
+        0
+      ],
+      [
+        1781978401964,
+        0
+      ],
+      [
+        1781982002416,
+        0
+      ],
+      [
+        1781985601944,
+        0
+      ],
+      [
+        1781989203116,
+        0
+      ],
+      [
+        1781992802049,
+        0
+      ],
+      [
+        1781996402848,
+        0
+      ],
+      [
+        1782000001269,
+        0
+      ],
+      [
+        1782003602150,
+        0
+      ],
+      [
+        1782007201604,
+        0
+      ],
+      [
+        1782010801497,
+        0
+      ],
+      [
+        1782014402104,
+        0
+      ],
+      [
+        1782018002371,
+        0
+      ],
+      [
+        1782021601791,
+        0
+      ],
+      [
+        1782025202545,
+        0
+      ],
+      [
+        1782028801772,
+        0
+      ],
+      [
+        1782032402039,
+        0
+      ],
+      [
+        1782036004286,
+        0
+      ],
+      [
+        1782039602428,
+        0
+      ],
+      [
+        1782043201737,
+        0
+      ],
+      [
+        1782046801632,
+        0
+      ],
+      [
+        1782050401821,
+        0
+      ],
+      [
+        1782054001809,
+        0
+      ],
+      [
+        1782057601991,
+        0
+      ],
+      [
+        1782061202141,
+        0
+      ],
+      [
+        1782064803994,
+        0
+      ],
+      [
+        1782068401879,
+        0
+      ],
+      [
+        1782072001818,
+        0
+      ],
+      [
+        1782075601520,
+        0
+      ],
+      [
+        1782079202401,
+        0
+      ],
+      [
+        1782082802674,
+        0
+      ],
+      [
+        1782086401869,
+        0
+      ],
+      [
+        1782090001735,
+        0
+      ],
+      [
+        1782093603018,
+        0
+      ],
+      [
+        1782097201930,
+        0
+      ],
+      [
+        1782100816929,
+        0
+      ],
+      [
+        1782104416919,
+        0
+      ],
+      [
+        1782108017631,
+        0
+      ],
+      [
+        1782111615645,
+        0
+      ],
+      [
+        1782115216172,
+        0
+      ],
+      [
+        1782118815201,
+        0
+      ],
+      [
+        1782122414925,
+        0
+      ],
+      [
+        1782126015713,
+        0
+      ],
+      [
+        1782129616271,
+        0
+      ],
+      [
+        1782133214887,
+        0
+      ],
+      [
+        1782136815264,
+        0
+      ],
+      [
+        1782140415290,
+        0
+      ],
+      [
+        1782144073609,
+        0
+      ],
+      [
+        1782147676478,
+        0
+      ],
+      [
+        1782151223977,
+        0
+      ],
+      [
+        1782154803249,
+        0
+      ],
+      [
+        1782158404048,
+        0
+      ],
+      [
+        1782162003068,
+        0
+      ],
+      [
+        1782165602820,
+        0
+      ],
+      [
+        1782169260740,
+        0
+      ],
+      [
+        1782172865533,
+        0
+      ],
+      [
+        1782176409292,
+        0
+      ],
+      [
+        1782180089898,
+        0
+      ],
+      [
+        1782183667207,
+        0
+      ],
+      [
+        1782187267376,
+        0
+      ],
+      [
+        1782190840798,
+        0
+      ],
+      [
+        1782194440284,
+        0
+      ],
+      [
+        1782198027279,
+        0
+      ],
+      [
+        1782201625340,
+        0
+      ],
+      [
+        1782205227816,
+        0
+      ],
+      [
+        1782208826692,
+        0
+      ],
+      [
+        1782212427180,
+        0
+      ],
+      [
+        1782216027153,
+        0
+      ],
+      [
+        1782219627358,
+        0
+      ],
+      [
+        1782223226093,
+        0
+      ],
+      [
+        1782226828304,
+        0
+      ],
+      [
+        1782230427838,
+        0
+      ],
+      [
+        1782234024481,
+        0
+      ],
+      [
+        1782237642457,
+        0
+      ],
+      [
+        1782241241871,
+        0
+      ],
+      [
+        1782244822453,
+        0
+      ],
+      [
+        1782248421993,
+        0
+      ],
+      [
+        1782252022017,
+        0
+      ],
+      [
+        1782255621850,
+        0
+      ],
+      [
+        1782259221675,
+        0
+      ],
+      [
+        1782262805630,
+        0
+      ],
+      [
+        1782266415745,
+        0
+      ],
+      [
+        1782270070105,
+        0
+      ],
+      [
+        1782273612180,
+        0
+      ],
+      [
+        1782277212526,
+        0
+      ],
+      [
+        1782280813411,
+        0
+      ],
+      [
+        1782284412128,
+        0
+      ],
+      [
+        1782288012057,
+        0
+      ],
+      [
+        1782291611358,
+        0
+      ],
+      [
+        1782295212886,
+        0
+      ],
+      [
+        1782298812258,
+        0
+      ],
+      [
+        1782302414637,
+        0
+      ],
+      [
+        1782306011715,
+        0
+      ],
+      [
+        1782309612709,
+        0
+      ],
+      [
+        1782313213774,
+        0
+      ],
+      [
+        1782316820478,
+        0
+      ],
+      [
+        1782320426050,
+        0
+      ],
+      [
+        1782324023202,
+        0
+      ],
+      [
+        1782327612434,
+        0
+      ],
+      [
+        1782331213174,
+        0
+      ],
+      [
+        1782334841550,
+        0
+      ],
+      [
+        1782338475915,
+        0
+      ],
+      [
+        1782342048871,
+        0
+      ],
+      [
+        1782345601511,
+        0
+      ],
+      [
+        1782349202319,
+        0
+      ],
+      [
+        1782352805537,
+        0
+      ],
+      [
+        1782356451704,
+        0
+      ],
+      [
+        1782360053351,
+        0
+      ],
+      [
+        1782363615522,
+        0
+      ],
+      [
+        1782367217012,
+        0
+      ],
+      [
+        1782370816659,
+        0
+      ],
+      [
+        1782374410593,
+        0
+      ],
+      [
+        1782378014071,
+        0
+      ],
+      [
+        1782381659565,
+        0
+      ],
+      [
+        1782385260100,
+        0
+      ],
+      [
+        1782388854437,
+        0
+      ],
+      [
+        1782392450995,
+        0
+      ],
+      [
+        1782396051153,
+        0
+      ],
+      [
+        1782399650416,
+        0
+      ],
+      [
+        1782403225046,
+        0
+      ],
+      [
+        1782406812530,
+        0
+      ],
+      [
+        1782410412570,
+        0
+      ],
+      [
+        1782414007558,
+        0
+      ],
+      [
+        1782417608838,
+        0
+      ],
+      [
+        1782421207348,
+        0
+      ],
+      [
+        1782424809285,
+        0
+      ],
+      [
+        1782428409235,
+        0
+      ],
+      [
+        1782432007319,
+        0
+      ],
+      [
+        1782435608924,
+        0
+      ],
+      [
+        1782439206386,
+        0
+      ],
+      [
+        1782442810270,
+        0
+      ],
+      [
+        1782446407403,
+        0
+      ],
+      [
+        1782450008587,
+        0
+      ],
+      [
+        1782453609039,
+        0
+      ],
+      [
+        1782457218842,
+        0
+      ],
+      [
+        1782460819119,
+        0
+      ],
+      [
+        1782464421381,
+        0
+      ],
+      [
+        1782468017048,
+        0
+      ],
+      [
+        1782471620685,
+        0
+      ],
+      [
+        1782475216401,
+        0
+      ],
+      [
+        1782478816436,
+        0
+      ],
+      [
+        1782482418338,
+        0
+      ],
+      [
+        1782486020218,
+        0
+      ],
+      [
+        1782489615921,
+        0
+      ],
+      [
+        1782493217743,
+        0
+      ],
+      [
+        1782496814321,
+        0
+      ],
+      [
+        1782500416250,
+        0
+      ],
+      [
+        1782504016985,
+        0
+      ],
+      [
+        1782507618115,
+        0
+      ],
+      [
+        1782511214877,
+        0
+      ],
+      [
+        1782514818013,
+        0
+      ],
+      [
+        1782518498572,
+        0
+      ],
+      [
+        1782522098438,
+        0
+      ],
+      [
+        1782525688053,
+        0
+      ],
+      [
+        1782529291102,
+        0
+      ],
+      [
+        1782532887550,
+        0
+      ],
+      [
+        1782536496573,
+        0
+      ],
+      [
+        1782540094312,
+        0
+      ],
+      [
+        1782543689741,
+        0
+      ],
+      [
+        1782547290803,
+        0
+      ],
+      [
+        1782550897870,
+        0
+      ],
+      [
+        1782554499491,
+        0
+      ],
+      [
+        1782558097804,
+        0
+      ],
+      [
+        1782561699895,
+        0
+      ],
+      [
+        1782565297962,
+        0
+      ],
+      [
+        1782568898358,
+        0
+      ],
+      [
+        1782572500297,
+        0
+      ],
+      [
+        1782576095635,
+        0
+      ],
+      [
+        1782579699754,
+        0
+      ],
+      [
+        1782583296982,
+        0
+      ],
+      [
+        1782586897032,
+        0
+      ],
+      [
+        1782590489455,
+        0
+      ],
+      [
+        1782594091843,
+        0
+      ],
+      [
+        1782597685606,
+        0
+      ],
+      [
+        1782601284642,
+        0
+      ],
+      [
+        1782604886114,
+        0
+      ],
+      [
+        1782608491701,
+        0
+      ],
+      [
+        1782612087868,
+        0
+      ],
+      [
+        1782615688165,
+        0
+      ],
+      [
+        1782619286890,
+        0
+      ],
+      [
+        1782622884594,
+        0
+      ],
+      [
+        1782626487553,
+        0
+      ],
+      [
+        1782630087539,
+        0
+      ],
+      [
+        1782633683092,
+        0
+      ],
+      [
+        1782637284797,
+        0
+      ],
+      [
+        1782640881860,
+        0
+      ],
+      [
+        1782644487542,
+        0
+      ],
+      [
+        1782648083121,
+        0
+      ],
+      [
+        1782651687413,
+        0
+      ],
+      [
+        1782655282747,
+        0
+      ],
+      [
+        1782658882975,
+        0
+      ],
+      [
+        1782662492894,
+        0
+      ],
+      [
+        1782666030639,
+        0
+      ],
+      [
+        1782669635512,
+        0
+      ],
+      [
+        1782673232490,
+        0
+      ],
+      [
+        1782676831621,
+        0
+      ],
+      [
+        1782680433602,
+        0
+      ],
+      [
+        1782684035452,
+        0
+      ],
+      [
+        1782687634920,
+        0
+      ],
+      [
+        1782691234983,
+        0
+      ],
+      [
+        1782694832716,
+        0
+      ],
+      [
+        1782698432196,
+        0
+      ],
+      [
+        1782702030688,
+        0
+      ],
+      [
+        1782705632271,
+        0
+      ],
+      [
+        1782709230652,
+        0
+      ],
+      [
+        1782712834796,
+        0
+      ],
+      [
+        1782716432141,
+        0
+      ],
+      [
+        1782720031986,
+        0
+      ],
+      [
+        1782723633318,
+        0
+      ],
+      [
+        1782727231455,
+        0
+      ],
+      [
+        1782730834075,
+        0
+      ],
+      [
+        1782734434222,
+        0
+      ],
+      [
+        1782738034514,
+        0
+      ],
+      [
+        1782741630498,
+        0
+      ],
+      [
+        1782745231285,
+        0
+      ],
+      [
+        1782748924852,
+        0
+      ],
+      [
+        1782752527520,
+        0
+      ],
+      [
+        1782756124831,
+        0
+      ],
+      [
+        1782759727157,
+        0
+      ],
+      [
+        1782763327473,
+        0
+      ],
+      [
+        1782766927604,
+        0
+      ],
+      [
+        1782770525898,
+        0
+      ],
+      [
+        1782774136749,
+        0
+      ],
+      [
+        1782777743343,
+        0
+      ],
+      [
+        1782781347226,
+        0
+      ],
+      [
+        1782784935738,
+        0
+      ],
+      [
+        1782788530772,
+        0
+      ],
+      [
+        1782792131118,
+        0
+      ],
+      [
+        1782795728280,
+        0
+      ],
+      [
+        1782799331583,
+        0
+      ],
+      [
+        1782802933870,
+        0
+      ],
+      [
+        1782806517990,
+        0
+      ],
+      [
+        1782810119257,
+        0
+      ],
+      [
+        1782813726361,
+        0
+      ],
+      [
+        1782817324655,
+        0
+      ],
+      [
+        1782820918990,
+        0
+      ],
+      [
+        1782824524105,
+        0
+      ],
+      [
+        1782828120682,
+        0
+      ],
+      [
+        1782831728005,
+        0
+      ],
+      [
+        1782835244521,
+        0
+      ],
+      [
+        1782838842239,
+        0
+      ],
+      [
+        1782842564548,
+        0
+      ],
+      [
+        1782846159833,
+        0
+      ],
+      [
+        1782849756104,
+        0
+      ],
+      [
+        1782853280971,
+        0
+      ],
+      [
+        1782856915711,
+        0
+      ],
+      [
+        1782860514269,
+        0
+      ],
+      [
+        1782864121524,
+        0
+      ],
+      [
+        1782867719545,
+        0
+      ],
+      [
+        1782871252752,
+        0
+      ],
+      [
+        1782874933972,
+        0
+      ],
+      [
+        1782878542910,
+        0
+      ],
+      [
+        1782882144593,
+        0
+      ],
+      [
+        1782885729997,
+        0
+      ],
+      [
+        1782889328502,
+        0
+      ],
+      [
+        1782892937615,
+        0
+      ],
+      [
+        1782896486727,
+        0
+      ],
+      [
+        1782900023423,
+        0
+      ],
+      [
+        1782903626412,
+        0
+      ],
+      [
+        1782907224658,
+        0
+      ],
+      [
+        1782910827348,
+        0
+      ],
+      [
+        1782914425131,
+        0
+      ],
+      [
+        1782918028761,
+        0
+      ],
+      [
+        1782921703440,
+        0
+      ],
+      [
+        1782925265371,
+        0
+      ],
+      [
+        1782928858485,
+        0
+      ],
+      [
+        1782932457561,
+        0
+      ],
+      [
+        1782936056607,
+        0
+      ],
+      [
+        1782939660375,
+        0
+      ],
+      [
+        1782943260921,
+        0
+      ],
+      [
+        1782946861469,
+        0
+      ],
+      [
+        1782950465587,
+        0
+      ],
+      [
+        1782954061851,
+        0
+      ],
+      [
+        1782957664378,
+        0
+      ],
+      [
+        1782961259344,
+        0
+      ],
+      [
+        1782964858465,
+        0
+      ],
+      [
+        1782968457870,
+        0
+      ],
+      [
+        1782972023608,
+        0
+      ],
+      [
+        1782975625720,
+        0
+      ],
+      [
+        1782979341795,
+        0
+      ],
+      [
+        1782982932616,
+        0
+      ],
+      [
+        1782986552130,
+        0
+      ],
+      [
+        1782990088240,
+        0
+      ],
+      [
+        1782993689635,
+        0
+      ],
+      [
+        1782997287490,
+        0
+      ],
+      [
+        1783000887394,
+        0
+      ],
+      [
+        1783004487254,
+        0
+      ],
+      [
+        1783008090376,
+        0
+      ],
+      [
+        1783011618802,
+        0
+      ],
+      [
+        1783015355308,
+        0
+      ],
+      [
+        1783018852077,
+        0
+      ],
+      [
+        1783022440755,
+        0
+      ],
+      [
+        1783026039410,
+        0
+      ],
+      [
+        1783029753751,
+        0
+      ],
+      [
+        1783033299573,
+        0
+      ],
+      [
+        1783036900425,
+        0
+      ],
+      [
+        1783040494008,
+        0
+      ],
+      [
+        1783044109659,
+        0
+      ],
+      [
+        1783047702967,
+        0
+      ],
+      [
+        1783051240189,
+        0
+      ],
+      [
+        1783054840524,
+        0
+      ],
+      [
+        1783058441475,
+        0
+      ],
+      [
+        1783062150014,
+        0
+      ],
+      [
+        1783065647918,
+        0
+      ],
+      [
+        1783069248987,
+        0
+      ],
+      [
+        1783072849514,
+        0
+      ],
+      [
+        1783076456851,
+        0
+      ],
+      [
+        1783080024061,
+        0
+      ],
+      [
+        1783083726950,
+        0
+      ],
+      [
+        1783087331097,
+        0
+      ],
+      [
+        1783090854154,
+        0
+      ],
+      [
+        1783094454055,
+        0
+      ],
+      [
+        1783098052892,
+        0
+      ],
+      [
+        1783101654935,
+        0
+      ],
+      [
+        1783105253240,
+        0
+      ],
+      [
+        1783108870606,
+        0
+      ],
+      [
+        1783112477749,
+        0
+      ],
+      [
+        1783116079206,
+        0
+      ],
+      [
+        1783119608369,
+        0
+      ],
+      [
+        1783123217861,
+        0
+      ],
+      [
+        1783126950650,
+        0
+      ],
+      [
+        1783130451922,
+        0
+      ],
+      [
+        1783134033557,
+        0
+      ],
+      [
+        1783137718727,
+        0
+      ],
+      [
+        1783141315816,
+        0
+      ],
+      [
+        1783144927321,
+        0
+      ],
+      [
+        1783148519136,
+        0
+      ],
+      [
+        1783152121525,
+        0
+      ],
+      [
+        1783155670711,
+        0
+      ],
+      [
+        1783159324109,
+        0
+      ],
+      [
+        1783162926154,
+        0
+      ],
+      [
+        1783166520774,
+        0
+      ],
+      [
+        1783170122881,
+        0
+      ],
+      [
+        1783173721798,
+        0
+      ],
+      [
+        1783177324547,
+        0
+      ],
+      [
+        1783180928357,
+        0
+      ],
+      [
+        1783184527751,
+        0
+      ],
+      [
+        1783188128263,
+        0
+      ],
+      [
+        1783191731799,
+        0
+      ],
+      [
+        1783195251236,
+        0
+      ],
+      [
+        1783198934594,
+        0
+      ],
+      [
+        1783202515438,
+        0
+      ],
+      [
+        1783206116335,
+        0
+      ],
+      [
+        1783209732856,
+        0
+      ],
+      [
+        1783213327420,
+        0
+      ],
+      [
+        1783216847148,
+        0
+      ],
+      [
+        1783220561075,
+        0
+      ],
+      [
+        1783224161124,
+        0
+      ],
+      [
+        1783227759570,
+        0
+      ],
+      [
+        1783231362585,
+        0
+      ],
+      [
+        1783234960033,
+        0
+      ],
+      [
+        1783238560665,
+        0
+      ],
+      [
+        1783242161497,
+        0
+      ],
+      [
+        1783245756503,
+        0
+      ],
+      [
+        1783249361611,
+        0
+      ],
+      [
+        1783252963287,
+        0
+      ],
+      [
+        1783256509474,
+        0
+      ],
+      [
+        1783260111161,
+        0
+      ],
+      [
+        1783263621751,
+        0
+      ],
+      [
+        1783267328975,
+        0
+      ],
+      [
+        1783270927283,
+        0
+      ],
+      [
+        1783274483021,
+        0
+      ],
+      [
+        1783278083760,
+        0
+      ],
+      [
+        1783281629087,
+        0
+      ],
+      [
+        1783285224961,
+        0
+      ],
+      [
+        1783288828393,
+        0
+      ],
+      [
+        1783292522336,
+        0
+      ],
+      [
+        1783296118292,
+        0
+      ],
+      [
+        1783299719092,
+        0
+      ],
+      [
+        1783303306114,
+        0
+      ],
+      [
+        1783306905869,
+        0
+      ],
+      [
+        1783310505759,
+        0
+      ],
+      [
+        1783314105907,
+        0
+      ],
+      [
+        1783317604219,
+        0
+      ],
+      [
+        1783321201458,
+        0
+      ],
+      [
+        1783324918377,
+        0
+      ],
+      [
+        1783328518247,
+        0
+      ],
+      [
+        1783332116989,
+        0
+      ],
+      [
+        1783335714425,
+        0
+      ],
+      [
+        1783339350950,
+        0
+      ],
+      [
+        1783342869908,
+        0
+      ],
+      [
+        1783346466822,
+        0
+      ],
+      [
+        1783350068861,
+        0
+      ],
+      [
+        1783353714828,
+        0
+      ],
+      [
+        1783357317072,
+        0
+      ],
+      [
+        1783360918701,
+        0
+      ],
+      [
+        1783364517599,
+        0
+      ],
+      [
+        1783368117570,
+        0
+      ],
+      [
+        1783371729171,
+        0
+      ],
+      [
+        1783375324610,
+        0
+      ],
+      [
+        1783378924770,
+        0
+      ],
+      [
+        1783382533002,
+        0
+      ],
+      [
+        1783386129678,
+        0
+      ],
+      [
+        1783389751153,
+        0
+      ],
+      [
+        1783393354780,
+        0
+      ],
+      [
+        1783396955824,
+        0
+      ],
+      [
+        1783400557451,
+        0
+      ],
+      [
+        1783404152060,
+        0
+      ],
+      [
+        1783407673764,
+        0
+      ],
+      [
+        1783411266264,
+        0
+      ],
+      [
+        1783414867869,
+        0
+      ],
+      [
+        1783418469346,
+        0
+      ],
+      [
+        1783422071221,
+        0
+      ],
+      [
+        1783425668664,
+        0
+      ],
+      [
+        1783429267040,
+        0
+      ],
+      [
+        1783432864910,
+        0
+      ],
+      [
+        1783436466328,
+        0
+      ],
+      [
+        1783440138715,
+        0
+      ],
+      [
+        1783443738075,
+        0
+      ],
+      [
+        1783447311933,
+        0
+      ],
+      [
+        1783450921250,
+        0
+      ],
+      [
+        1783454462765,
+        0
+      ],
+      [
+        1783458065069,
+        0
+      ],
+      [
+        1783461746579,
+        0
+      ],
+      [
+        1783465346514,
+        0
+      ],
+      [
+        1783468952852,
+        0
+      ],
+      [
+        1783472551486,
+        0
+      ],
+      [
+        1783476084118,
+        0
+      ],
+      [
+        1783479716573,
+        0
+      ],
+      [
+        1783483265181,
+        0
+      ],
+      [
+        1783486951072,
+        0
+      ],
+      [
+        1783490546183,
+        0
+      ],
+      [
+        1783494081752,
+        0
+      ],
+      [
+        1783497675508,
+        0
+      ],
+      [
+        1783501278544,
+        0
+      ],
+      [
+        1783504843701,
+        0
+      ],
+      [
+        1783508422787,
+        0
+      ],
+      [
+        1783512025200,
+        0
+      ],
+      [
+        1783515665267,
+        0
+      ],
+      [
+        1783519241980,
+        0
+      ],
+      [
+        1783522841873,
+        0
+      ],
+      [
+        1783526548814,
+        0
+      ],
+      [
+        1783530150693,
+        0
+      ],
+      [
+        1783533748400,
+        0
+      ],
+      [
+        1783537349564,
+        0
+      ],
+      [
+        1783540946559,
+        0
+      ],
+      [
+        1783544553061,
+        0
+      ],
+      [
+        1783548092416,
+        0
+      ],
+      [
+        1783551696464,
+        0
+      ],
+      [
+        1783555295530,
+        0
+      ],
+      [
+        1783558894500,
+        0
+      ],
+      [
+        1783562615796,
+        0
+      ],
+      [
+        1783566150272,
+        0
+      ],
+      [
+        1783569748312,
+        0
+      ],
+      [
+        1783573351251,
+        0
+      ],
+      [
+        1783576940583,
+        0
+      ],
+      [
+        1783580540289,
+        0
+      ],
+      [
+        1783584136063,
+        0
+      ],
+      [
+        1783587744406,
+        0
+      ],
+      [
+        1783591285375,
+        0
+      ],
+      [
+        1783594910827,
+        0
+      ],
+      [
+        1783598505826,
+        0
+      ],
+      [
+        1783602112712,
+        0
+      ],
+      [
+        1783605712561,
+        0
+      ],
+      [
+        1783609316003,
+        0
+      ],
+      [
+        1783612895513,
+        0
+      ],
+      [
+        1783616492314,
+        0
+      ],
+      [
+        1783620009364,
+        0
+      ],
+      [
+        1783623611324,
+        0
+      ],
+      [
+        1783627257667,
+        0
+      ],
+      [
+        1783630850920,
+        0
+      ],
+      [
+        1783634452202,
+        0
+      ],
+      [
+        1783638029523,
+        0
+      ],
+      [
+        1783641621641,
+        0
+      ],
+      [
+        1783645217681,
+        0
+      ],
+      [
+        1783648815854,
+        0
+      ],
+      [
+        1783652417914,
+        0
+      ],
+      [
+        1783656096961,
+        0
+      ],
+      [
+        1783659649409,
+        0
+      ],
+      [
+        1783663258709,
+        0
+      ],
+      [
+        1783666820000,
+        0
+      ],
+      [
+        1783666860532,
+        0
+      ]
+    ]
+  }
+}
