@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-07-16T06:07:52.390Z",
+  "savedAt": "2026-07-17T06:12:27.239Z",
   "id": "peanut-2-2",
   "detail": {
     "id": "peanut-2-2",
@@ -70,8 +70,8 @@
     "sentiment_votes_up_percentage": null,
     "sentiment_votes_down_percentage": null,
     "watchlist_portfolio_users": 25,
-    "market_cap_rank": 152,
-    "market_cap_rank_with_rehypothecated": 207,
+    "market_cap_rank": 151,
+    "market_cap_rank_with_rehypothecated": 206,
     "market_data": {
       "current_price": {
         "aed": 0.00270369,
@@ -597,9 +597,9 @@
         "link": 24947602,
         "sats": 310258764325
       },
-      "market_cap_rank": 152,
+      "market_cap_rank": 151,
       "outstanding_token_value_usd": null,
-      "market_cap_rank_with_rehypothecated": 207,
+      "market_cap_rank_with_rehypothecated": 206,
       "fully_diluted_valuation": {
         "aed": 838144206,
         "ars": 322155944584,
@@ -866,7 +866,7 @@
       "price_change_percentage_7d": 0,
       "price_change_percentage_14d": 0,
       "price_change_percentage_30d": 0,
-      "price_change_percentage_60d": -5.26171,
+      "price_change_percentage_60d": -5.22358,
       "price_change_percentage_200d": 0,
       "price_change_percentage_1y": 0,
       "market_cap_change_24h": null,
@@ -1070,69 +1070,69 @@
         "sats": 0
       },
       "price_change_percentage_60d_in_currency": {
-        "aed": -5.24495,
-        "ars": -3.99828,
-        "aud": -5.81474,
-        "bch": 29.5376,
-        "bdt": -5.43534,
-        "bhd": -5.42591,
-        "bmd": -5.26171,
-        "bnb": -4.16722,
-        "brl": -5.75251,
-        "btc": 0.66277,
-        "cad": -4.9173,
-        "chf": -5.98932,
-        "clp": -6.12384,
-        "cny": -5.86688,
-        "czk": -5.68022,
-        "dkk": -5.52522,
-        "dot": 0.30519,
-        "eos": 3.68031,
-        "eth": 2.69216,
-        "eur": -5.55009,
-        "gbp": -6.15584,
-        "gel": -5.61097,
-        "hkd": -5.21757,
-        "huf": -7.60513,
-        "idr": -4.08682,
-        "ils": -9.07761,
-        "inr": -6.2586,
-        "jpy": -4.88828,
-        "krw": -4.66693,
-        "kwd": -4.89752,
-        "lkr": -3.88889,
-        "ltc": 1.97761,
-        "mmk": -5.26171,
-        "mxn": -5.16226,
-        "myr": -4.78676,
-        "ngn": -5.35059,
-        "nok": -5.78303,
-        "nzd": -7.34327,
-        "php": -5.4201,
-        "pkr": -5.4382,
-        "pln": -5.79899,
-        "rub": -7.36294,
-        "sar": -5.67061,
-        "sek": -7.36134,
-        "sgd": -5.54281,
-        "sol": -0.3427,
-        "thb": -5.03529,
-        "try": -4.57329,
-        "twd": -5.70906,
-        "uah": -4.99435,
-        "usd": -5.26171,
-        "vef": -5.26171,
-        "vnd": -5.41511,
-        "xag": -4.37269,
-        "xau": -5.26171,
-        "xdr": -5.21407,
-        "xlm": -46.7325,
-        "xrp": -1.47859,
-        "yfi": 4.32904,
-        "zar": -7.9066,
-        "bits": 0.66277,
-        "link": 1.15172,
-        "sats": 0.66277
+        "aed": -5.2068,
+        "ars": -4.01952,
+        "aud": -5.77683,
+        "bch": 29.24145,
+        "bdt": -5.39728,
+        "bhd": -5.38784,
+        "bmd": -5.22358,
+        "bnb": -4.21998,
+        "brl": -5.71457,
+        "btc": 0.6253,
+        "cad": -4.87902,
+        "chf": -5.95148,
+        "clp": -6.08605,
+        "cny": -5.82899,
+        "czk": -5.64226,
+        "dkk": -5.48719,
+        "dot": 0.77859,
+        "eos": 3.81271,
+        "eth": 2.73334,
+        "eur": -5.51207,
+        "gbp": -6.11807,
+        "gel": -5.57294,
+        "hkd": -5.17276,
+        "huf": -7.10444,
+        "idr": -4.04821,
+        "ils": -9.04101,
+        "inr": -6.22087,
+        "jpy": -4.84999,
+        "krw": -4.61741,
+        "kwd": -4.85923,
+        "lkr": -4.96728,
+        "ltc": 1.9451,
+        "mmk": -5.22358,
+        "mxn": -5.12408,
+        "myr": -4.74843,
+        "ngn": -5.31249,
+        "nok": -5.7451,
+        "nzd": -7.32973,
+        "php": -5.38202,
+        "pkr": -5.40014,
+        "pln": -5.76107,
+        "rub": -7.32565,
+        "sar": -5.63264,
+        "sek": -7.32405,
+        "sgd": -5.50479,
+        "sol": -0.31607,
+        "thb": -4.99706,
+        "try": -4.53487,
+        "twd": -5.67111,
+        "uah": -5.11294,
+        "usd": -5.22358,
+        "vef": -5.22358,
+        "vnd": -5.37703,
+        "xag": -4.3342,
+        "xau": -5.22358,
+        "xdr": -5.41106,
+        "xlm": -46.81648,
+        "xrp": -1.43029,
+        "yfi": 4.28114,
+        "zar": -7.86953,
+        "bits": 0.6253,
+        "link": 1.07838,
+        "sats": 0.6253
       },
       "price_change_percentage_200d_in_currency": {},
       "price_change_percentage_1y_in_currency": {},
@@ -1151,7 +1151,7 @@
       "reddit_average_comments_48h": 0,
       "reddit_subscribers": 0,
       "reddit_accounts_active_48h": 0,
-      "telegram_channel_user_count": 908
+      "telegram_channel_user_count": 884
     },
     "developer_data": {
       "forks": 0,
@@ -1174,26 +1174,6 @@
   },
   "chart": {
     "prices": [
-      [
-        1781593242266,
-        0.0007360687655346874
-      ],
-      [
-        1781596823082,
-        0.0007360687655346874
-      ],
-      [
-        1781600423721,
-        0.0007360687655346874
-      ],
-      [
-        1781604022663,
-        0.0007360687655346874
-      ],
-      [
-        1781607624562,
-        0.0007360687655346874
-      ],
       [
         1781748024135,
         0.0007360687655346874
@@ -1273,26 +1253,6 @@
     ],
     "market_caps": [
       [
-        1781593242266,
-        0
-      ],
-      [
-        1781596823082,
-        0
-      ],
-      [
-        1781600423721,
-        0
-      ],
-      [
-        1781604022663,
-        0
-      ],
-      [
-        1781607624562,
-        0
-      ],
-      [
         1781748024135,
         0
       ],
@@ -1370,26 +1330,6 @@
       ]
     ],
     "total_volumes": [
-      [
-        1781593242266,
-        0
-      ],
-      [
-        1781596823082,
-        0
-      ],
-      [
-        1781600423721,
-        0
-      ],
-      [
-        1781604022663,
-        0
-      ],
-      [
-        1781607624562,
-        0
-      ],
       [
         1781748024135,
         0
