@@ -1,0 +1,2807 @@
+{
+  "savedAt": "2026-07-23T06:30:37.984Z",
+  "id": "bytecoin",
+  "detail": {
+    "id": "bytecoin",
+    "symbol": "bcn",
+    "name": "Bytecoin",
+    "web_slug": "bytecoin",
+    "asset_platform_id": null,
+    "platforms": {
+      "": ""
+    },
+    "detail_platforms": {
+      "": {
+        "decimal_place": null,
+        "contract_address": ""
+      }
+    },
+    "block_time_in_minutes": 2,
+    "hashing_algorithm": "Cryptonight",
+    "categories": [
+      "Smart Contract Platform",
+      "Privacy Coins",
+      "Proof of Work (PoW)",
+      "Privacy"
+    ],
+    "preview_listing": false,
+    "public_notice": null,
+    "additional_notices": [],
+    "description": {
+      "en": "Bytecoin is the first cryptocurrency created with CryptoNote technology. Bytecoin allows users to make absolutely anonymous money transfers through the CryptoNote algorithm. CryptoNote uses CryptoNote ring signatures to provide anonymous transactions and allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.\n\nEven if outgoing transactions are untraceable, everyone may still be able to see the payments received and thus determine one's income. By using a variation of the Diffie-Hellman exchange protocol, a receiver has multiple unique one-time addresses derived from his single public key. After funds are sent to these addresses they can only be redeemed by the receiver; and it would be impossible to cross-link these payments.\n\nAs a primarily peer-to-peer (p2p) payment system, Bytecoin has many of the same use-cases as Bitcoin. Created in 2012, Bytecoin is one of the earliest developed cryptocurrencies. Until recently, the team behind the coin has kept themselves anonymous. Now, though, they’ve opened up multiple communication channels, removed some layers of anonymity, and even built several local communities.\n\nBitcoin’s PoW consensus algorithm heavily favors miners that use powerful GPU and ASIC machines over those trying to mine with CPUs. This causes the network to centralize around the more powerful miners. Bytecoin attempts to close the gap between these two classes of miners with a new algorithm, Egalitarian Proof-of-Work (PoW). Egalitarian PoW uses a version of skrypt, a proof of work function similar to the hashcash function used by Bitcoin. The difference between the two is that scrypt isn’t memory bound. Because of this, you can produce highly efficient CPU mining rigs. GPUs will always be about 10 times more effective, though.\n\nThe Bytecoin project has been fairly fractured since its inception in July 2012. Previously, several isolated teams worked on the project without seemingly communicating with each other. This led to numerous forks and versions of the coin. In July 2017, the team decided to change their image and provide more transparency to the community. The team still remains pseudo-anonymous by only providing names and headshots on their webpage – no bios or social media links. But, it’s tough to expect more from a project that’s focused on privacy. The team has been busy at work refactoring their code and are planning to release a new public API on February 6, 2018. They’ll also be entering the Asian, Middle East, and African markets throughout 2018."
+    },
+    "links": {
+      "homepage": [
+        "https://bytecoin.org"
+      ],
+      "whitepaper": "",
+      "blockchain_site": [],
+      "official_forum_url": [
+        "https://bytecointalk.org"
+      ],
+      "chat_url": [],
+      "announcement_url": [],
+      "snapshot_url": null,
+      "twitter_screen_name": "Bytecoin_BCN",
+      "facebook_username": "",
+      "bitcointalk_thread_identifier": 512747,
+      "telegram_channel_identifier": "bytecoin_chat",
+      "subreddit_url": "https://www.reddit.com/r/BytecoinBCN/",
+      "repos_url": {
+        "github": [
+          "https://github.com/bcndev/bytecoin",
+          "https://github.com/bcndev/bytecoin-gui"
+        ],
+        "bitbucket": []
+      }
+    },
+    "image": {
+      "thumb": "https://coin-images.coingecko.com/coins/images/92/thumb/bytecoin-logo.png?1696501475",
+      "small": "https://coin-images.coingecko.com/coins/images/92/small/bytecoin-logo.png?1696501475",
+      "large": "https://coin-images.coingecko.com/coins/images/92/large/bytecoin-logo.png?1696501475"
+    },
+    "country_origin": "",
+    "genesis_date": "2012-07-04",
+    "has_supply_breakdown": false,
+    "sentiment_votes_up_percentage": null,
+    "sentiment_votes_down_percentage": null,
+    "watchlist_portfolio_users": 18276,
+    "market_cap_rank": 1637,
+    "market_cap_rank_with_rehypothecated": 1975,
+    "market_data": {
+      "current_price": {
+        "vef": 0.00014461,
+        "btc": 2.1683e-8,
+        "bits": 0.0216829,
+        "sats": 2.17,
+        "eth": 7.5076e-7,
+        "ltc": 0.00003067,
+        "bch": 0.00000665,
+        "bnb": 0.00000254,
+        "eos": 0.02185079,
+        "xrp": 0.0012728,
+        "xlm": 0.00783058,
+        "link": 0.00016834,
+        "dot": 0.0017566,
+        "yfi": 6.87346e-7,
+        "sol": 0.00001864,
+        "usd": 0.00144421,
+        "aed": 0.00530387,
+        "ars": 2.14,
+        "aud": 0.00205936,
+        "bdt": 0.177845,
+        "bhd": 0.00054345,
+        "bmd": 0.00144421,
+        "brl": 0.00730728,
+        "cad": 0.00203077,
+        "chf": 0.00117486,
+        "clp": 1.35,
+        "cny": 0.00977746,
+        "czk": 0.03055591,
+        "dkk": 0.00944587,
+        "eur": 0.00126354,
+        "gbp": 0.00107876,
+        "gel": 0.00379828,
+        "hkd": 0.01132358,
+        "huf": 0.460017,
+        "idr": 25.87,
+        "ils": 0.00442088,
+        "inr": 0.13943,
+        "jpy": 0.235524,
+        "krw": 2.12,
+        "kwd": 0.00044726,
+        "lkr": 0.484607,
+        "mmk": 3.03,
+        "mxn": 0.02511599,
+        "myr": 0.00590047,
+        "ngn": 1.98,
+        "nok": 0.01382171,
+        "nzd": 0.00248055,
+        "php": 0.089168,
+        "pkr": 0.400323,
+        "pln": 0.00547067,
+        "rub": 0.113378,
+        "sar": 0.00541828,
+        "sek": 0.01398079,
+        "sgd": 0.00186192,
+        "thb": 0.04881508,
+        "try": 0.068217,
+        "twd": 0.04661049,
+        "uah": 0.064525,
+        "vnd": 38.01,
+        "zar": 0.02365575,
+        "xdr": 0.00103081,
+        "xag": 0.00002424,
+        "xau": 3.5012e-7
+      },
+      "total_value_locked": null,
+      "mcap_to_tvl_ratio": null,
+      "fdv_to_tvl_ratio": null,
+      "roi": null,
+      "ath": {
+        "vef": 4720.18,
+        "btc": 0.00001582,
+        "bits": 7.38,
+        "sats": 737.86,
+        "eth": 0.00010803,
+        "ltc": 0.00042767,
+        "bch": 0.00004205,
+        "bnb": 0.03694576,
+        "eos": 0.0242823,
+        "xrp": 0.0047239,
+        "xlm": 0.0193446,
+        "link": 0.12296373,
+        "dot": 0.00180556,
+        "yfi": 8.9253e-7,
+        "sol": 0.00002125,
+        "usd": 0.145166,
+        "aed": 0.247961,
+        "ars": 2.15,
+        "aud": 0.194641,
+        "bdt": 5.72,
+        "bhd": 0.02545165,
+        "bmd": 0.067506,
+        "brl": 0.515542,
+        "cad": 0.188142,
+        "chf": 0.14548,
+        "clp": 42.83,
+        "cny": 0.924374,
+        "czk": 1.46,
+        "dkk": 0.910874,
+        "eur": 0.122297,
+        "gbp": 0.107463,
+        "gel": 0.00391038,
+        "hkd": 1.14,
+        "huf": 17.97,
+        "idr": 2038.12,
+        "ils": 0.242041,
+        "inr": 9.74,
+        "jpy": 15.82,
+        "krw": 156.43,
+        "kwd": 0.0203578,
+        "lkr": 10.66,
+        "mmk": 90.96,
+        "mxn": 2.84,
+        "myr": 0.57512,
+        "ngn": 24.31,
+        "nok": 0.545454,
+        "nzd": 0.208023,
+        "php": 7.54,
+        "pkr": 7.81,
+        "pln": 0.523732,
+        "rub": 9.18,
+        "sar": 0.25317,
+        "sek": 1.28,
+        "sgd": 0.090485,
+        "thb": 2.17,
+        "try": 0.289493,
+        "twd": 4.32,
+        "uah": 1.77,
+        "vnd": 1537.21,
+        "zar": 1.82,
+        "xdr": 0.101628,
+        "xag": 0.00881478,
+        "xau": 0.00011077
+      },
+      "ath_change_percentage": {
+        "vef": -100,
+        "btc": -99.8629,
+        "bits": -99.70614,
+        "sats": -99.70614,
+        "eth": -99.30503,
+        "ltc": -92.82847,
+        "bch": -84.19093,
+        "bnb": -99.99314,
+        "eos": -10.01352,
+        "xrp": -73.05615,
+        "xlm": -59.52057,
+        "link": -99.86309,
+        "dot": -2.7118,
+        "yfi": -22.98898,
+        "sol": -12.27404,
+        "usd": -99.00513,
+        "aed": -97.86101,
+        "ars": -0.63465,
+        "aud": -98.94197,
+        "bdt": -96.88988,
+        "bhd": -97.86478,
+        "bmd": -97.86061,
+        "brl": -98.5826,
+        "cad": -98.92062,
+        "chf": -99.19243,
+        "clp": -96.84593,
+        "cny": -98.94226,
+        "czk": -97.90309,
+        "dkk": -98.96299,
+        "eur": -98.96683,
+        "gbp": -98.99616,
+        "gel": -2.86689,
+        "hkd": -99.00631,
+        "huf": -97.44038,
+        "idr": -98.73055,
+        "ils": -98.1735,
+        "inr": -98.56805,
+        "jpy": -98.5113,
+        "krw": -98.64629,
+        "kwd": -97.80303,
+        "lkr": -95.45218,
+        "mmk": -96.66622,
+        "mxn": -99.11486,
+        "myr": -98.97405,
+        "ngn": -91.84752,
+        "nok": -97.46602,
+        "nzd": -98.80756,
+        "php": -98.81681,
+        "pkr": -94.87333,
+        "pln": -98.95544,
+        "rub": -98.76542,
+        "sar": -97.85983,
+        "sek": -98.90827,
+        "sgd": -97.94228,
+        "thb": -97.75288,
+        "try": -76.43556,
+        "twd": -98.92167,
+        "uah": -96.35629,
+        "vnd": -97.52705,
+        "zar": -98.70078,
+        "xdr": -98.9857,
+        "xag": -99.72499,
+        "xau": -99.68393
+      },
+      "ath_date": {
+        "vef": "2018-05-08T16:00:00.000Z",
+        "btc": "2018-05-08T03:41:12.000Z",
+        "bits": "2018-05-08T16:00:00.000Z",
+        "sats": "2018-05-08T16:00:00.000Z",
+        "eth": "2015-08-09T16:00:00.000Z",
+        "ltc": "2018-05-08T16:00:00.000Z",
+        "bch": "2018-05-08T16:00:00.000Z",
+        "bnb": "2017-10-18T16:00:00.000Z",
+        "eos": "2026-06-28T19:49:00.000Z",
+        "xrp": "2022-09-26T03:55:53.000Z",
+        "xlm": "2022-09-26T03:55:53.000Z",
+        "link": "2018-05-08T16:00:00.000Z",
+        "dot": "2026-06-28T13:57:40.000Z",
+        "yfi": "2026-06-26T13:20:10.000Z",
+        "sol": "2026-06-19T07:39:20.000Z",
+        "usd": "2018-05-08T03:41:12.000Z",
+        "aed": "2018-05-08T16:00:00.000Z",
+        "ars": "2026-07-08T05:15:00.000Z",
+        "aud": "2018-05-08T03:41:12.000Z",
+        "bdt": "2018-05-08T16:00:00.000Z",
+        "bhd": "2018-05-08T16:00:00.000Z",
+        "bmd": "2018-05-08T16:00:00.000Z",
+        "brl": "2018-05-08T03:41:12.000Z",
+        "cad": "2018-05-08T03:41:12.000Z",
+        "chf": "2018-05-08T03:41:12.000Z",
+        "clp": "2018-05-08T16:00:00.000Z",
+        "cny": "2018-05-08T03:41:12.000Z",
+        "czk": "2018-05-08T16:00:00.000Z",
+        "dkk": "2018-05-08T03:41:12.000Z",
+        "eur": "2018-05-08T03:41:12.000Z",
+        "gbp": "2018-05-08T03:41:12.000Z",
+        "gel": "2026-04-05T14:00:00.000Z",
+        "hkd": "2018-05-08T03:41:12.000Z",
+        "huf": "2018-05-08T16:00:00.000Z",
+        "idr": "2018-05-08T03:41:12.000Z",
+        "ils": "2018-05-08T16:00:00.000Z",
+        "inr": "2018-05-08T03:41:12.000Z",
+        "jpy": "2018-05-08T03:41:12.000Z",
+        "krw": "2018-05-08T03:41:12.000Z",
+        "kwd": "2018-05-08T16:00:00.000Z",
+        "lkr": "2018-05-08T16:00:00.000Z",
+        "mmk": "2018-05-08T16:00:00.000Z",
+        "mxn": "2018-05-08T03:41:12.000Z",
+        "myr": "2018-05-08T03:41:12.000Z",
+        "ngn": "2018-05-08T16:00:00.000Z",
+        "nok": "2018-05-08T16:00:00.000Z",
+        "nzd": "2018-05-08T03:41:12.000Z",
+        "php": "2018-05-08T03:41:12.000Z",
+        "pkr": "2018-05-08T16:00:00.000Z",
+        "pln": "2018-05-08T03:41:12.000Z",
+        "rub": "2018-05-08T03:41:12.000Z",
+        "sar": "2018-05-08T16:00:00.000Z",
+        "sek": "2018-05-08T03:41:12.000Z",
+        "sgd": "2018-05-08T16:00:00.000Z",
+        "thb": "2018-05-08T16:00:00.000Z",
+        "try": "2018-05-08T16:00:00.000Z",
+        "twd": "2018-05-08T03:41:12.000Z",
+        "uah": "2018-05-08T16:00:00.000Z",
+        "vnd": "2018-05-08T16:00:00.000Z",
+        "zar": "2018-05-08T03:41:12.000Z",
+        "xdr": "2018-05-08T03:41:12.000Z",
+        "xag": "2018-05-08T03:41:12.000Z",
+        "xau": "2018-05-08T03:41:12.000Z"
+      },
+      "atl": {
+        "vef": 6.00788e-7,
+        "btc": 5.673e-11,
+        "bits": 0.00005673,
+        "sats": 0.00567303,
+        "eth": 2.331e-9,
+        "ltc": 6.9175e-8,
+        "bch": 1.3115e-8,
+        "bnb": 9.21e-9,
+        "eos": 0.00001132,
+        "xrp": 0.00000276,
+        "xlm": 0.00002311,
+        "link": 4.46655e-7,
+        "dot": 0.00000156,
+        "yfi": 1.176e-9,
+        "sol": 9.2992e-8,
+        "usd": 0.000006,
+        "aed": 0.00002204,
+        "ars": 0.00005415,
+        "aud": 0.00000769,
+        "bdt": 0.00049192,
+        "bhd": 0.00000226,
+        "bmd": 0.000006,
+        "brl": 0.00001672,
+        "cad": 0.00000736,
+        "chf": 0.00000487,
+        "clp": 0.00384734,
+        "cny": 0.00003843,
+        "czk": 0.00012912,
+        "dkk": 0.00003859,
+        "eur": 0.00000519,
+        "gbp": 0.00000406,
+        "gel": 0.00001641,
+        "hkd": 0.0000471,
+        "huf": 0.00160816,
+        "idr": 0.07862,
+        "ils": 0.00002164,
+        "inr": 0.00039172,
+        "jpy": 0.00073467,
+        "krw": 0.00682484,
+        "kwd": 0.00000183,
+        "lkr": 0.00083089,
+        "mmk": 0.00649708,
+        "mxn": 0.00009088,
+        "myr": 0.00002208,
+        "ngn": 0.00115569,
+        "nok": 0.00004587,
+        "nzd": 0.00000809,
+        "php": 0.00028269,
+        "pkr": 0.00063557,
+        "pln": 0.00002194,
+        "rub": 0.00032074,
+        "sar": 0.00002252,
+        "sek": 0.00004869,
+        "sgd": 0.0000077,
+        "thb": 0.00019469,
+        "try": 0.00001451,
+        "twd": 0.00017744,
+        "uah": 0.00009811,
+        "vnd": 0.134771,
+        "zar": 0.0000723,
+        "xdr": 0.00000424,
+        "xag": 1.65196e-7,
+        "xau": 1.745e-9
+      },
+      "atl_change_percentage": {
+        "vef": 23969.8649,
+        "btc": 38121.0349,
+        "bits": 38121.0349,
+        "sats": 38121.0349,
+        "eth": 32104.66781,
+        "ltc": 44237.92161,
+        "bch": 50592.53488,
+        "bnb": 27435.54743,
+        "eos": 192988.76662,
+        "xrp": 46010.7482,
+        "xlm": 33780.26744,
+        "link": 37590.10085,
+        "dot": 112566.48494,
+        "yfi": 58345.15402,
+        "sol": 19948.01376,
+        "usd": 23969.8649,
+        "aed": 23969.8649,
+        "ars": 3954096.80371,
+        "aud": 26693.9455,
+        "bdt": 36053.28824,
+        "bhd": 23971.14428,
+        "bmd": 23969.8649,
+        "brl": 43604.08352,
+        "cad": 27494.30054,
+        "chf": 23999.75641,
+        "clp": 35014.83093,
+        "cny": 25339.13995,
+        "czk": 23564.42834,
+        "dkk": 24378.17138,
+        "eur": 24233.17069,
+        "gbp": 26446.87383,
+        "gel": 23045.7933,
+        "hkd": 23942.64136,
+        "huf": 28505.24569,
+        "idr": 32808.90077,
+        "ils": 20328.34024,
+        "inr": 35494.41629,
+        "jpy": 31958.44884,
+        "krw": 30927.50142,
+        "kwd": 24311.49722,
+        "lkr": 58223.80456,
+        "mmk": 46572.77141,
+        "mxn": 27536.28772,
+        "myr": 26622.35206,
+        "ngn": 171370.51988,
+        "nok": 30032.47635,
+        "nzd": 30557.11387,
+        "php": 31442.86707,
+        "pkr": 62886.88913,
+        "pln": 24835.16353,
+        "rub": 35249.14234,
+        "sar": 23955.88041,
+        "sek": 28613.80877,
+        "sgd": 24083.9536,
+        "thb": 24972.76048,
+        "try": 470072.38772,
+        "twd": 26167.80123,
+        "uah": 65670.73087,
+        "vnd": 28106.69034,
+        "zar": 32620.70953,
+        "xdr": 24190.04775,
+        "xag": 14574.4116,
+        "xau": 19965.53195
+      },
+      "atl_date": {
+        "vef": "2025-06-15T19:02:29.000Z",
+        "btc": "2025-06-15T19:02:29.000Z",
+        "bits": "2025-06-15T19:02:29.000Z",
+        "sats": "2025-06-15T19:02:29.000Z",
+        "eth": "2025-06-15T19:02:29.000Z",
+        "ltc": "2025-06-15T19:02:29.000Z",
+        "bch": "2025-06-15T19:02:29.000Z",
+        "bnb": "2025-06-15T19:02:29.000Z",
+        "eos": "2025-06-15T19:02:29.000Z",
+        "xrp": "2025-06-15T19:02:29.000Z",
+        "xlm": "2025-06-15T19:02:29.000Z",
+        "link": "2025-06-15T19:02:29.000Z",
+        "dot": "2025-06-15T19:02:29.000Z",
+        "yfi": "2025-06-15T19:02:29.000Z",
+        "sol": "2025-10-06T05:47:16.000Z",
+        "usd": "2025-06-15T19:02:29.000Z",
+        "aed": "2025-06-15T19:02:29.000Z",
+        "ars": "2014-12-27T16:00:00.000Z",
+        "aud": "2014-11-28T16:00:00.000Z",
+        "bdt": "2014-12-18T16:00:00.000Z",
+        "bhd": "2025-06-15T19:02:29.000Z",
+        "bmd": "2025-06-15T19:02:29.000Z",
+        "brl": "2015-01-14T16:00:00.000Z",
+        "cad": "2014-12-27T16:00:00.000Z",
+        "chf": "2025-06-15T19:02:29.000Z",
+        "clp": "2014-12-27T16:00:00.000Z",
+        "cny": "2015-01-14T16:00:00.000Z",
+        "czk": "2025-06-15T19:02:29.000Z",
+        "dkk": "2014-12-18T16:00:00.000Z",
+        "eur": "2014-12-18T16:00:00.000Z",
+        "gbp": "2014-12-18T16:00:00.000Z",
+        "gel": "2025-06-15T19:02:29.000Z",
+        "hkd": "2025-06-15T19:02:29.000Z",
+        "huf": "2014-11-28T16:00:00.000Z",
+        "idr": "2014-12-27T16:00:00.000Z",
+        "ils": "2025-06-15T19:02:29.000Z",
+        "inr": "2015-01-14T16:00:00.000Z",
+        "jpy": "2015-01-14T16:00:00.000Z",
+        "krw": "2015-01-14T16:00:00.000Z",
+        "kwd": "2025-06-15T19:02:29.000Z",
+        "lkr": "2014-12-27T16:00:00.000Z",
+        "mmk": "2015-01-14T16:00:00.000Z",
+        "mxn": "2014-11-28T16:00:00.000Z",
+        "myr": "2014-12-18T16:00:00.000Z",
+        "ngn": "2014-12-27T16:00:00.000Z",
+        "nok": "2014-11-28T16:00:00.000Z",
+        "nzd": "2015-01-14T16:00:00.000Z",
+        "php": "2015-01-14T16:00:00.000Z",
+        "pkr": "2015-01-14T16:00:00.000Z",
+        "pln": "2014-11-28T16:00:00.000Z",
+        "rub": "2014-11-20T16:00:00.000Z",
+        "sar": "2025-06-15T19:02:29.000Z",
+        "sek": "2014-11-28T16:00:00.000Z",
+        "sgd": "2025-06-15T19:02:29.000Z",
+        "thb": "2025-06-15T19:02:29.000Z",
+        "try": "2014-11-28T16:00:00.000Z",
+        "twd": "2025-06-15T19:02:29.000Z",
+        "uah": "2014-11-28T16:00:00.000Z",
+        "vnd": "2015-01-14T16:00:00.000Z",
+        "zar": "2014-11-28T16:00:00.000Z",
+        "xdr": "2025-06-15T19:02:29.000Z",
+        "xag": "2025-06-15T19:02:29.000Z",
+        "xau": "2025-06-15T19:02:29.000Z"
+      },
+      "market_cap": {
+        "vef": 26610932,
+        "btc": 3990,
+        "bits": 3990087065,
+        "sats": 399008706463,
+        "eth": 138155,
+        "ltc": 5644036,
+        "bch": 1223414,
+        "bnb": 466704,
+        "eos": 4020982540,
+        "xrp": 234220581,
+        "xlm": 1440984026,
+        "link": 30978782,
+        "dot": 323249342,
+        "yfi": 126485,
+        "sol": 3430697,
+        "usd": 265763830,
+        "aed": 976017666,
+        "ars": 394029826108,
+        "aud": 378964073,
+        "bdt": 32727106287,
+        "bhd": 100005335,
+        "bmd": 265763830,
+        "brl": 1344685251,
+        "cad": 373701684,
+        "chf": 216198079,
+        "clp": 248608774893,
+        "cny": 1799247706,
+        "czk": 5622898236,
+        "dkk": 1738228331,
+        "eur": 232517041,
+        "gbp": 198513090,
+        "gel": 698958873,
+        "hkd": 2083764630,
+        "huf": 84652291109,
+        "idr": 4761135959062,
+        "ils": 813529660,
+        "inr": 25657821892,
+        "jpy": 43341164063,
+        "krw": 389676770042,
+        "kwd": 82303869,
+        "lkr": 89177333846,
+        "mmk": 558016341204,
+        "mxn": 4621845085,
+        "myr": 1085804704,
+        "ngn": 364665181871,
+        "nok": 2543471209,
+        "nzd": 456470108,
+        "php": 16408656189,
+        "pkr": 73667393927,
+        "pln": 1006711794,
+        "rub": 20863839979,
+        "sar": 997071211,
+        "sek": 2572745627,
+        "sgd": 342631234,
+        "thb": 8982950340,
+        "try": 12553380295,
+        "twd": 8577261854,
+        "uah": 11873875334,
+        "vnd": 6995435536613,
+        "zar": 4353131011,
+        "xdr": 189690263,
+        "xag": 4460920,
+        "xau": 64429
+      },
+      "market_cap_rank": 1637,
+      "outstanding_token_value_usd": null,
+      "market_cap_rank_with_rehypothecated": 1975,
+      "fully_diluted_valuation": {
+        "vef": 26617704,
+        "btc": 3991,
+        "bits": 3991102449,
+        "sats": 399110244907,
+        "eth": 138190,
+        "ltc": 5645473,
+        "bch": 1223726,
+        "bnb": 466822,
+        "eos": 4022005787,
+        "xrp": 234280184,
+        "xlm": 1441350723,
+        "link": 30986665,
+        "dot": 323331602,
+        "yfi": 126518,
+        "sol": 3431570,
+        "usd": 265831461,
+        "aed": 976266040,
+        "ars": 394130097542,
+        "aud": 379060511,
+        "bdt": 32735434575,
+        "bhd": 100030784,
+        "bmd": 265831461,
+        "brl": 1345027442,
+        "cad": 373796782,
+        "chf": 216253096,
+        "clp": 248672040049,
+        "cny": 1799705573,
+        "czk": 5624329133,
+        "dkk": 1738670670,
+        "eur": 232576211,
+        "gbp": 198563607,
+        "gel": 699136742,
+        "hkd": 2084294899,
+        "huf": 84673833150,
+        "idr": 4762347557531,
+        "ils": 813736685,
+        "inr": 25664351212,
+        "jpy": 43352193382,
+        "krw": 389775933725,
+        "kwd": 82324813,
+        "lkr": 89200027405,
+        "mmk": 558158343396,
+        "mxn": 4623021238,
+        "myr": 1086081016,
+        "ngn": 364757980686,
+        "nok": 2544118464,
+        "nzd": 456586269,
+        "php": 16412831811,
+        "pkr": 73686140567,
+        "pln": 1006967979,
+        "rub": 20869149342,
+        "sar": 997324942,
+        "sek": 2573400331,
+        "sgd": 342718426,
+        "thb": 8985236292,
+        "try": 12556574839,
+        "twd": 8579444567,
+        "uah": 11876896960,
+        "vnd": 6997215712407,
+        "zar": 4354238782,
+        "xdr": 189738534,
+        "xag": 4462056,
+        "xau": 64446
+      },
+      "market_cap_fdv_ratio": 1,
+      "total_volume": {
+        "vef": 3.29,
+        "btc": 0.00049348,
+        "bits": 493.48,
+        "sats": 49348,
+        "eth": 0.01708642,
+        "ltc": 0.69803095,
+        "bch": 0.15130681,
+        "bnb": 0.05771997,
+        "eos": 497.298,
+        "xrp": 28.967428,
+        "xlm": 178.215,
+        "link": 3.831327,
+        "dot": 39.978135,
+        "yfi": 0.0156432,
+        "sol": 0.42429438,
+        "usd": 32.87,
+        "aed": 120.71,
+        "ars": 48732,
+        "aud": 46.87,
+        "bdt": 4047.55,
+        "bhd": 12.37,
+        "bmd": 32.87,
+        "brl": 166.31,
+        "cad": 46.22,
+        "chf": 26.74,
+        "clp": 30747,
+        "cny": 222.52,
+        "czk": 695.42,
+        "dkk": 214.98,
+        "eur": 28.76,
+        "gbp": 24.55,
+        "gel": 86.44,
+        "hkd": 257.71,
+        "huf": 10469.44,
+        "idr": 588838,
+        "ils": 100.61,
+        "inr": 3173.25,
+        "jpy": 5360.25,
+        "krw": 48194,
+        "kwd": 10.18,
+        "lkr": 11029.08,
+        "mmk": 69013,
+        "mxn": 571.61,
+        "myr": 134.29,
+        "ngn": 45100,
+        "nok": 314.57,
+        "nzd": 56.45,
+        "php": 2029.35,
+        "pkr": 9110.88,
+        "pln": 124.51,
+        "rub": 2580.35,
+        "sar": 123.31,
+        "sek": 318.19,
+        "sgd": 42.38,
+        "thb": 1110.97,
+        "try": 1552.55,
+        "twd": 1060.8,
+        "uah": 1468.51,
+        "vnd": 865166,
+        "zar": 538.38,
+        "xdr": 23.46,
+        "xag": 0.551708,
+        "xau": 0.00796833
+      },
+      "high_24h": {
+        "vef": 0,
+        "btc": 0,
+        "bits": 0,
+        "sats": 0,
+        "eth": 0,
+        "ltc": 0,
+        "bch": 0,
+        "bnb": 0,
+        "eos": 0,
+        "xrp": 0,
+        "xlm": 0,
+        "link": 0,
+        "dot": 0,
+        "yfi": 0,
+        "sol": 0,
+        "usd": 0,
+        "aed": 0,
+        "ars": 0,
+        "aud": 0,
+        "bdt": 0,
+        "bhd": 0,
+        "bmd": 0,
+        "brl": 0,
+        "cad": 0,
+        "chf": 0,
+        "clp": 0,
+        "cny": 0,
+        "czk": 0,
+        "dkk": 0,
+        "eur": 0,
+        "gbp": 0,
+        "gel": 0,
+        "hkd": 0,
+        "huf": 0,
+        "idr": 0,
+        "ils": 0,
+        "inr": 0,
+        "jpy": 0,
+        "krw": 0,
+        "kwd": 0,
+        "lkr": 0,
+        "mmk": 0,
+        "mxn": 0,
+        "myr": 0,
+        "ngn": 0,
+        "nok": 0,
+        "nzd": 0,
+        "php": 0,
+        "pkr": 0,
+        "pln": 0,
+        "rub": 0,
+        "sar": 0,
+        "sek": 0,
+        "sgd": 0,
+        "thb": 0,
+        "try": 0,
+        "twd": 0,
+        "uah": 0,
+        "vnd": 0,
+        "zar": 0,
+        "xdr": 0,
+        "xag": 0,
+        "xau": 0
+      },
+      "low_24h": {
+        "vef": 0,
+        "btc": 0,
+        "bits": 0,
+        "sats": 0,
+        "eth": 0,
+        "ltc": 0,
+        "bch": 0,
+        "bnb": 0,
+        "eos": 0,
+        "xrp": 0,
+        "xlm": 0,
+        "link": 0,
+        "dot": 0,
+        "yfi": 0,
+        "sol": 0,
+        "usd": 0,
+        "aed": 0,
+        "ars": 0,
+        "aud": 0,
+        "bdt": 0,
+        "bhd": 0,
+        "bmd": 0,
+        "brl": 0,
+        "cad": 0,
+        "chf": 0,
+        "clp": 0,
+        "cny": 0,
+        "czk": 0,
+        "dkk": 0,
+        "eur": 0,
+        "gbp": 0,
+        "gel": 0,
+        "hkd": 0,
+        "huf": 0,
+        "idr": 0,
+        "ils": 0,
+        "inr": 0,
+        "jpy": 0,
+        "krw": 0,
+        "kwd": 0,
+        "lkr": 0,
+        "mmk": 0,
+        "mxn": 0,
+        "myr": 0,
+        "ngn": 0,
+        "nok": 0,
+        "nzd": 0,
+        "php": 0,
+        "pkr": 0,
+        "pln": 0,
+        "rub": 0,
+        "sar": 0,
+        "sek": 0,
+        "sgd": 0,
+        "thb": 0,
+        "try": 0,
+        "twd": 0,
+        "uah": 0,
+        "vnd": 0,
+        "zar": 0,
+        "xdr": 0,
+        "xag": 0,
+        "xau": 0
+      },
+      "price_change_24h": null,
+      "price_change_percentage_24h": null,
+      "price_change_percentage_7d": 0,
+      "price_change_percentage_14d": null,
+      "price_change_percentage_30d": 0,
+      "price_change_percentage_60d": null,
+      "price_change_percentage_200d": null,
+      "price_change_percentage_1y": 6643.82789,
+      "market_cap_change_24h": null,
+      "market_cap_change_percentage_24h": null,
+      "price_change_24h_in_currency": null,
+      "price_change_percentage_1h_in_currency": {},
+      "price_change_percentage_24h_in_currency": {},
+      "price_change_percentage_7d_in_currency": {
+        "vef": 0,
+        "eth": 0.01949,
+        "ltc": -3.88597,
+        "bch": 2.96719,
+        "bnb": 2.4133,
+        "eos": 13.79428,
+        "xrp": -1.69274,
+        "xlm": 2.22816,
+        "link": -0.51989,
+        "dot": 2.77684,
+        "yfi": 2.23745,
+        "sol": -0.05247,
+        "usd": 0,
+        "aed": 0,
+        "ars": 0.48461,
+        "aud": -0.26048,
+        "bdt": 0.3358,
+        "bhd": 0.28383,
+        "bmd": 0,
+        "brl": -0.64408,
+        "cad": 0.08014,
+        "chf": 0.88747,
+        "clp": 1.17129,
+        "cny": 0.03398,
+        "czk": 0.2276,
+        "dkk": 0.30134,
+        "eur": 0.29404,
+        "gbp": 1.05663,
+        "gel": 0.38168,
+        "hkd": 0.02747,
+        "huf": 1.56889,
+        "idr": -0.40797,
+        "ils": 2.60269,
+        "inr": 0.25,
+        "jpy": 0.5688,
+        "krw": -1.0563,
+        "kwd": 0.10635,
+        "lkr": 0.23437,
+        "mmk": -0.00667,
+        "mxn": -0.0514,
+        "myr": 0.31921,
+        "ngn": -0.27835,
+        "nok": -1.02155,
+        "nzd": 0.49629,
+        "php": 0.15045,
+        "pkr": 0.24116,
+        "pln": 0.38617,
+        "rub": 1.297,
+        "sar": -0.09158,
+        "sek": 0.84462,
+        "sgd": 0.04912,
+        "thb": 0.69637,
+        "try": 0.38541,
+        "twd": 0.32297,
+        "uah": 0.33045,
+        "vnd": 0.23801,
+        "zar": 0.21451,
+        "xdr": 0.38508,
+        "xag": -4.05007,
+        "xau": -2.36801,
+        "btc": -1.15885,
+        "bits": -1.15885,
+        "sats": -1.15885
+      },
+      "price_change_percentage_14d_in_currency": {
+        "aed": -26.42983,
+        "ars": -26.94865,
+        "aud": -26.93877,
+        "bch": -21.0483,
+        "bdt": -26.32934,
+        "bhd": -26.33663,
+        "bmd": -26.42983,
+        "bnb": -26.19742,
+        "brl": -26.95121,
+        "btc": -28.3902,
+        "cad": -27.15416,
+        "chf": -26.39265,
+        "clp": -26.72092,
+        "cny": -26.69707,
+        "czk": -26.66297,
+        "dkk": -26.5054,
+        "dot": -28.05631,
+        "eos": -22.81678,
+        "eth": -30.62544,
+        "eur": -26.52196,
+        "gbp": -26.7135,
+        "gel": -26.84785,
+        "hkd": -26.41563,
+        "huf": -25.98678,
+        "idr": -27.04934,
+        "ils": -26.56379,
+        "inr": -25.58139,
+        "jpy": -26.42485,
+        "krw": -27.20571,
+        "kwd": -26.63825,
+        "lkr": -26.13913,
+        "ltc": -28.98447,
+        "mmk": -26.42983,
+        "mxn": -26.5004,
+        "myr": -26.13407,
+        "ngn": -26.17302,
+        "nok": -27.22811,
+        "nzd": -27.9452,
+        "php": -26.36774,
+        "pkr": -26.32371,
+        "pln": -25.99951,
+        "rub": -25.16209,
+        "sar": -26.32031,
+        "sek": -26.71992,
+        "sgd": -26.52049,
+        "sol": -23.9408,
+        "thb": -26.10887,
+        "try": -26.00572,
+        "twd": -25.64738,
+        "uah": -26.04077,
+        "usd": -26.42983,
+        "vef": -26.42983,
+        "vnd": -26.43951,
+        "xag": -23.83159,
+        "xau": -25.68347,
+        "xdr": -26.56163,
+        "xlm": -27.05455,
+        "xrp": -26.28766,
+        "yfi": -21.81334,
+        "zar": -25.85811,
+        "bits": -28.3902,
+        "link": -31.81945,
+        "sats": -28.3902
+      },
+      "price_change_percentage_30d_in_currency": {
+        "vef": 0,
+        "eth": -11.0266,
+        "ltc": -5.93324,
+        "bch": -10.50714,
+        "bnb": 2.7106,
+        "eos": -2.72101,
+        "xrp": -1.78015,
+        "xlm": 6.14062,
+        "link": -8.80075,
+        "dot": 13.05704,
+        "yfi": -14.45514,
+        "sol": -8.42583,
+        "usd": 0,
+        "aed": 0,
+        "ars": 1.44526,
+        "aud": -0.70415,
+        "bdt": 0.20092,
+        "bhd": -0.46291,
+        "bmd": 0,
+        "brl": -1.92479,
+        "cad": -0.79868,
+        "chf": 0.56594,
+        "clp": 3.21524,
+        "cny": -0.12834,
+        "czk": -0.13785,
+        "dkk": -0.04249,
+        "eur": -0.05872,
+        "gbp": -1.08574,
+        "gel": -0.56711,
+        "hkd": 0.01677,
+        "huf": 3.12038,
+        "idr": 0.31271,
+        "ils": 2.49104,
+        "inr": 2.01636,
+        "jpy": 0.88398,
+        "krw": -4.5235,
+        "kwd": 0.3233,
+        "lkr": 0.09897,
+        "mmk": -0.00667,
+        "mxn": -0.08016,
+        "myr": -1.30686,
+        "ngn": 0.27331,
+        "nok": -1.61945,
+        "nzd": -2.20787,
+        "php": 0.7457,
+        "pkr": -0.38947,
+        "pln": 1.19738,
+        "rub": 5.73138,
+        "sar": -0.05253,
+        "sek": 0.41934,
+        "sgd": -0.38379,
+        "thb": 2.01459,
+        "try": 1.63295,
+        "twd": 1.95867,
+        "uah": -0.90933,
+        "vnd": 0.0236,
+        "zar": -0.45355,
+        "xdr": -0.01961,
+        "xag": 5.01393,
+        "xau": -0.08655,
+        "btc": -3.43747,
+        "bits": -3.43747,
+        "sats": -3.43747
+      },
+      "price_change_percentage_60d_in_currency": {
+        "aed": -28.53402,
+        "ars": -24.77996,
+        "aud": -26.92706,
+        "bch": 15.16692,
+        "bdt": -28.27543,
+        "bhd": -28.4904,
+        "bmd": -28.53402,
+        "bnb": -17.94038,
+        "brl": -27.31719,
+        "btc": -15.30553,
+        "cad": -27.51083,
+        "chf": -26.43485,
+        "clp": -26.09994,
+        "cny": -28.74017,
+        "czk": -27.71767,
+        "dkk": -27.46306,
+        "dot": 6.94235,
+        "eos": -18.2669,
+        "eth": -19.53935,
+        "eur": -27.50902,
+        "gbp": -28.58186,
+        "gel": -29.47437,
+        "hkd": -28.4907,
+        "huf": -26.68271,
+        "idr": -27.54937,
+        "ils": -24.91208,
+        "inr": -27.82562,
+        "jpy": -27.07467,
+        "krw": -30.06641,
+        "kwd": -28.87463,
+        "lkr": -28.15207,
+        "ltc": -16.34819,
+        "mmk": -28.53402,
+        "mxn": -27.66092,
+        "myr": -26.22861,
+        "ngn": -28.13614,
+        "nok": -25.64289,
+        "nzd": -28.43618,
+        "php": -28.33468,
+        "pkr": -28.57986,
+        "pln": -25.87893,
+        "rub": -22.2287,
+        "sar": -28.3205,
+        "sek": -26.40554,
+        "sgd": -27.93206,
+        "sol": -19.35466,
+        "thb": -26.81571,
+        "try": -26.27581,
+        "twd": -26.40191,
+        "uah": -27.82362,
+        "usd": -28.53402,
+        "vef": -28.53402,
+        "vnd": -28.72202,
+        "xag": -3.44421,
+        "xau": -19.77802,
+        "xdr": -27.51761,
+        "xlm": -43.5196,
+        "xrp": -11.6173,
+        "yfi": -12.55135,
+        "zar": -30.04093,
+        "bits": -15.30553,
+        "link": -18.87127,
+        "sats": -15.30553
+      },
+      "price_change_percentage_200d_in_currency": {
+        "aed": -11.93496,
+        "ars": -11.79961,
+        "aud": -15.59282,
+        "bch": 160.1028,
+        "bdt": -11.19348,
+        "bhd": -12.0884,
+        "bmd": -11.93496,
+        "bnb": 37.06881,
+        "brl": -16.73865,
+        "btc": 25.6462,
+        "cad": -10.08899,
+        "chf": -10.18819,
+        "clp": -9.51612,
+        "cny": -14.68815,
+        "czk": -9.50444,
+        "dkk": -9.69105,
+        "dot": 120.95621,
+        "eos": 119.62517,
+        "eth": 50.43784,
+        "eur": -9.72151,
+        "gbp": -11.81707,
+        "gel": -14.53947,
+        "hkd": -11.38623,
+        "huf": -14.55561,
+        "idr": -5.39724,
+        "ils": -16.05884,
+        "inr": -5.44399,
+        "jpy": -8.75541,
+        "krw": -9.17562,
+        "kwd": -11.43921,
+        "lkr": -4.43736,
+        "ltc": 60.07696,
+        "mmk": -11.93035,
+        "mxn": -13.73117,
+        "myr": -11.05767,
+        "ngn": -15.50133,
+        "nok": -15.59139,
+        "nzd": -13.10301,
+        "php": -7.68882,
+        "pkr": -12.54662,
+        "pln": -6.99971,
+        "rub": -14.46903,
+        "sar": -11.69197,
+        "sek": -7.86932,
+        "sgd": -11.55926,
+        "sol": 57.49706,
+        "thb": -6.17023,
+        "try": -3.53514,
+        "twd": -9.01739,
+        "uah": -7.04912,
+        "usd": -11.93496,
+        "vef": -11.93496,
+        "vnd": -11.94654,
+        "xag": 14.74563,
+        "xau": -5.02543,
+        "xdr": -9.75161,
+        "xlm": 8.69946,
+        "xrp": 66.45845,
+        "yfi": 59.50731,
+        "zar": -11.80786,
+        "bits": 25.6462,
+        "link": 42.52637,
+        "sats": 25.6462
+      },
+      "price_change_percentage_1y_in_currency": {
+        "vef": 6643.82789,
+        "eth": 12923.0227,
+        "ltc": 16946.3585,
+        "bch": 16308.61741,
+        "bnb": 9336.98196,
+        "eos": 62041.72249,
+        "xrp": 20654.07802,
+        "xlm": 17118.04789,
+        "link": 15225.93423,
+        "dot": 36860.83403,
+        "yfi": 19547.45835,
+        "sol": 17451.52873,
+        "usd": 6643.82789,
+        "aed": 6642.87315,
+        "ars": 7863.91564,
+        "aud": 6216.95562,
+        "bdt": 6747.48505,
+        "bhd": 6631.25243,
+        "bmd": 6643.82789,
+        "brl": 6029.94752,
+        "cad": 6870.00809,
+        "chf": 6810.52202,
+        "clp": 6535.44203,
+        "cny": 6274.00902,
+        "czk": 6701.84004,
+        "dkk": 6833.64252,
+        "eur": 6823.45449,
+        "gbp": 6713.0665,
+        "gel": 6444.7481,
+        "hkd": 6635.91386,
+        "huf": 6214.37851,
+        "idr": 7310.20165,
+        "ils": 6083.01207,
+        "inr": 7438.27534,
+        "jpy": 7375.68972,
+        "krw": 7064.7819,
+        "kwd": 6742.54824,
+        "lkr": 7430.70199,
+        "mmk": 6645.98052,
+        "mxn": 6190.90699,
+        "myr": 6417.46499,
+        "ngn": 5963.87681,
+        "nok": 6306.31743,
+        "nzd": 6871.25711,
+        "php": 7211.73485,
+        "pkr": 6484.61606,
+        "pln": 6947.98191,
+        "rub": 6644.27204,
+        "sar": 6644.26472,
+        "sek": 6759.65066,
+        "sgd": 6700.3785,
+        "thb": 6979.13957,
+        "try": 7776.32525,
+        "twd": 7313.53616,
+        "uah": 7139.93569,
+        "vnd": 6692.45975,
+        "zar": 6196.88567,
+        "xdr": 6830.52098,
+        "xag": 4343.60069,
+        "xau": 5494.77858,
+        "btc": 12096.77062,
+        "bits": 12096.77062,
+        "sats": 12096.77062
+      },
+      "market_cap_change_24h_in_currency": {},
+      "market_cap_change_percentage_24h_in_currency": {},
+      "total_supply": 184066828814,
+      "max_supply": 184470000000,
+      "max_supply_infinite": false,
+      "circulating_supply": 184020000000,
+      "outstanding_supply": null,
+      "last_updated": "2026-07-18T04:31:36.598Z"
+    },
+    "community_data": {
+      "facebook_likes": null,
+      "reddit_average_posts_48h": 0,
+      "reddit_average_comments_48h": 0,
+      "reddit_subscribers": 0,
+      "reddit_accounts_active_48h": 0,
+      "telegram_channel_user_count": 1114
+    },
+    "developer_data": {
+      "forks": 221,
+      "stars": 238,
+      "subscribers": 75,
+      "total_issues": 0,
+      "closed_issues": 0,
+      "pull_requests_merged": 1,
+      "pull_request_contributors": 1,
+      "code_additions_deletions_4_weeks": {
+        "additions": 0,
+        "deletions": 0
+      },
+      "commit_count_4_weeks": 0,
+      "last_4_weeks_commit_activity_series": []
+    },
+    "status_updates": [],
+    "last_updated": "2026-07-18T04:31:36.598Z",
+    "tickers": []
+  },
+  "chart": {
+    "prices": [
+      [
+        1782198000000,
+        0.001444211662468176
+      ],
+      [
+        1782201600000,
+        0.001444211662468176
+      ],
+      [
+        1782205200000,
+        0.001444211662468176
+      ],
+      [
+        1782208800000,
+        0.001444211662468176
+      ],
+      [
+        1782212400000,
+        0.001444211662468176
+      ],
+      [
+        1782216000000,
+        0.001444211662468176
+      ],
+      [
+        1782219600000,
+        0.001444211662468176
+      ],
+      [
+        1782223200000,
+        0.001444211662468176
+      ],
+      [
+        1782226800000,
+        0.001444211662468176
+      ],
+      [
+        1782230400000,
+        0.001444211662468176
+      ],
+      [
+        1782234000000,
+        0.001444211662468176
+      ],
+      [
+        1782237600000,
+        0.001444211662468176
+      ],
+      [
+        1782241200000,
+        0.001444211662468176
+      ],
+      [
+        1782244800000,
+        0.001444211662468176
+      ],
+      [
+        1782248400000,
+        0.001444211662468176
+      ],
+      [
+        1782252000000,
+        0.001444211662468176
+      ],
+      [
+        1782298800000,
+        0.001444211662468176
+      ],
+      [
+        1782475200000,
+        0.000029964481045854232
+      ],
+      [
+        1782478800000,
+        0.00003405707321565821
+      ],
+      [
+        1782482400000,
+        0.00003405613281299238
+      ],
+      [
+        1782486000000,
+        0.00003406082438931346
+      ],
+      [
+        1782489600000,
+        0.00003405930982484085
+      ],
+      [
+        1782493200000,
+        0.00003405824282861028
+      ],
+      [
+        1782496800000,
+        0.00003405995997486639
+      ],
+      [
+        1782500400000,
+        0.00003405722920856034
+      ],
+      [
+        1782504000000,
+        0.00003405676516198028
+      ],
+      [
+        1782561600000,
+        0.00003405482289333038
+      ],
+      [
+        1782644400000,
+        0.001444211662468176
+      ],
+      [
+        1782648000000,
+        0.00003395719991770992
+      ],
+      [
+        1782651600000,
+        0.001444211662468176
+      ],
+      [
+        1782655200000,
+        0.00003395810445723726
+      ],
+      [
+        1782658800000,
+        0.000033957669291381716
+      ],
+      [
+        1782662400000,
+        0.00003395869107363876
+      ],
+      [
+        1782666000000,
+        0.00003395905704100791
+      ],
+      [
+        1782669600000,
+        0.00003395575062944544
+      ],
+      [
+        1782673200000,
+        0.00003395713876803934
+      ],
+      [
+        1782763200000,
+        0.001444211662468176
+      ],
+      [
+        1782766800000,
+        0.001444211662468176
+      ],
+      [
+        1782770400000,
+        0.001444211662468176
+      ],
+      [
+        1782774000000,
+        0.001444211662468176
+      ],
+      [
+        1782777600000,
+        0.001444211662468176
+      ],
+      [
+        1782781200000,
+        0.001444211662468176
+      ],
+      [
+        1782784800000,
+        0.001444211662468176
+      ],
+      [
+        1782788400000,
+        0.001444211662468176
+      ],
+      [
+        1782792000000,
+        0.001444211662468176
+      ],
+      [
+        1783198800000,
+        0.001444211662468176
+      ],
+      [
+        1783202400000,
+        0.001444211662468176
+      ],
+      [
+        1783206000000,
+        0.001444211662468176
+      ],
+      [
+        1783209600000,
+        0.001444211662468176
+      ],
+      [
+        1783213200000,
+        0.001444211662468176
+      ],
+      [
+        1783216800000,
+        0.001444211662468176
+      ],
+      [
+        1783220400000,
+        0.001444211662468176
+      ],
+      [
+        1783224000000,
+        0.001444211662468176
+      ],
+      [
+        1783227600000,
+        0.001444211662468176
+      ],
+      [
+        1783231200000,
+        0.001444211662468176
+      ],
+      [
+        1783234800000,
+        0.001444211662468176
+      ],
+      [
+        1783238400000,
+        0.001444211662468176
+      ],
+      [
+        1783242000000,
+        0.001444211662468176
+      ],
+      [
+        1783245600000,
+        0.001444211662468176
+      ],
+      [
+        1783249200000,
+        0.001444211662468176
+      ],
+      [
+        1783252800000,
+        0.001444211662468176
+      ],
+      [
+        1783256400000,
+        0.001444211662468176
+      ],
+      [
+        1783260000000,
+        0.001444211662468176
+      ],
+      [
+        1783483200000,
+        0.001444211662468176
+      ],
+      [
+        1783486800000,
+        0.001444211662468176
+      ],
+      [
+        1783490400000,
+        0.001444211662468176
+      ],
+      [
+        1783494000000,
+        0.001444211662468176
+      ],
+      [
+        1783497600000,
+        0.001444211662468176
+      ],
+      [
+        1783501200000,
+        0.001444211662468176
+      ],
+      [
+        1783504800000,
+        0.001444211662468176
+      ],
+      [
+        1783508400000,
+        0.001444211662468176
+      ],
+      [
+        1783512000000,
+        0.001444211662468176
+      ],
+      [
+        1783540800000,
+        0.001444211662468176
+      ],
+      [
+        1783544400000,
+        0.001444211662468176
+      ],
+      [
+        1783548000000,
+        0.001444211662468176
+      ],
+      [
+        1783551600000,
+        0.001444211662468176
+      ],
+      [
+        1783555200000,
+        0.001444211662468176
+      ],
+      [
+        1783558800000,
+        0.001444211662468176
+      ],
+      [
+        1783562400000,
+        0.001444211662468176
+      ],
+      [
+        1783566000000,
+        0.001444211662468176
+      ],
+      [
+        1783569600000,
+        0.001444211662468176
+      ],
+      [
+        1783627200000,
+        0.001444211662468176
+      ],
+      [
+        1783713600000,
+        0.001444211662468176
+      ],
+      [
+        1783717200000,
+        0.001444211662468176
+      ],
+      [
+        1783720800000,
+        0.001444211662468176
+      ],
+      [
+        1783724400000,
+        0.001444211662468176
+      ],
+      [
+        1783728000000,
+        0.001444211662468176
+      ],
+      [
+        1783731600000,
+        0.001444211662468176
+      ],
+      [
+        1783735200000,
+        0.001444211662468176
+      ],
+      [
+        1783738800000,
+        0.001444211662468176
+      ],
+      [
+        1783742400000,
+        0.001444211662468176
+      ],
+      [
+        1784181600000,
+        0.001444211662468176
+      ],
+      [
+        1784185200000,
+        0.001444211662468176
+      ],
+      [
+        1784188800000,
+        0.001444211662468176
+      ],
+      [
+        1784192400000,
+        0.001444211662468176
+      ],
+      [
+        1784196000000,
+        0.001444211662468176
+      ],
+      [
+        1784199600000,
+        0.001444211662468176
+      ],
+      [
+        1784203200000,
+        0.001444211662468176
+      ],
+      [
+        1784206800000,
+        0.001444211662468176
+      ],
+      [
+        1784210400000,
+        0.001444211662468176
+      ],
+      [
+        1784232000000,
+        0.001444211662468176
+      ],
+      [
+        1784235600000,
+        0.001444211662468176
+      ],
+      [
+        1784239200000,
+        0.001444211662468176
+      ],
+      [
+        1784242800000,
+        0.001444211662468176
+      ],
+      [
+        1784246400000,
+        0.001444211662468176
+      ],
+      [
+        1784250000000,
+        0.001444211662468176
+      ],
+      [
+        1784253600000,
+        0.001444211662468176
+      ],
+      [
+        1784257200000,
+        0.001444211662468176
+      ],
+      [
+        1784260800000,
+        0.001444211662468176
+      ],
+      [
+        1784264400000,
+        0.001444211662468176
+      ],
+      [
+        1784268000000,
+        0.001444211662468176
+      ],
+      [
+        1784271600000,
+        0.001444211662468176
+      ],
+      [
+        1784275200000,
+        0.001444211662468176
+      ],
+      [
+        1784278800000,
+        0.001444211662468176
+      ],
+      [
+        1784282400000,
+        0.001444211662468176
+      ],
+      [
+        1784286000000,
+        0.001444211662468176
+      ],
+      [
+        1784289600000,
+        0.001444211662468176
+      ],
+      [
+        1784293200000,
+        0.001444211662468176
+      ],
+      [
+        1784296800000,
+        0.001444211662468176
+      ],
+      [
+        1784318400000,
+        0.001444211662468176
+      ],
+      [
+        1784322000000,
+        0.001444211662468176
+      ],
+      [
+        1784325600000,
+        0.001444211662468176
+      ],
+      [
+        1784329200000,
+        0.001444211662468176
+      ],
+      [
+        1784332800000,
+        0.001444211662468176
+      ],
+      [
+        1784336400000,
+        0.001444211662468176
+      ]
+    ],
+    "market_caps": [
+      [
+        1782198000000,
+        265763830.12739375
+      ],
+      [
+        1782201600000,
+        265763830.12739375
+      ],
+      [
+        1782205200000,
+        265763830.12739375
+      ],
+      [
+        1782208800000,
+        265763830.12739375
+      ],
+      [
+        1782212400000,
+        265763830.12739375
+      ],
+      [
+        1782216000000,
+        265763830.12739375
+      ],
+      [
+        1782219600000,
+        265763830.12739375
+      ],
+      [
+        1782223200000,
+        265763830.12739375
+      ],
+      [
+        1782226800000,
+        265763830.12739375
+      ],
+      [
+        1782230400000,
+        265763830.12739375
+      ],
+      [
+        1782234000000,
+        265763830.12739375
+      ],
+      [
+        1782237600000,
+        265763830.12739375
+      ],
+      [
+        1782241200000,
+        265763830.12739375
+      ],
+      [
+        1782244800000,
+        265763830.12739375
+      ],
+      [
+        1782248400000,
+        265763830.12739375
+      ],
+      [
+        1782252000000,
+        265763830.12739375
+      ],
+      [
+        1782298800000,
+        265763830.12739375
+      ],
+      [
+        1782475200000,
+        5514063.802058096
+      ],
+      [
+        1782478800000,
+        6267182.613145424
+      ],
+      [
+        1782482400000,
+        6267009.560246858
+      ],
+      [
+        1782486000000,
+        6267872.904121463
+      ],
+      [
+        1782489600000,
+        6267594.193967214
+      ],
+      [
+        1782493200000,
+        6267397.845320864
+      ],
+      [
+        1782496800000,
+        6267713.834574914
+      ],
+      [
+        1782500400000,
+        6267211.318959273
+      ],
+      [
+        1782504000000,
+        6267125.925107611
+      ],
+      [
+        1782561600000,
+        6266768.508830656
+      ],
+      [
+        1782644400000,
+        265763830.12739375
+      ],
+      [
+        1782648000000,
+        6248803.92885698
+      ],
+      [
+        1782651600000,
+        265763830.12739375
+      ],
+      [
+        1782655200000,
+        6248970.382220801
+      ],
+      [
+        1782658800000,
+        6248890.303000064
+      ],
+      [
+        1782662400000,
+        6249078.331371005
+      ],
+      [
+        1782666000000,
+        6249145.676686275
+      ],
+      [
+        1782669600000,
+        6248537.230830549
+      ],
+      [
+        1782673200000,
+        6248792.676094599
+      ],
+      [
+        1782763200000,
+        265763830.12739375
+      ],
+      [
+        1782766800000,
+        265763830.12739375
+      ],
+      [
+        1782770400000,
+        265763830.12739375
+      ],
+      [
+        1782774000000,
+        265763830.12739375
+      ],
+      [
+        1782777600000,
+        265763830.12739375
+      ],
+      [
+        1782781200000,
+        265763830.12739375
+      ],
+      [
+        1782784800000,
+        265763830.12739375
+      ],
+      [
+        1782788400000,
+        265763830.12739375
+      ],
+      [
+        1782792000000,
+        265763830.12739375
+      ],
+      [
+        1783198800000,
+        265763830.12739375
+      ],
+      [
+        1783202400000,
+        265763830.12739375
+      ],
+      [
+        1783206000000,
+        265763830.12739375
+      ],
+      [
+        1783209600000,
+        265763830.12739375
+      ],
+      [
+        1783213200000,
+        265763830.12739375
+      ],
+      [
+        1783216800000,
+        265763830.12739375
+      ],
+      [
+        1783220400000,
+        265763830.12739375
+      ],
+      [
+        1783224000000,
+        265763830.12739375
+      ],
+      [
+        1783227600000,
+        265763830.12739375
+      ],
+      [
+        1783231200000,
+        265763830.12739375
+      ],
+      [
+        1783234800000,
+        265763830.12739375
+      ],
+      [
+        1783238400000,
+        265763830.12739375
+      ],
+      [
+        1783242000000,
+        265763830.12739375
+      ],
+      [
+        1783245600000,
+        265763830.12739375
+      ],
+      [
+        1783249200000,
+        265763830.12739375
+      ],
+      [
+        1783252800000,
+        265763830.12739375
+      ],
+      [
+        1783256400000,
+        265763830.12739375
+      ],
+      [
+        1783260000000,
+        265763830.12739375
+      ],
+      [
+        1783483200000,
+        265763830.12739375
+      ],
+      [
+        1783486800000,
+        265763830.12739375
+      ],
+      [
+        1783490400000,
+        265763830.12739375
+      ],
+      [
+        1783494000000,
+        265763830.12739375
+      ],
+      [
+        1783497600000,
+        265763830.12739375
+      ],
+      [
+        1783501200000,
+        265763830.12739375
+      ],
+      [
+        1783504800000,
+        265763830.12739375
+      ],
+      [
+        1783508400000,
+        265763830.12739375
+      ],
+      [
+        1783512000000,
+        265763830.12739375
+      ],
+      [
+        1783540800000,
+        265763830.12739375
+      ],
+      [
+        1783544400000,
+        265763830.12739375
+      ],
+      [
+        1783548000000,
+        265763830.12739375
+      ],
+      [
+        1783551600000,
+        265763830.12739375
+      ],
+      [
+        1783555200000,
+        265763830.12739375
+      ],
+      [
+        1783558800000,
+        265763830.12739375
+      ],
+      [
+        1783562400000,
+        265763830.12739375
+      ],
+      [
+        1783566000000,
+        265763830.12739375
+      ],
+      [
+        1783569600000,
+        265763830.12739375
+      ],
+      [
+        1783627200000,
+        265763830.12739375
+      ],
+      [
+        1783713600000,
+        265763830.12739375
+      ],
+      [
+        1783717200000,
+        265763830.12739375
+      ],
+      [
+        1783720800000,
+        265763830.12739375
+      ],
+      [
+        1783724400000,
+        265763830.12739375
+      ],
+      [
+        1783728000000,
+        265763830.12739375
+      ],
+      [
+        1783731600000,
+        265763830.12739375
+      ],
+      [
+        1783735200000,
+        265763830.12739375
+      ],
+      [
+        1783738800000,
+        265763830.12739375
+      ],
+      [
+        1783742400000,
+        265763830.12739375
+      ],
+      [
+        1784181600000,
+        265763830.12739375
+      ],
+      [
+        1784185200000,
+        265763830.12739375
+      ],
+      [
+        1784188800000,
+        265763830.12739375
+      ],
+      [
+        1784192400000,
+        265763830.12739375
+      ],
+      [
+        1784196000000,
+        265763830.12739375
+      ],
+      [
+        1784199600000,
+        265763830.12739375
+      ],
+      [
+        1784203200000,
+        265763830.12739375
+      ],
+      [
+        1784206800000,
+        265763830.12739375
+      ],
+      [
+        1784210400000,
+        265763830.12739375
+      ],
+      [
+        1784232000000,
+        265763830.12739375
+      ],
+      [
+        1784235600000,
+        265763830.12739375
+      ],
+      [
+        1784239200000,
+        265763830.12739375
+      ],
+      [
+        1784242800000,
+        265763830.12739375
+      ],
+      [
+        1784246400000,
+        265763830.12739375
+      ],
+      [
+        1784250000000,
+        265763830.12739375
+      ],
+      [
+        1784253600000,
+        265763830.12739375
+      ],
+      [
+        1784257200000,
+        265763830.12739375
+      ],
+      [
+        1784260800000,
+        265763830.12739375
+      ],
+      [
+        1784264400000,
+        265763830.12739375
+      ],
+      [
+        1784268000000,
+        265763830.12739375
+      ],
+      [
+        1784271600000,
+        265763830.12739375
+      ],
+      [
+        1784275200000,
+        265763830.12739375
+      ],
+      [
+        1784278800000,
+        265763830.12739375
+      ],
+      [
+        1784282400000,
+        265763830.12739375
+      ],
+      [
+        1784286000000,
+        265763830.12739375
+      ],
+      [
+        1784289600000,
+        265763830.12739375
+      ],
+      [
+        1784293200000,
+        265763830.12739375
+      ],
+      [
+        1784296800000,
+        265763830.12739375
+      ],
+      [
+        1784318400000,
+        265763830.12739375
+      ],
+      [
+        1784322000000,
+        265763830.12739375
+      ],
+      [
+        1784325600000,
+        265763830.12739375
+      ],
+      [
+        1784329200000,
+        265763830.12739375
+      ],
+      [
+        1784332800000,
+        265763830.12739375
+      ],
+      [
+        1784336400000,
+        265763830.12739375
+      ]
+    ],
+    "total_volumes": [
+      [
+        1782198000000,
+        32.868565556811006
+      ],
+      [
+        1782201600000,
+        32.868565556811006
+      ],
+      [
+        1782205200000,
+        32.868565556811006
+      ],
+      [
+        1782208800000,
+        32.868565556811006
+      ],
+      [
+        1782212400000,
+        32.868565556811006
+      ],
+      [
+        1782216000000,
+        32.868565556811006
+      ],
+      [
+        1782219600000,
+        32.868565556811006
+      ],
+      [
+        1782223200000,
+        32.868565556811006
+      ],
+      [
+        1782226800000,
+        32.868565556811006
+      ],
+      [
+        1782230400000,
+        32.868565556811006
+      ],
+      [
+        1782234000000,
+        32.868565556811006
+      ],
+      [
+        1782237600000,
+        32.868565556811006
+      ],
+      [
+        1782241200000,
+        32.868565556811006
+      ],
+      [
+        1782244800000,
+        32.868565556811006
+      ],
+      [
+        1782248400000,
+        32.868565556811006
+      ],
+      [
+        1782252000000,
+        32.868565556811006
+      ],
+      [
+        1782298800000,
+        32.868565556811006
+      ],
+      [
+        1782475200000,
+        0.02696803294126881
+      ],
+      [
+        1782478800000,
+        23.080478518251567
+      ],
+      [
+        1782482400000,
+        23.079841207364936
+      ],
+      [
+        1782486000000,
+        23.083020688637735
+      ],
+      [
+        1782489600000,
+        23.081994268294647
+      ],
+      [
+        1782493200000,
+        23.081271164949186
+      ],
+      [
+        1782496800000,
+        23.082434874966953
+      ],
+      [
+        1782500400000,
+        23.08058423464134
+      ],
+      [
+        1782504000000,
+        23.080269750274034
+      ],
+      [
+        1782561600000,
+        20.780252929510198
+      ],
+      [
+        1782644400000,
+        32.868565556811006
+      ],
+      [
+        1782648000000,
+        0.0033957199917709923
+      ],
+      [
+        1782651600000,
+        32.868565556811006
+      ],
+      [
+        1782655200000,
+        0.003395810445723726
+      ],
+      [
+        1782658800000,
+        0.0033957669291381715
+      ],
+      [
+        1782662400000,
+        0.003395869107363876
+      ],
+      [
+        1782666000000,
+        0.003395905704100791
+      ],
+      [
+        1782669600000,
+        0.0033955750629445437
+      ],
+      [
+        1782673200000,
+        0.0033957138768039336
+      ],
+      [
+        1782763200000,
+        32.868565556811006
+      ],
+      [
+        1782766800000,
+        32.868565556811006
+      ],
+      [
+        1782770400000,
+        32.868565556811006
+      ],
+      [
+        1782774000000,
+        32.868565556811006
+      ],
+      [
+        1782777600000,
+        32.868565556811006
+      ],
+      [
+        1782781200000,
+        32.868565556811006
+      ],
+      [
+        1782784800000,
+        32.868565556811006
+      ],
+      [
+        1782788400000,
+        32.868565556811006
+      ],
+      [
+        1782792000000,
+        32.868565556811006
+      ],
+      [
+        1783198800000,
+        32.868565556811006
+      ],
+      [
+        1783202400000,
+        32.868565556811006
+      ],
+      [
+        1783206000000,
+        32.868565556811006
+      ],
+      [
+        1783209600000,
+        32.868565556811006
+      ],
+      [
+        1783213200000,
+        32.868565556811006
+      ],
+      [
+        1783216800000,
+        32.868565556811006
+      ],
+      [
+        1783220400000,
+        32.868565556811006
+      ],
+      [
+        1783224000000,
+        32.868565556811006
+      ],
+      [
+        1783227600000,
+        32.868565556811006
+      ],
+      [
+        1783231200000,
+        32.868565556811006
+      ],
+      [
+        1783234800000,
+        32.868565556811006
+      ],
+      [
+        1783238400000,
+        32.868565556811006
+      ],
+      [
+        1783242000000,
+        32.868565556811006
+      ],
+      [
+        1783245600000,
+        32.868565556811006
+      ],
+      [
+        1783249200000,
+        32.868565556811006
+      ],
+      [
+        1783252800000,
+        32.868565556811006
+      ],
+      [
+        1783256400000,
+        32.868565556811006
+      ],
+      [
+        1783260000000,
+        32.868565556811006
+      ],
+      [
+        1783483200000,
+        32.868565556811006
+      ],
+      [
+        1783486800000,
+        32.868565556811006
+      ],
+      [
+        1783490400000,
+        32.868565556811006
+      ],
+      [
+        1783494000000,
+        32.868565556811006
+      ],
+      [
+        1783497600000,
+        32.868565556811006
+      ],
+      [
+        1783501200000,
+        32.868565556811006
+      ],
+      [
+        1783504800000,
+        32.868565556811006
+      ],
+      [
+        1783508400000,
+        32.868565556811006
+      ],
+      [
+        1783512000000,
+        32.868565556811006
+      ],
+      [
+        1783540800000,
+        32.868565556811006
+      ],
+      [
+        1783544400000,
+        32.868565556811006
+      ],
+      [
+        1783548000000,
+        32.868565556811006
+      ],
+      [
+        1783551600000,
+        32.868565556811006
+      ],
+      [
+        1783555200000,
+        32.868565556811006
+      ],
+      [
+        1783558800000,
+        32.868565556811006
+      ],
+      [
+        1783562400000,
+        32.868565556811006
+      ],
+      [
+        1783566000000,
+        32.868565556811006
+      ],
+      [
+        1783569600000,
+        32.868565556811006
+      ],
+      [
+        1783627200000,
+        32.868565556811006
+      ],
+      [
+        1783713600000,
+        32.868565556811006
+      ],
+      [
+        1783717200000,
+        32.868565556811006
+      ],
+      [
+        1783720800000,
+        32.868565556811006
+      ],
+      [
+        1783724400000,
+        32.868565556811006
+      ],
+      [
+        1783728000000,
+        32.868565556811006
+      ],
+      [
+        1783731600000,
+        32.868565556811006
+      ],
+      [
+        1783735200000,
+        32.868565556811006
+      ],
+      [
+        1783738800000,
+        32.868565556811006
+      ],
+      [
+        1783742400000,
+        32.868565556811006
+      ],
+      [
+        1784181600000,
+        32.868565556811006
+      ],
+      [
+        1784185200000,
+        32.868565556811006
+      ],
+      [
+        1784188800000,
+        32.868565556811006
+      ],
+      [
+        1784192400000,
+        32.868565556811006
+      ],
+      [
+        1784196000000,
+        32.868565556811006
+      ],
+      [
+        1784199600000,
+        32.868565556811006
+      ],
+      [
+        1784203200000,
+        32.868565556811006
+      ],
+      [
+        1784206800000,
+        32.868565556811006
+      ],
+      [
+        1784210400000,
+        32.868565556811006
+      ],
+      [
+        1784232000000,
+        32.868565556811006
+      ],
+      [
+        1784235600000,
+        32.868565556811006
+      ],
+      [
+        1784239200000,
+        32.868565556811006
+      ],
+      [
+        1784242800000,
+        32.868565556811006
+      ],
+      [
+        1784246400000,
+        32.868565556811006
+      ],
+      [
+        1784250000000,
+        32.868565556811006
+      ],
+      [
+        1784253600000,
+        32.868565556811006
+      ],
+      [
+        1784257200000,
+        32.868565556811006
+      ],
+      [
+        1784260800000,
+        32.868565556811006
+      ],
+      [
+        1784264400000,
+        32.868565556811006
+      ],
+      [
+        1784268000000,
+        32.868565556811006
+      ],
+      [
+        1784271600000,
+        32.868565556811006
+      ],
+      [
+        1784275200000,
+        32.868565556811006
+      ],
+      [
+        1784278800000,
+        32.868565556811006
+      ],
+      [
+        1784282400000,
+        32.868565556811006
+      ],
+      [
+        1784286000000,
+        32.868565556811006
+      ],
+      [
+        1784289600000,
+        32.868565556811006
+      ],
+      [
+        1784293200000,
+        32.868565556811006
+      ],
+      [
+        1784296800000,
+        32.868565556811006
+      ],
+      [
+        1784318400000,
+        32.868565556811006
+      ],
+      [
+        1784322000000,
+        32.868565556811006
+      ],
+      [
+        1784325600000,
+        32.868565556811006
+      ],
+      [
+        1784329200000,
+        32.868565556811006
+      ],
+      [
+        1784332800000,
+        32.868565556811006
+      ],
+      [
+        1784336400000,
+        32.868565556811006
+      ]
+    ]
+  }
+}
