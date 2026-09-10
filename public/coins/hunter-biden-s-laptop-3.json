@@ -1,0 +1,3352 @@
+{
+  "savedAt": "2026-09-10T08:04:15.913Z",
+  "id": "hunter-biden-s-laptop-3",
+  "detail": {
+    "id": "hunter-biden-s-laptop-3",
+    "symbol": "laptop",
+    "name": "Hunter Biden's Laptop",
+    "web_slug": "hunter-bidens-laptop",
+    "asset_platform_id": "base",
+    "platforms": {
+      "base": "0xb095274743941e953c746f9c228da9c18bb6ec29"
+    },
+    "detail_platforms": {
+      "base": {
+        "decimal_place": 18,
+        "contract_address": "0xb095274743941e953c746f9c228da9c18bb6ec29",
+        "geckoterminal_url": "https://www.geckoterminal.com/base/tokens/0xb095274743941e953c746f9c228da9c18bb6ec29"
+      }
+    },
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+      "Meme",
+      "Base Ecosystem",
+      "PolitiFi",
+      "Base Meme"
+    ],
+    "preview_listing": false,
+    "public_notice": null,
+    "additional_notices": [],
+    "description": {
+      "en": "Hunter Biden’s Laptop (LAPTOP) is a memecoin referencing the eponymous Hunter Biden laptop sensation that’s been a fixture in global media news cycles for the past six years. LAPTOP is a fungible, freely transferable, non-yield-bearing ERC-20 token on Base. As a memecoin, LAPTOP has no utility, but incorporates two novel distribution mechanics designed to promote long-term community growth: a large community airdrop and an event-based supply mechanism."
+    },
+    "links": {
+      "homepage": [
+        "https://laptoptoken.com"
+      ],
+      "whitepaper": "https://laptoptoken.com/whitepaper",
+      "blockchain_site": [
+        "https://basescan.org/address/0xB095274743941e953c746F9C228DA9c18Bb6ec29",
+        "https://intel.arkm.com/explorer/token/",
+        "https://basescan.org/token/0xB095274743941e953c746F9C228DA9c18Bb6ec29",
+        "https://intel.arkm.com/explorer/token/hunter-biden-s-laptop-3"
+      ],
+      "official_forum_url": [
+        "https://substack.com/@hunterbiden",
+        "https://instagram.com/hunterbiden",
+        "https://x.com/hunterbiden"
+      ],
+      "chat_url": [
+        "https://www.youtube.com/@HunterBiden"
+      ],
+      "announcement_url": [],
+      "snapshot_url": null,
+      "twitter_screen_name": "laptoptoken",
+      "facebook_username": "",
+      "bitcointalk_thread_identifier": null,
+      "telegram_channel_identifier": "",
+      "subreddit_url": null,
+      "repos_url": {
+        "github": [],
+        "bitbucket": []
+      }
+    },
+    "image": {
+      "thumb": "https://coin-images.coingecko.com/coins/images/102176837/thumb/Laptop_Logo.png?1788875459",
+      "small": "https://coin-images.coingecko.com/coins/images/102176837/small/Laptop_Logo.png?1788875459",
+      "large": "https://coin-images.coingecko.com/coins/images/102176837/large/Laptop_Logo.png?1788875459"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "listing_price": null,
+    "listing_currency": "",
+    "listing_timestamp": null,
+    "listing_source": "",
+    "listing_source_url": "",
+    "contract_address": "0xb095274743941e953c746f9c228da9c18bb6ec29",
+    "has_supply_breakdown": true,
+    "sentiment_votes_up_percentage": 30.19,
+    "sentiment_votes_down_percentage": 69.81,
+    "watchlist_portfolio_users": 1339,
+    "market_cap_rank": 141,
+    "market_cap_rank_with_rehypothecated": 198,
+    "market_data": {
+      "current_price": {
+        "vef": 0.085198,
+        "btc": 0.0000109,
+        "bits": 10.9,
+        "sats": 1089.96,
+        "eth": 0.00034433,
+        "ltc": 0.01624178,
+        "bch": 0.00343464,
+        "bnb": 0.00118402,
+        "eos": 10.516103,
+        "xrp": 0.61583057,
+        "xlm": 4.755236,
+        "link": 0.07223418,
+        "dot": 0.76883764,
+        "yfi": 0.00039054,
+        "sol": 0.00840549,
+        "usd": 0.850878,
+        "aed": 3.12,
+        "ars": 1288.02,
+        "aud": 1.18,
+        "bdt": 104.67,
+        "bhd": 0.320792,
+        "bmd": 0.850878,
+        "brl": 4.34,
+        "cad": 1.17,
+        "chf": 0.688619,
+        "clp": 788.46,
+        "cny": 5.71,
+        "czk": 17.73,
+        "dkk": 5.46,
+        "eur": 0.731004,
+        "gbp": 0.627775,
+        "gel": 2.21,
+        "hkd": 6.67,
+        "huf": 266.11,
+        "idr": 14934.24,
+        "ils": 2.57,
+        "inr": 81.11,
+        "jpy": 130.52,
+        "krw": 1141.13,
+        "kwd": 0.262592,
+        "lkr": 279.55,
+        "mmk": 1786.42,
+        "mxn": 14.38,
+        "myr": 3.46,
+        "ngn": 1126.95,
+        "nok": 7.85,
+        "nzd": 1.45,
+        "php": 53.22,
+        "pkr": 235.92,
+        "pln": 3.16,
+        "rub": 71.84,
+        "sar": 3.19,
+        "sek": 8.16,
+        "sgd": 1.076,
+        "thb": 27.99,
+        "try": 41.26,
+        "twd": 26.84,
+        "uah": 38.01,
+        "vnd": 22041,
+        "zar": 13.65,
+        "xdr": 0.621407,
+        "xag": 0.01263579,
+        "xau": 0.00019286
+      },
+      "total_value_locked": null,
+      "mcap_to_tvl_ratio": null,
+      "fdv_to_tvl_ratio": null,
+      "roi": null,
+      "ath": {
+        "vef": 19.98,
+        "btc": 0.00251321,
+        "bits": 2513.21,
+        "sats": 251321,
+        "eth": 0.07973827,
+        "ltc": 3.676424,
+        "bch": 0.76967553,
+        "bnb": 0.26580747,
+        "eos": 2447,
+        "xrp": 139.638,
+        "xlm": 1057,
+        "link": 16.436353,
+        "dot": 170.055,
+        "yfi": 0.08787618,
+        "sol": 1.913229,
+        "usd": 199.51,
+        "aed": 732.69,
+        "ars": 301605,
+        "aud": 276.25,
+        "bdt": 24533,
+        "bhd": 75.19,
+        "bmd": 199.51,
+        "brl": 1016.43,
+        "cad": 274.74,
+        "chf": 161.11,
+        "clp": 184486,
+        "cny": 1338.75,
+        "czk": 4152,
+        "dkk": 1280.13,
+        "eur": 171.26,
+        "gbp": 147.12,
+        "gel": 518.72,
+        "hkd": 1564.58,
+        "huf": 62302,
+        "idr": 3486355,
+        "ils": 602.52,
+        "inr": 18975.16,
+        "jpy": 30573,
+        "krw": 266633,
+        "kwd": 61.58,
+        "lkr": 65520,
+        "mmk": 418866,
+        "mxn": 3373.21,
+        "myr": 812,
+        "ngn": 264060,
+        "nok": 1831.55,
+        "nzd": 340.95,
+        "php": 12466.62,
+        "pkr": 55294,
+        "pln": 738.84,
+        "rub": 17048.27,
+        "sar": 749.26,
+        "sek": 1909.35,
+        "sgd": 252.07,
+        "thb": 6558.01,
+        "try": 9671.57,
+        "twd": 6275.5,
+        "uah": 8864.52,
+        "vnd": 5168585,
+        "zar": 3199.3,
+        "xdr": 145.7,
+        "xag": 3.01,
+        "xau": 0.04529616
+      },
+      "ath_change_percentage": {
+        "vef": -99.57351,
+        "btc": -99.56631,
+        "bits": -99.56631,
+        "sats": -99.56631,
+        "eth": -99.56818,
+        "ltc": -99.55822,
+        "bch": -99.55375,
+        "bnb": -99.55456,
+        "eos": -99.57029,
+        "xrp": -99.55898,
+        "xlm": -99.55018,
+        "link": -99.56052,
+        "dot": -99.54789,
+        "yfi": -99.55558,
+        "sol": -99.56066,
+        "usd": -99.57351,
+        "aed": -99.57351,
+        "ars": -99.57295,
+        "aud": -99.57311,
+        "bdt": -99.57333,
+        "bhd": -99.57334,
+        "bmd": -99.57351,
+        "brl": -99.57266,
+        "cad": -99.57234,
+        "chf": -99.57258,
+        "clp": -99.57262,
+        "cny": -99.57371,
+        "czk": -99.57301,
+        "dkk": -99.57314,
+        "eur": -99.57317,
+        "gbp": -99.57328,
+        "gel": -99.57351,
+        "hkd": -99.57357,
+        "huf": -99.57287,
+        "idr": -99.57164,
+        "ils": -99.57292,
+        "inr": -99.57253,
+        "jpy": -99.57309,
+        "krw": -99.57202,
+        "kwd": -99.57359,
+        "lkr": -99.57334,
+        "mmk": -99.57351,
+        "mxn": -99.57367,
+        "myr": -99.5743,
+        "ngn": -99.57322,
+        "nok": -99.57163,
+        "nzd": -99.57339,
+        "php": -99.57309,
+        "pkr": -99.57334,
+        "pln": -99.57298,
+        "rub": -99.57864,
+        "sar": -99.57412,
+        "sek": -99.57265,
+        "sgd": -99.57326,
+        "thb": -99.57313,
+        "try": -99.57336,
+        "twd": -99.57234,
+        "uah": -99.57117,
+        "vnd": -99.57357,
+        "zar": -99.57327,
+        "xdr": -99.57351,
+        "xag": -99.58065,
+        "xau": -99.57422
+      },
+      "ath_date": {
+        "vef": "2026-09-09T12:09:10.000Z",
+        "btc": "2026-09-09T12:09:10.000Z",
+        "bits": "2026-09-09T12:09:10.000Z",
+        "sats": "2026-09-09T12:09:10.000Z",
+        "eth": "2026-09-09T12:09:10.000Z",
+        "ltc": "2026-09-09T12:09:20.000Z",
+        "bch": "2026-09-09T12:09:30.000Z",
+        "bnb": "2026-09-09T12:09:20.000Z",
+        "eos": "2026-09-09T12:09:10.000Z",
+        "xrp": "2026-09-09T12:09:30.000Z",
+        "xlm": "2026-09-09T12:09:20.000Z",
+        "link": "2026-09-09T12:09:10.000Z",
+        "dot": "2026-09-09T12:09:30.000Z",
+        "yfi": "2026-09-09T12:09:10.000Z",
+        "sol": "2026-09-09T12:09:20.000Z",
+        "usd": "2026-09-09T12:09:10.000Z",
+        "aed": "2026-09-09T12:09:10.000Z",
+        "ars": "2026-09-09T12:09:10.000Z",
+        "aud": "2026-09-09T12:09:10.000Z",
+        "bdt": "2026-09-09T12:09:10.000Z",
+        "bhd": "2026-09-09T12:09:10.000Z",
+        "bmd": "2026-09-09T12:09:10.000Z",
+        "brl": "2026-09-09T12:09:10.000Z",
+        "cad": "2026-09-09T12:09:10.000Z",
+        "chf": "2026-09-09T12:09:10.000Z",
+        "clp": "2026-09-09T12:09:10.000Z",
+        "cny": "2026-09-09T12:09:10.000Z",
+        "czk": "2026-09-09T12:09:10.000Z",
+        "dkk": "2026-09-09T12:09:10.000Z",
+        "eur": "2026-09-09T12:09:10.000Z",
+        "gbp": "2026-09-09T12:09:10.000Z",
+        "gel": "2026-09-09T12:09:10.000Z",
+        "hkd": "2026-09-09T12:09:10.000Z",
+        "huf": "2026-09-09T12:09:10.000Z",
+        "idr": "2026-09-09T12:09:10.000Z",
+        "ils": "2026-09-09T12:09:10.000Z",
+        "inr": "2026-09-09T12:09:10.000Z",
+        "jpy": "2026-09-09T12:09:10.000Z",
+        "krw": "2026-09-09T12:09:10.000Z",
+        "kwd": "2026-09-09T12:09:10.000Z",
+        "lkr": "2026-09-09T12:09:10.000Z",
+        "mmk": "2026-09-09T12:09:10.000Z",
+        "mxn": "2026-09-09T12:09:10.000Z",
+        "myr": "2026-09-09T12:09:10.000Z",
+        "ngn": "2026-09-09T12:09:10.000Z",
+        "nok": "2026-09-09T12:09:10.000Z",
+        "nzd": "2026-09-09T12:09:10.000Z",
+        "php": "2026-09-09T12:09:10.000Z",
+        "pkr": "2026-09-09T12:09:10.000Z",
+        "pln": "2026-09-09T12:09:10.000Z",
+        "rub": "2026-09-09T12:09:10.000Z",
+        "sar": "2026-09-09T12:09:10.000Z",
+        "sek": "2026-09-09T12:09:10.000Z",
+        "sgd": "2026-09-09T12:09:10.000Z",
+        "thb": "2026-09-09T12:09:10.000Z",
+        "try": "2026-09-09T12:09:10.000Z",
+        "twd": "2026-09-09T12:09:10.000Z",
+        "uah": "2026-09-09T12:09:10.000Z",
+        "vnd": "2026-09-09T12:09:10.000Z",
+        "zar": "2026-09-09T12:09:10.000Z",
+        "xdr": "2026-09-09T12:09:10.000Z",
+        "xag": "2026-09-09T12:09:10.000Z",
+        "xau": "2026-09-09T12:09:10.000Z"
+      },
+      "atl": {
+        "vef": 0.072435,
+        "btc": 0.00000924,
+        "bits": 9.24,
+        "sats": 923.74,
+        "eth": 0.00029293,
+        "ltc": 0.01361859,
+        "bch": 0.00287664,
+        "bnb": 0.00100058,
+        "eos": 8.93962,
+        "xrp": 0.52040029,
+        "xlm": 4.006012,
+        "link": 0.06149046,
+        "dot": 0.64967735,
+        "yfi": 0.00032962,
+        "sol": 0.00714448,
+        "usd": 0.723409,
+        "aed": 2.66,
+        "ars": 1095.07,
+        "aud": 1.002,
+        "bdt": 88.99,
+        "bhd": 0.272735,
+        "bmd": 0.723409,
+        "brl": 3.69,
+        "cad": 0.998775,
+        "chf": 0.585657,
+        "clp": 670.38,
+        "cny": 4.85,
+        "czk": 15.09,
+        "dkk": 4.65,
+        "eur": 0.621768,
+        "gbp": 0.533862,
+        "gel": 1.88,
+        "hkd": 5.67,
+        "huf": 226.31,
+        "idr": 12660.34,
+        "ils": 2.19,
+        "inr": 68.81,
+        "jpy": 111.1,
+        "krw": 967.63,
+        "kwd": 0.223345,
+        "lkr": 237.67,
+        "mmk": 1518.8,
+        "mxn": 12.22,
+        "myr": 2.94,
+        "ngn": 957.21,
+        "nok": 6.65,
+        "nzd": 1.24,
+        "php": 45.19,
+        "pkr": 200.57,
+        "pln": 2.68,
+        "rub": 61.49,
+        "sar": 2.71,
+        "sek": 6.94,
+        "sgd": 0.914397,
+        "thb": 23.81,
+        "try": 35.08,
+        "twd": 22.77,
+        "uah": 32.32,
+        "vnd": 18741.17,
+        "zar": 11.61,
+        "xdr": 0.528314,
+        "xag": 0.01069444,
+        "xau": 0.00016374
+      },
+      "atl_change_percentage": {
+        "vef": 17.62062,
+        "btc": 17.99409,
+        "bits": 17.99409,
+        "sats": 17.99409,
+        "eth": 17.54453,
+        "ltc": 19.26188,
+        "bch": 19.3978,
+        "bnb": 18.33351,
+        "eos": 17.63478,
+        "xrp": 18.33786,
+        "xlm": 18.70248,
+        "link": 17.47219,
+        "dot": 18.34146,
+        "yfi": 18.48201,
+        "sol": 17.6501,
+        "usd": 17.62062,
+        "aed": 17.62062,
+        "ars": 17.61984,
+        "aud": 17.63929,
+        "bdt": 17.62062,
+        "bhd": 17.62062,
+        "bmd": 17.62062,
+        "brl": 17.64839,
+        "cad": 17.63894,
+        "chf": 17.58052,
+        "clp": 17.61428,
+        "cny": 17.59432,
+        "czk": 17.51131,
+        "dkk": 17.57721,
+        "eur": 17.56862,
+        "gbp": 17.59114,
+        "gel": 17.62062,
+        "hkd": 17.60951,
+        "huf": 17.58395,
+        "idr": 17.96083,
+        "ils": 17.76665,
+        "inr": 17.88086,
+        "jpy": 17.47881,
+        "krw": 17.93069,
+        "kwd": 17.57262,
+        "lkr": 17.62062,
+        "mmk": 17.62062,
+        "mxn": 17.69327,
+        "myr": 17.37792,
+        "ngn": 17.73262,
+        "nok": 17.90084,
+        "nzd": 17.60796,
+        "php": 17.77504,
+        "pkr": 17.62062,
+        "pln": 17.5788,
+        "rub": 16.82646,
+        "sar": 17.62062,
+        "sek": 17.60337,
+        "sgd": 17.63598,
+        "thb": 17.58488,
+        "try": 17.61329,
+        "twd": 17.88335,
+        "uah": 17.62062,
+        "vnd": 17.60539,
+        "zar": 17.58967,
+        "xdr": 17.62062,
+        "xag": 18.1529,
+        "xau": 17.78691
+      },
+      "atl_date": {
+        "vef": "2026-09-10T01:14:00.000Z",
+        "btc": "2026-09-10T01:14:00.000Z",
+        "bits": "2026-09-10T01:14:00.000Z",
+        "sats": "2026-09-10T01:14:00.000Z",
+        "eth": "2026-09-10T01:14:00.000Z",
+        "ltc": "2026-09-10T01:14:00.000Z",
+        "bch": "2026-09-10T01:14:00.000Z",
+        "bnb": "2026-09-10T01:14:00.000Z",
+        "eos": "2026-09-10T01:14:00.000Z",
+        "xrp": "2026-09-10T01:14:00.000Z",
+        "xlm": "2026-09-10T01:14:00.000Z",
+        "link": "2026-09-10T01:14:00.000Z",
+        "dot": "2026-09-10T00:45:40.000Z",
+        "yfi": "2026-09-10T01:14:00.000Z",
+        "sol": "2026-09-10T01:14:00.000Z",
+        "usd": "2026-09-10T01:14:00.000Z",
+        "aed": "2026-09-10T01:14:00.000Z",
+        "ars": "2026-09-10T01:14:00.000Z",
+        "aud": "2026-09-10T01:14:00.000Z",
+        "bdt": "2026-09-10T01:14:00.000Z",
+        "bhd": "2026-09-10T01:14:00.000Z",
+        "bmd": "2026-09-10T01:14:00.000Z",
+        "brl": "2026-09-10T01:14:00.000Z",
+        "cad": "2026-09-10T01:14:00.000Z",
+        "chf": "2026-09-10T01:14:00.000Z",
+        "clp": "2026-09-10T01:14:00.000Z",
+        "cny": "2026-09-10T01:14:00.000Z",
+        "czk": "2026-09-10T01:14:00.000Z",
+        "dkk": "2026-09-10T01:14:00.000Z",
+        "eur": "2026-09-10T01:14:00.000Z",
+        "gbp": "2026-09-10T01:14:00.000Z",
+        "gel": "2026-09-10T01:14:00.000Z",
+        "hkd": "2026-09-10T01:14:00.000Z",
+        "huf": "2026-09-10T01:14:00.000Z",
+        "idr": "2026-09-10T01:14:00.000Z",
+        "ils": "2026-09-10T01:14:00.000Z",
+        "inr": "2026-09-10T01:14:00.000Z",
+        "jpy": "2026-09-10T01:14:00.000Z",
+        "krw": "2026-09-10T01:14:00.000Z",
+        "kwd": "2026-09-10T01:14:00.000Z",
+        "lkr": "2026-09-10T01:14:00.000Z",
+        "mmk": "2026-09-10T01:14:00.000Z",
+        "mxn": "2026-09-10T01:14:00.000Z",
+        "myr": "2026-09-10T01:14:00.000Z",
+        "ngn": "2026-09-10T01:14:00.000Z",
+        "nok": "2026-09-10T01:14:00.000Z",
+        "nzd": "2026-09-10T01:14:00.000Z",
+        "php": "2026-09-10T01:14:00.000Z",
+        "pkr": "2026-09-10T01:14:00.000Z",
+        "pln": "2026-09-10T01:14:00.000Z",
+        "rub": "2026-09-10T01:14:00.000Z",
+        "sar": "2026-09-10T01:14:00.000Z",
+        "sek": "2026-09-10T01:14:00.000Z",
+        "sgd": "2026-09-10T01:14:00.000Z",
+        "thb": "2026-09-10T01:14:00.000Z",
+        "try": "2026-09-10T01:14:00.000Z",
+        "twd": "2026-09-10T01:14:00.000Z",
+        "uah": "2026-09-10T01:14:00.000Z",
+        "vnd": "2026-09-10T01:14:00.000Z",
+        "zar": "2026-09-10T01:14:00.000Z",
+        "xdr": "2026-09-10T01:14:00.000Z",
+        "xag": "2026-09-10T01:14:00.000Z",
+        "xau": "2026-09-10T01:14:00.000Z"
+      },
+      "market_cap": {
+        "vef": 29811420,
+        "btc": 3813,
+        "bits": 3813384347,
+        "sats": 381338434736,
+        "eth": 120481,
+        "ltc": 5683090,
+        "bch": 1201801,
+        "bnb": 414295,
+        "eos": 3679643452,
+        "xrp": 215482568,
+        "xlm": 1663883708,
+        "link": 25275145,
+        "dot": 269020603,
+        "yfi": 136652,
+        "sol": 2941127,
+        "usd": 297727150,
+        "aed": 1093402960,
+        "ars": 450683729678,
+        "aud": 412633753,
+        "bdt": 36625535403,
+        "bhd": 112247006,
+        "bmd": 297727150,
+        "brl": 1519867330,
+        "cad": 411121002,
+        "chf": 240951476,
+        "clp": 275885886694,
+        "cny": 1996915544,
+        "czk": 6203329473,
+        "dkk": 1911992149,
+        "eur": 255782456,
+        "gbp": 219661901,
+        "gel": 774090591,
+        "hkd": 2334511039,
+        "huf": 93113022734,
+        "idr": 5225575622334,
+        "ils": 900386448,
+        "inr": 28381971087,
+        "jpy": 45669360031,
+        "krw": 399289144524,
+        "kwd": 91882469,
+        "lkr": 97814848984,
+        "mmk": 625078152372,
+        "mxn": 5031987797,
+        "myr": 1209516549,
+        "ngn": 394324724415,
+        "nok": 2745281020,
+        "nzd": 508950571,
+        "php": 18622239295,
+        "pkr": 82548548150,
+        "pln": 1103953219,
+        "rub": 25135618845,
+        "sar": 1116523260,
+        "sek": 2855109589,
+        "sgd": 376379220,
+        "thb": 9795223250,
+        "try": 14438241838,
+        "twd": 9390790689,
+        "uah": 13301153969,
+        "vnd": 7712139760376,
+        "zar": 4777044931,
+        "xdr": 217433711,
+        "xag": 4421335,
+        "xau": 67483
+      },
+      "market_cap_rank": 141,
+      "outstanding_token_value_usd": null,
+      "market_cap_rank_with_rehypothecated": 198,
+      "fully_diluted_valuation": {
+        "vef": 85175484,
+        "btc": 10895,
+        "bits": 10895383850,
+        "sats": 1089538384960,
+        "eth": 344232,
+        "ltc": 16237401,
+        "bch": 3433718,
+        "bnb": 1183700,
+        "eos": 10513267005,
+        "xrp": 615664481,
+        "xlm": 4753953451,
+        "link": 72214701,
+        "dot": 768630293,
+        "yfi": 390435,
+        "sol": 8403219,
+        "usd": 850649001,
+        "aed": 3124008457,
+        "ars": 1287667799079,
+        "aud": 1178953581,
+        "bdt": 104644386867,
+        "bhd": 320705732,
+        "bmd": 850649001,
+        "brl": 4342478087,
+        "cad": 1174631433,
+        "chf": 688432789,
+        "clp": 788245390554,
+        "cny": 5705472981,
+        "czk": 17723798494,
+        "dkk": 5462834711,
+        "eur": 730807018,
+        "gbp": 627605431,
+        "gel": 2211687403,
+        "hkd": 6670031540,
+        "huf": 266037207810,
+        "idr": 14930216063811,
+        "ils": 2572532710,
+        "inr": 81091345962,
+        "jpy": 130483885802,
+        "krw": 1140826127211,
+        "kwd": 262521340,
+        "lkr": 279470997098,
+        "mmk": 1785937578206,
+        "mxn": 14377107991,
+        "myr": 3455761568,
+        "ngn": 1126642069757,
+        "nok": 7843660058,
+        "nzd": 1454144487,
+        "php": 53206397986,
+        "pkr": 235852994713,
+        "pln": 3154152055,
+        "rub": 71816053843,
+        "sar": 3190066456,
+        "sek": 8157455968,
+        "sgd": 1075369201,
+        "thb": 27986352142,
+        "try": 41252119538,
+        "twd": 26830830539,
+        "uah": 38003297054,
+        "vnd": 22034685029645,
+        "zar": 13648699804,
+        "xdr": 621239173,
+        "xag": 12632384,
+        "xau": 192808
+      },
+      "market_cap_fdv_ratio": 0.35,
+      "total_volume": {
+        "vef": 3727522,
+        "btc": 476.868,
+        "bits": 476868486,
+        "sats": 47686848606,
+        "eth": 15065,
+        "ltc": 710595,
+        "bch": 150269,
+        "bnb": 51802,
+        "eos": 460090556,
+        "xrp": 26943234,
+        "xlm": 208046565,
+        "link": 3160321,
+        "dot": 33637454,
+        "yfi": 17087,
+        "sol": 367749,
+        "usd": 37226827,
+        "aed": 136715522,
+        "ars": 56352016313,
+        "aud": 51594372,
+        "bdt": 4579536896,
+        "bhd": 14034998,
+        "bmd": 37226827,
+        "brl": 190039229,
+        "cad": 51405222,
+        "chf": 30127783,
+        "clp": 34495866977,
+        "cny": 249687774,
+        "czk": 775643984,
+        "dkk": 239069231,
+        "eur": 31982200,
+        "gbp": 27465804,
+        "gel": 96789750,
+        "hkd": 291899608,
+        "huf": 11642547158,
+        "idr": 653388847487,
+        "ils": 112581370,
+        "inr": 3548788635,
+        "jpy": 5710347084,
+        "krw": 49925805846,
+        "kwd": 11488683,
+        "lkr": 12230448101,
+        "mmk": 78157723299,
+        "mxn": 629183260,
+        "myr": 151233985,
+        "ngn": 49305071028,
+        "nok": 343260940,
+        "nzd": 63637511,
+        "php": 2328463762,
+        "pkr": 10321599884,
+        "pln": 138034692,
+        "rub": 3142875391,
+        "sar": 139606409,
+        "sek": 356993545,
+        "sgd": 47061224,
+        "thb": 1224762608,
+        "try": 1805310434,
+        "twd": 1174193687,
+        "uah": 1663132694,
+        "vnd": 964300676878,
+        "zar": 597306040,
+        "xdr": 27187198,
+        "xag": 552829,
+        "xau": 8437.83
+      },
+      "high_24h": {
+        "vef": 19.98,
+        "btc": 0.00251321,
+        "bits": 2513.21,
+        "sats": 251321,
+        "eth": 0.08073469,
+        "ltc": 3.808247,
+        "bch": 0.80532879,
+        "bnb": 0.27761966,
+        "eos": 2466,
+        "xrp": 144.395,
+        "xlm": 1115,
+        "link": 16.936911,
+        "dot": 180.271,
+        "yfi": 0.0915708,
+        "sol": 1.970853,
+        "usd": 199.51,
+        "aed": 732.69,
+        "ars": 302004,
+        "aud": 276.51,
+        "bdt": 24543,
+        "bhd": 75.22,
+        "bmd": 199.51,
+        "brl": 1018.47,
+        "cad": 275.49,
+        "chf": 161.46,
+        "clp": 184872,
+        "cny": 1338.14,
+        "czk": 4156.86,
+        "dkk": 1281.23,
+        "eur": 171.4,
+        "gbp": 147.2,
+        "gel": 518.72,
+        "hkd": 1564.36,
+        "huf": 62395,
+        "idr": 3501666,
+        "ils": 603.35,
+        "inr": 19018.8,
+        "jpy": 30603,
+        "krw": 267564,
+        "kwd": 61.57,
+        "lkr": 65546,
+        "mmk": 418866,
+        "mxn": 3371.94,
+        "myr": 810.5,
+        "ngn": 264238,
+        "nok": 1839.62,
+        "nzd": 341.05,
+        "php": 12478.79,
+        "pkr": 55316,
+        "pln": 739.76,
+        "rub": 16843.41,
+        "sar": 748.18,
+        "sek": 1913.21,
+        "sgd": 252.21,
+        "thb": 6563.79,
+        "try": 9675.09,
+        "twd": 6292.78,
+        "uah": 8913.12,
+        "vnd": 5167916,
+        "zar": 3201.1,
+        "xdr": 145.7,
+        "xag": 2.96,
+        "xau": 0.04522034
+      },
+      "low_24h": {
+        "vef": 0.072435,
+        "btc": 0.00000924,
+        "bits": 9.24,
+        "sats": 923.74,
+        "eth": 0.00029274,
+        "ltc": 0.01380862,
+        "bch": 0.0029201,
+        "bnb": 0.00100664,
+        "eos": 8.940697,
+        "xrp": 0.52357364,
+        "xlm": 4.042859,
+        "link": 0.06141286,
+        "dot": 0.65365889,
+        "yfi": 0.00033203,
+        "sol": 0.00714627,
+        "usd": 0.723409,
+        "aed": 2.66,
+        "ars": 1095.06,
+        "aud": 1.003,
+        "bdt": 88.99,
+        "bhd": 0.272735,
+        "bmd": 0.723409,
+        "brl": 3.69,
+        "cad": 0.998931,
+        "chf": 0.585457,
+        "clp": 670.34,
+        "cny": 4.85,
+        "czk": 15.07,
+        "dkk": 4.65,
+        "eur": 0.621493,
+        "gbp": 0.533728,
+        "gel": 1.88,
+        "hkd": 5.67,
+        "huf": 226.24,
+        "idr": 12696.96,
+        "ils": 2.19,
+        "inr": 68.96,
+        "jpy": 110.97,
+        "krw": 970.18,
+        "kwd": 0.223254,
+        "lkr": 237.67,
+        "mmk": 1518.8,
+        "mxn": 12.23,
+        "myr": 2.94,
+        "ngn": 958.12,
+        "nok": 6.67,
+        "nzd": 1.24,
+        "php": 45.25,
+        "pkr": 200.57,
+        "pln": 2.68,
+        "rub": 61.07,
+        "sar": 2.71,
+        "sek": 6.94,
+        "sgd": 0.914516,
+        "thb": 23.8,
+        "try": 35.08,
+        "twd": 22.82,
+        "uah": 32.32,
+        "vnd": 18738.75,
+        "zar": 11.61,
+        "xdr": 0.528314,
+        "xag": 0.01074284,
+        "xau": 0.00016397
+      },
+      "price_change_24h": null,
+      "price_change_percentage_24h": null,
+      "price_change_percentage_7d": null,
+      "price_change_percentage_14d": null,
+      "price_change_percentage_30d": null,
+      "price_change_percentage_60d": null,
+      "price_change_percentage_200d": null,
+      "price_change_percentage_1y": null,
+      "market_cap_change_24h": null,
+      "market_cap_change_percentage_24h": null,
+      "price_change_24h_in_currency": null,
+      "price_change_percentage_1h_in_currency": {
+        "vef": 9.62433,
+        "eth": 9.84359,
+        "ltc": 10.24859,
+        "bch": 10.49716,
+        "bnb": 9.79022,
+        "eos": 9.55131,
+        "xrp": 9.92858,
+        "xlm": 10.70441,
+        "link": 10.22574,
+        "dot": 10.16648,
+        "yfi": 10.16063,
+        "sol": 10.10753,
+        "usd": 9.62433,
+        "aed": 9.62433,
+        "ars": 9.62474,
+        "aud": 9.62931,
+        "bdt": 9.62433,
+        "bhd": 9.62433,
+        "bmd": 9.62433,
+        "brl": 9.62863,
+        "cad": 9.63505,
+        "chf": 9.67705,
+        "clp": 9.62433,
+        "cny": 9.62106,
+        "czk": 9.61099,
+        "dkk": 9.62593,
+        "eur": 9.6242,
+        "gbp": 9.65316,
+        "gel": 9.62433,
+        "hkd": 9.61924,
+        "huf": 9.62486,
+        "idr": 9.71092,
+        "ils": 9.48784,
+        "inr": 9.77207,
+        "jpy": 9.60246,
+        "krw": 9.6934,
+        "kwd": 9.62433,
+        "lkr": 9.62433,
+        "mmk": 9.62433,
+        "mxn": 9.6993,
+        "myr": 9.62163,
+        "ngn": 9.62433,
+        "nok": 9.58485,
+        "nzd": 9.73436,
+        "php": 9.68047,
+        "pkr": 9.62433,
+        "pln": 9.64624,
+        "rub": 8.81918,
+        "sar": 9.62433,
+        "sek": 9.72628,
+        "sgd": 9.65122,
+        "thb": 9.65599,
+        "try": 9.62531,
+        "twd": 9.65075,
+        "uah": 9.62433,
+        "vnd": 9.61013,
+        "zar": 9.76884,
+        "xdr": 9.62433,
+        "xag": 9.97573,
+        "xau": 9.95907,
+        "btc": 10.09094,
+        "bits": 10.09094,
+        "sats": 10.09094
+      },
+      "price_change_percentage_24h_in_currency": {},
+      "price_change_percentage_7d_in_currency": {},
+      "price_change_percentage_14d_in_currency": {},
+      "price_change_percentage_30d_in_currency": {},
+      "price_change_percentage_60d_in_currency": {},
+      "price_change_percentage_200d_in_currency": {},
+      "price_change_percentage_1y_in_currency": {},
+      "market_cap_change_24h_in_currency": {},
+      "market_cap_change_percentage_24h_in_currency": {},
+      "total_supply": 1000000000,
+      "max_supply": 1000000000,
+      "max_supply_infinite": false,
+      "circulating_supply": 350000000,
+      "outstanding_supply": 0,
+      "last_updated": "2026-09-10T08:01:50.000Z"
+    },
+    "status_updates": [],
+    "last_updated": "2026-09-10T08:01:50.000Z",
+    "tickers": [
+      {
+        "base": "LAPTOP",
+        "target": "USDT",
+        "market": {
+          "name": "KuCoin",
+          "identifier": "kucoin",
+          "has_trading_incentive": false
+        },
+        "last": 0.8442,
+        "volume": 13733367.82,
+        "converted_last": {
+          "btc": 0.0000108,
+          "eth": 0.00034196,
+          "usd": 0.843925
+        },
+        "converted_volume": {
+          "btc": 148.375,
+          "eth": 4696,
+          "usd": 11589932
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.034091,
+        "timestamp": "2026-09-10T08:02:02+00:00",
+        "last_traded_at": "2026-09-10T08:02:02+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.kucoin.com/trade/LAPTOP-USDT",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Aerodrome Slipstream 3",
+          "identifier": "aerodrome-slipstream-3",
+          "has_trading_incentive": false
+        },
+        "last": 0.8597757273,
+        "volume": 6867259.40113031,
+        "converted_last": {
+          "btc": 0.000011,
+          "eth": 0.00034827,
+          "usd": 0.859496
+        },
+        "converted_volume": {
+          "btc": 75.563,
+          "eth": 2392,
+          "usd": 5902379
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.602901,
+        "timestamp": "2026-09-10T08:01:17+00:00",
+        "last_traded_at": "2026-09-10T08:01:17+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0xb095274743941e953c746f9c228da9c18bb6ec29&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "LAPTOP",
+        "target": "USD",
+        "market": {
+          "name": "Kraken",
+          "identifier": "kraken",
+          "has_trading_incentive": false
+        },
+        "last": 0.8496,
+        "volume": 6681831.436,
+        "converted_last": {
+          "btc": 0.0000109,
+          "eth": 0.00034438,
+          "usd": 0.849877
+        },
+        "converted_volume": {
+          "btc": 72.859,
+          "eth": 2301,
+          "usd": 5678734
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.113469,
+        "timestamp": "2026-09-10T08:02:00+00:00",
+        "last_traded_at": "2026-09-10T08:02:00+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://pro.kraken.com/app/trade/LAPTOP-USD",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8611158581,
+        "volume": 6047803.28966252,
+        "converted_last": {
+          "btc": 0.00001102,
+          "eth": 0.00034882,
+          "usd": 0.860835
+        },
+        "converted_volume": {
+          "btc": 66.65,
+          "eth": 2110,
+          "usd": 5206162
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.606891,
+        "timestamp": "2026-09-10T08:01:24+00:00",
+        "last_traded_at": "2026-09-10T08:01:24+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0xb095274743941e953c746f9c228da9c18bb6ec29",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "LAPTOP",
+        "target": "EUR",
+        "market": {
+          "name": "Bitvavo",
+          "identifier": "bitvavo",
+          "has_trading_incentive": false
+        },
+        "last": 0.73,
+        "volume": 5353450.3042,
+        "converted_last": {
+          "btc": 0.00001091,
+          "eth": 0.00034442,
+          "usd": 0.849987
+        },
+        "converted_volume": {
+          "btc": 58.382,
+          "eth": 1844,
+          "usd": 4550361
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.11497,
+        "timestamp": "2026-09-10T08:02:02+00:00",
+        "last_traded_at": "2026-09-10T08:02:02+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://account.bitvavo.com/markets/LAPTOP-EUR",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8354010611,
+        "volume": 2358445.96370014,
+        "converted_last": {
+          "btc": 0.00001069,
+          "eth": 0.0003384,
+          "usd": 0.835129
+        },
+        "converted_volume": {
+          "btc": 25.215025,
+          "eth": 798.099,
+          "usd": 1969606
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.604766,
+        "timestamp": "2026-09-10T08:00:00+00:00",
+        "last_traded_at": "2026-09-10T08:00:00+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0XB200000000000000000000C2E324D24D7EECD1FB",
+        "market": {
+          "name": "Aerodrome Slipstream 3",
+          "identifier": "aerodrome-slipstream-3",
+          "has_trading_incentive": false
+        },
+        "last": 0.002733474794,
+        "volume": 855948.039001479,
+        "converted_last": {
+          "btc": 0.00001104,
+          "eth": 0.00034997,
+          "usd": 0.863672
+        },
+        "converted_volume": {
+          "btc": 9.451102,
+          "eth": 299.553,
+          "usd": 739259
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.616441,
+        "timestamp": "2026-09-10T08:01:17+00:00",
+        "last_traded_at": "2026-09-10T08:01:17+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0xb095274743941e953c746f9c228da9c18bb6ec29&to=0xb200000000000000000000c2e324d24d7eecd1fb",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "apple-coinbase-tokenized-stock",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "LAPTOP",
+        "target": "USDT",
+        "market": {
+          "name": "LBank",
+          "identifier": "lbank",
+          "has_trading_incentive": false
+        },
+        "last": 0.8615,
+        "volume": 742386.35,
+        "converted_last": {
+          "btc": 0.00001103,
+          "eth": 0.00034897,
+          "usd": 0.861219
+        },
+        "converted_volume": {
+          "btc": 8.185095,
+          "eth": 259.073,
+          "usd": 639357
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.349487,
+        "timestamp": "2026-09-10T08:02:03+00:00",
+        "last_traded_at": "2026-09-10T08:02:03+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.lbank.com/trade/laptop_usdt",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8752298758,
+        "volume": 360585.834027278,
+        "converted_last": {
+          "btc": 0.0000112,
+          "eth": 0.00035453,
+          "usd": 0.874945
+        },
+        "converted_volume": {
+          "btc": 4.038957,
+          "eth": 127.84,
+          "usd": 315493
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.639699,
+        "timestamp": "2026-09-10T07:56:09+00:00",
+        "last_traded_at": "2026-09-10T07:56:09+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8501624042,
+        "volume": 130043.37326856,
+        "converted_last": {
+          "btc": 0.00001088,
+          "eth": 0.00034438,
+          "usd": 0.849885
+        },
+        "converted_volume": {
+          "btc": 1.414909,
+          "eth": 44.784342,
+          "usd": 110522
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.697812,
+        "timestamp": "2026-09-10T08:01:23+00:00",
+        "last_traded_at": "2026-09-10T08:01:23+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8310238892,
+        "volume": 54730.0234407119,
+        "converted_last": {
+          "btc": 0.00001064,
+          "eth": 0.00033663,
+          "usd": 0.830753
+        },
+        "converted_volume": {
+          "btc": 0.58207318,
+          "eth": 18.423631,
+          "usd": 45467
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.780077,
+        "timestamp": "2026-09-10T07:56:09+00:00",
+        "last_traded_at": "2026-09-10T07:56:09+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Aerodrome (Base)",
+          "identifier": "aerodrome-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8618796343,
+        "volume": 41803.0793902621,
+        "converted_last": {
+          "btc": 0.00001103,
+          "eth": 0.00034913,
+          "usd": 0.861599
+        },
+        "converted_volume": {
+          "btc": 0.46109811,
+          "eth": 14.594559,
+          "usd": 36017
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.722229,
+        "timestamp": "2026-09-10T08:02:00+00:00",
+        "last_traded_at": "2026-09-10T08:02:00+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0xb095274743941e953c746f9c228da9c18bb6ec29&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&chain0=8453&chain1=8453",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8790559543,
+        "volume": 17597.3690582825,
+        "converted_last": {
+          "btc": 0.00001125,
+          "eth": 0.00035608,
+          "usd": 0.87877
+        },
+        "converted_volume": {
+          "btc": 0.19797152,
+          "eth": 6.266143,
+          "usd": 15464.03
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.829994,
+        "timestamp": "2026-09-10T08:00:00+00:00",
+        "last_traded_at": "2026-09-10T08:00:00+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8381948777,
+        "volume": 17432.9051639253,
+        "converted_last": {
+          "btc": 0.00001073,
+          "eth": 0.00033953,
+          "usd": 0.837922
+        },
+        "converted_volume": {
+          "btc": 0.187005,
+          "eth": 5.919034,
+          "usd": 14607.41
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.664269,
+        "timestamp": "2026-09-10T03:02:19+00:00",
+        "last_traded_at": "2026-09-10T03:02:19+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003392212559,
+        "volume": 10469.4080460774,
+        "converted_last": {
+          "btc": 0.00001076,
+          "eth": 0.00033966,
+          "usd": 0.838234
+        },
+        "converted_volume": {
+          "btc": 0.11263042,
+          "eth": 3.556028,
+          "usd": 8775.82
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.794691,
+        "timestamp": "2026-09-10T02:48:59+00:00",
+        "last_traded_at": "2026-09-10T02:48:59+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.8556590082,
+        "volume": 2083.5573516173,
+        "converted_last": {
+          "btc": 0.00001095,
+          "eth": 0.00034661,
+          "usd": 0.85538
+        },
+        "converted_volume": {
+          "btc": 0.02281627,
+          "eth": 0.72217468,
+          "usd": 1782.23
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 24.312182,
+        "timestamp": "2026-09-10T07:57:46+00:00",
+        "last_traded_at": "2026-09-10T07:57:46+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.7692707412,
+        "volume": 1721.387839362,
+        "converted_last": {
+          "btc": 0.00000985,
+          "eth": 0.00031161,
+          "usd": 0.76902
+        },
+        "converted_volume": {
+          "btc": 0.01694714,
+          "eth": 0.53640648,
+          "usd": 1323.78
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 73.534619,
+        "timestamp": "2026-09-10T04:33:20+00:00",
+        "last_traded_at": "2026-09-10T04:33:20+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003534345426,
+        "volume": 1339.8615530997,
+        "converted_last": {
+          "btc": 0.00001121,
+          "eth": 0.00035389,
+          "usd": 0.873356
+        },
+        "converted_volume": {
+          "btc": 0.01501825,
+          "eth": 0.47416431,
+          "usd": 1170.18
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.258777,
+        "timestamp": "2026-09-10T00:19:12+00:00",
+        "last_traded_at": "2026-09-10T00:19:12+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9086804623,
+        "volume": 1140.7522229844,
+        "converted_last": {
+          "btc": 0.00001163,
+          "eth": 0.00036808,
+          "usd": 0.908384
+        },
+        "converted_volume": {
+          "btc": 0.01326603,
+          "eth": 0.41989295,
+          "usd": 1036.24
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 3.508858,
+        "timestamp": "2026-09-10T03:02:19+00:00",
+        "last_traded_at": "2026-09-10T03:02:19+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.870345487,
+        "volume": 779.0965663642,
+        "converted_last": {
+          "btc": 0.00001114,
+          "eth": 0.00035256,
+          "usd": 0.870062
+        },
+        "converted_volume": {
+          "btc": 0.00867804,
+          "eth": 0.27467494,
+          "usd": 677.86
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 2.1585,
+        "timestamp": "2026-09-10T03:00:56+00:00",
+        "last_traded_at": "2026-09-10T03:00:56+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "LAPTOP",
+        "target": "USDT",
+        "market": {
+          "name": "Bitrue",
+          "identifier": "bitrue",
+          "has_trading_incentive": false
+        },
+        "last": 0.8469,
+        "volume": 384.8865,
+        "converted_last": {
+          "btc": 0.00001084,
+          "eth": 0.00034306,
+          "usd": 0.846624
+        },
+        "converted_volume": {
+          "btc": 0.00417161,
+          "eth": 0.13203859,
+          "usd": 325.85
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.543725,
+        "timestamp": "2026-09-10T08:02:00+00:00",
+        "last_traded_at": "2026-09-10T08:02:00+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.bitrue.com/trade/laptop_usdt",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "tether",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003380276187,
+        "volume": 357825.747059566,
+        "converted_last": {
+          "btc": 0.00001072,
+          "eth": 0.00033846,
+          "usd": 0.835285
+        },
+        "converted_volume": {
+          "btc": 3.835962,
+          "eth": 121.111,
+          "usd": 298886
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.612221,
+        "timestamp": "2026-09-10T08:00:00+00:00",
+        "last_traded_at": "2026-09-10T08:00:00+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0006629919482,
+        "volume": 122364.184446682,
+        "converted_last": {
+          "btc": 0.00002103,
+          "eth": 0.00066385,
+          "usd": 1.64
+        },
+        "converted_volume": {
+          "btc": 2.572842,
+          "eth": 81.231,
+          "usd": 200468
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.705944,
+        "timestamp": "2026-09-10T00:08:13+00:00",
+        "last_traded_at": "2026-09-10T00:08:13+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003560587971,
+        "volume": 116690.586510423,
+        "converted_last": {
+          "btc": 0.00001094,
+          "eth": 0.00034547,
+          "usd": 0.852572
+        },
+        "converted_volume": {
+          "btc": 1.276836,
+          "eth": 40.312947,
+          "usd": 99487
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.73704,
+        "timestamp": "2026-09-10T08:00:49+00:00",
+        "last_traded_at": "2026-09-10T08:00:49+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0xb095274743941e953c746f9c228da9c18bb6ec29",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.000463319896,
+        "volume": 17742.3601501705,
+        "converted_last": {
+          "btc": 0.00001469,
+          "eth": 0.00046392,
+          "usd": 1.14
+        },
+        "converted_volume": {
+          "btc": 0.2607011,
+          "eth": 8.230994,
+          "usd": 20313
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.986926,
+        "timestamp": "2026-09-10T00:15:01+00:00",
+        "last_traded_at": "2026-09-10T00:15:01+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.1009625,
+        "volume": 14485.3145095491,
+        "converted_last": {
+          "btc": 0.00001409,
+          "eth": 0.00044597,
+          "usd": 1.1
+        },
+        "converted_volume": {
+          "btc": 0.20409807,
+          "eth": 6.46006,
+          "usd": 15942.59
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -215.974811,
+        "timestamp": "2026-09-10T03:59:04+00:00",
+        "last_traded_at": "2026-09-10T03:59:04+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.0997960306,
+        "volume": 13002.2416969881,
+        "converted_last": {
+          "btc": 0.00001408,
+          "eth": 0.0004455,
+          "usd": 1.099
+        },
+        "converted_volume": {
+          "btc": 0.18300748,
+          "eth": 5.792506,
+          "usd": 14295.15
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.729969,
+        "timestamp": "2026-09-10T03:02:19+00:00",
+        "last_traded_at": "2026-09-10T03:02:19+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.206608,
+        "volume": 11092.1582344528,
+        "converted_last": {
+          "btc": 0.00001544,
+          "eth": 0.00048877,
+          "usd": 1.21
+        },
+        "converted_volume": {
+          "btc": 0.17128554,
+          "eth": 5.421486,
+          "usd": 13379.53
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.61854,
+        "timestamp": "2026-09-10T03:59:04+00:00",
+        "last_traded_at": "2026-09-10T03:59:04+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.7325087959,
+        "volume": 13125.9851804133,
+        "converted_last": {
+          "btc": 0.00000937,
+          "eth": 0.00029672,
+          "usd": 0.73227
+        },
+        "converted_volume": {
+          "btc": 0.12305045,
+          "eth": 3.894761,
+          "usd": 9611.77
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.849216,
+        "timestamp": "2026-09-10T01:14:16+00:00",
+        "last_traded_at": "2026-09-10T01:14:16+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.986432,
+        "volume": 4877.6722994406,
+        "converted_last": {
+          "btc": 0.00001262,
+          "eth": 0.00039958,
+          "usd": 0.986111
+        },
+        "converted_volume": {
+          "btc": 0.06157696,
+          "eth": 1.949018,
+          "usd": 4809.92
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -2090.915001,
+        "timestamp": "2026-09-10T04:25:29+00:00",
+        "last_traded_at": "2026-09-10T04:25:29+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0002905040218,
+        "volume": 57.3745869167,
+        "converted_last": {
+          "btc": 0.00000921,
+          "eth": 0.00029088,
+          "usd": 0.717851
+        },
+        "converted_volume": {
+          "btc": 0.00052859,
+          "eth": 0.01668905,
+          "usd": 41.19
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 6.151596,
+        "timestamp": "2026-09-10T00:16:24+00:00",
+        "last_traded_at": "2026-09-10T00:16:24+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0001351744996,
+        "volume": 275.0142142846,
+        "converted_last": {
+          "btc": 1.73e-9,
+          "eth": 5.4756e-8,
+          "usd": 0.00013513
+        },
+        "converted_volume": {
+          "btc": 4.7576e-7,
+          "eth": 0.00001506,
+          "usd": 0.0371628
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -225.881159,
+        "timestamp": "2026-09-10T00:06:28+00:00",
+        "last_traded_at": "2026-09-10T00:06:28+00:00",
+        "last_fetch_at": "2026-09-10T08:01:50+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 2.1603687285,
+        "volume": 178846.963487036,
+        "converted_last": {
+          "btc": 0.0000276,
+          "eth": 0.00087519,
+          "usd": 2.16
+        },
+        "converted_volume": {
+          "btc": 4.936924,
+          "eth": 156.525,
+          "usd": 386285
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": null,
+        "timestamp": "2026-09-09T15:44:03+00:00",
+        "last_traded_at": "2026-09-09T15:44:03+00:00",
+        "last_fetch_at": "2026-09-09T23:44:00+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.9256036217,
+        "volume": 104168.485835925,
+        "converted_last": {
+          "btc": 0.00002464,
+          "eth": 0.00078009,
+          "usd": 1.93
+        },
+        "converted_volume": {
+          "btc": 2.566828,
+          "eth": 81.261,
+          "usd": 200541
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.66386,
+        "timestamp": "2026-09-09T15:34:43+00:00",
+        "last_traded_at": "2026-09-09T15:34:43+00:00",
+        "last_fetch_at": "2026-09-09T23:34:40+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "PancakeSwap V3 (Base)",
+          "identifier": "pancakeswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.9102490517,
+        "volume": 27476.2899511306,
+        "converted_last": {
+          "btc": 0.00002443,
+          "eth": 0.00077388,
+          "usd": 1.91
+        },
+        "converted_volume": {
+          "btc": 0.67121096,
+          "eth": 21.263262,
+          "usd": 52475
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.755009,
+        "timestamp": "2026-09-09T15:36:42+00:00",
+        "last_traded_at": "2026-09-09T15:36:42+00:00",
+        "last_fetch_at": "2026-09-09T23:36:40+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://pancakeswap.finance/swap?inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 3.0307770273,
+        "volume": 6867.9836921378,
+        "converted_last": {
+          "btc": 0.00003873,
+          "eth": 0.00122777,
+          "usd": 3.03
+        },
+        "converted_volume": {
+          "btc": 0.26600419,
+          "eth": 8.432328,
+          "usd": 20810
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 13.641363,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Aerodrome Slipstream 3",
+          "identifier": "aerodrome-slipstream-3",
+          "has_trading_incentive": false
+        },
+        "last": 0.6842788223,
+        "volume": 2209.3599759719,
+        "converted_last": {
+          "btc": 0.00000876,
+          "eth": 0.00027722,
+          "usd": 0.684143
+        },
+        "converted_volume": {
+          "btc": 0.01934441,
+          "eth": 0.61247863,
+          "usd": 1511.52
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 2.970522,
+        "timestamp": "2026-09-09T12:51:08+00:00",
+        "last_traded_at": "2026-09-09T12:51:08+00:00",
+        "last_fetch_at": "2026-09-09T20:51:00+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://aerodrome.finance/swap?from=0xb095274743941e953c746f9c228da9c18bb6ec29&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.5733937923,
+        "volume": 21.2863690128,
+        "converted_last": {
+          "btc": 0.00002016,
+          "eth": 0.00063739,
+          "usd": 1.57
+        },
+        "converted_volume": {
+          "btc": 0.00042905,
+          "eth": 0.01356763,
+          "usd": 33.48
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.02905,
+        "timestamp": "2026-09-09T14:41:21+00:00",
+        "last_traded_at": "2026-09-09T14:41:21+00:00",
+        "last_fetch_at": "2026-09-09T22:41:20+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.000660756956,
+        "volume": 3.166447298,
+        "converted_last": {
+          "btc": 0.00002082,
+          "eth": 0.00066136,
+          "usd": 1.63
+        },
+        "converted_volume": {
+          "btc": 0.00006591,
+          "eth": 0.00209415,
+          "usd": 5.17
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -205.735431,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": false,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 132.6079800763,
+        "volume": 744.4896630629,
+        "converted_last": {
+          "btc": 0.00169354,
+          "eth": 0.05372371,
+          "usd": 132.58
+        },
+        "converted_volume": {
+          "btc": 1.260824,
+          "eth": 39.996749,
+          "usd": 98707
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.649472,
+        "timestamp": "2026-09-09T12:36:43+00:00",
+        "last_traded_at": "2026-09-09T12:36:43+00:00",
+        "last_fetch_at": "2026-09-09T20:36:40+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 136.8007962107,
+        "volume": 669.2934315193,
+        "converted_last": {
+          "btc": 0.00174821,
+          "eth": 0.05541826,
+          "usd": 136.77
+        },
+        "converted_volume": {
+          "btc": 1.170066,
+          "eth": 37.091075,
+          "usd": 91536
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 10.181123,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 156.2379153129,
+        "volume": 489.1169323368,
+        "converted_last": {
+          "btc": 0.0019966,
+          "eth": 0.06329227,
+          "usd": 156.2
+        },
+        "converted_volume": {
+          "btc": 0.97657224,
+          "eth": 30.95732,
+          "usd": 76399
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.681675,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 137.4105282925,
+        "volume": 337.6371540449,
+        "converted_last": {
+          "btc": 0.001756,
+          "eth": 0.05566526,
+          "usd": 137.37
+        },
+        "converted_volume": {
+          "btc": 0.59289185,
+          "eth": 18.79466,
+          "usd": 46383
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 34.163972,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 3.984206671,
+        "volume": 10022.8642251868,
+        "converted_last": {
+          "btc": 0.00005092,
+          "eth": 0.00161401,
+          "usd": 3.98
+        },
+        "converted_volume": {
+          "btc": 0.51031572,
+          "eth": 16.176998,
+          "usd": 39923
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.77872,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "PancakeSwap V3 (Base)",
+          "identifier": "pancakeswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.7195708189,
+        "volume": 20852.404745558,
+        "converted_last": {
+          "btc": 0.00002198,
+          "eth": 0.0006966,
+          "usd": 1.72
+        },
+        "converted_volume": {
+          "btc": 0.45829737,
+          "eth": 14.525764,
+          "usd": 35848
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 15.921131,
+        "timestamp": "2026-09-09T16:36:44+00:00",
+        "last_traded_at": "2026-09-09T16:36:44+00:00",
+        "last_fetch_at": "2026-09-10T00:36:40+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://pancakeswap.finance/swap?inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 46.2417642319,
+        "volume": 542.6936198645,
+        "converted_last": {
+          "btc": 0.00059093,
+          "eth": 0.01873262,
+          "usd": 46.23
+        },
+        "converted_volume": {
+          "btc": 0.3206966,
+          "eth": 10.166076,
+          "usd": 25089
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.807292,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.009658078512,
+        "volume": 997.14991863,
+        "converted_last": {
+          "btc": 0.00030425,
+          "eth": 0.00966686,
+          "usd": 23.86
+        },
+        "converted_volume": {
+          "btc": 0.30338349,
+          "eth": 9.639311,
+          "usd": 23789
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.904282,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 85.9079637317,
+        "volume": 249.1234024899,
+        "converted_last": {
+          "btc": 0.00109784,
+          "eth": 0.03480148,
+          "usd": 85.89
+        },
+        "converted_volume": {
+          "btc": 0.27349739,
+          "eth": 8.669862,
+          "usd": 21396
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.710914,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 25.7964964388,
+        "volume": 744.7833057462,
+        "converted_last": {
+          "btc": 0.00032966,
+          "eth": 0.01045021,
+          "usd": 25.79
+        },
+        "converted_volume": {
+          "btc": 0.2455251,
+          "eth": 7.783141,
+          "usd": 19207.79
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.753673,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 268.3231035273,
+        "volume": 60.2860530228,
+        "converted_last": {
+          "btc": 0.00342675,
+          "eth": 0.10870603,
+          "usd": 268.27
+        },
+        "converted_volume": {
+          "btc": 0.20658529,
+          "eth": 6.553457,
+          "usd": 16173.08
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.909584,
+        "timestamp": "2026-09-09T12:36:14+00:00",
+        "last_traded_at": "2026-09-09T12:36:14+00:00",
+        "last_fetch_at": "2026-09-09T20:36:10+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 2.7044528332,
+        "volume": 5546.8531597686,
+        "converted_last": {
+          "btc": 0.00003466,
+          "eth": 0.00109558,
+          "usd": 2.7
+        },
+        "converted_volume": {
+          "btc": 0.19223476,
+          "eth": 6.077024,
+          "usd": 14997.31
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.184842,
+        "timestamp": "2026-09-09T14:55:54+00:00",
+        "last_traded_at": "2026-09-09T14:55:54+00:00",
+        "last_fetch_at": "2026-09-09T22:55:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 164.7691872329,
+        "volume": 79.7583259315,
+        "converted_last": {
+          "btc": 0.00210563,
+          "eth": 0.0667483,
+          "usd": 164.73
+        },
+        "converted_volume": {
+          "btc": 0.16794121,
+          "eth": 5.323733,
+          "usd": 13138.28
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.886008,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 93.2370392529,
+        "volume": 139.7437941896,
+        "converted_last": {
+          "btc": 0.0011915,
+          "eth": 0.0377705,
+          "usd": 93.21
+        },
+        "converted_volume": {
+          "btc": 0.1665046,
+          "eth": 5.278193,
+          "usd": 13025.9
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.690321,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 16.4966561156,
+        "volume": 728.6740068669,
+        "converted_last": {
+          "btc": 0.0002115,
+          "eth": 0.00668283,
+          "usd": 16.49
+        },
+        "converted_volume": {
+          "btc": 0.15411572,
+          "eth": 4.869608,
+          "usd": 12017.56
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.840799,
+        "timestamp": "2026-09-09T14:12:24+00:00",
+        "last_traded_at": "2026-09-09T14:12:24+00:00",
+        "last_fetch_at": "2026-09-09T22:12:20+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 11.4402985662,
+        "volume": 511.1846243887,
+        "converted_last": {
+          "btc": 0.0001462,
+          "eth": 0.00463449,
+          "usd": 11.44
+        },
+        "converted_volume": {
+          "btc": 0.07473437,
+          "eth": 2.369078,
+          "usd": 5846.58
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.905224,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 11.8873273749,
+        "volume": 179.795365226,
+        "converted_last": {
+          "btc": 0.00015181,
+          "eth": 0.00481588,
+          "usd": 11.88
+        },
+        "converted_volume": {
+          "btc": 0.02729469,
+          "eth": 0.86587217,
+          "usd": 2136.86
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 1.970928,
+        "timestamp": "2026-09-09T12:38:10+00:00",
+        "last_traded_at": "2026-09-09T12:38:10+00:00",
+        "last_fetch_at": "2026-09-09T20:38:00+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.4070707525,
+        "volume": 714.8944589642,
+        "converted_last": {
+          "btc": 0.00001795,
+          "eth": 0.00056995,
+          "usd": 1.41
+        },
+        "converted_volume": {
+          "btc": 0.01282933,
+          "eth": 0.40745654,
+          "usd": 1005.55
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": null,
+        "timestamp": "2026-09-09T19:25:33+00:00",
+        "last_traded_at": "2026-09-09T19:25:33+00:00",
+        "last_fetch_at": "2026-09-10T03:25:30+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.417682212,
+        "volume": 705.4199659057,
+        "converted_last": {
+          "btc": 0.00001817,
+          "eth": 0.00057427,
+          "usd": 1.42
+        },
+        "converted_volume": {
+          "btc": 0.01281893,
+          "eth": 0.40510079,
+          "usd": 999.74
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 2.916238,
+        "timestamp": "2026-09-09T18:34:07+00:00",
+        "last_traded_at": "2026-09-09T18:34:07+00:00",
+        "last_fetch_at": "2026-09-10T02:34:00+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 42.1676065556,
+        "volume": 14.0685718229,
+        "converted_last": {
+          "btc": 0.00053875,
+          "eth": 0.01708303,
+          "usd": 42.16
+        },
+        "converted_volume": {
+          "btc": 0.00757951,
+          "eth": 0.24033378,
+          "usd": 593.11
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 2.801107,
+        "timestamp": "2026-09-09T12:29:03+00:00",
+        "last_traded_at": "2026-09-09T12:29:03+00:00",
+        "last_fetch_at": "2026-09-09T20:29:00+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 1.3165628991,
+        "volume": 320.5624861728,
+        "converted_last": {
+          "btc": 0.00001681,
+          "eth": 0.0005333,
+          "usd": 1.32
+        },
+        "converted_volume": {
+          "btc": 0.00538877,
+          "eth": 0.17095555,
+          "usd": 421.9
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 39.500982,
+        "timestamp": "2026-09-09T20:00:37+00:00",
+        "last_traded_at": "2026-09-09T20:00:37+00:00",
+        "last_fetch_at": "2026-09-10T04:00:30+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 18.2804362706,
+        "volume": 0.007757923586,
+        "converted_last": {
+          "btc": 0.57474522,
+          "eth": 18.262451,
+          "usd": 45069
+        },
+        "converted_volume": {
+          "btc": 0.00445883,
+          "eth": 0.1416787,
+          "usd": 349.64
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": -261.903636,
+        "timestamp": "2026-09-09T12:09:55+00:00",
+        "last_traded_at": "2026-09-09T12:09:55+00:00",
+        "last_fetch_at": "2026-09-09T20:09:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.002479914646,
+        "volume": 5.4315880082,
+        "converted_last": {
+          "btc": 0.00007811,
+          "eth": 0.00248182,
+          "usd": 6.12
+        },
+        "converted_volume": {
+          "btc": 0.00042428,
+          "eth": 0.01348022,
+          "usd": 33.27
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 67.932544,
+        "timestamp": "2026-09-09T13:28:27+00:00",
+        "last_traded_at": "2026-09-09T13:28:27+00:00",
+        "last_fetch_at": "2026-09-09T21:28:20+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.07355432342,
+        "volume": 408.935307083,
+        "converted_last": {
+          "btc": 9.39969e-7,
+          "eth": 0.0000298,
+          "usd": 0.073535
+        },
+        "converted_volume": {
+          "btc": 0.00038439,
+          "eth": 0.01218504,
+          "usd": 30.07
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.746523,
+        "timestamp": "2026-09-09T13:27:52+00:00",
+        "last_traded_at": "2026-09-09T13:27:52+00:00",
+        "last_fetch_at": "2026-09-09T21:27:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 297727150.4511403
+      },
+      {
+        "base": "0XB095274743941E953C746F9C228DA9C18BB6EC29",
+        "target": "0X0000000000000000000000000000000000000000",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0006993220369,
+        "volume": 1.4183106745,
+        "converted_last": {
+          "btc": 0.00002205,
+          "eth": 0.00069842,
+          "usd": 1.72
+        },
+        "converted_volume": {
+          "btc": 0.00003128,
+          "eth": 0.00099057,
+          "usd": 2.44
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 98.815036,
+        "timestamp": "2026-09-09T17:21:52+00:00",
+        "last_traded_at": "2026-09-09T17:21:52+00:00",
+        "last_fetch_at": "2026-09-10T01:21:50+00:00",
+        "is_anomaly": true,
+        "is_stale": true,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb095274743941e953c746f9c228da9c18bb6ec29&outputCurrency=0x0000000000000000000000000000000000000000",
+        "token_info_url": null,
+        "coin_id": "hunter-bidens-laptop",
+        "target_coin_id": "ethereum",
+        "coin_mcap_usd": 297727150.4511403
+      }
+    ]
+  },
+  "chart": {
+    "prices": [
+      [
+        1788955200000,
+        27.51
+      ],
+      [
+        1788958800000,
+        4.393778767134427
+      ],
+      [
+        1788962400000,
+        3.6567264120499847
+      ],
+      [
+        1788966000000,
+        2.394773664951575
+      ],
+      [
+        1788969600000,
+        2.163337808723179
+      ],
+      [
+        1788973200000,
+        1.7584032002773704
+      ],
+      [
+        1788976800000,
+        1.7042899181663638
+      ],
+      [
+        1788980400000,
+        1.3944802013352904
+      ],
+      [
+        1788984000000,
+        1.3124466760560072
+      ],
+      [
+        1788987600000,
+        1.6524808211435247
+      ],
+      [
+        1788991200000,
+        1.5131609640114516
+      ],
+      [
+        1788994800000,
+        1.6813870939992095
+      ],
+      [
+        1788998400000,
+        1.8597851599612334
+      ],
+      [
+        1789002000000,
+        0.8193776414199498
+      ],
+      [
+        1789005600000,
+        0.8625803847476455
+      ],
+      [
+        1789009200000,
+        1.0257228471615842
+      ],
+      [
+        1789012800000,
+        0.8880062632640024
+      ],
+      [
+        1789016400000,
+        0.8396228666223627
+      ],
+      [
+        1789020000000,
+        0.7671334067222124
+      ],
+      [
+        1789023600000,
+        0.769378158727915
+      ],
+      [
+        1789027200000,
+        0.8727402061861033
+      ],
+      [
+        1789027340000,
+        0.848812678812133
+      ]
+    ],
+    "market_caps": [
+      [
+        1788955200000,
+        9628500000
+      ],
+      [
+        1788958800000,
+        4393778767.134427
+      ],
+      [
+        1788962400000,
+        480432386.2437469
+      ],
+      [
+        1788966000000,
+        838170782.7330512
+      ],
+      [
+        1788969600000,
+        757168233.0531126
+      ],
+      [
+        1788973200000,
+        615441120.0970796
+      ],
+      [
+        1788976800000,
+        596501471.3582274
+      ],
+      [
+        1788980400000,
+        488068070.4673516
+      ],
+      [
+        1788984000000,
+        459356336.6196025
+      ],
+      [
+        1788987600000,
+        578368287.4002336
+      ],
+      [
+        1788991200000,
+        529606337.4040081
+      ],
+      [
+        1788994800000,
+        588485482.8997233
+      ],
+      [
+        1788998400000,
+        650924805.9864317
+      ],
+      [
+        1789002000000,
+        286782174.49698246
+      ],
+      [
+        1789005600000,
+        301903134.66167593
+      ],
+      [
+        1789009200000,
+        359002996.5065545
+      ],
+      [
+        1789012800000,
+        310802192.14240086
+      ],
+      [
+        1789016400000,
+        293868003.317827
+      ],
+      [
+        1789020000000,
+        268496692.3527743
+      ],
+      [
+        1789023600000,
+        269282355.5547703
+      ],
+      [
+        1789027200000,
+        305459072.16513616
+      ],
+      [
+        1789027340000,
+        297084437.5842465
+      ]
+    ],
+    "total_volumes": [
+      [
+        1788955200000,
+        251006.4669
+      ],
+      [
+        1788958800000,
+        3517063.5101794517
+      ],
+      [
+        1788962400000,
+        60735.37120127872
+      ],
+      [
+        1788966000000,
+        16754263.891884798
+      ],
+      [
+        1788969600000,
+        18361628.5540488
+      ],
+      [
+        1788973200000,
+        25909140.971288964
+      ],
+      [
+        1788976800000,
+        26413922.740517817
+      ],
+      [
+        1788980400000,
+        23952541.05018134
+      ],
+      [
+        1788984000000,
+        23752549.10575444
+      ],
+      [
+        1788987600000,
+        31699724.665847596
+      ],
+      [
+        1788991200000,
+        30458210.56113119
+      ],
+      [
+        1788994800000,
+        34749312.069866195
+      ],
+      [
+        1788998400000,
+        39934623.76907234
+      ],
+      [
+        1789002000000,
+        25017684.254555024
+      ],
+      [
+        1789005600000,
+        28535864.70605186
+      ],
+      [
+        1789009200000,
+        36172244.89598089
+      ],
+      [
+        1789012800000,
+        33088271.420299985
+      ],
+      [
+        1789016400000,
+        32727578.332137235
+      ],
+      [
+        1789020000000,
+        31011135.304494143
+      ],
+      [
+        1789023600000,
+        32369206.819468774
+      ],
+      [
+        1789027200000,
+        38146543.12977334
+      ],
+      [
+        1789027340000,
+        37138341.00059143
+      ]
+    ]
+  }
+}
