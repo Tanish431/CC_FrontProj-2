@@ -1,0 +1,1801 @@
+{
+  "savedAt": "2026-10-02T08:35:39.092Z",
+  "id": "open-usd",
+  "detail": {
+    "id": "open-usd",
+    "symbol": "ousd",
+    "name": "Open USD",
+    "web_slug": "open-usd",
+    "asset_platform_id": "ethereum",
+    "platforms": {
+      "ethereum": "0x9f6f3991d525015a6f8caf062c83b62fd3ac4436",
+      "base": "0xb2000000000000000000002feb517dfec7415344",
+      "solana": "ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB",
+      "tempo": "0x20c0000000000000000000006a37da5c996874be"
+    },
+    "detail_platforms": {
+      "ethereum": {
+        "decimal_place": 6,
+        "contract_address": "0x9f6f3991d525015a6f8caf062c83b62fd3ac4436",
+        "geckoterminal_url": "https://www.geckoterminal.com/eth/tokens/0x9f6f3991d525015a6f8caf062c83b62fd3ac4436"
+      },
+      "base": {
+        "decimal_place": 6,
+        "contract_address": "0xb2000000000000000000002feb517dfec7415344",
+        "geckoterminal_url": "https://www.geckoterminal.com/base/tokens/0xb2000000000000000000002feb517dfec7415344"
+      },
+      "solana": {
+        "decimal_place": 6,
+        "contract_address": "ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB",
+        "geckoterminal_url": "https://www.geckoterminal.com/solana/tokens/ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB"
+      },
+      "tempo": {
+        "decimal_place": 6,
+        "contract_address": "0x20c0000000000000000000006a37da5c996874be",
+        "geckoterminal_url": "https://www.geckoterminal.com/tempo/tokens/0x20c0000000000000000000006a37da5c996874be"
+      }
+    },
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+      "Stablecoins",
+      "USD Stablecoin",
+      "Solana Ecosystem",
+      "Ethereum Ecosystem",
+      "Base Ecosystem",
+      "Fiat-backed Stablecoin",
+      "Tempo Ecosystem"
+    ],
+    "preview_listing": false,
+    "public_notice": null,
+    "additional_notices": [],
+    "description": {
+      "en": "Open USD (OUSD) is the first stablecoin designed as open infrastructure. OUSD gives businesses the economics, governance, and reliability they need to move money. It is built for scale and payments use cases with no artificial limits, and the platforms using it the most receive nearly all of the underlying earnings to continue to grow. OUSD is operated by Open Standard and governed by its partners."
+    },
+    "links": {
+      "homepage": [
+        "https://joinopenstandard.com/"
+      ],
+      "whitepaper": "",
+      "blockchain_site": [
+        "https://etherscan.io/token/0x9f6F3991D525015a6F8CaF062C83b62fD3AC4436",
+        "https://intel.arkm.com/explorer/token/open-usd",
+        "https://ethplorer.io/address/0x9f6F3991D525015a6F8CaF062C83b62fD3AC4436",
+        "https://basescan.org/token/0xB2000000000000000000002fEb517dFeC7415344",
+        "https://solscan.io/token/ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB",
+        "https://explore.mainnet.tempo.xyz/address/0x20c0000000000000000000006a37DA5C996874BE"
+      ],
+      "official_forum_url": [],
+      "chat_url": [],
+      "announcement_url": [],
+      "snapshot_url": null,
+      "twitter_screen_name": "openstandard",
+      "facebook_username": "",
+      "bitcointalk_thread_identifier": null,
+      "telegram_channel_identifier": "",
+      "subreddit_url": null,
+      "repos_url": {
+        "github": [],
+        "bitbucket": []
+      }
+    },
+    "image": {
+      "thumb": "https://coin-images.coingecko.com/coins/images/102174264/thumb/open_standard.png?1782864430",
+      "small": "https://coin-images.coingecko.com/coins/images/102174264/small/open_standard.png?1782864430",
+      "large": "https://coin-images.coingecko.com/coins/images/102174264/large/open_standard.png?1782864430"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "listing_price": null,
+    "listing_currency": "",
+    "listing_timestamp": null,
+    "listing_source": "",
+    "listing_source_url": "",
+    "contract_address": "0x9f6f3991d525015a6f8caf062c83b62fd3ac4436",
+    "has_supply_breakdown": false,
+    "sentiment_votes_up_percentage": 80,
+    "sentiment_votes_down_percentage": 20,
+    "watchlist_portfolio_users": 146,
+    "market_cap_rank": 101,
+    "market_cap_rank_with_rehypothecated": 138,
+    "market_data": {
+      "current_price": {
+        "vef": 0.100113,
+        "btc": 0.00001157,
+        "bits": 11.57,
+        "sats": 1157.26,
+        "eth": 0.00036242,
+        "ltc": 0.01424255,
+        "bch": 0.00316273,
+        "bnb": 0.00128393,
+        "eos": 10.283061,
+        "xrp": 0.65149221,
+        "xlm": 4.455546,
+        "link": 0.06930592,
+        "dot": 0.81501761,
+        "yfi": 0.00039295,
+        "sol": 0.00817592,
+        "usd": 0.999828,
+        "aed": 3.67,
+        "ars": 1524.56,
+        "aud": 1.44,
+        "bdt": 123.03,
+        "bhd": 0.378949,
+        "bmd": 0.999828,
+        "brl": 5.22,
+        "cad": 1.42,
+        "chf": 0.827664,
+        "clp": 981.47,
+        "cny": 6.7,
+        "czk": 21.71,
+        "dkk": 6.64,
+        "eur": 0.888272,
+        "gbp": 0.756846,
+        "gel": 2.59,
+        "hkd": 7.85,
+        "huf": 326.36,
+        "idr": 17876.3,
+        "ils": 3.06,
+        "inr": 96.07,
+        "jpy": 157.54,
+        "krw": 1348.09,
+        "kwd": 0.308849,
+        "lkr": 330.67,
+        "mmk": 2099.59,
+        "mxn": 18.22,
+        "myr": 4.08,
+        "ngn": 1328.53,
+        "nok": 9.63,
+        "nzd": 1.78,
+        "php": 62.53,
+        "pkr": 277,
+        "pln": 3.89,
+        "rub": 83.23,
+        "sar": 3.76,
+        "sek": 10.03,
+        "sgd": 1.28,
+        "thb": 33.53,
+        "try": 49.14,
+        "twd": 31.86,
+        "uah": 44.93,
+        "vnd": 25979,
+        "zar": 16.65,
+        "xdr": 0.73279,
+        "xag": 0.016312,
+        "xau": 0.00023889
+      },
+      "total_value_locked": null,
+      "mcap_to_tvl_ratio": null,
+      "fdv_to_tvl_ratio": null,
+      "roi": null,
+      "ath": {
+        "vef": 0.100167,
+        "btc": 0.000012,
+        "bits": 12,
+        "sats": 1200.34,
+        "eth": 0.0003747,
+        "ltc": 0.01519786,
+        "bch": 0.00329575,
+        "bnb": 0.00130922,
+        "eos": 10.58008,
+        "xrp": 0.67771855,
+        "xlm": 4.610366,
+        "link": 0.0706532,
+        "dot": 0.86122696,
+        "yfi": 0.0004121,
+        "sol": 0.00856205,
+        "usd": 1,
+        "aed": 3.67,
+        "ars": 1525.56,
+        "aud": 1.45,
+        "bdt": 123.29,
+        "bhd": 0.378991,
+        "bmd": 1,
+        "brl": 5.24,
+        "cad": 1.43,
+        "chf": 0.83732,
+        "clp": 985.05,
+        "cny": 6.71,
+        "czk": 21.81,
+        "dkk": 6.66,
+        "eur": 0.891335,
+        "gbp": 0.758496,
+        "gel": 2.61,
+        "hkd": 7.85,
+        "huf": 329.09,
+        "idr": 18009.85,
+        "ils": 3.09,
+        "inr": 96.33,
+        "jpy": 158.36,
+        "krw": 1365.82,
+        "kwd": 0.309085,
+        "lkr": 331.35,
+        "mmk": 2100.73,
+        "mxn": 18.4,
+        "myr": 4.09,
+        "ngn": 1328.85,
+        "nok": 9.65,
+        "nzd": 1.79,
+        "php": 62.91,
+        "pkr": 278.47,
+        "pln": 3.9,
+        "rub": 83.54,
+        "sar": 3.78,
+        "sek": 10.08,
+        "sgd": 1.28,
+        "thb": 33.71,
+        "try": 49.14,
+        "twd": 32.05,
+        "uah": 44.95,
+        "vnd": 26001,
+        "zar": 16.75,
+        "xdr": 0.733188,
+        "xag": 0.01666961,
+        "xau": 0.00024151
+      },
+      "ath_change_percentage": {
+        "vef": -0.05427,
+        "btc": -3.58887,
+        "bits": -3.58887,
+        "sats": -3.58887,
+        "eth": -3.27929,
+        "ltc": -6.28581,
+        "bch": -4.03608,
+        "bnb": -1.93113,
+        "eos": -2.80734,
+        "xrp": -3.8698,
+        "xlm": -3.35807,
+        "link": -1.9069,
+        "dot": -5.36553,
+        "yfi": -4.64801,
+        "sol": -4.5098,
+        "usd": -0.05427,
+        "aed": -0.05427,
+        "ars": -0.06542,
+        "aud": -0.5006,
+        "bdt": -0.21265,
+        "bhd": -0.01105,
+        "bmd": -0.05427,
+        "brl": -0.28797,
+        "cad": -0.23006,
+        "chf": -1.15327,
+        "clp": -0.36314,
+        "cny": -0.0498,
+        "czk": -0.44667,
+        "dkk": -0.34137,
+        "eur": -0.34358,
+        "gbp": -0.21757,
+        "gel": -0.43794,
+        "hkd": -0.05792,
+        "huf": -0.83049,
+        "idr": -0.74151,
+        "ils": -0.9456,
+        "inr": -0.26659,
+        "jpy": -0.51878,
+        "krw": -1.29841,
+        "kwd": -0.07627,
+        "lkr": -0.20623,
+        "mmk": -0.05427,
+        "mxn": -0.98785,
+        "myr": -0.1609,
+        "ngn": -0.02419,
+        "nok": -0.22292,
+        "nzd": -0.54217,
+        "php": -0.60491,
+        "pkr": -0.52538,
+        "pln": -0.35665,
+        "rub": -0.36078,
+        "sar": -0.44862,
+        "sek": -0.47497,
+        "sgd": -0.26843,
+        "thb": -0.5274,
+        "try": -0.01121,
+        "twd": -0.6028,
+        "uah": -0.04122,
+        "vnd": -0.08707,
+        "zar": -0.59581,
+        "xdr": -0.05427,
+        "xag": -2.14525,
+        "xau": -1.08639
+      },
+      "ath_date": {
+        "vef": "2026-10-01T01:29:20.000Z",
+        "btc": "2026-10-01T08:36:00.000Z",
+        "bits": "2026-10-01T08:36:00.000Z",
+        "sats": "2026-10-01T08:36:00.000Z",
+        "eth": "2026-09-30T19:58:20.000Z",
+        "ltc": "2026-09-30T18:44:20.000Z",
+        "bch": "2026-10-01T16:59:00.000Z",
+        "bnb": "2026-10-01T07:58:00.000Z",
+        "eos": "2026-10-01T16:57:40.000Z",
+        "xrp": "2026-10-01T14:53:00.000Z",
+        "xlm": "2026-10-02T01:21:20.000Z",
+        "link": "2026-10-01T08:12:30.000Z",
+        "dot": "2026-10-01T16:57:20.000Z",
+        "yfi": "2026-09-30T22:10:30.000Z",
+        "sol": "2026-10-01T13:16:20.000Z",
+        "usd": "2026-10-01T01:29:20.000Z",
+        "aed": "2026-10-01T01:29:20.000Z",
+        "ars": "2026-10-01T01:29:20.000Z",
+        "aud": "2026-10-01T15:39:20.000Z",
+        "bdt": "2026-10-01T01:29:20.000Z",
+        "bhd": "2026-10-02T01:08:30.000Z",
+        "bmd": "2026-10-01T01:29:20.000Z",
+        "brl": "2026-10-01T15:45:10.000Z",
+        "cad": "2026-10-01T15:39:20.000Z",
+        "chf": "2026-10-01T06:41:20.000Z",
+        "clp": "2026-10-01T19:26:20.000Z",
+        "cny": "2026-10-01T01:29:20.000Z",
+        "czk": "2026-10-01T17:18:40.000Z",
+        "dkk": "2026-10-01T17:24:00.000Z",
+        "eur": "2026-10-01T17:24:00.000Z",
+        "gbp": "2026-10-02T01:35:20.000Z",
+        "gel": "2026-10-01T01:29:20.000Z",
+        "hkd": "2026-10-01T01:30:10.000Z",
+        "huf": "2026-10-01T18:05:10.000Z",
+        "idr": "2026-10-01T15:41:10.000Z",
+        "ils": "2026-10-01T15:41:10.000Z",
+        "inr": "2026-10-02T03:46:40.000Z",
+        "jpy": "2026-10-01T09:57:50.000Z",
+        "krw": "2026-10-01T10:03:00.000Z",
+        "kwd": "2026-10-01T01:29:20.000Z",
+        "lkr": "2026-10-01T01:29:20.000Z",
+        "mmk": "2026-10-01T01:29:20.000Z",
+        "mxn": "2026-10-01T16:04:40.000Z",
+        "myr": "2026-10-02T01:41:40.000Z",
+        "ngn": "2026-10-02T08:08:10.000Z",
+        "nok": "2026-10-01T10:05:00.000Z",
+        "nzd": "2026-10-02T01:35:20.000Z",
+        "php": "2026-10-01T10:14:30.000Z",
+        "pkr": "2026-10-02T01:08:30.000Z",
+        "pln": "2026-10-01T18:05:10.000Z",
+        "rub": "2026-10-01T12:19:40.000Z",
+        "sar": "2026-10-01T11:10:20.000Z",
+        "sek": "2026-10-01T18:05:10.000Z",
+        "sgd": "2026-10-01T15:39:20.000Z",
+        "thb": "2026-10-01T08:44:00.000Z",
+        "try": "2026-10-02T08:02:00.000Z",
+        "twd": "2026-10-01T08:27:50.000Z",
+        "uah": "2026-10-01T15:41:10.000Z",
+        "vnd": "2026-10-02T02:54:20.000Z",
+        "zar": "2026-10-01T18:23:20.000Z",
+        "xdr": "2026-10-01T01:29:20.000Z",
+        "xag": "2026-10-01T00:22:20.000Z",
+        "xau": "2026-10-02T01:14:00.000Z"
+      },
+      "atl": {
+        "vef": 0.100052,
+        "btc": 0.00001151,
+        "bits": 11.51,
+        "sats": 1151.4,
+        "eth": 0.00036117,
+        "ltc": 0.01420977,
+        "bch": 0.00315294,
+        "bnb": 0.00127768,
+        "eos": 9.999974,
+        "xrp": 0.64910294,
+        "xlm": 4.330723,
+        "link": 0.06829512,
+        "dot": 0.79209709,
+        "yfi": 0.00039258,
+        "sol": 0.00809318,
+        "usd": 0.999223,
+        "aed": 3.67,
+        "ars": 1523.8,
+        "aud": 1.44,
+        "bdt": 122.93,
+        "bhd": 0.376769,
+        "bmd": 0.999223,
+        "brl": 5.17,
+        "cad": 1.42,
+        "chf": 0.826597,
+        "clp": 970.3,
+        "cny": 6.7,
+        "czk": 21.54,
+        "dkk": 6.59,
+        "eur": 0.88157,
+        "gbp": 0.753006,
+        "gel": 2.59,
+        "hkd": 7.84,
+        "huf": 322.88,
+        "idr": 17860.08,
+        "ils": 3.06,
+        "inr": 95.85,
+        "jpy": 157.24,
+        "krw": 1345.92,
+        "kwd": 0.308569,
+        "lkr": 330.39,
+        "mmk": 2098.32,
+        "mxn": 18.05,
+        "myr": 4.08,
+        "ngn": 1325.83,
+        "nok": 9.48,
+        "nzd": 1.77,
+        "php": 62.5,
+        "pkr": 276.85,
+        "pln": 3.85,
+        "rub": 82.94,
+        "sar": 3.75,
+        "sek": 10,
+        "sgd": 1.28,
+        "thb": 33.5,
+        "try": 48.97,
+        "twd": 31.83,
+        "uah": 44.66,
+        "vnd": 25940,
+        "zar": 16.4,
+        "xdr": 0.732346,
+        "xag": 0.0162594,
+        "xau": 0.00023834
+      },
+      "atl_change_percentage": {
+        "vef": 0.06059,
+        "btc": 0.50907,
+        "bits": 0.50907,
+        "sats": 0.50907,
+        "eth": 0.34484,
+        "ltc": 0.23068,
+        "bch": 0.3103,
+        "bnb": 0.48977,
+        "eos": 2.83088,
+        "xrp": 0.36809,
+        "xlm": 2.88228,
+        "link": 1.48005,
+        "dot": 2.89365,
+        "yfi": 0.0943,
+        "sol": 1.02235,
+        "usd": 0.06059,
+        "aed": 0.06059,
+        "ars": 0.04993,
+        "aud": 0.22696,
+        "bdt": 0.08184,
+        "bhd": 0.5786,
+        "bmd": 0.06059,
+        "brl": 1.06947,
+        "cad": 0.13131,
+        "chf": 0.12905,
+        "clp": 1.15181,
+        "cny": 0.06656,
+        "czk": 0.80666,
+        "dkk": 0.75533,
+        "eur": 0.76023,
+        "gbp": 0.50991,
+        "gel": 0.05532,
+        "hkd": 0.06479,
+        "huf": 1.0775,
+        "idr": 0.09081,
+        "ils": 0.01186,
+        "inr": 0.23551,
+        "jpy": 0.1894,
+        "krw": 0.16094,
+        "kwd": 0.09054,
+        "lkr": 0.08655,
+        "mmk": 0.06059,
+        "mxn": 0.92944,
+        "myr": 0.09976,
+        "ngn": 0.20387,
+        "nok": 1.55894,
+        "nzd": 0.50009,
+        "php": 0.04278,
+        "pkr": 0.05373,
+        "pln": 1.03711,
+        "rub": 0.35599,
+        "sar": 0.27548,
+        "sek": 0.30318,
+        "sgd": 0.18523,
+        "thb": 0.09402,
+        "try": 0.33359,
+        "twd": 0.09563,
+        "uah": 0.60651,
+        "vnd": 0.14666,
+        "zar": 1.50802,
+        "xdr": 0.06059,
+        "xag": 0.32352,
+        "xau": 0.23188
+      },
+      "atl_date": {
+        "vef": "2026-10-01T03:56:20.000Z",
+        "btc": "2026-10-02T04:39:40.000Z",
+        "bits": "2026-10-02T04:39:40.000Z",
+        "sats": "2026-10-02T04:39:40.000Z",
+        "eth": "2026-10-02T08:18:10.000Z",
+        "ltc": "2026-10-02T08:26:20.000Z",
+        "bch": "2026-10-02T08:21:30.000Z",
+        "bnb": "2026-10-02T04:49:30.000Z",
+        "eos": "2026-09-30T22:44:20.000Z",
+        "xrp": "2026-10-02T08:21:20.000Z",
+        "xlm": "2026-10-01T01:21:50.000Z",
+        "link": "2026-10-02T04:55:30.000Z",
+        "dot": "2026-10-01T07:09:30.000Z",
+        "yfi": "2026-10-02T08:21:50.000Z",
+        "sol": "2026-10-02T05:00:40.000Z",
+        "usd": "2026-10-01T03:56:20.000Z",
+        "aed": "2026-10-01T03:56:20.000Z",
+        "ars": "2026-10-01T04:46:20.000Z",
+        "aud": "2026-10-01T04:02:40.000Z",
+        "bdt": "2026-10-01T00:40:30.000Z",
+        "bhd": "2026-09-30T20:30:20.000Z",
+        "bmd": "2026-10-01T03:56:20.000Z",
+        "brl": "2026-09-30T19:04:40.000Z",
+        "cad": "2026-10-02T06:08:10.000Z",
+        "chf": "2026-10-02T08:10:50.000Z",
+        "clp": "2026-09-30T21:08:20.000Z",
+        "cny": "2026-10-01T03:56:20.000Z",
+        "czk": "2026-10-01T01:26:30.000Z",
+        "dkk": "2026-10-01T01:26:30.000Z",
+        "eur": "2026-10-01T01:26:30.000Z",
+        "gbp": "2026-10-01T01:26:30.000Z",
+        "gel": "2026-10-01T04:02:40.000Z",
+        "hkd": "2026-10-01T03:56:20.000Z",
+        "huf": "2026-10-01T01:16:00.000Z",
+        "idr": "2026-10-02T05:09:10.000Z",
+        "ils": "2026-10-02T08:10:50.000Z",
+        "inr": "2026-09-30T23:24:20.000Z",
+        "jpy": "2026-09-30T18:09:10.000Z",
+        "krw": "2026-10-02T08:04:40.000Z",
+        "kwd": "2026-10-01T22:05:30.000Z",
+        "lkr": "2026-10-01T00:40:30.000Z",
+        "mmk": "2026-10-01T03:56:20.000Z",
+        "mxn": "2026-09-30T19:04:40.000Z",
+        "myr": "2026-09-30T23:24:20.000Z",
+        "ngn": "2026-10-01T03:56:20.000Z",
+        "nok": "2026-09-30T21:10:20.000Z",
+        "nzd": "2026-09-30T21:08:20.000Z",
+        "php": "2026-10-02T08:10:50.000Z",
+        "pkr": "2026-10-01T04:46:20.000Z",
+        "pln": "2026-10-01T01:26:30.000Z",
+        "rub": "2026-10-01T06:30:10.000Z",
+        "sar": "2026-09-30T20:30:20.000Z",
+        "sek": "2026-10-01T00:45:40.000Z",
+        "sgd": "2026-09-30T21:16:20.000Z",
+        "thb": "2026-10-02T08:10:50.000Z",
+        "try": "2026-09-30T20:13:30.000Z",
+        "twd": "2026-10-02T08:10:50.000Z",
+        "uah": "2026-10-01T00:40:30.000Z",
+        "vnd": "2026-10-01T02:03:10.000Z",
+        "zar": "2026-09-30T21:08:20.000Z",
+        "xdr": "2026-10-01T03:56:20.000Z",
+        "xag": "2026-10-02T08:10:50.000Z",
+        "xau": "2026-10-02T06:08:10.000Z"
+      },
+      "market_cap": {
+        "vef": 66927356,
+        "btc": 7737,
+        "bits": 7736743136,
+        "sats": 773674313614,
+        "eth": 242283,
+        "ltc": 9521426,
+        "bch": 2114346,
+        "bnb": 858336,
+        "eos": 6874427751,
+        "xrp": 435535306,
+        "xlm": 2978620018,
+        "link": 46332364,
+        "dot": 544855240,
+        "yfi": 262692,
+        "sol": 5465762,
+        "usd": 668404634,
+        "aed": 2454716020,
+        "ars": 1019197289347,
+        "aud": 962895027,
+        "bdt": 82248953514,
+        "bhd": 253334714,
+        "bmd": 668404634,
+        "brl": 3489874277,
+        "cad": 951141800,
+        "chf": 553309367,
+        "clp": 656132725311,
+        "cny": 4481719914,
+        "czk": 14513138004,
+        "dkk": 4439038936,
+        "eur": 593827387,
+        "gbp": 505966267,
+        "gel": 1734510026,
+        "hkd": 5244689768,
+        "huf": 218176237311,
+        "idr": 11950659468943,
+        "ils": 2044199940,
+        "inr": 64226264737,
+        "jpy": 105320029792,
+        "krw": 901222573334,
+        "kwd": 206471528,
+        "lkr": 221060263611,
+        "mmk": 1403616312005,
+        "mxn": 12179388518,
+        "myr": 2728761920,
+        "ngn": 888149342003,
+        "nok": 6437856207,
+        "nzd": 1189903956,
+        "php": 41802697582,
+        "pkr": 185181503960,
+        "pln": 2598082130,
+        "rub": 55643973294,
+        "sar": 2516007388,
+        "sek": 6704226148,
+        "sgd": 854618824,
+        "thb": 22416787527,
+        "try": 32848745757,
+        "twd": 21296919009,
+        "uah": 30037754694,
+        "vnd": 17367157615568,
+        "zar": 11127713982,
+        "xdr": 489884451,
+        "xag": 10904895,
+        "xau": 159702
+      },
+      "market_cap_rank": 101,
+      "outstanding_token_value_usd": null,
+      "market_cap_rank_with_rehypothecated": 138,
+      "fully_diluted_valuation": {
+        "vef": 66927356,
+        "btc": 7737,
+        "bits": 7736743136,
+        "sats": 773674313614,
+        "eth": 242283,
+        "ltc": 9521426,
+        "bch": 2114346,
+        "bnb": 858336,
+        "eos": 6874427751,
+        "xrp": 435535306,
+        "xlm": 2978620018,
+        "link": 46332364,
+        "dot": 544855240,
+        "yfi": 262692,
+        "sol": 5465762,
+        "usd": 668404634,
+        "aed": 2454716020,
+        "ars": 1019197289347,
+        "aud": 962895027,
+        "bdt": 82248953514,
+        "bhd": 253334714,
+        "bmd": 668404634,
+        "brl": 3489874277,
+        "cad": 951141800,
+        "chf": 553309367,
+        "clp": 656132725311,
+        "cny": 4481719914,
+        "czk": 14513138004,
+        "dkk": 4439038936,
+        "eur": 593827387,
+        "gbp": 505966267,
+        "gel": 1734510026,
+        "hkd": 5244689768,
+        "huf": 218176237311,
+        "idr": 11950659468943,
+        "ils": 2044199940,
+        "inr": 64226264737,
+        "jpy": 105320029792,
+        "krw": 901222573334,
+        "kwd": 206471528,
+        "lkr": 221060263611,
+        "mmk": 1403616312005,
+        "mxn": 12179388518,
+        "myr": 2728761920,
+        "ngn": 888149342003,
+        "nok": 6437856207,
+        "nzd": 1189903956,
+        "php": 41802697582,
+        "pkr": 185181503960,
+        "pln": 2598082130,
+        "rub": 55643973294,
+        "sar": 2516007388,
+        "sek": 6704226148,
+        "sgd": 854618824,
+        "thb": 22416787527,
+        "try": 32848745757,
+        "twd": 21296919009,
+        "uah": 30037754694,
+        "vnd": 17367157615568,
+        "zar": 11127713982,
+        "xdr": 489884451,
+        "xag": 10904895,
+        "xau": 159702
+      },
+      "market_cap_fdv_ratio": 1,
+      "total_volume": {
+        "vef": 204412,
+        "btc": 23.629131,
+        "bits": 23629131,
+        "sats": 2362913109,
+        "eth": 739.989,
+        "ltc": 29081,
+        "bch": 6458,
+        "bnb": 2622,
+        "eos": 20996121,
+        "xrp": 1330227,
+        "xlm": 9097407,
+        "link": 141510,
+        "dot": 1664116,
+        "yfi": 802.324,
+        "sol": 16694,
+        "usd": 2041465,
+        "aed": 7497281,
+        "ars": 3112868466,
+        "aud": 2940908,
+        "bdt": 251207667,
+        "bhd": 773744,
+        "bmd": 2041465,
+        "brl": 10658898,
+        "cad": 2905011,
+        "chf": 1689937,
+        "clp": 2003983813,
+        "cny": 13688228,
+        "czk": 44326540,
+        "dkk": 13557870,
+        "eur": 1813689,
+        "gbp": 1545340,
+        "gel": 5297602,
+        "hkd": 16018517,
+        "huf": 666361593,
+        "idr": 36500127499,
+        "ils": 6243468,
+        "inr": 196162133,
+        "jpy": 321672166,
+        "krw": 2752545909,
+        "kwd": 630613,
+        "lkr": 675170088,
+        "mmk": 4286974663,
+        "mxn": 37198720,
+        "myr": 8334281,
+        "ngn": 2712617183,
+        "nok": 19662728,
+        "nzd": 3634247,
+        "php": 127675280,
+        "pkr": 565587909,
+        "pln": 7935154,
+        "rub": 169949794,
+        "sar": 7684479,
+        "sek": 20476285,
+        "sgd": 2610207,
+        "thb": 68466147,
+        "try": 100327803,
+        "twd": 65045804,
+        "uah": 91742374,
+        "vnd": 53043388016,
+        "zar": 33986658,
+        "xdr": 1496222,
+        "xag": 33306,
+        "xau": 487.77
+      },
+      "high_24h": {
+        "vef": 0.100154,
+        "btc": 0.00001198,
+        "bits": 11.98,
+        "sats": 1198.02,
+        "eth": 0.00036257,
+        "ltc": 0.01424843,
+        "bch": 0.00316403,
+        "bnb": 0.00128446,
+        "eos": 10.287301,
+        "xrp": 0.65176085,
+        "xlm": 4.457384,
+        "link": 0.0693345,
+        "dot": 0.81535369,
+        "yfi": 0.00039311,
+        "sol": 0.00817929,
+        "usd": 1,
+        "aed": 3.67,
+        "ars": 1525.19,
+        "aud": 1.44,
+        "bdt": 123.08,
+        "bhd": 0.379105,
+        "bmd": 1,
+        "brl": 5.22,
+        "cad": 1.42,
+        "chf": 0.828005,
+        "clp": 981.88,
+        "cny": 6.71,
+        "czk": 21.72,
+        "dkk": 6.64,
+        "eur": 0.888639,
+        "gbp": 0.757158,
+        "gel": 2.6,
+        "hkd": 7.85,
+        "huf": 326.49,
+        "idr": 17883.68,
+        "ils": 3.06,
+        "inr": 96.11,
+        "jpy": 157.61,
+        "krw": 1348.64,
+        "kwd": 0.308976,
+        "lkr": 330.81,
+        "mmk": 2100.45,
+        "mxn": 18.23,
+        "myr": 4.08,
+        "ngn": 1329.08,
+        "nok": 9.63,
+        "nzd": 1.78,
+        "php": 62.56,
+        "pkr": 277.12,
+        "pln": 3.89,
+        "rub": 83.27,
+        "sar": 3.77,
+        "sek": 10.03,
+        "sgd": 1.28,
+        "thb": 33.55,
+        "try": 49.16,
+        "twd": 31.87,
+        "uah": 44.95,
+        "vnd": 25989,
+        "zar": 16.65,
+        "xdr": 0.733092,
+        "xag": 0.01631873,
+        "xau": 0.00023899
+      },
+      "low_24h": {
+        "vef": 0.100074,
+        "btc": 0.00001151,
+        "bits": 11.51,
+        "sats": 1151.4,
+        "eth": 0.00036228,
+        "ltc": 0.01423704,
+        "bch": 0.0031615,
+        "bnb": 0.00128344,
+        "eos": 10.279079,
+        "xrp": 0.65123995,
+        "xlm": 4.453821,
+        "link": 0.06927908,
+        "dot": 0.81470204,
+        "yfi": 0.00039279,
+        "sol": 0.00817275,
+        "usd": 0.999441,
+        "aed": 3.67,
+        "ars": 1523.97,
+        "aud": 1.44,
+        "bdt": 122.98,
+        "bhd": 0.378802,
+        "bmd": 0.999441,
+        "brl": 5.22,
+        "cad": 1.42,
+        "chf": 0.827343,
+        "clp": 981.09,
+        "cny": 6.7,
+        "czk": 21.7,
+        "dkk": 6.64,
+        "eur": 0.887928,
+        "gbp": 0.756553,
+        "gel": 2.59,
+        "hkd": 7.84,
+        "huf": 326.23,
+        "idr": 17869.38,
+        "ils": 3.06,
+        "inr": 96.04,
+        "jpy": 157.48,
+        "krw": 1347.57,
+        "kwd": 0.308729,
+        "lkr": 330.54,
+        "mmk": 2098.78,
+        "mxn": 18.21,
+        "myr": 4.08,
+        "ngn": 1328.02,
+        "nok": 9.63,
+        "nzd": 1.78,
+        "php": 62.51,
+        "pkr": 276.9,
+        "pln": 3.88,
+        "rub": 83.2,
+        "sar": 3.76,
+        "sek": 10.02,
+        "sgd": 1.28,
+        "thb": 33.52,
+        "try": 49.12,
+        "twd": 31.84,
+        "uah": 44.91,
+        "vnd": 25968,
+        "zar": 16.64,
+        "xdr": 0.732506,
+        "xag": 0.01630569,
+        "xau": 0.0002388
+      },
+      "price_change_24h": 0.00014791,
+      "price_change_percentage_24h": 0.0148,
+      "price_change_percentage_7d": null,
+      "price_change_percentage_14d": null,
+      "price_change_percentage_30d": null,
+      "price_change_percentage_60d": null,
+      "price_change_percentage_200d": null,
+      "price_change_percentage_1y": null,
+      "market_cap_change_24h": null,
+      "market_cap_change_percentage_24h": null,
+      "price_change_24h_in_currency": {
+        "vef": 0.00001481,
+        "eth": -0.000011170764082436,
+        "ltc": -0.000695526945536696,
+        "bch": -0.000105445989635619,
+        "bnb": -0.000024671090654144,
+        "eos": -0.1093444833871331,
+        "xrp": -0.02312150676630409,
+        "xlm": -0.03948629110778157,
+        "link": -0.001208197375063322,
+        "dot": -0.004249760187645224,
+        "yfi": -0.000014815273547516,
+        "sol": -0.000345238603478779,
+        "usd": 0.00014791,
+        "aed": 0.00054319,
+        "ars": 0.02019596,
+        "aud": -0.000451715721434764,
+        "bdt": -0.17703329883441654,
+        "bhd": 0.0011637,
+        "bmd": 0.00014791,
+        "brl": 0.04045955,
+        "cad": -0.001286050373258574,
+        "chf": -0.006286511802915062,
+        "clp": 8.2,
+        "cny": 0.00129163,
+        "czk": 0.050099,
+        "dkk": 0.02583033,
+        "eur": 0.00350332,
+        "gbp": 0.00097069,
+        "gel": 0.00038382,
+        "hkd": 0.00084466,
+        "huf": 0.210725,
+        "idr": -85.97040735074916,
+        "ils": -0.025842241422339818,
+        "inr": -0.13104938922771225,
+        "jpy": -0.748928227583292,
+        "krw": -13.852066417478909,
+        "kwd": 0.00009067,
+        "lkr": -0.4545372005298418,
+        "mmk": 0.310595,
+        "mxn": -0.03396518750856359,
+        "myr": -0.003994702068353284,
+        "ngn": 1.12,
+        "nok": -0.012903832122804104,
+        "nzd": -0.002064950420120892,
+        "php": -0.35962677649148844,
+        "pkr": 0.04097738,
+        "pln": 0.01110554,
+        "rub": 0.00974784,
+        "sar": -0.01623288010063595,
+        "sek": -0.017383436993728907,
+        "sgd": -0.001660296280883378,
+        "thb": -0.14824054358447114,
+        "try": 0.117336,
+        "twd": -0.11443224747575442,
+        "uah": 0.170582,
+        "vnd": 7.34,
+        "zar": 0.04188075,
+        "xdr": 0.0001084,
+        "xag": -0.000223794561204606,
+        "xau": -0.000001534158611951,
+        "btc": -4.32057783535e-7,
+        "bits": -0.43205778353508784,
+        "sats": -43.20577835350878
+      },
+      "price_change_percentage_1h_in_currency": {
+        "vef": -0.00441,
+        "eth": -1.24685,
+        "ltc": -0.47838,
+        "bch": -0.66533,
+        "bnb": -0.49406,
+        "eos": -0.27661,
+        "xrp": -0.89371,
+        "xlm": -1.11205,
+        "link": -1.00174,
+        "dot": -0.79267,
+        "yfi": -0.57121,
+        "sol": -0.93469,
+        "usd": -0.00441,
+        "aed": -0.00441,
+        "ars": -0.01084,
+        "aud": -0.00809,
+        "bdt": -0.00441,
+        "bhd": -0.00441,
+        "bmd": -0.00441,
+        "brl": -0.01015,
+        "cad": 0.051,
+        "chf": 0.03281,
+        "clp": -0.00441,
+        "cny": 0.00156,
+        "czk": -0.00828,
+        "dkk": 0.03307,
+        "eur": 0.03433,
+        "gbp": 0.00947,
+        "gel": -0.00441,
+        "hkd": 0.00142,
+        "huf": -0.17248,
+        "idr": 0.0404,
+        "ils": -0.21072,
+        "inr": -0.02465,
+        "jpy": -0.11517,
+        "krw": 0.0772,
+        "kwd": -0.01315,
+        "lkr": -0.00441,
+        "mmk": -0.00441,
+        "mxn": -0.10728,
+        "myr": -0.03134,
+        "ngn": -0.00064,
+        "nok": 0.05675,
+        "nzd": -0.05667,
+        "php": -0.08668,
+        "pkr": -0.00441,
+        "pln": 0.02871,
+        "rub": 0.04994,
+        "sar": -0.00441,
+        "sek": 0.00762,
+        "sgd": -0.01215,
+        "thb": -0.06773,
+        "try": -0.00441,
+        "twd": 0.00286,
+        "uah": -0.00441,
+        "vnd": -0.02182,
+        "zar": -0.01853,
+        "xdr": -0.00441,
+        "xag": -0.22671,
+        "xau": 0.01652,
+        "btc": -0.55474,
+        "bits": -0.55474,
+        "sats": -0.55474
+      },
+      "price_change_percentage_24h_in_currency": {
+        "vef": 0.0148,
+        "eth": -2.99013,
+        "ltc": -4.65607,
+        "bch": -3.22645,
+        "bnb": -1.8853,
+        "eos": -1.05216,
+        "xrp": -3.42737,
+        "xlm": -0.87844,
+        "link": -1.71341,
+        "dot": -0.51873,
+        "yfi": -3.63332,
+        "sol": -4.05155,
+        "usd": 0.0148,
+        "aed": 0.0148,
+        "ars": 0.00132,
+        "aud": -0.03135,
+        "bdt": -0.14369,
+        "bhd": 0.30803,
+        "bmd": 0.0148,
+        "brl": 0.7811,
+        "cad": -0.09031,
+        "chf": -0.75382,
+        "clp": 0.84279,
+        "cny": 0.01927,
+        "czk": 0.23131,
+        "dkk": 0.39052,
+        "eur": 0.39596,
+        "gbp": 0.12842,
+        "gel": 0.0148,
+        "hkd": 0.01077,
+        "huf": 0.06461,
+        "idr": -0.47862,
+        "ils": -0.83804,
+        "inr": -0.13622,
+        "jpy": -0.47313,
+        "krw": -1.01708,
+        "kwd": 0.02937,
+        "lkr": -0.13727,
+        "mmk": 0.0148,
+        "mxn": -0.18609,
+        "myr": -0.09777,
+        "ngn": 0.08409,
+        "nok": -0.13382,
+        "nzd": -0.11588,
+        "php": -0.57184,
+        "pkr": 0.0148,
+        "pln": 0.28658,
+        "rub": 0.01171,
+        "sar": -0.42947,
+        "sek": -0.17304,
+        "sgd": -0.12971,
+        "thb": -0.44014,
+        "try": 0.23937,
+        "twd": -0.35792,
+        "uah": 0.38109,
+        "vnd": 0.02827,
+        "zar": 0.25224,
+        "xdr": 0.0148,
+        "xag": -1.35339,
+        "xau": -0.63811,
+        "btc": -3.59813,
+        "bits": -3.59813,
+        "sats": -3.59813
+      },
+      "price_change_percentage_7d_in_currency": {},
+      "price_change_percentage_14d_in_currency": {},
+      "price_change_percentage_30d_in_currency": {},
+      "price_change_percentage_60d_in_currency": {},
+      "price_change_percentage_200d_in_currency": {},
+      "price_change_percentage_1y_in_currency": {},
+      "market_cap_change_24h_in_currency": {},
+      "market_cap_change_percentage_24h_in_currency": {},
+      "total_supply": 668499643.93,
+      "max_supply": null,
+      "max_supply_infinite": true,
+      "circulating_supply": 668499643.93,
+      "outstanding_supply": null,
+      "last_updated": "2026-10-02T08:33:40.000Z"
+    },
+    "status_updates": [],
+    "last_updated": "2026-10-02T08:33:40.000Z",
+    "tickers": [
+      {
+        "base": "OUSD2MJSPECKLHCSCDXYKD7NDGARZCFLBDZKKIATYHB",
+        "target": "EPJFWDD5AUFQSSQEM2QN1XZYBAPC8G4WEGGKZWYTDT1V",
+        "market": {
+          "name": "Orca",
+          "identifier": "orca",
+          "has_trading_incentive": false
+        },
+        "last": 1.000169629,
+        "volume": 1564361.552147,
+        "converted_last": {
+          "btc": 0.00001157,
+          "eth": 0.00036313,
+          "usd": 0.999896
+        },
+        "converted_volume": {
+          "btc": 18.105002,
+          "eth": 568.063,
+          "usd": 1564199
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.602738,
+        "timestamp": "2026-10-02T07:32:34+00:00",
+        "last_traded_at": "2026-10-02T07:32:34+00:00",
+        "last_fetch_at": "2026-10-02T08:33:40+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://www.orca.so/?tokenIn=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&tokenOut=ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB ",
+        "token_info_url": null,
+        "coin_id": "open-usd",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 668404634.3982004
+      },
+      {
+        "base": "0XB2000000000000000000002FEB517DFEC7415344",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9998762131,
+        "volume": 474117.346587,
+        "converted_last": {
+          "btc": 0.00001157,
+          "eth": 0.00036302,
+          "usd": 0.999603
+        },
+        "converted_volume": {
+          "btc": 5.485546,
+          "eth": 172.115,
+          "usd": 473929
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.60275,
+        "timestamp": "2026-10-02T08:28:19+00:00",
+        "last_traded_at": "2026-10-02T08:28:19+00:00",
+        "last_fetch_at": "2026-10-02T08:33:40+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xb2000000000000000000002feb517dfec7415344&outputCurrency=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "open-usd",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 668404634.3982004
+      },
+      {
+        "base": "0XB2000000000000000000002FEB517DFEC7415344",
+        "target": "0X833589FCD6EDB6E08F4C7C32D4F71B54BDA02913",
+        "market": {
+          "name": "Maverick Protocol V2 (Base)",
+          "identifier": "maverick-protocol-v2-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.9999698015,
+        "volume": 1522.942722,
+        "converted_last": {
+          "btc": 0.00001157,
+          "eth": 0.00036306,
+          "usd": 0.999696
+        },
+        "converted_volume": {
+          "btc": 0.01762212,
+          "eth": 0.55291236,
+          "usd": 1522.48
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.828873,
+        "timestamp": "2026-10-02T08:33:42+00:00",
+        "last_traded_at": "2026-10-02T08:33:42+00:00",
+        "last_fetch_at": "2026-10-02T08:33:40+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.mav.xyz/?chain=8453&tokenA=0xb2000000000000000000002feb517dfec7415344&tokenB=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "token_info_url": null,
+        "coin_id": "open-usd",
+        "target_coin_id": "usdc",
+        "coin_mcap_usd": 668404634.3982004
+      },
+      {
+        "base": "0XB2000000000000000000002FEB517DFEC7415344",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Aerodrome Slipstream 3",
+          "identifier": "aerodrome-slipstream-3",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003611792877,
+        "volume": 1418.040742,
+        "converted_last": {
+          "btc": 0.00001155,
+          "eth": 0.00036313,
+          "usd": 0.999913
+        },
+        "converted_volume": {
+          "btc": 0.01638142,
+          "eth": 0.51493845,
+          "usd": 1417.92
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.74499,
+        "timestamp": "2026-10-02T08:22:09+00:00",
+        "last_traded_at": "2026-10-02T08:22:09+00:00",
+        "last_fetch_at": "2026-10-02T08:33:40+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://aerodrome.finance/swap?from=0xb2000000000000000000002feb517dfec7415344&to=0x4200000000000000000000000000000000000006",
+        "token_info_url": null,
+        "coin_id": "open-usd",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 668404634.3982004
+      },
+      {
+        "base": "0XB2000000000000000000002FEB517DFEC7415344",
+        "target": "0X4200000000000000000000000000000000000006",
+        "market": {
+          "name": "Uniswap V3 (Base)",
+          "identifier": "uniswap-v3-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.0003612788292,
+        "volume": 396.372331,
+        "converted_last": {
+          "btc": 0.00001155,
+          "eth": 0.00036313,
+          "usd": 0.999913
+        },
+        "converted_volume": {
+          "btc": 0.00457895,
+          "eth": 0.14393617,
+          "usd": 396.34
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.848492,
+        "timestamp": "2026-10-02T08:22:17+00:00",
+        "last_traded_at": "2026-10-02T08:22:17+00:00",
+        "last_fetch_at": "2026-10-02T08:33:40+00:00",
+        "is_anomaly": false,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/explore/tokens/base/0xb2000000000000000000002feb517dfec7415344",
+        "token_info_url": null,
+        "coin_id": "open-usd",
+        "target_coin_id": "l2-standard-bridged-weth-base",
+        "coin_mcap_usd": 668404634.3982004
+      },
+      {
+        "base": "0XA9F6D9ECA1F803854A13CECAD0F21D43E007DB07",
+        "target": "0XB2000000000000000000002FEB517DFEC7415344",
+        "market": {
+          "name": "Uniswap V4 (Base)",
+          "identifier": "uniswap-v4-base",
+          "has_trading_incentive": false
+        },
+        "last": 0.00000199241917,
+        "volume": 45101254.5169254,
+        "converted_last": {
+          "btc": 0.00001155,
+          "eth": 0.00036313,
+          "usd": 0.999913
+        },
+        "converted_volume": {
+          "btc": 0.00103808,
+          "eth": 0.03263142,
+          "usd": 89.85
+        },
+        "trust_score": null,
+        "bid_ask_spread_percentage": 0.76306,
+        "timestamp": "2026-10-02T07:10:08+00:00",
+        "last_traded_at": "2026-10-02T07:10:08+00:00",
+        "last_fetch_at": "2026-10-02T08:33:40+00:00",
+        "is_anomaly": true,
+        "is_stale": false,
+        "trade_url": "https://app.uniswap.org/#/swap?chain=base&inputCurrency=0xa9f6d9eca1f803854a13cecad0f21d43e007db07&outputCurrency=0xb2000000000000000000002feb517dfec7415344",
+        "token_info_url": null,
+        "coin_id": "bario-entertainment-system",
+        "target_coin_id": "open-usd",
+        "coin_mcap_usd": 196815.99385758245
+      }
+    ]
+  },
+  "chart": {
+    "prices": [
+      [
+        1790791200000,
+        0.9995596148347475
+      ],
+      [
+        1790794800000,
+        0.9998185825488365
+      ],
+      [
+        1790798400000,
+        0.9996995981902201
+      ],
+      [
+        1790802000000,
+        0.9994014403472493
+      ],
+      [
+        1790805600000,
+        0.9996845587750448
+      ],
+      [
+        1790809200000,
+        0.999416208453588
+      ],
+      [
+        1790812800000,
+        0.9996506802049037
+      ],
+      [
+        1790816400000,
+        0.9996120428596832
+      ],
+      [
+        1790820000000,
+        0.9996261913410941
+      ],
+      [
+        1790823600000,
+        0.999366204235814
+      ],
+      [
+        1790827200000,
+        0.9992867053988208
+      ],
+      [
+        1790830800000,
+        0.9993330395538458
+      ],
+      [
+        1790834400000,
+        0.9994311521567326
+      ],
+      [
+        1790838000000,
+        0.9997477075994967
+      ],
+      [
+        1790841600000,
+        0.9994715325167145
+      ],
+      [
+        1790845200000,
+        0.9994556523426725
+      ],
+      [
+        1790848800000,
+        0.9994601301429868
+      ],
+      [
+        1790852400000,
+        0.9997703759505236
+      ],
+      [
+        1790856000000,
+        0.9996313170671515
+      ],
+      [
+        1790859600000,
+        0.9998015859588301
+      ],
+      [
+        1790863200000,
+        0.9997389754683215
+      ],
+      [
+        1790866800000,
+        0.9997377095125312
+      ],
+      [
+        1790870400000,
+        0.9996826992320361
+      ],
+      [
+        1790874000000,
+        0.9996374886689418
+      ],
+      [
+        1790877600000,
+        0.9996387967987594
+      ],
+      [
+        1790881200000,
+        0.9997540505039354
+      ],
+      [
+        1790884800000,
+        0.9997928522794866
+      ],
+      [
+        1790888400000,
+        0.9998315157476547
+      ],
+      [
+        1790892000000,
+        0.9995744851676077
+      ],
+      [
+        1790895600000,
+        0.999763939380993
+      ],
+      [
+        1790899200000,
+        0.9998733495941775
+      ],
+      [
+        1790902800000,
+        0.9999164273205298
+      ],
+      [
+        1790906400000,
+        0.9998825741224527
+      ],
+      [
+        1790910000000,
+        0.9998451055491501
+      ],
+      [
+        1790913600000,
+        0.9998649924577406
+      ],
+      [
+        1790917200000,
+        0.9999281591795423
+      ],
+      [
+        1790920800000,
+        0.9997822247450256
+      ],
+      [
+        1790924400000,
+        0.9998097518310324
+      ],
+      [
+        1790928000000,
+        0.9999029180872097
+      ],
+      [
+        1790930060000,
+        0.9998336816834181
+      ]
+    ],
+    "market_caps": [
+      [
+        1790791200000,
+        0
+      ],
+      [
+        1790794800000,
+        0
+      ],
+      [
+        1790798400000,
+        0
+      ],
+      [
+        1790802000000,
+        0
+      ],
+      [
+        1790805600000,
+        0
+      ],
+      [
+        1790809200000,
+        0
+      ],
+      [
+        1790812800000,
+        0
+      ],
+      [
+        1790816400000,
+        0
+      ],
+      [
+        1790820000000,
+        0
+      ],
+      [
+        1790823600000,
+        0
+      ],
+      [
+        1790827200000,
+        0
+      ],
+      [
+        1790830800000,
+        0
+      ],
+      [
+        1790834400000,
+        0
+      ],
+      [
+        1790838000000,
+        0
+      ],
+      [
+        1790841600000,
+        0
+      ],
+      [
+        1790845200000,
+        0
+      ],
+      [
+        1790848800000,
+        0
+      ],
+      [
+        1790852400000,
+        0
+      ],
+      [
+        1790856000000,
+        0
+      ],
+      [
+        1790859600000,
+        0
+      ],
+      [
+        1790863200000,
+        0
+      ],
+      [
+        1790866800000,
+        0
+      ],
+      [
+        1790870400000,
+        0
+      ],
+      [
+        1790874000000,
+        0
+      ],
+      [
+        1790877600000,
+        0
+      ],
+      [
+        1790881200000,
+        0
+      ],
+      [
+        1790884800000,
+        0
+      ],
+      [
+        1790888400000,
+        0
+      ],
+      [
+        1790892000000,
+        0
+      ],
+      [
+        1790895600000,
+        0
+      ],
+      [
+        1790899200000,
+        0
+      ],
+      [
+        1790902800000,
+        668443625.166107
+      ],
+      [
+        1790906400000,
+        668421080.1502607
+      ],
+      [
+        1790910000000,
+        668396032.4247708
+      ],
+      [
+        1790913600000,
+        668409391.4360718
+      ],
+      [
+        1790917200000,
+        668451618.3671043
+      ],
+      [
+        1790920800000,
+        668354061.2495928
+      ],
+      [
+        1790924400000,
+        668372463.0967867
+      ],
+      [
+        1790928000000,
+        668434744.7058675
+      ],
+      [
+        1790930060000,
+        668404619.6290333
+      ]
+    ],
+    "total_volumes": [
+      [
+        1790791200000,
+        5436.570519325072
+      ],
+      [
+        1790794800000,
+        6113.261750914733
+      ],
+      [
+        1790798400000,
+        9111.996491352373
+      ],
+      [
+        1790802000000,
+        182386.02589577192
+      ],
+      [
+        1790805600000,
+        183892.67018444417
+      ],
+      [
+        1790809200000,
+        185077.83430248304
+      ],
+      [
+        1790812800000,
+        188484.70474359294
+      ],
+      [
+        1790816400000,
+        188659.06238515387
+      ],
+      [
+        1790820000000,
+        188927.1978325153
+      ],
+      [
+        1790823600000,
+        188955.12891691568
+      ],
+      [
+        1790827200000,
+        188959.1697623925
+      ],
+      [
+        1790830800000,
+        189163.1299353819
+      ],
+      [
+        1790834400000,
+        189356.0675656905
+      ],
+      [
+        1790838000000,
+        189952.04408166584
+      ],
+      [
+        1790841600000,
+        190071.39639808514
+      ],
+      [
+        1790845200000,
+        190195.34556149648
+      ],
+      [
+        1790848800000,
+        190196.19769035905
+      ],
+      [
+        1790852400000,
+        191702.91795081206
+      ],
+      [
+        1790856000000,
+        1044912.8643423732
+      ],
+      [
+        1790859600000,
+        1045640.3893629806
+      ],
+      [
+        1790863200000,
+        1148656.0614216442
+      ],
+      [
+        1790866800000,
+        1148679.5603112222
+      ],
+      [
+        1790870400000,
+        1149789.9725826755
+      ],
+      [
+        1790874000000,
+        492396.02615371253
+      ],
+      [
+        1790877600000,
+        1565349.6173206388
+      ],
+      [
+        1790881200000,
+        2221463.064579884
+      ],
+      [
+        1790884800000,
+        1565657.9914078945
+      ],
+      [
+        1790888400000,
+        2045232.654788579
+      ],
+      [
+        1790892000000,
+        480800.85006765963
+      ],
+      [
+        1790895600000,
+        2043985.9348005126
+      ],
+      [
+        1790899200000,
+        2039940.4175644866
+      ],
+      [
+        1790902800000,
+        2040830.3696437995
+      ],
+      [
+        1790906400000,
+        2040808.0097737536
+      ],
+      [
+        1790910000000,
+        2040777.6218410598
+      ],
+      [
+        1790913600000,
+        2039781.1331017173
+      ],
+      [
+        1790917200000,
+        2040007.799622621
+      ],
+      [
+        1790920800000,
+        2041201.200394148
+      ],
+      [
+        1790924400000,
+        2039345.183145044
+      ],
+      [
+        1790928000000,
+        2039482.4643500263
+      ],
+      [
+        1790930060000,
+        2041476.6317363344
+      ]
+    ]
+  }
+}
